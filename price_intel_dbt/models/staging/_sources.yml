@@ -1,0 +1,43 @@
+version: 2
+
+sources:
+  - name: raw
+    database: price_intelligence  
+    schema: raw                   
+    tables:
+      - name: ebay_listings
+        description: "Raw data from ebay_api"
+        columns:
+          - name: id
+            description: "Primary key auto increment"
+          - name: item_id
+            description: "Unique ID item from eBay"
+          - name: title
+            description: "Title listing product"  
+          - name: volume_number
+            description: "Extracted volume number"
+          - name: volume_number_end
+            description: > 
+                        Known limitation:
+                        Regex may not show the second digit when the title is not written in format 'Vol X-Y'
+                        Example: 'Vol 1, 15-16' may only show volume 1 and 15 as the range
+                        Example: 'Vol 1-11.5' may only be displayed as volume 1-11
+          - name: is_boxset
+            description: > 
+                        Boolean value indicating if the listing is a boxset, 
+                        Detected pattern of 'Vol X-Y' in title.
+                        Known limitation: 
+                        regex can't correctly identify physical box-set when listed at single/loosely invidivual volumes,
+                        This require advance ML model to identify, so this feature may not be 100% accurate but good enough.
+          - name: price
+            description: "Price"
+          - name: currency
+            description: "Currency of listing"
+          - name: condition
+            description: "Condition of product"
+          - name: seller_location
+            description: "Location of seller"
+          - name: description
+            description: "Description of product provided by seller"
+          - name: fetched_at
+            description: "Timestamp when data was fetched"

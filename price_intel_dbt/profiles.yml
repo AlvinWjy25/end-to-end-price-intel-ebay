@@ -1,0 +1,12 @@
+price_intel_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('DB_HOST', 'localhost') }}" # user env_var to connect docker and local
+      user: "{{ env_var('DB_USER', 'alvin') }}"
+      pass: "{{ env_var('DB_PASSWORD', 'devpassword') }}"
+      port: 5432
+      dbname: price_intelligence
+      schema: public                                # output table by dbt
+      threads: 4

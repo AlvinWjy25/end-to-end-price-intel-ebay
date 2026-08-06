@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  - name: int_ebay_listing_risk_analysis
+    description: "Model intermediate to identify bootleg listing from raw data with special_set detection"
+    columns:
+      - name: volume_number
+        description: "Extracted volume number"
+      - name: volume_number_end
+        description: "Extracted volume number end in a box-set"
+      - name: boxset_special_edition_included
+        description: "Boolean value indicating if the listing is a boxset with special edition included"
+      - name: standalone_special_set
+        description: "Boolean value indicating if the listing is a standalone with special edition included"
+      - name: total_risk_score
+        description: "Accumulated risk score from text and price anomalies"
+      - name: risk_category
+        description: "Risk level category: High Risk, Medium Risk, or Low Risk"
+        tests:
+          - accepted_values:
+              arguments:
+                values: ['High Risk', 'Medium Risk (Need Review)', 'Low Risk']
