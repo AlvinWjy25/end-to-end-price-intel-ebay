@@ -1,0 +1,930 @@
+{
+  "itemId": "v1|358320525615|626839749058",
+  "sellerItemRevision": "8",
+  "title": "Too Many Losing Heroines! Volume 1-6 Light Novel Single English Full Version New",
+  "shortDescription": "Too Many Losing Heroines! Light Novel (Vol 1-6). follows Kazuhiko Nukumizu, a quiet high school student who prefers observing people rather than getting involved in their drama. 🎈 Title: Too Many Losing Heroines!",
+  "price": {
+    "value": "155.00",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Johor",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/bOAAAeSwQBhqZg6t/s-l1600.jpg",
+    "width": 1500,
+    "height": 1500
+  },
+  "itemCreationDate": "2026-03-12T18:27:19.000Z",
+  "seller": {
+    "username": "intolianshelf",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 8
+  },
+  "gtin": "Does not apply",
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 2,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 2
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Economy Shipping from outside US",
+      "type": "Economy Shipping from outside",
+      "shippingCost": {
+        "value": "15.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-27T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-09-25T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "7.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    },
+    {
+      "shippingServiceCode": "Expedited Shipping from outside US",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "70.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-19T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-25T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "30.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": false
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Vol.",
+      "value": "Vol 1-7"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Seller Notes",
+      "value": "Not Suitable For Collector"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Quantity",
+      "value": "1"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Takibi Amamori"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Anna Yanami, Kazuhiko Nukumizu, Yumeko Shikiya, Chika Komari, Lemon Yakishio, Koto Tsukinoki, Tiara Basori, Shikiya Yumeko, Karen Himemiya, Shintarō Tamaki"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Too Many Losing Heroines!"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Ready Stock, Express Delivery"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Underground Publisher"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2024"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "6"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Adventure, Comedy, Romance, fan"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/358320525615?var=626839749058&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xDQNC%2FfaOAnBFhyyIWflzX9g17lOPNpfB11dANnXOufLBzJHxwgVHPflObfUuUU6VX7CY8l%2Fs6bAlGzycp%2BjP%2BGV%2FVNJICAiNZCE2y8qBJ1pROhXhiyHgf%2Boh5u%2F7JfjotpncYfCVuj6S4cIQWP%2F6%2FDSf8vcv6ITu%2BQhTqZIeyOPMagSCau6V1HCSQCF0BKyKg%3D",
+  "description": "<div><strong>DESCRIPTION:</strong></div><div><strong><br></strong></div><div><strong>Too Many Losing Heroines! Light Novel (Vol 1-6)</strong></div><div><br></div><div><br></div><div>🔥 Each volume sell separately and the price is for one Volume.</div><div>🔥 The product is a reproduction copy.</div><div><br></div><div><strong><br></strong></div><div><strong>Synopsis:</strong></div><div><br></div><div>Too Many Losing Heroines! follows Kazuhiko Nukumizu, a quiet high school student who prefers observing people rather than getting involved in their drama. One day, he accidentally witnesses a popular girl from his class getting rejected by the boy she likes.</div><div><br></div><div>That moment leads Kazuhiko to unexpectedly become involved with several girls who have one thing in common — they are all “losing heroines,” girls who fail to win the hearts of the boys they like. As he gets pulled into their complicated romantic situations, Kazuhiko finds himself supporting them through heartbreak, misunderstandings, and the awkward moments that follow rejection.</div><div><br></div><div>What begins as simple observations slowly turns into unusual friendships, emotional growth, and a comedic look at the side characters who usually lose in typical romance stories.</div><div><br></div><div><br></div><div><br></div><div>Product Description:</div><div><br></div><div>🎈 Title: Too Many Losing Heroines! (Light Novel Volumes 1–6)</div><div><br></div><div>🏆 Author: Takibi Amamori</div><div><br></div><div>🎨 Illustrator: Imigimuru</div><div><br></div><div>🔮 Format: Softcover light novel books (Single Volume)</div><div><br></div><div>🎁 Language: English version</div><div><br></div><div>🎨 Artwork: Black-and-white interior illustrations with occasional color pages</div><div><br></div><div>⛱️ Genre/Themes: Romantic comedy, school life, slice of life, coming-of-age</div><div><br></div><div>🌂 Universe/Setting: Set in a modern Japanese high school where everyday student life, friendships, and romantic misunderstandings create humorous and heartfelt moments</div><div><br></div><div>🧤 Audience: Suitable for teens and adults who enjoy lighthearted romcom stories with relatable characters and unique perspectives on romance</div><div><br></div><div>🌤️ Collection Size: Volumes 1–6</div><div><br></div><div>🌀 Original Publisher: Shogakukan (Gagaga Bunko imprint)</div><div><br></div><div>🌍 English Publisher: Yen Press</div><div><br></div><div>📅 Series Type: Light novel series focusing on romantic comedy scenarios centered around “losing heroines” and their interactions with the observant protagonist</div><div><br></div><div>💊 Special Appeal: A refreshing romcom that focuses on the girls who normally lose in love stories, blending humor, awkward romance, and character-driven storytelling.</div><div><br></div><div>&nbsp;</div><div>🔥 IMPORTANT: This light novel is NOT original. It is a special reprint edition designed for fans and collectors, casual readers who wish to enjoy the story at affordable price🔥</div><div><br></div><div>________________________________________________________________________________________________________</div><div><br></div><div><br></div><div><strong>Payment:</strong></div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Payment is accepted only via eBay Managed Payments.</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Orders will be shipped within 1–3 business days after confirmed payment (Monday–Friday only; weekends and public holidays excluded).</div><div><br></div><div><br></div><div><br></div><div><strong>Shipping &amp; Handling:</strong></div><div><strong><br></strong></div><div><strong>·&nbsp; &nbsp; &nbsp; &nbsp;Economy International Shipping </strong>(Tracking number provided)</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Ships from Malaysia within 1-3 business days after payment</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Estimated Delivery to USA: 11-23 business days (may vary during busy seasons)</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;All items are carefully bubble-wrapped and boxed for protection to minimize damage <span style=\"white-space:pre\">\t</span>during transit.</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Worldwide shipping is available.</div><div><br></div><div><strong><br></strong></div><div><strong>·&nbsp; &nbsp; &nbsp; &nbsp;Express Shipping - DHL Express </strong>(Tracking number provided)</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Ships from Malaysia within 1 business days after payment</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Estimated Delivery to USA: 3-7 business days (may vary during busy seasons)</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;All items are carefully bubble-wrapped and boxed for protection to minimize damage <span style=\"white-space:pre\">\t</span>during transit.</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Worldwide shipping is available.</div><div><br></div><div>&nbsp;</div><div><br></div><div><strong>Import Duties, Taxes &amp; Customs Charges:</strong></div><div><br></div><div>.<span style=\"white-space:pre\">\t</span>Please ensure your shipping address is accurate and verified.&nbsp;</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Import duties, taxes, and tariffs are not included in the item&nbsp; price or shipping cost.</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Buyers are responsible for any import fees imposed by their local customs office.</div><div><br></div><div>·&nbsp; &nbsp; &nbsp; &nbsp;Please check with your country’s customs department to determine any additional costs prior to purchase.</div><div><br></div><div><br></div><div><br></div><div><strong>Returns:</strong></div><div><br></div><div>.<span style=\"white-space:pre\">\t</span>Returns are accepted within 30 days.</div><div><br></div><div>.<span style=\"white-space:pre\">\t</span>Provided the item to be returned in good condition.</div><div><br></div><div><br></div><div><br></div><div>🎀 Customer satisfaction is our priority. If you are happy with our service, we would truly appreciate your positive feedback.</div><div><br></div><div>🎀 Should any issue arise, please contact us before leaving neutral or negative feedback—we will do our best to resolve the matter promptly.</div><div><br></div>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "358320525615",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=358320525615",
+    "itemGroupTitle": "Too Many Losing Heroines! Volume 1-6 Light Novel Single English Full Version New",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/s~0AAeSw6PpqZgx8/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    }
+  },
+  "unitPricingMeasure": "Unit",
+  "unitPrice": {
+    "value": "155.00",
+    "currency": "USD"
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "legacyItemId": "358320525615",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

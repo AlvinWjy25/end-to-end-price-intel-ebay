@@ -1,0 +1,1204 @@
+{
+  "itemId": "v1|405102962158|675187983526",
+  "sellerItemRevision": "37",
+  "title": "Days with My Step Sister Gimai Seikatsu Light Novel Series Volumes  1-8 English",
+  "shortDescription": "Writer/Author : Ghost Mikawa. This is are-printed version intended for casual reading. Language : English Version. Printed by Underground Publisher (Malaysia) in English version, with premium quality.",
+  "price": {
+    "value": "224.00",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Jerantut",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/mmoAAOSwG5RmlSg~/s-l1600.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  "additionalImages": [
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/QjEAAOSwWnlmlShN/s-l1600.jpg",
+      "width": 1199,
+      "height": 1600
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/VBYAAOSwM99mlSig/s-l1600.jpg",
+      "width": 1160,
+      "height": 868
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/dHgAAOSwfFZmlShj/s-l1600.jpg",
+      "width": 1156,
+      "height": 868
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/NUkAAOSwki5mlSiQ/s-l1600.jpg",
+      "width": 1253,
+      "height": 500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/eacAAOSwEjBmlShr/s-l1600.jpg",
+      "width": 810,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/3OsAAOSwMDdmlShu/s-l1600.jpg",
+      "width": 868,
+      "height": 1156
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/FxIAAOSwED9mlSh8/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/s3wAAOSwbslmlSiH/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/R9UAAOSwV69mlSiD/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/-q0AAOSwoGFmlSiA/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/fLIAAOSwIw5mlSh9/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/IkYAAOSw3QRmlSh-/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/tnIAAOSwINZmlSh~/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/pd0AAOSwPXxmlSh9/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    }
+  ],
+  "itemCreationDate": "2024-07-15T13:59:21.000Z",
+  "seller": {
+    "username": "all_in_onestore_trading",
+    "feedbackPercentage": "99.1",
+    "feedbackScore": 251
+  },
+  "gtin": "Does not apply",
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 3,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 3
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Standard Shipping from outside US",
+      "type": "Standard Shipping from outside",
+      "shippingCost": {
+        "value": "27.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-26T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-09-10T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "25.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    },
+    {
+      "shippingServiceCode": "Expedited Shipping from outside US",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "69.90",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-20T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-26T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "59.90",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Lebanon",
+        "regionType": "COUNTRY",
+        "regionId": "LB"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "Nicaragua",
+        "regionType": "COUNTRY",
+        "regionId": "NI"
+      },
+      {
+        "regionName": "Puerto Rico",
+        "regionType": "COUNTRY",
+        "regionId": "PR"
+      },
+      {
+        "regionName": "Central African Republic",
+        "regionType": "COUNTRY",
+        "regionId": "CF"
+      },
+      {
+        "regionName": "Democratic Republic of the Congo",
+        "regionType": "COUNTRY",
+        "regionId": "CD"
+      },
+      {
+        "regionName": "Republic of the Congo",
+        "regionType": "COUNTRY",
+        "regionId": "CG"
+      },
+      {
+        "regionName": "Côte d'Ivoire (Ivory Coast)",
+        "regionType": "COUNTRY",
+        "regionId": "CI"
+      },
+      {
+        "regionName": "Libya",
+        "regionType": "COUNTRY",
+        "regionId": "LY"
+      },
+      {
+        "regionName": "Mali",
+        "regionType": "COUNTRY",
+        "regionId": "ML"
+      },
+      {
+        "regionName": "Somalia",
+        "regionType": "COUNTRY",
+        "regionId": "SO"
+      },
+      {
+        "regionName": "South Africa",
+        "regionType": "COUNTRY",
+        "regionId": "ZA"
+      },
+      {
+        "regionName": "Zimbabwe",
+        "regionType": "COUNTRY",
+        "regionId": "ZW"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Albania",
+        "regionType": "COUNTRY",
+        "regionId": "AL"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Bolivia",
+        "regionType": "COUNTRY",
+        "regionId": "BO"
+      },
+      {
+        "regionName": "Ecuador",
+        "regionType": "COUNTRY",
+        "regionId": "EC"
+      },
+      {
+        "regionName": "Falkland Islands (Islas Malvinas)",
+        "regionType": "COUNTRY",
+        "regionId": "FK"
+      },
+      {
+        "regionName": "Guyana",
+        "regionType": "COUNTRY",
+        "regionId": "GY"
+      },
+      {
+        "regionName": "Venezuela",
+        "regionType": "COUNTRY",
+        "regionId": "VE"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": false
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Paper",
+      "value": "Novel Paper"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Seller Notes",
+      "value": "Not Suitable For Collector"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Quantity",
+      "value": "1"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Ghost Mikawa"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Gimai Seikatsu, Days with My Step Sister"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Ready Stock, Express Delivery"
+    },
+    {
+      "type": "STRING",
+      "name": "Grade",
+      "value": "5.0 Very Good/Fine"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Malaysian Publisher"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2024"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "8"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Romantic Comedy"
+    },
+    {
+      "type": "STRING",
+      "name": "Country/Region of Manufacture",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/405102962158?var=675187983526&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xBkEDFDndwCvGbgYcnSiDynbEad6jR935Q5ux8uvivB50h6hAnlJfOAsHJW9zsXHh%2FRLCzS6xmRP%2BwmugaEThA9gu71EXpU9vXcxy4Tmn7ig%2Fiit6R1Itaql1T9IlBL9LU4%2FVuaPDgGH9dqY1kruuYlYJXOHLZ7Wkk8lWVwObjGjCMrmpTAzPNjhkgZda%2F3Wfs%3D",
+  "description": "<div id=\"template-5\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style> @import url('https://img.eselt.de/assets/templates/vendor/bootstrap.v3.3.5.min.css'); @import url('https://img.eselt.de/fonts/vendor/font-awesome-5.1.0/css/all.css'); </style><style> /* open-sans-regular - latin_latin-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.eot'); /* IE9 Compat Modes */ src: local('Open Sans Regular'), local('OpenSans-Regular'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.svg#OpenSans') format('svg'); /* Legacy iOS */ } /* open-sans-700 - latin_latin-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.eot'); /* IE9 Compat Modes */ src: local('Open Sans Bold'), local('OpenSans-Bold'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.svg#OpenSans') format('svg'); /* Legacy iOS */ } /* open-sans-800 - latin_latin-ext */ @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 800; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.eot'); /* IE9 Compat Modes */ src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.svg#OpenSans') format('svg'); /* Legacy iOS */ } /* open-sans-condensed-300 - latin-ext_latin */ @font-face { font-family: 'Open Sans Condensed'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Open Sans Condensed Light'), local('OpenSansCondensed-Light'), url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.svg#OpenSansCondensed') format('svg'); /* Legacy iOS */ } /* open-sans-condensed-700 - latin-ext_latin */ @font-face { font-family: 'Open Sans Condensed'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Open Sans Condensed Bold'), local('OpenSansCondensed-Bold'), url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.svg#OpenSansCondensed') format('svg'); /* Legacy iOS */ } /* exo-2-300 - latin-ext_latin */ @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Light'), local('Exo2-Light'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.svg#Exo2') format('svg'); /* Legacy iOS */ } /* exo-2-regular - latin-ext_latin */ @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Exo 2'), local('Exo2-Regular'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.svg#Exo2') format('svg'); /* Legacy iOS */ } /* exo-2-800 - latin-ext_latin */ @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 800; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Extra Bold'), local('Exo2-ExtraBold'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.svg#Exo2') format('svg'); /* Legacy iOS */ } /* exo-2-900 - latin-ext_latin */ @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 900; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Black'), local('Exo2-Black'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.svg#Exo2') format('svg'); /* Legacy iOS */ } </style><!----><!----><!----><!----><!----><style> @font-face { font-family: 'Lato Light'; src: url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.eot'); /* IE9 Compat Modes */ src: local('Lato Light'), local('Lato-Light'), url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/lato/Lato-Light.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Abril Fatface'; src: url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.eot'); /* IE9 Compat Modes */ src: local('Abril Fatface Regular'), local('AbrilFatface-Regular'), url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/abril-fatface/AbrilFatface-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Gravitas One'; src: url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.eot'); /* IE9 Compat Modes */ src: local('Gravitas One Regular'), local('GravitasOne-Regular'), url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/gravitas-one/GravitasOne-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.eot'); /* IE9 Compat Modes */ src: local('Oswald Bold'), local('Oswald-Bold'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Bold.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.eot'); /* IE9 Compat Modes */ src: local('Oswald Extra Light'), local('Oswald-ExtraLight'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-ExtraLight.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.eot'); /* IE9 Compat Modes */ src: local('Oswald Light'), local('Oswald-Light'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Light.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.eot'); /* IE9 Compat Modes */ src: local('Oswald Medium'), local('Oswald-Medium'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Medium.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.eot'); /* IE9 Compat Modes */ src: local('Oswald Semi Bold'), local('Oswald-SemiBold'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-SemiBold.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Oswald'; src: url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.eot'); /* IE9 Compat Modes */ src: local('Oswald Regular'), local('Oswald-Regular'), url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald/Oswald-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Sonsie One'; src: url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.eot'); /* IE9 Compat Modes */ src: local('Sonsie One Regular'), local('SonsieOne-Regular'), url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/sonsie-one/SonsieOne-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Petit Formal Script'; src: url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.eot'); /* IE9 Compat Modes */ src: local('Petit Formal Script Regular'), local('PetitFormalScript-Regular'), url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/petit-formal-script/PetitFormalScript-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Bangers'; src: url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.eot'); /* IE9 Compat Modes */ src: local('Bangers Regular'), local('Bangers-Regular'), url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/bangers/Bangers-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Pacifico'; src: url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.eot'); /* IE9 Compat Modes */ src: local('Pacifico Regular'), local('Pacifico-Regular'), url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/pacifico/Pacifico-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Lobster'; src: url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.eot'); /* IE9 Compat Modes */ src: local('Lobster Regular'), local('Lobster-Regular'), url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/lobster/Lobster-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cinzel Decorative'; src: url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.eot'); /* IE9 Compat Modes */ src: local('Cinzel Decorative Bold'), local('CinzelDecorative-Bold'), url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Bold.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cinzel Decorative'; src: url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.eot'); /* IE9 Compat Modes */ src: local('Cinzel Decorative Black'), local('CinzelDecorative-Black'), url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Black.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cinzel Decorative'; src: url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.eot'); /* IE9 Compat Modes */ src: local('Cinzel Decorative Regular'), local('CinzelDecorative-Regular'), url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cinzel-decorative/CinzelDecorative-Regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Arima Madurai'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Arima Madurai Bold'), local('ArimaMadurai-Bold'), url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-700.svg#ArimaMadurai') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Arima Madurai'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Arima Madurai'), local('ArimaMadurai-Regular'), url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/arima-madurai-v3/arima-madurai-v3-latin-ext_latin-regular.svg#ArimaMadurai') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Bree Serif'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Bree Serif Regular'), local('BreeSerif-Regular'), url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/bree-serif-v7/bree-serif-v7-latin-ext_latin-regular.svg#BreeSerif') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Light'), local('Exo2-Light'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-300.svg#Exo2') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Exo 2'), local('Exo2-Regular'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-regular.svg#Exo2') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 800; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Extra Bold'), local('Exo2-ExtraBold'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-800.svg#Exo2') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Exo 2'; font-style: normal; font-weight: 900; src: url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.eot'); /* IE9 Compat Modes */ src: local('Exo 2 Black'), local('Exo2-Black'), url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/exo-2-v4/exo-2-v4-latin-ext_latin-900.svg#Exo2') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Lato'; font-style: normal; font-weight: 100; src: url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.eot'); /* IE9 Compat Modes */ src: local('Lato Hairline'), local('Lato-Hairline'), url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-100.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Lato'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Lato Regular'), local('Lato-Regular'), url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-regular.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Lato'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Lato Bold'), local('Lato-Bold'), url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/lato-v14/lato-v14-latin-ext_latin-700.svg#Lato') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Josefin Sans'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Josefin Sans Light'), local('JosefinSans-Light'), url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-300.svg#JosefinSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Josefin Sans'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Josefin Sans Regular'), local('JosefinSans-Regular'), url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-regular.svg#JosefinSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Josefin Sans'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Josefin Sans Bold'), local('JosefinSans-Bold'), url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/josefin-sans-v12/josefin-sans-v12-latin-ext_latin-700.svg#JosefinSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.eot'); /* IE9 Compat Modes */ src: local('Open Sans Regular'), local('OpenSans-Regular'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-regular.svg#OpenSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.eot'); /* IE9 Compat Modes */ src: local('Open Sans Bold'), local('OpenSans-Bold'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-700.svg#OpenSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Open Sans'; font-style: normal; font-weight: 800; src: url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.eot'); /* IE9 Compat Modes */ src: local('Open Sans ExtraBold'), local('OpenSans-ExtraBold'), url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-v15/open-sans-v15-latin_latin-ext-800.svg#OpenSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Open Sans Condensed'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Open Sans Condensed Light'), local('OpenSansCondensed-Light'), url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-300.svg#OpenSansCondensed') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Open Sans Condensed'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Open Sans Condensed Bold'), local('OpenSansCondensed-Bold'), url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/open-sans-condensed-v12/open-sans-condensed-v12-latin-ext_latin-700.svg#OpenSansCondensed') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Playball'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Playball'), local('Playball-Regular'), url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/playball-v7/playball-v7-latin-ext_latin-regular.svg#Playball') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'PT Sans'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('PT Sans'), local('PTSans-Regular'), url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-regular.svg#PTSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'PT Sans'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('PT Sans Bold'), local('PTSans-Bold'), url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/pt-sans-v9/pt-sans-v9-latin-ext_latin-700.svg#PTSans') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'PT Sans Narrow'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('PT Sans Narrow'), local('PTSans-Narrow'), url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-regular.svg#PTSansNarrow') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'PT Sans Narrow'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('PT Sans Narrow Bold'), local('PTSans-NarrowBold'), url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/pt-sans-narrow-v8/pt-sans-narrow-v8-latin-ext_latin-700.svg#PTSansNarrow') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Russo One'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Russo One'), local('RussoOne-Regular'), url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.svg#RussoOne') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Yanone Kaffeesatz'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Yanone Kaffeesatz Regular'), local('YanoneKaffeesatz-Regular'), url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-regular.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Yanone Kaffeesatz'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Yanone Kaffeesatz Bold'), local('YanoneKaffeesatz-Bold'), url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/yanone-kaffeesatz-v9/yanone-kaffeesatz-v9-latin-ext_latin-700.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cuprum'; src: url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.eot'); /* IE9 Compat Modes */ src: local('Cuprum Regular'), local('Cuprum-Regular'), url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Regular.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cuprum'; src: url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.eot'); /* IE9 Compat Modes */ src: local('Cuprum Bold'), local('Cuprum-Bold'), url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Bold.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cuprum'; src: url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.eot'); /* IE9 Compat Modes */ src: local('Cuprum Bold Italic'), local('Cuprum-BoldItalic'), url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-BoldItalic.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } @font-face { font-family: 'Cuprum'; src: url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.eot'); /* IE9 Compat Modes */ src: local('Cuprum Italic'), local('Cuprum-Italic'), url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/cuprum/Cuprum-Italic.svg#YanoneKaffeesatz') format('svg'); /* Legacy iOS */ } </style><!----><!----><!----><!----><style id=\"template__version\"> .gallery__wrapper{display:flex;height:600px}@media (max-width:992px){.gallery__wrapper{display:block;height:auto}}.gallery__wrapper .gallery__bg{height:100%;overflow-y:auto}@media (max-width:992px){.gallery__wrapper .gallery__bg{height:auto}}.images .image-wrapper{margin:24px auto;text-align:center;max-width:100%;height:auto}.images .image-wrapper img{max-width:80%;margin-left:auto;margin-right:auto}.content__gallery{width:100%;position:relative;overflow:hidden;background:hsla(0,0%,100%,.6);text-align:center}.content__gallery .slider__wrapper{overflow:hidden;margin:12px;background:hsla(0,0%,100%,.3);width:100%;height:600px}@media (max-width:768px){.content__gallery .slider__wrapper{height:450px}}@media (max-width:480px){.content__gallery .slider__wrapper{height:300px}}.content__gallery .slider__wrapper .slider{height:100%;width:100%;display:inline-block;white-space:nowrap;font-size:0;transition:all 0s 9999999s}.content__gallery .slider__wrapper .slider>*{height:100%;width:100%;display:inline-block;background-size:contain;background-repeat:no-repeat;background-position:50%}.content__gallery .thumb__float{display:inline-block;margin:12px;border:1px solid #78909c}.content__gallery .thumb__float .thumb__wrapper{width:80px;height:80px;padding:3px;background:#fff}.content__gallery .thumb__float .thumb__wrapper img{cursor:pointer}@media (max-width:1152px){.content__gallery .thumb__float .thumb__wrapper{width:60px;height:60px;padding:5px}}@media (max-width:480px){.content__gallery .thumb__float .thumb__wrapper{width:40px;height:40px;padding:3px}}.content__gallery--flex-column{display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:center;flex-direction:column;height:600px;overflow-x:auto}@media (max-width:768px){.content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}}.content__gallery--flex-column .slider__wrapper{width:100%;height:100%}@media (max-width:768px){.content__gallery--flex-column .slider__wrapper{height:300px}}.content__gallery--left .slider__wrapper{order:2;width:800px}@media (max-width:1100px){.content__gallery--left .slider__wrapper{width:700px}}@media (max-width:1000px){.content__gallery--left .slider__wrapper{width:600px}}@media (max-width:900px){.content__gallery--left .slider__wrapper{width:550px}}@media (max-width:800px){.content__gallery--left .slider__wrapper{width:500px}}@media (max-width:768px){.content__gallery--left .slider__wrapper{width:100%;order:1}}.content__gallery--left .thumb__float{order:1}@media (max-width:768px){.content__gallery--left .thumb__float{order:2}}.content__gallery--right .slider__wrapper{order:1;width:800px}@media (max-width:1100px){.content__gallery--right .slider__wrapper{width:700px}}@media (max-width:1000px){.content__gallery--right .slider__wrapper{width:600px}}@media (max-width:900px){.content__gallery--right .slider__wrapper{width:550px}}@media (max-width:800px){.content__gallery--right .slider__wrapper{width:500px}}@media (max-width:768px){.content__gallery--right .slider__wrapper{width:100%}}.content__gallery--right .thumb__float{order:2}.content__gallery--bottom{display:flex;flex-wrap:wrap;justify-content:center;align-items:center}.content__gallery--bottom .slider__wrapper{order:1}.content__gallery--bottom .thumb__float{order:2}.content__gallery--higher{height:750px}@media (max-width:768px){.content__gallery--higher{height:auto}}.content__gallery--highest{height:900px}@media (max-width:768px){.content__gallery--highest{height:auto}}.image-cover__wrapper{text-align:center}.image-cover__img{max-width:100%;margin:0 auto}.slideshow{height:600px;width:100%}.slideshow>*{height:100%;width:100%;background-size:contain;background-repeat:no-repeat;background-position:50%;margin-bottom:10%}#layout__layout-3 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-3 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-3 .content__gallery--left .thumb__float{order:2}#layout__layout-3 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-4 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-4 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-4 .content__gallery--left .thumb__float{order:2}#layout__layout-4 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-5 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-5 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-5 .content__gallery--left .thumb__float{order:2}#layout__layout-5 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-6 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-6 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-6 .content__gallery--left .thumb__float{order:2}#layout__layout-6 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-7 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-7 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-7 .content__gallery--left .thumb__float{order:2}#layout__layout-7 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-8 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-8 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-8 .content__gallery--left .thumb__float{order:2}#layout__layout-8 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}.content_tabs{margin:0;padding:0;overflow:hidden}.tabs__label{flex:1;color:#78909c;border-right:2px solid #78909c;padding:16px 0;background:#c0ca33;text-decoration:none;font-weight:700;text-align:center;cursor:pointer;z-index:999}.tabs__label:hover{background:#78909c;color:#c0ca33}.tabs__label:last-of-type a{border:none}.tabs__wrapper{position:relative;overflow:hidden}.tabs__slider{height:600px;width:100%;transition:all 0s 9999999s}.tabs__slider>*{height:100%;width:100%;overflow-y:auto;overflow-x:hidden}.tabs__tab{background:#fff;width:100%;display:flex;flex-flow:row wrap}@media (max-width:768px){.tabs__tab{flex-direction:column}}.tabs__box{border:2px solid #78909c;width:100%}.tabs__box--content{background:#fff;padding:12px}.tabs__box--aside .aside{margin:0!important;min-height:100%}.tabs__box--aside .aside-block{margin:0!important}.fa,.far,.fas{font-family:Font Awesome\\ 5 Free!important}.word-break{word-break:break-all!important}.footer .footer-block__wrapper{padding:0 16px}@media (max-width:360px){.footer .footer-block .footer-block__body{font-size:15px!important}}.footer .footer-block .footer-block__body .fa{margin-right:5px}.aside-block .aside-block__icons img{border-radius:6px}.container{max-width:100%}#layout__gallery{margin:24px 0}.order-1{order:1}.order-2{order:2}.flex{display:flex}.flex-1{flex:1}.flex-2{flex:2}.direction-column{flex-direction:column}.mt0{margin-top:0!important}.mb0{margin-bottom:0!important}.col-md-3 .aside-block .aside-block__icons{text-align:center}.col-md-3 .aside-block .aside-block__icons img{width:75px}@media (max-width:992px){.menu{font-size:16px!important}}.disabled-link,.disabled-links a{pointer-events:none;cursor:default}img{max-width:100%}.yt{width:100%;text-align:center;position:relative;overflow:hidden}.yt img{display:block;max-width:100%;border:0;margin:1em auto}.yt a:after{content:\"\\A0\\25BA\";position:absolute;width:60px;height:50px;left:0;top:0;right:0;bottom:0;margin:auto;border:0;border-radius:10px;color:#fff;background:rgba(0,0,0,.6);font-size:24px;line-height:50px;cursor:pointer}.yt a:hover:after{background:#cc181e}.yt__img{margin-top:1em;margin-bottom:1em;display:block}#template-5 header{margin:0;padding:0;background:none;box-shadow:none;text-shadow:none;position:relative;width:auto;height:auto;overflow:hidden;z-index:auto}#template-5 .template__wrapper{width:100%;background-color:#eee}#template-5 .header{background:#263238;padding:12px 0;text-align:center}#template-5 .header .header__brand{margin:12px auto}#template-5 .header .header__brand .header__logo{margin:12px auto;font-family:Exo\\ 2,sans-serif;font-size:64px;font-weight:700;color:#c0ca33;border-bottom:1px solid #c0ca33;padding-bottom:6px}#template-5 .header .header__brand .header__logo img{max-width:80%}@media (max-width:480px){#template-5 .header .header__brand .header__logo{font-size:32px}}#template-5 .header .header__brand .header__slogan{font-family:Exo\\ 2,sans-serif;font-size:39px;font-weight:400;color:#dce775}@media (max-width:480px){#template-5 .header .header__brand .header__slogan{font-size:23px}}#template-5 .header .header__contact{margin:12px auto;font-family:Open Sans Condensed,sans-serif;font-size:23px;font-weight:400;text-align:center;color:#dce775}#template-5 .header .header__contact a{color:#dce775}#template-5 .header .header__contact .fa{margin-right:6px;margin-left:12px}@media (max-width:480px){#template-5 .header .header__contact{font-size:20px}}#template-5 .footer{background:#263238;padding:12px 0}#template-5 .footer>.container{display:flex}@media (max-width:768px){#template-5 .footer>.container{flex-direction:column}}#template-5 .footer-block{text-align:center}#template-5 .footer-block .footer-block__title{font-family:Open Sans Condensed,sans-serif;font-size:26px;font-weight:700;color:#dce775;margin-top:0;margin-bottom:9.6px}@media (max-width:768px){#template-5 .footer-block .footer-block__title{margin-top:19.2px}}#template-5 .footer-block .footer-block__body{font-family:Open Sans Condensed,sans-serif;font-size:21px;font-weight:400;color:#dce775}#template-5 .footer-block .footer-block__body a{color:#dce775}#template-5 .footer-block .footer-block__body .btn{background-color:#c0ca33;border:none;color:#263238;padding:6px 18px;margin-top:12px;text-align:center;text-decoration:none;display:inline-block}#template-5 .footer-block .footer-block__body .btn:hover{background-color:#dce775}#template-5 .footer-block .footer-block__body .menu{font-family:inherit;font-size:inherit;font-weight:inherit;margin:0;padding:0;background:none;box-shadow:none}#template-5 .footer-block .footer-block__body .menu .container{width:100%!important;padding:0!important}#template-5 .footer-block .footer-block__body .menu .menu__list{margin:0;padding:0;display:block;list-style:none}#template-5 .footer-block .footer-block__body .menu .menu__item{text-align:center}#template-5 .footer-block .footer-block__body .menu .menu__item a{display:block;color:inherit;border:0;padding:0}#template-5 .footer-block .footer-block__body .menu .menu__item a:hover{background:none;color:inherit}#template-5 .footer__eselt{margin:12px auto;font-family:Helvetica,sans-serif;font-size:.8em;font-weight:400;color:#888;text-align:right;width:98%;order:99}#template-5 .footer__eselt a{color:#888}@media (max-width:768px){#template-5 .footer__eselt{text-align:center}}#template-5 .footer__logo{font-family:Titillium Web,sans-serif}#template-5 .footer__logo:before{content:\"&#x45;&#x72;&#x73;&#x74;&#x65;&#x6C;&#x6C;&#x74;&#x20;&#x6D;&#x69;&#x74; \"}#template-5 .footer__logo .text:before{content:\"&#x45;&#x73;&#x65;&#x6C;&#x74;\"}#template-5 .no-margin{margin:0!important}#template-5 .no-margin-top{margin-top:0!important}#template-5 .no-margin-right{margin-right:0!important}#template-5 .no-margin-bottom{margin-bottom:0!important}#template-5 .no-margin-left{margin-left:0!important}#template-5 .menu{background:#dce775;border-bottom:1px solid #263238;font-family:Open Sans Condensed,sans-serif;font-size:20px;font-weight:700}#template-5 .menu .menu__list{margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;list-style:none}@media (max-width:768px){#template-5 .menu .menu__list{display:block}}#template-5 .menu .menu__item{flex:1;text-align:center}#template-5 .menu .menu__item a{display:block;color:#263238;border-right:1px solid #263238;padding:18px 0}#template-5 .menu .menu__item a:hover{background:#263238;color:#b0bec5}@media (max-width:768px){#template-5 .menu .menu__item a{border-right:0;border-bottom:1px solid #263238}}#template-5 .menu .menu__item:last-child a{border-right:0}@media (max-width:768px){#template-5 .menu{font-size:16px}}#template-5 .menu--footer .menu__list{margin:0;padding:0;list-style:none}#template-5 .content{margin:0;padding:0;font-family:Open Sans,sans-serif;color:#212121;font-size:16px;line-height:1.5}#template-5 .content .container{padding:0}#template-5 .content .content__wrapper{background:#fff;background-image:linear-gradient(180deg,#fafafa 0,#fff);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\"#FFFAFAFA\",endColorstr=\"#FFFFFFFF\",GradientType=0);background-repeat:repeat-x;padding:24px;box-shadow:0 5px 20px rgba(0,0,0,.6);overflow:hidden}@media (max-width:768px){#template-5 .content .content__wrapper{padding:12px;box-shadow:none}}#template-5 .content .content__header{margin:12px 0;padding:6px}#template-5 .content .content__header .content__title{margin:0;border-bottom:1px solid #212121;padding:0 0 6px;font-size:32px}@media (max-width:480px){#template-5 .content .content__header .content__title{font-size:24px}}#template-5 .content .content__description{margin:12px 0;padding:6px;color:#616161}#template-5 .content .content__description p{margin:0 0 6px}#template-5 .content .content__bulletpoints{margin:12px 0;padding:6px;color:#616161}#template-5 .content .content__bulletpoints .bulletpoints__list{margin:0;padding:0;list-style:none}#template-5 .content .content__bulletpoints .bulletpoints__item{margin-bottom:6px}#template-5 .content .content__bulletpoints .bulletpoints__item .fa{color:#78909c}#template-5 .vertical-align-middle{white-space:nowrap;text-align:center}#template-5 .vertical-align-middle .vertical-align-helper{display:inline-block;height:100%;vertical-align:middle}#template-5 .vertical-align-middle img{display:inline-block;vertical-align:middle;margin:0;padding:0;max-width:100%;max-height:100%}#template-5 .aside{background:#dce775;overflow:hidden}#template-5 .aside .container{padding:0}#template-5 .aside-block{text-align:left;padding:12px}#template-5 .aside-block .aside-block__title{font-family:Open Sans Condensed,sans-serif;font-size:32px;font-weight:700;color:#263238;margin-bottom:12px;text-align:left}#template-5 .aside-block .aside-block__title .fa{font-size:32px}#template-5 .aside-block .aside-block__body{font-family:Open Sans Condensed,sans-serif;font-size:16px;font-weight:400;color:#212121}#template-5 .aside-block .aside-block__icons{text-align:left;margin-bottom:12px}#template-5 .aside-block .aside-block__icons img{margin:3px}@media (max-width:1200px) and (min-width:768px){#template-5 .aside-block{padding:12px}#template-5 .aside-block .aside-block__title,#template-5 .aside-block .aside-block__title .fa{font-size:26px}#template-5 .aside-block .aside-block__body{font-size:15px}}#template-5 .image-cover__wrapper{margin:12px 0;padding:6px;background:#fafafa;border:1px solid #eee;text-align:center} #template-5 .template__wrapper { background-color: #cf1010; } #template-5 .header { background-color: #0b0000 } #template-5 .header .header__brand .header__logo { font-family: \"Oswald\"; color: rgba(82,204,81,0.9); border-color: rgba(82,204,81,0.9); } #template-5 .header .header__brand .header__slogan { font-family: \"Oswald\"; color: rgba(82,204,81,0.9); } #template-5 .header .header__contact { font-family: \"Oswald\"; color: rgba(82,204,81,0.9); } #template-5 .header .header__contact a { color: rgba(82,204,81,0.9); } #template-5 .footer { background-color: #0b0000; } #template-5 .footer .footer__contact { color: rgba(82,204,81,0.9); } #template-5 .footer .footer__contact a { color: rgba(82,204,81,0.9); } #template-5 .footer-block .footer-block__body .menu .menu__item a { color: rgba(82,204,81,0.9); background: none; } #template-5 .footer-block .footer-block__body .btn { background-color: rgba(82,204,81,0.9); } #template-5 .footer-block .footer-block__body .btn:hover { background-color: rgba(82,204,81,0.9); } #template-5 .footer-block .footer-block__title { font-family: \"Open Sans Condensed\"; color: rgba(82,204,81,0.9); } #template-5 .footer-block .footer-block__body { font-family: \"Open Sans Condensed\"; color: rgba(82,204,81,0.9); } #template-5 .menu { font-family: \"Josefin Sans\"; background-color: rgba(82,204,81,0.9); border-bottom-color: #0b0000; } #template-5 .menu .menu__item a { background-color: rgba(82,204,81,0.9); color: #0b0000; border-color: #0b0000; } #template-5 .menu .menu__item a:hover { background-color: #0b0000; color: rgba(82,204,81,0.9); } #template-5 .content .content__header .content__title { font-family: \"Bree Serif\"; color: #121212; border-color: #121212; } #template-5 .content .content__wrapper { background: #a4c6f4; overflow: hidden; } #template-5 .content .content__description { font-family: \"Helvetica\"; color: #121212; } #template-5 .content .content__bulletpoints .bulletpoints__item .fa { color: #0b0000; } #template-5 .content .content__bulletpoints { font-family: \"Helvetica\"; color: #121212; } #template-5 .aside { background-color: #c9a466; } #template-5 .aside-block .aside-block__body { font-family: \"Josefin Sans\"; color: #121212; } #template-5 .aside .aside-block .aside-block__title { font-family: \"Josefin Sans\"; color: #121212; } #template-5 .images .image-wrapper img { border-color: #0b0000; background-color: rgba(82,204,81,0.9); } #template-5 .content__gallery .thumb__float { border-color: #0b0000; } #template-5 .content__gallery .gallery__prev-next a { color: #0b0000; } #template-5 .content__gallery { background: ; } #template-5 .tabs__label { background: rgba(82,204,81,0.9); color: #0b0000; border-color: #0b0000; } #template-5 .tabs__label:hover { background: #0b0000; color: rgba(82,204,81,0.9); } #template-5 .tabs__box { border-color: #0b0000; } #template-5 .tabs__box--content { background: #a4c6f4; } #template-5 .template__wrapper .lLwmE18mHkOT2 { margin: 0; font-family: Helvetica, sans-serif; font-size: 0.8em; font-weight: normal; color: #888; text-align: right; width: 100%; position: absolute; right: 0; bottom: 0; padding: 10px 16px; background: #fff; } #template-5 .template__wrapper .lLwmE18mHkOT2 a { color: #888; } @media (max-width: 768px) { #template-5 .template__wrapper .lLwmE18mHkOT2 { text-align: center; } } #template-5 .template__wrapper .mkAvHk4XEvi { font-family: 'Titillium Web', sans-serif; } </style><!----><!----><!----><!----><!----><!----><!----><div><div class=\"template__wrapper\" style=\"position: relative; padding-bottom: 46px;\"><div class=\"lLwmE18mHkOT2\"><a href=\"https://www.ebay.com/str/eselt#tab1\" target=\"_blank\"><span> Created with <strong><span class=\"mkAvHk4XEvi\"> Eselt </span></strong></span> - <span>eBay Templates</span></a></div><header class=\"header\"><div class=\"container\"><div class=\"header__brand\"><div class=\"header__logo\"><div>all_in_onestore_trading</div></div><div class=\"header__slogan\"> \"What&nbsp;You See Is What You Get\" </div></div><div class=\"header__contact word-break\"><div><i aria-hidden=\"true\" class=\"fa fa-phone-square\"></i><span><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\"> Give us a call </a></span></div><div><i aria-hidden=\"true\" class=\"fa fa-envelope\"></i><span><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\"> Send us a message </a></span></div></div></div></header><div class=\"lLwmE18mHkOT2\"><a href=\"https://www.ebay.com/str/eselt#tab1\" target=\"_blank\"><span> Created with <strong><span class=\"mkAvHk4XEvi\"> Eselt </span></strong></span> - <span>eBay Templates</span></a></div><nav class=\"menu\"><div class=\"container\"><ul class=\"menu__list\"><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Our Store </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Seller Profile </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading#tab2\" target=\"_blank\" class=\"\"> Feedback </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading#tab1\" target=\"_blank\" class=\"\"> About us </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Contact </a></li></ul></div></nav><div class=\"lLwmE18mHkOT2\"><a href=\"https://www.ebay.com/str/eselt#tab1\" target=\"_blank\"><span> Created with <strong><span class=\"mkAvHk4XEvi\"> Eselt </span></strong></span> - <span>eBay Templates</span></a></div><main class=\"content\"><div class=\"container\"><div class=\"content__wrapper\"><div class=\"content__header\"><h1 class=\"content__title\"> Days with My Step Sister Gimai Seikatsu Light Novel Series Volumes 1-8 by Ghost Mikawa English Version</h1></div><div><div class=\"product-2769115\"></div><!----><!----><div id=\"layout__layout-3\"><div class=\"row\"><div class=\"col col-md-6\"><div id=\"layout__content\"><div class=\"row flex direction-column\"><div class=\"col col-md-12 order-1\"><div class=\"content__description mb0\"><p><font size=\"4\"><strong style=\"font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve; color: rgb(53, 152, 219);\">HALF SET / ALL SET </strong><strong style=\"font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve; color: rgb(230, 0, 0);\">- FREE SHIPPING</strong><strong style=\"\"><br><br>Title :</strong><span style=\"color: rgb(0, 0, 0);\">&nbsp;</span><font color=\"#1f497d\" style=\"\"><strong>Days with My Stepsister : Gimai Seikatsu</strong></font><br></font></p><p><font size=\"4\"><span style=\"color:rgb(0, 0, 0)\"><strong>Volume :</strong>&nbsp;</span><span style=\"color:rgb(31, 73, 125)\"><strong>1 - 8</strong></span><br><strong><span style=\"color:rgb(0, 0, 0)\">Language : </span><span style=\"color:rgb(31, 73, 125)\">English Version</span></strong><br><span style=\"background-color:initial\"><strong>Writer/Author :</strong><span style=\"color:rgb(0, 0, 0)\">&nbsp;</span><font color=\"#1f497d\"><strong>Ghost Mikawa</strong></font><br></span><span style=\"background-color:initial\"><strong>Genre :</strong><span style=\"color:rgb(0, 0, 0)\">&nbsp;</span><font color=\"#1f497d\"><strong>Romantic Comedy</strong></font></span><span style=\"color:rgb(0, 0, 0);background-color:initial\"><br></span><span style=\"background-color:initial\"><strong>Size : </strong><strong style=\"color: rgb(31, 73, 125);\">A5</strong><br><strong>Condition :&nbsp;</strong><span style=\"color:rgb(31, 73, 125)\"><strong>Brand New &amp; Sealed</strong></span><br></span><span style=\"background-color:initial\"><br></span></font></p><div><strong><span style=\"text-decoration-line: underline;\"><font size=\"4\">This book is as described in the product description :<br><br></font></span></strong></div><p>\n</p><div><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><strong><u><font size=\"4\">IMPORTANT NOTE!!</font></u></strong></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\">This is a<span style=\"color: rgb(230, 0, 0);\"> re-printed</span> version intended for casual reading.</font></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\">Not suitable for collectors as it is not published by original publishers (e.g., Viz Media, Square Enix, Seven Seas).&nbsp;&nbsp;</font></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\">Printed by Underground Publisher (Malaysia) in English version, with premium quality.</font></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\">This book is in <strong>ENGLISH</strong> version.</font></p><hr style=\"cursor: text; box-sizing: border-box; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\"><span style=\"color: rgb(53, 152, 219);\">Kindly please read item details before buying. Choose&nbsp;</span><span style=\"color: rgb(224, 62, 45);\">express</span><span style=\"color: rgb(53, 152, 219);\">&nbsp;for faster shipping.</span></font></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><font size=\"4\"><span style=\"color: rgb(224, 62, 45);\">Standard</span><span style=\"color: rgb(53, 152, 219);\">&nbsp;shipping used by default.</span></font></p><hr style=\"cursor: text; box-sizing: border-box; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><strong style=\"background-color: rgb(255, 255, 0);\"><font size=\"4\">NO EXTRA OR ADDITIONAL CHARGES FOR REMOTE AREA</font></strong></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><em><font size=\"4\">- Any customs/import duties/taxes are the buyer’s responsibility, as per eBay policy.</font></em></p><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; white-space-collapse: preserve;\"><em style=\"\"><font size=\"4\">- If a parcel is returned due to unpaid customs, the return cost or loss will be at the buyer’s expense.</font></em></p><hr style=\"cursor: text; box-sizing: border-box; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space-collapse: preserve;\"><p style=\"cursor: text; margin-bottom: 0px; padding: 0px 0px 8px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space-collapse: preserve;\"><b style=\"color: rgb(18, 18, 18); font-family: Helvetica; font-size: 16px;\">SHIPPING</strong></p>\n<div>•&nbsp;&nbsp;&nbsp; Shipping to worldwide (except countries in exclusion list)<br>•&nbsp;&nbsp;&nbsp; Your item will be carefully wrapped to prevent damage.<br>•&nbsp; &nbsp; &nbsp;We will update the tracking number on your eBay order once the items have been shipped.<br>•&nbsp;&nbsp;&nbsp; Please get in touch with us right away if you listed the wrong address and the item hasn't shipped yet so we may update it for you.<br><br>\n<div><strong>FEEDBACK</strong></div>\n<div>If you have any problem with items received such as not as described or damaged, please message us. If you are satisfied with our service/product, please leave us 5-star positive feedback. Your recognition will make us more confident to develop business and serve you better. If anything goes wrong with your order, kindly contact us before leaving any negative or neutral feedback. We will do our best to satisfy your needs. Thank you for buying.</div>\n</div></div></div></div><div class=\"col col-md-12 order-2\"><div class=\"content__bulletpoints\" style=\"display: none;\"><ul class=\"bulletpoints__list\"></ul></div></div></div></div></div><div class=\"col col-md-6\"><div id=\"layout__gallery\"><div><!----><!----><!----><!----></div></div></div></div></div><!----><!----><!----><!----><!----><!----></div></div></div></main><div class=\"lLwmE18mHkOT2\"><a href=\"https://www.ebay.com/str/eselt#tab1\" target=\"_blank\"><span> Created with <strong><span class=\"mkAvHk4XEvi\"> Eselt </span></strong></span> - <span>eBay Templates</span></a></div><aside class=\"aside\"><div class=\"container\"><div id=\"aside-payment\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fas fa-dollar-sign\"></i> Payment </div><div class=\"aside-block__icons\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/credit_card.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/paypal.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/google_pay.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/apple_pay.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/other.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/wire_transfer.png\"></div><div class=\"aside-block__body\"><div><p>We accept payment by any of the following methods:</p><p><em>Payoneer</em></p><p></p><p>All major credit cards are accepted through secure payment processor<br>Payoneer.</p></div></div></div></div><div id=\"aside-shipping\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fa fa-truck\"></i> Shipping </div><div class=\"aside-block__icons\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/ups.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/fedex.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/express.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/free.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/other.png\"></div><div class=\"aside-block__body\"><div><p>We provide both&nbsp;<strong>EXPRESS and ECONOMY&nbsp;</strong>shipping options for all orders, ensuring each shipment is accompanied by a tracking number.<br><br><span>Handling Time: 2-5 Working days.</span></p><p>Estimated Time of Arrival (ETA):<br>Express via FedEx / DHL (3-8 working days)<br>Economy (11-23 working days)<br><br><strong>Please Note:</strong><br>-Import duties,taxes,and charges are not included in the item price or shipping<br>&nbsp;cost.<br>-These charges are the buyer's responsibility.<br>-Please check with your country's customs office to determine what these<br>&nbsp;additional costs will be prior to bidding or buying<br></p></div></div></div></div><div id=\"aside-returns\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fas fa-undo\"></i> Returns </div><div class=\"aside-block__body\"><div><p>We are a <strong>100% FULLTIME</strong> well-established business, not a part-time seller.<br><span style=\"background-color: initial;\">You can feel safe when trading with us!</span></p><p><span>- We accept all returns provided the items are in their original, undamaged<br>&nbsp; condition.</span><span><br></span></p><p>- Refunds are issued through a Money Back policy.</p><p>- Customers are required to contact us within 30 days of receiving the item.</p><p>- The cost of return shipping will be covered by the Buyer.</p><p>- For any product to be eligible for return, it must be in the exact condition<br>&nbsp; was received, including the original packaging.<br></p></div></div></div></div><div id=\"aside-other\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fa fa-info-circle\"></i> Other </div><div class=\"aside-block__body\"><div><p>\"Our commitment to maintaining a positive feedback loop is integral to our professionalism. We encourage leaving a 5-star rating, and in appreciation, we assure you of a professional and positive feedback from our end as a gesture of our commitment to your satisfaction.\"</p><p>Please contact us if you require any information<br><strong style=\"background-color: initial;\"><em><br>\"What&nbsp;You See Is What You Get\"</em></strong><br></p><p>Thank You For Your Support</p><p><span><strong><em>All_In_Onestore_Trading</em></strong></span><br></p></div></div></div></div></div></aside><div class=\"lLwmE18mHkOT2\"><a href=\"https://www.ebay.com/str/eselt#tab1\" target=\"_blank\"><span> Created with <strong><span class=\"mkAvHk4XEvi\"> Eselt </span></strong></span> - <span>eBay Templates</span></a></div><div><footer class=\"footer\"><div class=\"container\"><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title no-margin-top\"> Links </div><div class=\"footer-block__body\"><nav class=\"menu\"><div class=\"container\"><ul class=\"menu__list\"><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Our Store </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Seller Profile </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading#tab2\" target=\"_blank\" class=\"\"> Feedback </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/https://www.ebay.com/str/allinonestoretrading#tab1\" target=\"_blank\" class=\"\"> About us </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"\"> Contact </a></li></ul></div></nav></div></div></div><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title\"> More items </div><div class=\"footer-block__body\"> Are you looking for something similar? See our other items!<br><a href=\"https://www.ebay.com/sch/i.html?_ssn=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\" class=\"btn\"><i class=\"fa fa-envelope\"></i> Show more items </a></div></div></div><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title\"> Contact </div><div class=\"footer-block__body footer__contact\"><i aria-hidden=\"true\" class=\"fa fa-phone-square\"></i><span><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\"> Give us a call </a></span><br><i aria-hidden=\"true\" class=\"fa fa-envelope\"></i><span><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=https://www.ebay.com/str/allinonestoretrading\" target=\"_blank\"> Send us a message <br></a></span></div></div></div></div></footer><!----></div></div></div></div>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "405102962158",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=405102962158",
+    "itemGroupTitle": "Days with My Step Sister Gimai Seikatsu Light Novel Series Volumes  1-8 English",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/mmoAAOSwG5RmlSg~/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    "itemGroupAdditionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QjEAAOSwWnlmlShN/s-l1600.jpg",
+        "width": 1199,
+        "height": 1600
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/VBYAAOSwM99mlSig/s-l1600.jpg",
+        "width": 1160,
+        "height": 868
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/dHgAAOSwfFZmlShj/s-l1600.jpg",
+        "width": 1156,
+        "height": 868
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/NUkAAOSwki5mlSiQ/s-l1600.jpg",
+        "width": 1253,
+        "height": 500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/eacAAOSwEjBmlShr/s-l1600.jpg",
+        "width": 810,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/3OsAAOSwMDdmlShu/s-l1600.jpg",
+        "width": 868,
+        "height": 1156
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FxIAAOSwED9mlSh8/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/s3wAAOSwbslmlSiH/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/R9UAAOSwV69mlSiD/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/-q0AAOSwoGFmlSiA/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/fLIAAOSwIw5mlSh9/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/IkYAAOSw3QRmlSh-/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/tnIAAOSwINZmlSh~/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/pd0AAOSwPXxmlSh9/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      }
+    ]
+  },
+  "unitPricingMeasure": "Unit",
+  "unitPrice": {
+    "value": "224.00",
+    "currency": "USD"
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "availableCoupons": [
+    {
+      "redemptionCode": "MIDYEAR5",
+      "discountAmount": {
+        "value": "10.0",
+        "currency": "USD"
+      },
+      "termsWebUrl": "https://pages.ebay.com/promo/2026/midyear5/",
+      "message": "5% de descuento en tus compras de $50 o más, hasta $15 menos.",
+      "discountType": "ITEM_PRICE",
+      "constraint": {
+        "expirationDate": "2026-08-19T05:59:59.000Z"
+      }
+    }
+  ],
+  "legacyItemId": "405102962158",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

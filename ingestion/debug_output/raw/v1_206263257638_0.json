@@ -1,0 +1,1130 @@
+{
+  "itemId": "v1|206263257638|0",
+  "title": "Gimai Seikatsu, Days with My Step Sister Light Novel Vol 1-8 + Fast Ship",
+  "shortDescription": "Art & Story by Mikawa Ghost. paper Type: Novel Paper. Eventually, this could end up in a story about love for all we know. Story Line. On one hand, Saki, who has worked in solitude for the sake of her family, doesn't know how to properly rely on others, whereas Yuta is unsure of how to really treat her.",
+  "price": {
+    "value": "136.80",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "PASIR GUDANG",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/Y5IAAOSw5gVmwuK5/s-l1600.jpg",
+    "width": 960,
+    "height": 960
+  },
+  "additionalImages": [
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/pRkAAOSw45BmwuK4/s-l1600.jpg",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/aKEAAOSw0GFmwuK4/s-l1600.jpg",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/T5cAAOSw355mwuK4/s-l1600.jpg",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/rKQAAOSwY5tmwuK4/s-l1600.jpg",
+      "width": 960,
+      "height": 960
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/zm8AAOSwOAxmwuK4/s-l1600.jpg",
+      "width": 960,
+      "height": 960
+    }
+  ],
+  "itemCreationDate": "2026-05-09T14:57:11.000Z",
+  "seller": {
+    "username": "justice_store",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 58
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 3,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 3
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Expedited Shipping",
+      "type": "Expedited shipping",
+      "shippingCost": {
+        "value": "25.90",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-18T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-24T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "15.90",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "Central America and Caribbean",
+        "regionType": "WORLD_REGION",
+        "regionId": "CENTRAL_AMERICA_AND_CARIBBEAN"
+      },
+      {
+        "regionName": "South America",
+        "regionType": "WORLD_REGION",
+        "regionId": "SOUTH_AMERICA"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "Thailand",
+        "regionType": "COUNTRY",
+        "regionId": "TH"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Armenia",
+        "regionType": "COUNTRY",
+        "regionId": "AM"
+      },
+      {
+        "regionName": "Azerbaijan Republic",
+        "regionType": "COUNTRY",
+        "regionId": "AZ"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "Bhutan",
+        "regionType": "COUNTRY",
+        "regionId": "BT"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "India",
+        "regionType": "COUNTRY",
+        "regionId": "IN"
+      },
+      {
+        "regionName": "Kazakhstan",
+        "regionType": "COUNTRY",
+        "regionId": "KZ"
+      },
+      {
+        "regionName": "South Korea",
+        "regionType": "COUNTRY",
+        "regionId": "KR"
+      },
+      {
+        "regionName": "Kyrgyzstan",
+        "regionType": "COUNTRY",
+        "regionId": "KG"
+      },
+      {
+        "regionName": "Maldives",
+        "regionType": "COUNTRY",
+        "regionId": "MV"
+      },
+      {
+        "regionName": "Mongolia",
+        "regionType": "COUNTRY",
+        "regionId": "MN"
+      },
+      {
+        "regionName": "Nepal",
+        "regionType": "COUNTRY",
+        "regionId": "NP"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Sri Lanka",
+        "regionType": "COUNTRY",
+        "regionId": "LK"
+      },
+      {
+        "regionName": "Tajikistan",
+        "regionType": "COUNTRY",
+        "regionId": "TJ"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "regionType": "COUNTRY",
+        "regionId": "UZ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Malaysia"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Cartoon Character"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Custom Bundle",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Gimai Seikatsu, Days with My Step sister"
+    },
+    {
+      "type": "STRING",
+      "name": "Ex Libris",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Express Shipping, Latest"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Action, Adventure"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/206263257638?amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xAwqrKjL0--rqejrGg%2FYIZHcnz0qVtLry%2FzuqYNecrGj%2FCYcTuAA5oj1K%2FwvhiGTKY%2FzFSysYWxo6WaOLb5YnReASXI1jaU9STi5XjaIkv491bW5Yxaw5JsqqHAt2SDDEHtczxnt9H%2FMTHwLhiYVo%2Bp4d4Lx4U%2FG8TLHcJ8AQcY6GISeA5%2BSU945B1smxB0q7E%3D",
+  "description": "<p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><strong>* SHIPPING &amp; CUSTOMS NOTICE</strong></p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><strong>** USA Buyers * Special DTP Offer</strong></p><p class=\"p2\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px;\"><br></p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\">Effective August 29, 2025, all imports to the USA may be subject to duty and tax due to the updated U.S. de minimis law. However, starting from October 21, 2025, we are offering DTP (Delivered Tax Paid) for USA buyers:</p><p class=\"p2\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;; min-height: 15px;\"><br></p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><strong>We pay the import tax on your behalf (DTP </strong>* Delivered Tax Paid)</p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><strong>No additional charges upon delivery </strong>* no surprise fees from DHL, FedEx, or USPS</p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><strong>Fast &amp; smooth delivery </strong>direct to your doorstep</p><p class=\"p1\" style=\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &quot;Helvetica Neue&quot;;\"><ul><li><strong>* Buy with confidence * Import tax is already included in our price!</strong></li></ul></p><div><font face=\"Tahoma\"><font color=\"#191919\" size=\"4\" style=\"\"><b style=\"\">Gimai Seikatsu, Days with My Step Sister Light Novel Volume 1-8 English Version</b></font><br></font></div><div><b><font face=\"Tahoma\"><br></font></b></div><div><div><font face=\"Tahoma\">Product Information</font></div><div><font face=\"Tahoma\"><br></font></div><div><div><font face=\"Tahoma\">Light Novel : Gimai Seikatsu, Days with My Step sister</font></div><div><font face=\"Tahoma\">Volume: 1-8</font></div><div><font face=\"Tahoma\">(English Version)</font></div><div><font face=\"Tahoma\">Art &amp; Story by Mikawa Ghost</font></div><div><font face=\"Tahoma\">Genre: Romantic,Comedy</font></div><div><font face=\"Tahoma\">Condition: Brand new &amp; Sealed</font></div><div><font face=\"Tahoma\">paper Type: Novel Paper</font></div><div><font face=\"Tahoma\">Publisher: Malaysian Publisher</font></div><div><font face=\"Tahoma\">&nbsp;</font></div><div><font face=\"Tahoma\">Story Line</font></div><div><font face=\"Tahoma\">From classmates to brother and sister, living under the same roof.</font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\">After his father's remarriage, Asamura Yuuta ends up getting a new stepsister, coincidentally the number one beauty of the school year, Ayase Saki. Having learned important values when it comes to man-woman relationships through the previous ones of their parents, they promise each other not to be too close, not to be too opposing, and to merely keep a vague and comfortable distance.</font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\">On one hand, Saki, who has worked in solitude for the sake of her family, doesn't know how to properly rely on others, whereas Yuta is unsure of how to really treat her. Standing on fairly equal ground, these two slowly learn the comfortable sensation of living together.</font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\">Their relationship slowly evolves from being strangers the more the days pass. Eventually, this could end up in a story about love for all we know.</font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\">PLEASE READ IT!!!</font></div><div><font face=\"Tahoma\"><br></font></div><div><font face=\"Tahoma\">This Book Not Suitable for collector because this was not from Viz Media. Suitable for first time want to read manga. Book from Viz Media cannot get with this price because it was expensive. All contents originally from Viz Media but for printing and book its premium quality.</font></div></div></div>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "lotSize": 0,
+  "legacyItemId": "206263257638",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

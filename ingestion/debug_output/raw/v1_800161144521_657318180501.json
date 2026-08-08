@@ -1,0 +1,961 @@
+{
+  "itemId": "v1|800161144521|657318180501",
+  "sellerItemRevision": "2",
+  "title": "Re:Zero- Starting Life in Another World (Light Novel) Vol 1-26 English Version",
+  "shortDescription": "Enter the emotional fantasy world ofRe:Zero − Starting Life in Another World, a popular light novel series byTappei Nagatsuki featuring isekai adventure, fantasy drama, supernatural mystery, and powerful character growth.",
+  "price": {
+    "value": "346.90",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "KLANG SELANGOR",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/wuIAAeSwslJqIvIg/s-l1600.jpg",
+    "width": 1080,
+    "height": 1080
+  },
+  "itemCreationDate": "2026-06-11T14:42:00.000Z",
+  "seller": {
+    "username": "cahayadesyenterprise",
+    "feedbackPercentage": "98.9",
+    "feedbackScore": 2112
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 7,
+      "estimatedSoldQuantity": 3,
+      "estimatedRemainingQuantity": 7
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Expedited Shipping from outside US",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-18T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-24T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Vol.",
+      "value": "Volume 1-26 (26 Books) Full Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Quantity",
+      "value": "26"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Tappei Nagasutki"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Cartoon Character"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Re: Zero: Starting Life in Another World"
+    },
+    {
+      "type": "STRING",
+      "name": "Ex Libris",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Re:Zero- Starting Life in Another World"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Mangahouz"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2024"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "1-26"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Action, Adventure, Supernatural, Action/Adventure"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/800161144521?var=657318180501&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xC%2BFQmrlX2eRMKWX3OrD1vbS7ntnQHNoSaW9W1eO2BdoPZwtYJz40c4etYbbg%2FWh%2BofYeONr1UVjl4B9PggyxPGirJz3TghLKsrNGfPWJlXgsH2wgh256gT1RO0K3fZKXCx3OJ%2BA5tfYW%2BD93NKp38Ftt9PNssttco7CpOlUKZFYQ0%2BKQKss7XIBhmet%2Fd4SkA%3D",
+  "description": "<html>\n        <head>\n        \n        </head>\n        <body >\n        <div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, Helvetica, sans-serif; font-size:14px; line-height:1.6; color:#111827; max-width:980px; margin:0 auto;\"><section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:18px; margin:0 0 14px; background:#ffffff;\"><div style=\"font-size:18px; font-weight:800; margin:0 0 8px;\">📚 Re:Zero − Starting Life in Another World Light Novel English Version Vol. 1–26 New Sealed</div>\n<p style=\"margin:0 0 8px;\">Enter the emotional fantasy world of <strong>Re:Zero − Starting Life in Another World</strong>, a popular light novel series by <strong>Tappei Nagatsuki</strong> featuring isekai adventure, fantasy drama, supernatural mystery, and powerful character growth.</p>\n<p style=\"margin:0;\">✨ This listing is for <strong>Re:Zero − Starting Life in Another World Light Novel English Version</strong>, covering <strong>Volumes 1–26</strong>. Condition: <strong>Brand New &amp; Sealed</strong>. Set Type: <strong>FULL SET</strong>. Finish: <strong>With Jacket Matte Laminate</strong>. 🚚 Shipping available as stated in the listing.</p>\n</section>\n<section style=\"border:1px solid #fecaca; border-radius:16px; padding:16px; margin:0 0 14px; background:#fff1f2;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">📌 Important Edition Notice</div>\n<p style=\"margin:0 0 8px;\">Please read carefully before purchasing. This is a <strong>local / underground reading edition</strong>, printed by <strong>Mangahouz</strong>. It is <strong>NOT an official publisher edition</strong>.</p>\n<p style=\"margin:0 0 8px;\">This book set is not from Viz Media, Square Enix, Kodansha, Yen Press, Tokyopop, Vertical, or similar official producers. It is <strong>not recommended / not suitable for collectors</strong>.</p>\n<p style=\"margin:0 0 8px;\">This edition is suitable for <strong>first-time light novel readers, casual readers, anime fans, fantasy fans, and pleasure reading</strong>. The content follows the original story, but this is a local reading print by Mangahouz. Official editions usually cost more.</p>\n<p style=\"margin:0;\">Minor print, trim, colour, paper, cover, jacket, binding, and finishing variations may occur due to local batch production.</p>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 10px;\">✅ Quick Highlights</div>\n<div style=\"display:block;\">\n<span style=\"display:inline-block; border:1px solid #d1d5db; border-radius:999px; padding:6px 10px; margin:0 6px 8px 0; background:#f9fafb;\">📚 FULL SET Vol. 1–26</span>\n<span style=\"display:inline-block; border:1px solid #d1d5db; border-radius:999px; padding:6px 10px; margin:0 6px 8px 0; background:#f9fafb;\">🇬🇧 English Version</span>\n<span style=\"display:inline-block; border:1px solid #d1d5db; border-radius:999px; padding:6px 10px; margin:0 6px 8px 0; background:#f9fafb;\">🆕 Brand New &amp; Sealed</span>\n<span style=\"display:inline-block; border:1px solid #d1d5db; border-radius:999px; padding:6px 10px; margin:0 6px 8px 0; background:#f9fafb;\">📘 Jacket Matte Laminate</span>\n</div>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">📖 Story Overview</div>\n<p style=\"margin:0 0 8px;\"><strong>Re:Zero − Starting Life in Another World</strong> follows Subaru Natsuki, a modern-day teenager who is suddenly transported into a mysterious fantasy world filled with magic, danger, political tension, and hidden secrets.</p>\n<p style=\"margin:0 0 8px;\">Subaru soon discovers a strange ability called “Return by Death,” which causes time to repeat after certain fatal events while leaving him with the memories of what happened before. As he forms bonds with Emilia, Rem, Beatrice, and many others, he must face difficult choices and grow through each challenge.</p>\n<p style=\"margin:0;\">Across Volumes 1–26, the series delivers fantasy adventure, emotional drama, supernatural mystery, political conflict, and strong character development for readers who enjoy deep isekai light novels.</p>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">📌 Key Details</div>\n<ul style=\"margin:0; padding-left:20px;\">\n<li><strong>Title / Series:</strong> Re:Zero − Starting Life in Another World</li>\n<li><strong>Volumes:</strong> 1–26</li>\n<li><strong>Set Type:</strong> FULL SET</li>\n<li><strong>Language:</strong> English Version</li>\n<li><strong>Author:</strong> Tappei Nagatsuki</li>\n<li><strong>Genre:</strong> Action, Adventure, Fantasy, Isekai, Drama, Supernatural</li>\n<li><strong>Format:</strong> Paperback light novel text-based reading edition</li>\n<li><strong>Condition:</strong> Brand New &amp; Sealed</li>\n<li><strong>Finish:</strong> With jacket matte laminate</li>\n<li><strong>Publisher / Printing:</strong> Local / underground printing by Mangahouz</li>\n<li><strong>Intended Use:</strong> Reading copy, not suitable for collectors</li>\n<li><strong>Shipping:</strong> Shipping available as stated in the listing</li>\n</ul>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">✨ Edition &amp; Quality Notes</div>\n<p style=\"margin:0 0 8px;\">This is a budget-friendly local reading edition made for readers who want to enjoy the story in English. It is not an official publisher edition and is best purchased as a casual reading copy.</p>\n<ul style=\"margin:0 0 8px; padding-left:20px;\">\n<li>Paperback light novel format with jacket matte laminate.</li>\n<li>Text-based light novel pages with English text.</li>\n<li>Minor print, trim, cover, jacket, binding, paper, and finishing variations may occur.</li>\n</ul>\n<p style=\"margin:0; color:#6b7280; font-size:12.5px;\">Collector warning: This local reading edition is not recommended for collectors who require official publisher copies, exact print quality, official ISBN matching, or premium collectible finishing.</p>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">🎨 Colour &amp; Display Note</div>\n<p style=\"margin:0;\">Actual book colour, cover shade, print tone, and finishing may look slightly different due to monitor settings, lighting conditions during photography, and batch production variations.</p>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">🎁 Packaging &amp; Protection</div>\n<p style=\"margin:0 0 8px;\">We pack light novel sets carefully to reduce movement and help protect the books during transit.</p>\n<ul style=\"margin:0; padding-left:20px;\">\n<li>Volumes are grouped securely before packing.</li>\n<li>Bubble wrap or protective material is used.</li>\n<li>Sturdy outer packaging is used for safer delivery.</li>\n</ul>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">📌 Important Buyer Notes</div>\n<ul style=\"margin:0; padding-left:20px;\">\n<li>This is a local reading edition, not an official publisher edition.</li>\n<li>Not suitable for collectors.</li>\n<li>Official editions usually cost more.</li>\n<li>This book is in English version.</li>\n<li>Please message before buying if unsure.</li>\n<li>Please confirm set type / range before purchase: <strong>FULL SET Vol. 1–26</strong>.</li>\n</ul>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">🚚 Shipping</div>\n<ul style=\"margin:0; padding-left:20px;\">\n<li>Item will be packed securely before dispatch.</li>\n<li>Tracking will be provided once the order has been shipped.</li>\n<li>Delivery time may vary depending on destination country, courier handling, and customs processing.</li>\n<li>Buyer is responsible for checking import rules, customs duty, tax, or local delivery requirements if applicable.</li>\n</ul>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">↩️ Returns</div>\n<ul style=\"margin:0; padding-left:20px;\">\n<li>Please contact us first if there is any issue with your order.</li>\n<li>Returned items should be in the same condition as received.</li>\n<li>Buyer must check the listing details carefully before purchasing, especially edition type, condition, and set type.</li>\n<li>Return handling follows the return policy shown on the eBay listing.</li>\n</ul>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0 0 14px; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">⭐ Feedback</div>\n<p style=\"margin:0;\">Your satisfaction is important to us. If you are happy with your purchase, positive feedback is greatly appreciated. If there is any problem, please contact us before leaving feedback so we can assist you properly.</p>\n</section>\n<section style=\"border:1px solid #e5e7eb; border-radius:16px; padding:16px; margin:0; background:#ffffff;\">\n<div style=\"font-size:16px; font-weight:800; margin:0 0 8px;\">💬 Contact Us</div>\n<p style=\"margin:0;\">If you have any questions about the edition, format, condition, volume range, set type, or shipping, please message us through eBay before purchasing. We will be happy to help.</p>\n</section>\n<!-- END: Comic Description – Re:Zero − Starting Life in Another World -->\n</div><br/><!-- Start: eBay Listing Info Block (Alt Template v2) -->\n<div aria-label=\"Listing information\" role=\"region\" style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, Helvetica, sans-serif; color:#111827; line-height:1.6; font-size:14px;\">\n<!-- Top Notice: US Duties & Taxes -->\n<div style=\"background:#FFF7ED; border:1px solid #FDBA74; border-radius:12px; padding:14px 16px; margin-bottom:14px;\">\n<div style=\"text-align:center; font-weight:900; font-size:18px; letter-spacing:.2px; color:#9A3412;\">IMPORTANT FOR US BUYERS\n    </div>\n<div style=\"text-align:center; font-size:13px; color:#7C2D12; margin-top:6px;\">\n<b>Import duties, taxes and carrier fees are <u>not included</u> in the item price or postage.</b>\n      You may be contacted by the courier or US Customs to pay these before delivery. We do not collect these fees at checkout.\n    </div>\n</div>\n<!-- Highlight Row -->\n<div style=\"margin: 0px -4px 12px;\"><span style=\"display:inline-block; margin:4px; padding:8px 12px; border:1px solid #E5E7EB; border-radius:999px; background:#F8FAFC; font-weight:700;\">* Dispatch 24-48 business hrs*</span>\n<span style=\"display:inline-block; margin:4px; padding:8px 12px; border:1px solid #E5E7EB; border-radius:999px; background:#F0F9FF; font-weight:700;\">* Tracked service on all orders</span>\n<span style=\"display:inline-block; margin:4px; padding:8px 12px; border:1px solid #E5E7EB; border-radius:999px; background:#F0FFF4; font-weight:700;\">* Protective, tamper-resistant packing</span>\n</div>\n<!-- Section Cards (Grid via table for eBay compatibility) -->\n<table cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"border-spacing: 12px;\" width=\"100%\">\n<tbody>\n<tr>\n<!-- Card 1: Shipping -->\n<td style=\"width:50%; vertical-align:top; background:#FFFFFF; border:1px solid #E5E7EB; border-radius:12px; padding:14px;\">\n<div style=\"display:flex; align-items:center; gap:8px; margin-bottom:6px;\">\n<div style=\"width:28px; height:28px; border-radius:50%; background:#EEF2FF; display:inline-flex; align-items:center; justify-content:center; font-weight:800; color:#3730A3;\">1</div>\n<div style=\"font-weight:800; color:#1D4ED8;\">Shipping</div>\n</div>\n<ul style=\"margin:0; padding-left:18px;\">\n<li>Orders dispatch within <b>24-48 business hours</b> of cleared payment.</li>\n<li><b>Tracking number</b> provided for every parcel.</li>\n<li>Choose <b>Economy</b> or <b>Expedited</b> at checkout (expedited may cost more).</li>\n<li>We use <b>secure cushioning</b> to minimize transit damage.</li>\n</ul>\n<div style=\"margin-top:10px; font-size:12px; color:#6B7280;\">Estimated times depend on destination and local processing.</div>\n</td>\n<!-- Card 2: Customs & Taxes -->\n<td style=\"width:50%; vertical-align:top; background:#FFFFFF; border:1px solid #E5E7EB; border-radius:12px; padding:14px;\">\n<div style=\"display:flex; align-items:center; gap:8px; margin-bottom:6px;\">\n<div style=\"width:28px; height:28px; border-radius:50%; background:#FEF3C7; display:inline-flex; align-items:center; justify-content:center; font-weight:800; color:#92400E;\">2</div>\n<div style=\"font-weight:800; color:#D97706;\">Customs &amp; Taxes</div>\n</div>\n<ul style=\"margin:0; padding-left:18px;\">\n<li>Check your country's import rules before purchasing.</li>\n<li><b>Duties/VAT/taxes/carrier fees are not included</b> in price or postage; the <b>buyer pays</b> these when required.</li>\n<li>Customs inspection or fee collection may extend delivery time.</li>\n<li><b>US buyers:</b> Courier/US Customs may contact you to settle fees prior to delivery.</li>\n</ul>\n<div style=\"margin-top:10px; background:#FFFBEB; border:1px dashed #F59E0B; padding:10px; border-radius:10px; font-size:13px; color:#78350F;\">\n            Tip: Respond promptly to any carrier/customs messages to avoid delays.\n          </div>\n</td>\n</tr>\n<tr>\n<!-- Card 3: Returns -->\n<td style=\"width:50%; vertical-align:top; background:#FFFFFF; border:1px solid #E5E7EB; border-radius:12px; padding:14px;\">\n<div style=\"display:flex; align-items:center; gap:8px; margin-bottom:6px;\">\n<div style=\"width:28px; height:28px; border-radius:50%; background:#ECFDF5; display:inline-flex; align-items:center; justify-content:center; font-weight:800; color:#065F46;\">3</div>\n<div style=\"font-weight:800; color:#059669;\">Returns</div>\n</div>\n<ul style=\"margin:0; padding-left:18px;\">\n<li><b>30-day</b> money-back guarantee.</li>\n<li>Return items in <b>unopened, resalable condition</b>.</li>\n<li>Original postage is <b>non-refundable</b>; buyer pays return shipping.</li>\n<li><b>Contact us first</b> for RMA and instructions.</li>\n</ul>\n<div style=\"margin-top:10px; background:#F0FDF4; border:1px solid #BBF7D0; padding:10px; border-radius:10px; font-size:13px; color:#166534;\">\n            Keep original packaging and include your order ID to speed up processing.\n          </div>\n</td>\n<!-- Card 4: Support & Feedback -->\n<td style=\"width:50%; vertical-align:top; background:#FFFFFF; border:1px solid #E5E7EB; border-radius:12px; padding:14px;\">\n<div style=\"display:flex; align-items:center; gap:8px; margin-bottom:6px;\">\n<div style=\"width:28px; height:28px; border-radius:50%; background:#EFF6FF; display:inline-flex; align-items:center; justify-content:center; font-weight:800; color:#1E40AF;\">4</div>\n<div style=\"font-weight:800; color:#1E3A8A;\">Support &amp; Feedback</div>\n</div>\n<ul style=\"margin:0; padding-left:18px;\">\n<li>Questions or issues? Message us via <b>Contact Seller. </b>We reply promptly.</li>\n<li>We work hard to resolve problems before delivery is affected.</li>\n<li>Your feedback helps our small business, thank you!</li>\n<li><b>Support hours:</b> Messages monitored daily.</li>\n</ul>\n<div style=\"margin-top:10px; font-size:12px; color:#6B7280;\">We're here to help? Please reach out before leaving feedback if anything isn't right.</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!-- Mini FAQ Row -->\n<div style=\"margin-top:12px; border:1px solid #E5E7EB; border-radius:12px; padding:12px; background:#F9FAFB;\">\n<div style=\"font-weight: 800; margin-bottom: 6px;\">Quick FAQs</div>\n<ul style=\"margin:0; padding-left:18px; font-size:13px;\">\n<li><b>Where is my tracking?</b> eBay's order page shows it once dispatched.</li>\n<li><b>Change of address?</b> Please update your eBay/PayPal address <i>before</i> paying.</li>\n</ul>\n</div>\n<!-- Fine print -->\n<div style=\"font-size:12px; color:#6B7280; margin-top:10px; text-align:center;\">\n    *Dispatch time excludes weekends and public holidays. Transit times are estimates and may vary.   </div>\n</div>\n<!-- End: eBay Listing Info Block (Alt Template v2) --><div style=\"font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, Helvetica, sans-serif; color:#1f2937; line-height:1.6; font-size:14px;\">\n</div>\n<!-- End: eBay Listing Info Block (Enhanced) --><div style=\"font-family: Arial, Helvetica, sans-serif; color:#1f2937; line-height:1.55; font-size:14px;\">\n</div>\n<!-- End: Repaired eBay Info Block -->\n        </body>\n        </html>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "800161144521",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=800161144521",
+    "itemGroupTitle": "Re:Zero- Starting Life in Another World (Light Novel) Vol 1-26 English Version",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/KiQAAeSw4VlqKsiZ/s-l1600.jpg",
+      "width": 1080,
+      "height": 1080
+    },
+    "itemGroupAdditionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/WEQAAeSwnudqKsiZ/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/iDUAAeSw9FFqIvIY/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ls8AAeSwRQZqIvIY/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/95MAAeSwvLVqIvIZ/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/xEsAAeSwMd9qIvIa/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9EoAAeSwZM9qIvIZ/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/8kYAAeSw4sRqIvIZ/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/y-gAAeSwS4JqIvIa/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/yMIAAeSw7SlqIvIY/s-l1600.jpg",
+        "width": 1080,
+        "height": 1080
+      }
+    ]
+  },
+  "unitPricingMeasure": "Unit",
+  "unitPrice": {
+    "value": "13.34",
+    "currency": "USD"
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "availableCoupons": [
+    {
+      "redemptionCode": "SAVEEXTRA10",
+      "discountAmount": {
+        "value": "13.89",
+        "currency": "USD"
+      },
+      "termsWebUrl": "https://pages.ebay.com/coupon/2026/saveextra10-tcs/",
+      "message": "10% off select items. $100 minimum purchase required. Max $20 off. Ends 09/30. 2x use. While supplies last.",
+      "discountType": "ITEM_PRICE",
+      "constraint": {
+        "expirationDate": "2026-10-01T06:59:59.000Z"
+      }
+    }
+  ],
+  "legacyItemId": "800161144521",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

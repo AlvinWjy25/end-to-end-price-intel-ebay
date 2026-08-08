@@ -1,0 +1,1129 @@
+{
+  "itemId": "v1|227460755091|526644385500",
+  "sellerItemRevision": "1",
+  "title": "Mushoku Tensei - Jobless Reincarnation Light Novel Volume 1-26 English Version",
+  "shortDescription": "Mushoku Tensei: Jobless Reincarnation Manga Vol. 1–26 (English). Mushoku Tensei: Jobless Reincarnation. Manga Title Official Viz editions are much more expensive. New Release Comics. It is intended for readers who want to enjoy the story at an affordable price.",
+  "price": {
+    "value": "27.90",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "PETALING JAYA",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/RPAAAeSwU6VqcPlm/s-l1600.jpg",
+    "width": 700,
+    "height": 700
+  },
+  "itemCreationDate": "2026-08-03T20:23:09.000Z",
+  "seller": {
+    "username": "worldview7107",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 43
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 1,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 1
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Economy Shipping from outside US",
+      "type": "Economy Shipping from outside",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-09-02T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-10-01T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "Asia",
+        "regionType": "WORLD_REGION",
+        "regionId": "ASIA"
+      },
+      {
+        "regionName": "Central America and Caribbean",
+        "regionType": "WORLD_REGION",
+        "regionId": "CENTRAL_AMERICA_AND_CARIBBEAN"
+      },
+      {
+        "regionName": "Middle East",
+        "regionType": "WORLD_REGION",
+        "regionId": "MIDDLE_EAST"
+      },
+      {
+        "regionName": "Southeast Asia",
+        "regionType": "WORLD_REGION",
+        "regionId": "SOUTHEAST_ASIA"
+      },
+      {
+        "regionName": "South America",
+        "regionType": "WORLD_REGION",
+        "regionId": "SOUTH_AMERICA"
+      },
+      {
+        "regionName": "Albania",
+        "regionType": "COUNTRY",
+        "regionId": "AL"
+      },
+      {
+        "regionName": "Andorra",
+        "regionType": "COUNTRY",
+        "regionId": "AD"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Bulgaria",
+        "regionType": "COUNTRY",
+        "regionId": "BG"
+      },
+      {
+        "regionName": "Republic of Croatia",
+        "regionType": "COUNTRY",
+        "regionId": "HR"
+      },
+      {
+        "regionName": "Cyprus",
+        "regionType": "COUNTRY",
+        "regionId": "CY"
+      },
+      {
+        "regionName": "Czech Republic",
+        "regionType": "COUNTRY",
+        "regionId": "CZ"
+      },
+      {
+        "regionName": "Estonia",
+        "regionType": "COUNTRY",
+        "regionId": "EE"
+      },
+      {
+        "regionName": "Gibraltar",
+        "regionType": "COUNTRY",
+        "regionId": "GI"
+      },
+      {
+        "regionName": "Guernsey",
+        "regionType": "COUNTRY",
+        "regionId": "GG"
+      },
+      {
+        "regionName": "Hungary",
+        "regionType": "COUNTRY",
+        "regionId": "HU"
+      },
+      {
+        "regionName": "Iceland",
+        "regionType": "COUNTRY",
+        "regionId": "IS"
+      },
+      {
+        "regionName": "Jersey",
+        "regionType": "COUNTRY",
+        "regionId": "JE"
+      },
+      {
+        "regionName": "Latvia",
+        "regionType": "COUNTRY",
+        "regionId": "LV"
+      },
+      {
+        "regionName": "Malta",
+        "regionType": "COUNTRY",
+        "regionId": "MT"
+      },
+      {
+        "regionName": "Moldova",
+        "regionType": "COUNTRY",
+        "regionId": "MD"
+      },
+      {
+        "regionName": "Montenegro",
+        "regionType": "COUNTRY",
+        "regionId": "ME"
+      },
+      {
+        "regionName": "Romania",
+        "regionType": "COUNTRY",
+        "regionId": "RO"
+      },
+      {
+        "regionName": "Serbia",
+        "regionType": "COUNTRY",
+        "regionId": "RS"
+      },
+      {
+        "regionName": "Slovakia",
+        "regionType": "COUNTRY",
+        "regionId": "SK"
+      },
+      {
+        "regionName": "Slovenia",
+        "regionType": "COUNTRY",
+        "regionId": "SI"
+      },
+      {
+        "regionName": "Svalbard and Jan Mayen",
+        "regionType": "COUNTRY",
+        "regionId": "SJ"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Vatican City State",
+        "regionType": "COUNTRY",
+        "regionId": "VA"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "vol",
+      "value": "12"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Single Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Rudeus Greyrat."
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Mushoku Tensei: Jobless Reincarnation"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Malaysia Publisher"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2021"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "1-26"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Comedy, Drama, Fantasy"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/227460755091?var=526644385500",
+  "description": "<div style=\"font-family:Arial, sans-serif; line-height:1.6;\">\n\n  <!-- TITLE BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:20px; font-weight:bold; text-align:center;\">\n    Mushoku Tensei: Jobless Reincarnation Manga Vol. 1–26 (English)\n  </div>\n\n  <!-- PRODUCT DESCRIPTION -->\n  <div style=\"padding:10px;\">\n    <p><strong>Description:</strong></p>\n    <ul>\n      <li>New Release Comics</li>\n      <li>Manga Title: <em>Mushoku Tensei: Jobless Reincarnation</em></li>\n      <li>Language: English</li>\n      <li>Volumes: 1–26</li>\n    </ul>\n    <p><strong>Note for Buyers:</strong> This set is <span style=\"color:red;\">not suitable for collectors</span> because it is not published by Viz Media. Perfect for first‑time readers who want to enjoy the full story at an affordable price. All content is originally from Viz Media. Official Viz editions are much more expensive.</p>\n  </div>\n\n  <!-- PRODUCT DETAILS BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:18px; font-weight:bold;\">\n    Product Details\n  </div>\n\n  <div style=\"padding:10px;\">\n    <ul>\n      <li><strong>Format:</strong> Paperback</li>\n      <li><strong>Paper Material:</strong> Bookpaper</li>\n      <li><strong>Content:</strong> Black and White</li>\n      <li><strong>Language:</strong> English</li>\n      <li><strong>Cover:</strong> Doff Laminate</li>\n      <li><strong>Size:</strong> 14.8 × 21 cm (A5)</li>\n    </ul>\n  </div>\n\n  <!-- SHIPPING BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:18px; font-weight:bold;\">\n    Shipping &amp; Handling\n  </div>\n\n  <div style=\"padding:10px;\">\n    <p>✔️ <strong>Free Shipping</strong> on all orders.</p>\n    <p>✔️ <strong>USA Duty Paid</strong> – no extra charges upon delivery.</p>\n    <p>Handling time: 1–10 business days.</p>\n    <p>Economy shipping: 11–23 business days (tracking provided).</p>\n    <p>Expedited shipping available on selected listings.</p>\n  </div>\n\n  <!-- PAYMENT BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:18px; font-weight:bold;\">\n    Payment Methods\n  </div>\n\n  <div style=\"padding:10px;\">\n    <p>We accept PayPal and major credit cards through PayPal checkout. Secure transactions guaranteed.</p>\n  </div>\n\n  <!-- REFUNDS & RETURNS BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:18px; font-weight:bold;\">\n    Refunds &amp; Returns\n  </div>\n\n  <div style=\"padding:10px;\">\n    <p>✔️ 30‑Day Return Policy.</p>\n    <p>If you are not satisfied, please contact us directly before leaving feedback. We will resolve any issues quickly and professionally.</p>\n    <p>Items must be returned in original condition for a full refund.</p>\n  </div>\n\n  <!-- GUARANTEE BANNER -->\n  <div style=\"background:#000; color:#fff; padding:10px; font-size:18px; font-weight:bold;\">\n    100% Satisfaction Guarantee\n  </div>\n\n  <div style=\"padding:10px;\">\n    <p>We stand behind our products. If you encounter any problem, reach out to us immediately. We will provide support and ensure your satisfaction before feedback is required.</p>\n  </div>\n\n  <!-- DISCLAIMER -->\n  <div style=\"padding:10px; font-size:11px; color:#555;\">\n    <p><em>Disclaimer: This set is not an official Viz Media publication. It is intended for readers who want to enjoy the story at an affordable price. Not recommended for collectors.</em></p>\n  </div>\n\n</div>\n",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": false,
+  "primaryItemGroup": {
+    "itemGroupId": "227460755091",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=227460755091",
+    "itemGroupTitle": "Mushoku Tensei - Jobless Reincarnation Light Novel Volume 1-26 English Version",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/p10AAeSw3QFqcPJz/s-l1600.jpg",
+      "width": 682,
+      "height": 732
+    }
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "legacyItemId": "227460755091",
+  "priorityListing": false,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

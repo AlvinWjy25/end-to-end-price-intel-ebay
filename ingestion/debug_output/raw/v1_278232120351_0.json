@@ -1,0 +1,1945 @@
+{
+  "itemId": "v1|278232120351|0",
+  "sellerItemRevision": "6",
+  "title": "Classroom of the Elite (Light Novel) Vol. 11, Kinugasa, Syougo, Good Book",
+  "shortDescription": "Authors : Kinugasa, Syougo. Classroom of the Elite (Light Novel) Vol. Title : Classroom of the Elite (Light Novel) Vol. Product Category : Books. Binding : paperback. Condition : Good. List Price (MSRP) : 15.99.",
+  "price": {
+    "value": "9.99",
+    "currency": "USD"
+  },
+  "categoryPath": "Books & Magazines|Books",
+  "categoryIdPath": "267|261186",
+  "condition": "Good",
+  "conditionId": "5000",
+  "conditionDescription": "Bruise/tear to cover.",
+  "itemLocation": {
+    "city": "McKeesport",
+    "stateOrProvince": "Pennsylvania",
+    "postalCode": "151**",
+    "country": "US"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/Cm4AAeSwSApqa7TB/s-l1600.jpg",
+    "width": 1123,
+    "height": 1600
+  },
+  "itemCreationDate": "2026-07-30T20:28:52.000Z",
+  "seller": {
+    "username": "bellwetherbooks_usa",
+    "feedbackPercentage": "99.7",
+    "feedbackScore": 228957
+  },
+  "gtin": "9781648273612",
+  "epid": "22050407794",
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 1,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 1
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Economy Shipping",
+      "type": "Economy Shipping",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-14T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-20T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "United States",
+        "regionType": "COUNTRY",
+        "regionId": "US"
+      },
+      {
+        "regionName": "Denmark",
+        "regionType": "COUNTRY",
+        "regionId": "DK"
+      },
+      {
+        "regionName": "Guatemala",
+        "regionType": "COUNTRY",
+        "regionId": "GT"
+      },
+      {
+        "regionName": "New Zealand",
+        "regionType": "COUNTRY",
+        "regionId": "NZ"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Vatican City State",
+        "regionType": "COUNTRY",
+        "regionId": "VA"
+      },
+      {
+        "regionName": "Sierra Leone",
+        "regionType": "COUNTRY",
+        "regionId": "SL"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Anguilla",
+        "regionType": "COUNTRY",
+        "regionId": "AI"
+      },
+      {
+        "regionName": "El Salvador",
+        "regionType": "COUNTRY",
+        "regionId": "SV"
+      },
+      {
+        "regionName": "Gambia",
+        "regionType": "COUNTRY",
+        "regionId": "GM"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Dominican Republic",
+        "regionType": "COUNTRY",
+        "regionId": "DO"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "Cameroon",
+        "regionType": "COUNTRY",
+        "regionId": "CM"
+      },
+      {
+        "regionName": "Guyana",
+        "regionType": "COUNTRY",
+        "regionId": "GY"
+      },
+      {
+        "regionName": "Poland",
+        "regionType": "COUNTRY",
+        "regionId": "PL"
+      },
+      {
+        "regionName": "Suriname",
+        "regionType": "COUNTRY",
+        "regionId": "SR"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Kenya",
+        "regionType": "COUNTRY",
+        "regionId": "KE"
+      },
+      {
+        "regionName": "Argentina",
+        "regionType": "COUNTRY",
+        "regionId": "AR"
+      },
+      {
+        "regionName": "San Marino",
+        "regionType": "COUNTRY",
+        "regionId": "SM"
+      },
+      {
+        "regionName": "Guinea-Bissau",
+        "regionType": "COUNTRY",
+        "regionId": "GW"
+      },
+      {
+        "regionName": "Senegal",
+        "regionType": "COUNTRY",
+        "regionId": "SN"
+      },
+      {
+        "regionName": "Togo",
+        "regionType": "COUNTRY",
+        "regionId": "TG"
+      },
+      {
+        "regionName": "Saint Kitts-Nevis",
+        "regionType": "COUNTRY",
+        "regionId": "KN"
+      },
+      {
+        "regionName": "Morocco",
+        "regionType": "COUNTRY",
+        "regionId": "MA"
+      },
+      {
+        "regionName": "Ireland",
+        "regionType": "COUNTRY",
+        "regionId": "IE"
+      },
+      {
+        "regionName": "Burundi",
+        "regionType": "COUNTRY",
+        "regionId": "BI"
+      },
+      {
+        "regionName": "Saint Vincent and the Grenadines",
+        "regionType": "COUNTRY",
+        "regionId": "VC"
+      },
+      {
+        "regionName": "Netherlands",
+        "regionType": "COUNTRY",
+        "regionId": "NL"
+      },
+      {
+        "regionName": "Slovakia",
+        "regionType": "COUNTRY",
+        "regionId": "SK"
+      },
+      {
+        "regionName": "Slovenia",
+        "regionType": "COUNTRY",
+        "regionId": "SI"
+      },
+      {
+        "regionName": "Equatorial Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "GQ"
+      },
+      {
+        "regionName": "Thailand",
+        "regionType": "COUNTRY",
+        "regionId": "TH"
+      },
+      {
+        "regionName": "Mauritania",
+        "regionType": "COUNTRY",
+        "regionId": "MR"
+      },
+      {
+        "regionName": "Belize",
+        "regionType": "COUNTRY",
+        "regionId": "BZ"
+      },
+      {
+        "regionName": "Philippines",
+        "regionType": "COUNTRY",
+        "regionId": "PH"
+      },
+      {
+        "regionName": "Aruba",
+        "regionType": "COUNTRY",
+        "regionId": "AW"
+      },
+      {
+        "regionType": "COUNTRY",
+        "regionId": "UY"
+      },
+      {
+        "regionName": "Republic of the Congo",
+        "regionType": "COUNTRY",
+        "regionId": "CG"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Sweden",
+        "regionType": "COUNTRY",
+        "regionId": "SE"
+      },
+      {
+        "regionName": "Colombia",
+        "regionType": "COUNTRY",
+        "regionId": "CO"
+      },
+      {
+        "regionName": "Spain",
+        "regionType": "COUNTRY",
+        "regionId": "ES"
+      },
+      {
+        "regionName": "Iceland",
+        "regionType": "COUNTRY",
+        "regionId": "IS"
+      },
+      {
+        "regionName": "Estonia",
+        "regionType": "COUNTRY",
+        "regionId": "EE"
+      },
+      {
+        "regionName": "Macedonia",
+        "regionType": "COUNTRY",
+        "regionId": "MK"
+      },
+      {
+        "regionName": "Belgium",
+        "regionType": "COUNTRY",
+        "regionId": "BE"
+      },
+      {
+        "regionName": "Liechtenstein",
+        "regionType": "COUNTRY",
+        "regionId": "LI"
+      },
+      {
+        "regionName": "Benin",
+        "regionType": "COUNTRY",
+        "regionId": "BJ"
+      },
+      {
+        "regionName": "Algeria",
+        "regionType": "COUNTRY",
+        "regionId": "DZ"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Montserrat",
+        "regionType": "COUNTRY",
+        "regionId": "MS"
+      },
+      {
+        "regionName": "Zambia",
+        "regionType": "COUNTRY",
+        "regionId": "ZM"
+      },
+      {
+        "regionName": "South Korea",
+        "regionType": "COUNTRY",
+        "regionId": "KR"
+      },
+      {
+        "regionName": "Antigua and Barbuda",
+        "regionType": "COUNTRY",
+        "regionId": "AG"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Ecuador",
+        "regionType": "COUNTRY",
+        "regionId": "EC"
+      },
+      {
+        "regionName": "Italy",
+        "regionType": "COUNTRY",
+        "regionId": "IT"
+      },
+      {
+        "regionName": "Albania",
+        "regionType": "COUNTRY",
+        "regionId": "AL"
+      },
+      {
+        "regionName": "Swaziland",
+        "regionType": "COUNTRY",
+        "regionId": "SZ"
+      },
+      {
+        "regionName": "Ethiopia",
+        "regionType": "COUNTRY",
+        "regionId": "ET"
+      },
+      {
+        "regionName": "Monaco",
+        "regionType": "COUNTRY",
+        "regionId": "MC"
+      },
+      {
+        "regionName": "Niger",
+        "regionType": "COUNTRY",
+        "regionId": "NE"
+      },
+      {
+        "regionName": "Tanzania",
+        "regionType": "COUNTRY",
+        "regionId": "TZ"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Burkina Faso",
+        "regionType": "COUNTRY",
+        "regionId": "BF"
+      },
+      {
+        "regionName": "Panama",
+        "regionType": "COUNTRY",
+        "regionId": "PA"
+      },
+      {
+        "regionName": "Singapore",
+        "regionType": "COUNTRY",
+        "regionId": "SG"
+      },
+      {
+        "regionName": "Switzerland",
+        "regionType": "COUNTRY",
+        "regionId": "CH"
+      },
+      {
+        "regionName": "Ghana",
+        "regionType": "COUNTRY",
+        "regionId": "GH"
+      },
+      {
+        "regionName": "Djibouti",
+        "regionType": "COUNTRY",
+        "regionId": "DJ"
+      },
+      {
+        "regionName": "Puerto Rico",
+        "regionType": "COUNTRY",
+        "regionId": "PR"
+      },
+      {
+        "regionName": "Chile",
+        "regionType": "COUNTRY",
+        "regionId": "CL"
+      },
+      {
+        "regionName": "Cape Verde Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CV"
+      },
+      {
+        "regionName": "Mali",
+        "regionType": "COUNTRY",
+        "regionId": "ML"
+      },
+      {
+        "regionName": "Republic of Croatia",
+        "regionType": "COUNTRY",
+        "regionId": "HR"
+      },
+      {
+        "regionName": "Botswana",
+        "regionType": "COUNTRY",
+        "regionId": "BW"
+      },
+      {
+        "regionName": "Madagascar",
+        "regionType": "COUNTRY",
+        "regionId": "MG"
+      },
+      {
+        "regionName": "Indonesia",
+        "regionType": "COUNTRY",
+        "regionId": "ID"
+      },
+      {
+        "regionName": "Portugal",
+        "regionType": "COUNTRY",
+        "regionId": "PT"
+      },
+      {
+        "regionName": "Malta",
+        "regionType": "COUNTRY",
+        "regionId": "MT"
+      },
+      {
+        "regionName": "Cayman Islands",
+        "regionType": "COUNTRY",
+        "regionId": "KY"
+      },
+      {
+        "regionName": "Paraguay",
+        "regionType": "COUNTRY",
+        "regionId": "PY"
+      },
+      {
+        "regionName": "Cyprus",
+        "regionType": "COUNTRY",
+        "regionId": "CY"
+      },
+      {
+        "regionName": "Seychelles",
+        "regionType": "COUNTRY",
+        "regionId": "SC"
+      },
+      {
+        "regionName": "Liberia",
+        "regionType": "COUNTRY",
+        "regionId": "LR"
+      },
+      {
+        "regionName": "Rwanda",
+        "regionType": "COUNTRY",
+        "regionId": "RW"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "Bolivia",
+        "regionType": "COUNTRY",
+        "regionId": "BO"
+      },
+      {
+        "regionName": "Maldives",
+        "regionType": "COUNTRY",
+        "regionId": "MV"
+      },
+      {
+        "regionName": "Australia",
+        "regionType": "COUNTRY",
+        "regionId": "AU"
+      },
+      {
+        "regionName": "Austria",
+        "regionType": "COUNTRY",
+        "regionId": "AT"
+      },
+      {
+        "regionName": "Gibraltar",
+        "regionType": "COUNTRY",
+        "regionId": "GI"
+      },
+      {
+        "regionName": "Sri Lanka",
+        "regionType": "COUNTRY",
+        "regionId": "LK"
+      },
+      {
+        "regionName": "Gabon Republic",
+        "regionType": "COUNTRY",
+        "regionId": "GA"
+      },
+      {
+        "regionName": "Lesotho",
+        "regionType": "COUNTRY",
+        "regionId": "LS"
+      },
+      {
+        "regionName": "Nigeria",
+        "regionType": "COUNTRY",
+        "regionId": "NG"
+      },
+      {
+        "regionName": "Mauritius",
+        "regionType": "COUNTRY",
+        "regionId": "MU"
+      },
+      {
+        "regionName": "Saint Lucia",
+        "regionType": "COUNTRY",
+        "regionId": "LC"
+      },
+      {
+        "regionName": "Bulgaria",
+        "regionType": "COUNTRY",
+        "regionId": "BG"
+      },
+      {
+        "regionName": "Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "GN"
+      },
+      {
+        "regionName": "Czech Republic",
+        "regionType": "COUNTRY",
+        "regionId": "CZ"
+      },
+      {
+        "regionName": "Norway",
+        "regionType": "COUNTRY",
+        "regionId": "NO"
+      },
+      {
+        "regionName": "Canada",
+        "regionType": "COUNTRY",
+        "regionId": "CA"
+      },
+      {
+        "regionName": "Côte d'Ivoire (Ivory Coast)",
+        "regionType": "COUNTRY",
+        "regionId": "CI"
+      },
+      {
+        "regionName": "Turks and Caicos Islands",
+        "regionType": "COUNTRY",
+        "regionId": "TC"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Andorra",
+        "regionType": "COUNTRY",
+        "regionId": "AD"
+      },
+      {
+        "regionName": "Grenada",
+        "regionType": "COUNTRY",
+        "regionId": "GD"
+      },
+      {
+        "regionName": "Romania",
+        "regionType": "COUNTRY",
+        "regionId": "RO"
+      },
+      {
+        "regionName": "Greece",
+        "regionType": "COUNTRY",
+        "regionId": "GR"
+      },
+      {
+        "regionName": "Costa Rica",
+        "regionType": "COUNTRY",
+        "regionId": "CR"
+      },
+      {
+        "regionName": "India",
+        "regionType": "COUNTRY",
+        "regionId": "IN"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Serbia",
+        "regionType": "COUNTRY",
+        "regionId": "RS"
+      },
+      {
+        "regionName": "Montenegro",
+        "regionType": "COUNTRY",
+        "regionId": "ME"
+      },
+      {
+        "regionName": "Japan",
+        "regionType": "COUNTRY",
+        "regionId": "JP"
+      },
+      {
+        "regionName": "Nepal",
+        "regionType": "COUNTRY",
+        "regionId": "NP"
+      },
+      {
+        "regionName": "Lithuania",
+        "regionType": "COUNTRY",
+        "regionId": "LT"
+      },
+      {
+        "regionName": "Bahamas",
+        "regionType": "COUNTRY",
+        "regionId": "BS"
+      },
+      {
+        "regionName": "Trinidad and Tobago",
+        "regionType": "COUNTRY",
+        "regionId": "TT"
+      },
+      {
+        "regionName": "United Kingdom",
+        "regionType": "COUNTRY",
+        "regionId": "GB"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Malawi",
+        "regionType": "COUNTRY",
+        "regionId": "MW"
+      },
+      {
+        "regionName": "Hungary",
+        "regionType": "COUNTRY",
+        "regionId": "HU"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Angola",
+        "regionType": "COUNTRY",
+        "regionId": "AO"
+      },
+      {
+        "regionName": "Finland",
+        "regionType": "COUNTRY",
+        "regionId": "FI"
+      },
+      {
+        "regionName": "Tunisia",
+        "regionType": "COUNTRY",
+        "regionId": "TN"
+      },
+      {
+        "regionName": "Luxembourg",
+        "regionType": "COUNTRY",
+        "regionId": "LU"
+      },
+      {
+        "regionName": "Uganda",
+        "regionType": "COUNTRY",
+        "regionId": "UG"
+      },
+      {
+        "regionName": "Brazil",
+        "regionType": "COUNTRY",
+        "regionId": "BR"
+      },
+      {
+        "regionName": "Turkey",
+        "regionType": "COUNTRY",
+        "regionId": "TR"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "France",
+        "regionType": "COUNTRY",
+        "regionId": "FR"
+      },
+      {
+        "regionName": "Germany",
+        "regionType": "COUNTRY",
+        "regionId": "DE"
+      },
+      {
+        "regionName": "Latvia",
+        "regionType": "COUNTRY",
+        "regionId": "LV"
+      },
+      {
+        "regionName": "Jamaica",
+        "regionType": "COUNTRY",
+        "regionId": "JM"
+      },
+      {
+        "regionName": "Mozambique",
+        "regionType": "COUNTRY",
+        "regionId": "MZ"
+      },
+      {
+        "regionName": "Namibia",
+        "regionType": "COUNTRY",
+        "regionId": "NA"
+      },
+      {
+        "regionName": "Peru",
+        "regionType": "COUNTRY",
+        "regionId": "PE"
+      },
+      {
+        "regionName": "Virgin Islands (U.S.)",
+        "regionType": "COUNTRY",
+        "regionId": "VI"
+      },
+      {
+        "regionName": "Honduras",
+        "regionType": "COUNTRY",
+        "regionId": "HN"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Saint Helena",
+        "regionType": "COUNTRY",
+        "regionId": "SH"
+      },
+      {
+        "regionName": "Libya",
+        "regionType": "COUNTRY",
+        "regionId": "LY"
+      },
+      {
+        "regionName": "Central African Republic",
+        "regionType": "COUNTRY",
+        "regionId": "CF"
+      },
+      {
+        "regionName": "Mayotte",
+        "regionType": "COUNTRY",
+        "regionId": "YT"
+      },
+      {
+        "regionName": "Zimbabwe",
+        "regionType": "COUNTRY",
+        "regionId": "ZW"
+      },
+      {
+        "regionName": "Chad",
+        "regionType": "COUNTRY",
+        "regionId": "TD"
+      },
+      {
+        "regionName": "Eritrea",
+        "regionType": "COUNTRY",
+        "regionId": "ER"
+      },
+      {
+        "regionName": "Democratic Republic of the Congo",
+        "regionType": "COUNTRY",
+        "regionId": "CD"
+      },
+      {
+        "regionName": "Western Sahara",
+        "regionType": "COUNTRY",
+        "regionId": "EH"
+      },
+      {
+        "regionName": "Comoros",
+        "regionType": "COUNTRY",
+        "regionId": "KM"
+      },
+      {
+        "regionName": "Somalia",
+        "regionType": "COUNTRY",
+        "regionId": "SO"
+      },
+      {
+        "regionName": "Egypt",
+        "regionType": "COUNTRY",
+        "regionId": "EG"
+      },
+      {
+        "regionName": "South Africa",
+        "regionType": "COUNTRY",
+        "regionId": "ZA"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Kazakhstan",
+        "regionType": "COUNTRY",
+        "regionId": "KZ"
+      },
+      {
+        "regionName": "Mongolia",
+        "regionType": "COUNTRY",
+        "regionId": "MN"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "Tajikistan",
+        "regionType": "COUNTRY",
+        "regionId": "TJ"
+      },
+      {
+        "regionName": "Azerbaijan Republic",
+        "regionType": "COUNTRY",
+        "regionId": "AZ"
+      },
+      {
+        "regionName": "Georgia",
+        "regionType": "COUNTRY",
+        "regionId": "GE"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Armenia",
+        "regionType": "COUNTRY",
+        "regionId": "AM"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "regionType": "COUNTRY",
+        "regionId": "UZ"
+      },
+      {
+        "regionName": "Bhutan",
+        "regionType": "COUNTRY",
+        "regionId": "BT"
+      },
+      {
+        "regionName": "Kyrgyzstan",
+        "regionType": "COUNTRY",
+        "regionId": "KG"
+      },
+      {
+        "regionName": "Hong Kong",
+        "regionType": "COUNTRY",
+        "regionId": "HK"
+      },
+      {
+        "regionName": "Taiwan",
+        "regionType": "COUNTRY",
+        "regionId": "TW"
+      },
+      {
+        "regionName": "Macau",
+        "regionType": "COUNTRY",
+        "regionId": "MO"
+      },
+      {
+        "regionName": "Cambodia",
+        "regionType": "COUNTRY",
+        "regionId": "KH"
+      },
+      {
+        "regionName": "Vietnam",
+        "regionType": "COUNTRY",
+        "regionId": "VN"
+      },
+      {
+        "regionName": "Laos",
+        "regionType": "COUNTRY",
+        "regionId": "LA"
+      },
+      {
+        "regionName": "Brunei Darussalam",
+        "regionType": "COUNTRY",
+        "regionId": "BN"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "Oman",
+        "regionType": "COUNTRY",
+        "regionId": "OM"
+      },
+      {
+        "regionName": "United Arab Emirates",
+        "regionType": "COUNTRY",
+        "regionId": "AE"
+      },
+      {
+        "regionName": "Qatar",
+        "regionType": "COUNTRY",
+        "regionId": "QA"
+      },
+      {
+        "regionName": "Saudi Arabia",
+        "regionType": "COUNTRY",
+        "regionId": "SA"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Kuwait",
+        "regionType": "COUNTRY",
+        "regionId": "KW"
+      },
+      {
+        "regionName": "Lebanon",
+        "regionType": "COUNTRY",
+        "regionId": "LB"
+      },
+      {
+        "regionName": "Jordan",
+        "regionType": "COUNTRY",
+        "regionId": "JO"
+      },
+      {
+        "regionName": "Bahrain",
+        "regionType": "COUNTRY",
+        "regionId": "BH"
+      },
+      {
+        "regionName": "Netherlands Antilles",
+        "regionType": "COUNTRY",
+        "regionId": "AN"
+      },
+      {
+        "regionName": "Guadeloupe",
+        "regionType": "COUNTRY",
+        "regionId": "GP"
+      },
+      {
+        "regionName": "Dominica",
+        "regionType": "COUNTRY",
+        "regionId": "DM"
+      },
+      {
+        "regionName": "Nicaragua",
+        "regionType": "COUNTRY",
+        "regionId": "NI"
+      },
+      {
+        "regionName": "British Virgin Islands",
+        "regionType": "COUNTRY",
+        "regionId": "VG"
+      },
+      {
+        "regionName": "Haiti",
+        "regionType": "COUNTRY",
+        "regionId": "HT"
+      },
+      {
+        "regionName": "Moldova",
+        "regionType": "COUNTRY",
+        "regionId": "MD"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Svalbard and Jan Mayen",
+        "regionType": "COUNTRY",
+        "regionId": "SJ"
+      },
+      {
+        "regionName": "Guernsey",
+        "regionType": "COUNTRY",
+        "regionId": "GG"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Jersey",
+        "regionType": "COUNTRY",
+        "regionId": "JE"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Falkland Islands (Islas Malvinas)",
+        "regionType": "COUNTRY",
+        "regionId": "FK"
+      },
+      {
+        "regionName": "Venezuela",
+        "regionType": "COUNTRY",
+        "regionId": "VE"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Reunion",
+        "regionType": "COUNTRY",
+        "regionId": "RE"
+      },
+      {
+        "regionName": "Barbados",
+        "regionType": "COUNTRY",
+        "regionId": "BB"
+      },
+      {
+        "regionName": "Martinique",
+        "regionType": "COUNTRY",
+        "regionId": "MQ"
+      },
+      {
+        "regionName": "French Guiana",
+        "regionType": "COUNTRY",
+        "regionId": "GF"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnMethod": "REPLACEMENT",
+    "returnShippingCostPayer": "SELLER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "ISBN",
+      "value": "9781648273612"
+    },
+    {
+      "type": "STRING",
+      "name": "Book Title",
+      "value": "Classroom of the Elite (Light Novel) Vol. 11"
+    },
+    {
+      "type": "STRING",
+      "name": "Book Series",
+      "value": "Classroom of the Elite (Light Novel) Ser."
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Seven Seas Entertainment, LLC"
+    },
+    {
+      "type": "STRING",
+      "name": "Item Length",
+      "value": "7.1 in"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2022"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Trade Paperback"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Illustrator",
+      "value": "Yes"
+    },
+    {
+      "type": "STRING",
+      "name": "Item Height",
+      "value": "1.1 in"
+    },
+    {
+      "type": "STRING",
+      "name": "Author",
+      "value": "Syougo Kinugasa"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Juvenile Fiction, Fiction"
+    },
+    {
+      "type": "STRING",
+      "name": "Topic",
+      "value": "Thrillers / Psychological, General, Media Tie-In"
+    },
+    {
+      "type": "STRING",
+      "name": "Item Weight",
+      "value": "11.6 Oz"
+    },
+    {
+      "type": "STRING",
+      "name": "Item Width",
+      "value": "5 in"
+    },
+    {
+      "type": "STRING",
+      "name": "Number of Pages",
+      "value": "448 Pages"
+    }
+  ],
+  "primaryProductReviewRating": {
+    "reviewCount": 0,
+    "averageRating": "0.0",
+    "ratingHistograms": [
+      {
+        "rating": "5",
+        "count": 0
+      },
+      {
+        "rating": "4",
+        "count": 0
+      },
+      {
+        "rating": "3",
+        "count": 0
+      },
+      {
+        "rating": "2",
+        "count": 0
+      },
+      {
+        "rating": "1",
+        "count": 0
+      }
+    ]
+  },
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/278232120351?amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xBhjOeT0Xs%2FRtTaTIoKCwB0sYR04CTFFk4zdq5Hh8bQxlTlm%2FBodTvd7uB%2BwVPmvp0DLQXavNpnMILPH3NXXIos5F0mhcvYyBVXyXWvT8p%2BskiuhRfOwnF1J7wixCXh8SNBLD1ozm9Qj2sfEVnQaJ5FBK7V8uUcB8C5sCDlilmRPEIJtUYQ0lh1G6UM7nPxWeM%3D",
+  "description": "<html>\n<head>\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n</head>\n<body>\n    <div id=\"monsoon-ebay-template-light\">\n        <div id=\"monsoon-ebay-template-light-body-top-cap\"></div>\n        <div id=\"monsoon-ebay-template-light-body-middle\">\n            <div id=\"monsoon-ebay-template-light-header\">\n                <div id=\"monsoon-ebay-template-light-header-menu\">\n                    <a href=\"#seller_payment\">payment</a>\n                    |\n                    <a href=\"#seller_shipping\">shipping rates</a>\n                    |\n                    <a href=\"#seller_returns\">returns</a>\n                </div>\n            </div>\n            <div id=\"monsoon-ebay-template-light-body\">\n                <div id=\"monsoon-ebay-template-light-body-product\">\n                    <h1>Classroom of the Elite (Light Novel) Vol. 11</h1>\n                    <dl id=\"monsoon-ebay-template-light-body-product-details\">\n                        <b>Product Category :&nbsp;</b>Books<br><b>ISBN :&nbsp;</b>1648273610<br><b>Title :&nbsp;</b>Classroom of the Elite (Light Novel) Vol. 11<br><b>EAN :&nbsp;</b>9781648273612<br><b>Product Subcategory :&nbsp;</b>TV, Movie & Game Tie-In Fiction<br><b>Authors :&nbsp;</b>Kinugasa, Syougo<br><b>Binding :&nbsp;</b>paperback<br><b>Publisher :&nbsp;</b>Airship<br><b>Publication Date :&nbsp;</b>5/10/2022 12:00:01 A<br><b>Pages :&nbsp;</b>448<br><b>Signed :&nbsp;</b>False<br><b>First Edition :&nbsp;</b>False<br><b>Dust Jacket :&nbsp;</b>False<br><b>List Price (MSRP) :&nbsp;</b>15.99 <br><b>Height :&nbsp;</b>1.6500 inches<br><b>Width :&nbsp;</b>5.0000 inches<br><b>Length :&nbsp;</b>7.0900 inches<br><b>Weight :&nbsp;</b>0.7297 pounds<br><b>Condition :&nbsp;</b>Good<br>\n                        <br />Bruise/tear to cover.\n                    </dl>\n                </div>\n                <h1>About Bellwether Books</h1>\n                <p>\n                    <!-- ABOUT COMPANY INFORMATION HERE -->\n                    Our company is dedicated to providing you with the best quality, lowest cost products on eBay.\n                    <!-- END ABOUT COMPANY INFORMATION -->\n                </p>\n                <a name=\"seller_payment\"></a>\n                <h1>Payment</h1>\n                <p>\n                    <!-- PAYMENT INFORMATION HERE -->\n                    Please see payment details below.\n                    <!-- END PAYMENT INFORMATION -->\n                </p>\n                <a name=\"seller_shipping\"></a>\n                <h1>Shipping</h1>\n                <p>\n                    <!-- SHIPPING INFORMATION HERE -->\n                    Multiple shipping options are available for this item. For more detail, please see below, and select the shipping option that is most convenient for you.\n                <p />\n                <p>\n                    International Shipping:  Import duties, taxes, and charges are NOT INCLUDED in the item price or shipping charges. These charges are the buyer's responsibility. Please check with your country's customs office to determine what these additional costs will be prior to bidding / buying. These charges are normally collected by the delivering freight (shipping) company or when you pick the item up  do not confuse them for additional shipping charges. We do not mark merchandise values below value or mark items as \"gifts.\"  US and International government regulations prohibit such behavior.\n                </p>\n                <!-- END SHIPPING INFORMATION -->\n                <a name=\"seller_returns\"></a>\n                <h1>Returns</h1>\n                <p>\n                    <!-- RETURNS INFORMATION HERE -->\n                    Your satisfaction is very important to us. Please contact us via the methods available within eBay regarding any problems before leaving negative feedback. Any defects, damages, or material differences with your item, must be reported to us within 7 days of receipt of the item or 30 days from date of shipment.\n                </p>\n                <p>\n                    The returned merchandise must be postmarked within 30 days of the shipment notification. Non-deliveries must be reported within 30 days of Shipment Notification. \n                    <!-- END RETURNS INFORMATION -->\n                </p>\n                <br />\n            </div>\n            <div id=\"monsoon-ebay-template-light-footer\">\n                <div id=\"monsoon-ebay-template-light-footer-copyright\">\n                    &copy; 2026 Bellwether Books\n                </div>\n                <br style=\"clear:both;\" />\n            </div>\n        </div>\n        <div id=\"monsoon-ebay-template-light-body-bottom-cap\"></div>\n    </div>\n\n    <!-- ################## NO CHANGES BEYOND THIS POINT! ################### -->\n    <style>\n        @media screen and (min-width: 320px) and (max-width: 800px) {\n            #monsoon-ebay-template-light {\n                background: #ced3b9;\n                font-family: Arial MT, Arial, Helvetica, san-serif;\n                font-size: 12px;\n                color: #63635f;\n                text-align: center;\n            }\n\n            #monsoon-ebay-template-light-header, #monsoon-ebay-template-light-header-menu, #monsoon-ebay-template-light-header-logo {\n                height: 100px;\n            }\n\n            #monsoon-ebay-template-light-header-menu a {\n                color: #647860;\n                text-decoration: none;\n                margin: 0 7px;\n            }\n\n            #monsoon-ebay-template-light-header-menu a:hover {\n                text-decoration: underline;\n            }\n\n            #monsoon-ebay-template-light-body {\n                text-align: left;\n            }\n\n            #monsoon-ebay-template-light-body h1 {\n                font-size: 17px;\n                color: #575919;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h1 {\n                color: #8aab00;\n                font-size: 20px;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h2 {\n                margin: 0;\n                font-weight: normal;\n                font-size: 15px;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details {\n                background: #f1f2f0;\n                padding: 1em;\n                width: 93%;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd:after {\n                content: \"\\00A0\";\n            }\n\n            #monsoon-ebay-template-light-footer-copyright {\n                font-size: 12px;\n                font-weight: bold;\n                color: #647860;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-body-top-cap, #monsoon-ebay-template-light-body-bottom-cap {\n                width: 100%;\n                height: 16px;\n                margin: 0 auto;\n            }\n\n            #monsoon-ebay-template-light-body-middle {\n                width: 100%;\n                background: #fff;\n                text-align: left;\n                margin: 0 auto;\n            }\n\n            #monsoon-ebay-template-light-header-menu {\n                width: 90%;\n                float: left;\n                margin: 0;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-header-logo {\n                width: 300px;\n                float: right;\n                margin: 0;\n                text-align: right;\n            }\n\n            #monsoon-ebay-template-light-header, #monsoon-ebay-template-light-body, #monsoon-ebay-template-light-footer {\n                width: 97% !important;\n                margin-right: 20px;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-footer {\n                padding-left: 10px !important;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dt {\n                float: left;\n                clear: left;\n                text-align: right;\n                width: 100px;\n                font-weight: bold;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd {\n                margin: 0 0 0 110px;\n            }\n\n            #monsoon-ebay-template-light-body p {\n                margin-right: 20px !important;\n                text-align: justify;\n                padding-left: 0px;\n            }\n        }\n\n        @media screen and (min-width: 801px) {\n            #monsoon-ebay-template-light {\n                background: #ced3b9;\n                margin: 0;\n                padding: 20px 0;\n                font-family: Arial MT, Arial, Helvetica, san-serif;\n                font-size: 12px;\n                color: #63635f;\n                text-align: center;\n            }\n\n            #monsoon-ebay-template-light-header, #monsoon-ebay-template-light-header-menu, #monsoon-ebay-template-light-header-logo {\n                height: 100px;\n            }\n\n            #monsoon-ebay-template-light-header-menu a {\n                color: #647860;\n                text-decoration: none;\n                margin: 0 7px;\n            }\n\n            #monsoon-ebay-template-light-header-menu a:hover {\n                text-decoration: underline;\n            }\n\n            #monsoon-ebay-template-light-body {\n                text-align: left;\n            }\n\n            #monsoon-ebay-template-light-body h1 {\n                font-size: 17px;\n                color: #575919;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h1 {\n                color: #8aab00;\n                margin: 0;\n                font-size: 20px;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h2 {\n                margin: 0;\n                font-weight: normal;\n                font-size: 15px;\n                padding-left: 0px;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details {\n                background: #f1f2f0;\n                margin: 10px 0;\n                padding: 1em;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd:after {\n                content: \"\\00A0\";\n            }\n\n            #monsoon-ebay-template-light-footer-copyright {\n                font-size: 12px;\n                font-weight: bold;\n                color: #647860;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-body-top-cap, #monsoon-ebay-template-light-body-bottom-cap {\n                width: 854px;\n                height: 16px;\n                margin: 0 auto;\n            }\n\n            #monsoon-ebay-template-light-body-middle {\n                width: 854px;\n                background: #fff;\n                text-align: left;\n                margin: 0 auto;\n            }\n\n            #monsoon-ebay-template-light-header-menu {\n                width: 400px;\n                float: left;\n                margin: 0;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-header-logo {\n                width: 414px;\n                float: right;\n                margin: 0;\n                text-align: right;\n            }\n\n            #monsoon-ebay-template-light-header, #monsoon-ebay-template-light-body, #monsoon-ebay-template-light-footer {\n                width: 814px;\n                margin: 0 20px;\n                padding: 0;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dt {\n                float: left;\n                clear: left;\n                text-align: right;\n                width: 100px;\n                font-weight: bold;\n            }\n\n            #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd {\n                margin: 0 0 0 110px;\n            }\n\n            #monsoon-ebay-template-light-body p {\n                margin-right: 20px !important;\n                text-align: justify;\n                padding-left: 0px;\n            }\n        }\n\n        #monsoon-ebay-template-light {\n            background: #ced3b9;\n            margin: 0;\n            padding: 20px 0;\n            font-family: Arial MT, Arial, Helvetica, san-serif;\n            font-size: 12px;\n            color: #63635f;\n            text-align: center;\n        }\n\n        #monsoon-ebay-template-light-header-menu {\n            height: 100px;\n        }\n\n        #monsoon-ebay-template-light-header-menu a {\n            color: #647860;\n            text-decoration: none;\n            margin: 0 7px;\n        }\n\n        #monsoon-ebay-template-light-header-menu a:hover {\n            text-decoration: underline;\n        }\n\n        #monsoon-ebay-template-light-body {\n            text-align: left;\n            background: #fff;\n            margin: 0 auto;\n        }\n\n        #monsoon-ebay-template-light-body h1 {\n            font-size: 17px;\n            color: #575919;\n            padding-left: 10px;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h1 {\n            color: #8aab00;\n            margin: 0;\n            padding-left: 10px;\n            font-size: 20px;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product h2 {\n            margin: 0;\n            font-weight: normal;\n            padding-left: 10px;\n            font-size: 15px;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details {\n            background: #f1f2f0;\n            margin: 10px 10px;\n            padding: 1em;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd:after {\n            content: \"\\00A0\";\n        }\n\n        #monsoon-ebay-template-light-footer-copyright {\n            font-size: 12px;\n            font-weight: bold;\n            color: #647860;\n            padding: 0px;\n            padding-left: 10px;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dt {\n            float: left;\n            clear: left;\n            text-align: right;\n            width: 100px;\n            font-weight: bold;\n        }\n\n        #monsoon-ebay-template-light-body #monsoon-ebay-template-light-body-product-details dd {\n            margin: 0 0 0 110px;\n        }\n\n        #monsoon-ebay-template-light-body p {\n            margin-right: 10px !important;\n            padding-left: 10px;\n            text-align: justify;\n        }\n\n        #monsoon-ebay-template-light-body-middle {\n            background: #fff;\n            text-align: left;\n            margin: 0 auto;\n        }\n    </style>\n</body>\n</html>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "lotSize": 0,
+  "legacyItemId": "278232120351",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "261186",
+  "listingMarketplaceId": "EBAY_US"
+}

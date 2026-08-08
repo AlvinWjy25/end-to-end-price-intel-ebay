@@ -1,0 +1,1109 @@
+{
+  "itemId": "v1|407109238652|0",
+  "sellerItemRevision": "1",
+  "title": "Even a Replica Can Fall in Love, Vol. 4 By Harunadon Cun [Premium Leather Bound]",
+  "shortDescription": "★ Complete Title: Even a Replica Can Fall in Love, Vol. 4 By Harunadon Cunningham, Andrew Raemz 2026 [Premium Leather Bound]. ★ Author: Harunadon Cunningham, Andrew Raemz. Premium Leather Binding. ★ We have many leather color options in our bucket.",
+  "price": {
+    "value": "148.58",
+    "currency": "USD"
+  },
+  "categoryPath": "Books & Magazines|Books",
+  "categoryIdPath": "267|261186",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Roanoke,Texas,united states",
+    "country": "US"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/DgsAAeSwlcJqa9WK/s-l1600.jpg",
+    "width": 1000,
+    "height": 1483
+  },
+  "additionalImages": [
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/XFoAAeSwkB5qa9WK/s-l1600.jpg",
+      "width": 620,
+      "height": 402
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/i1UAAeSwMttqa9WK/s-l1600.jpg",
+      "width": 591,
+      "height": 508
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/w-UAAeSwcXdqa9WK/s-l1600.jpg",
+      "width": 490,
+      "height": 510
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/w4gAAeSw9ZVqa9WK/s-l1600.jpg",
+      "width": 702,
+      "height": 993
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/zNoAAeSwwvJqa9WK/s-l1600.jpg",
+      "width": 736,
+      "height": 962
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/teYAAeSwD-lqa9WK/s-l1600.jpg",
+      "width": 736,
+      "height": 998
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/hSQAAeSwsIxqa9WK/s-l1600.jpg",
+      "width": 426,
+      "height": 585
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/8ewAAeSwPGtqa9WK/s-l1600.jpg",
+      "width": 367,
+      "height": 564
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/13gAAeSw8fBqa9WK/s-l1600.jpg",
+      "width": 438,
+      "height": 569
+    }
+  ],
+  "marketingPrice": {
+    "originalPrice": {
+      "value": "174.80",
+      "currency": "USD"
+    },
+    "discountPercentage": "15.0",
+    "discountAmount": {
+      "value": "26.22",
+      "currency": "USD"
+    },
+    "priceTreatment": "MARKDOWN"
+  },
+  "itemCreationDate": "2026-07-30T22:48:40.000Z",
+  "seller": {
+    "username": "gyanleatherbound",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 3
+  },
+  "gtin": "DoesNotApply",
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 1,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 1
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "USPS Media Mail",
+      "trademarkSymbol": "TM",
+      "shippingCarrierCode": "USPS",
+      "type": "Economy Shipping",
+      "shippingCost": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-10-07T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-10-15T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "0.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    },
+    {
+      "shippingServiceCode": "UPS Ground",
+      "shippingCarrierCode": "UPS",
+      "type": "Standard Shipping",
+      "shippingCost": {
+        "value": "29.99",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-09-16T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-10-06T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "9.99",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Algeria",
+        "regionType": "COUNTRY",
+        "regionId": "DZ"
+      },
+      {
+        "regionName": "Comoros",
+        "regionType": "COUNTRY",
+        "regionId": "KM"
+      },
+      {
+        "regionName": "Djibouti",
+        "regionType": "COUNTRY",
+        "regionId": "DJ"
+      },
+      {
+        "regionName": "Egypt",
+        "regionType": "COUNTRY",
+        "regionId": "EG"
+      },
+      {
+        "regionName": "Libya",
+        "regionType": "COUNTRY",
+        "regionId": "LY"
+      },
+      {
+        "regionName": "Mauritania",
+        "regionType": "COUNTRY",
+        "regionId": "MR"
+      },
+      {
+        "regionName": "Morocco",
+        "regionType": "COUNTRY",
+        "regionId": "MA"
+      },
+      {
+        "regionName": "Somalia",
+        "regionType": "COUNTRY",
+        "regionId": "SO"
+      },
+      {
+        "regionName": "Tunisia",
+        "regionType": "COUNTRY",
+        "regionId": "TN"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Brazil",
+        "regionType": "COUNTRY",
+        "regionId": "BR"
+      },
+      {
+        "regionName": "Bahrain",
+        "regionType": "COUNTRY",
+        "regionId": "BH"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Jordan",
+        "regionType": "COUNTRY",
+        "regionId": "JO"
+      },
+      {
+        "regionName": "Kuwait",
+        "regionType": "COUNTRY",
+        "regionId": "KW"
+      },
+      {
+        "regionName": "Lebanon",
+        "regionType": "COUNTRY",
+        "regionId": "LB"
+      },
+      {
+        "regionName": "Oman",
+        "regionType": "COUNTRY",
+        "regionId": "OM"
+      },
+      {
+        "regionName": "Qatar",
+        "regionType": "COUNTRY",
+        "regionId": "QA"
+      },
+      {
+        "regionName": "Saudi Arabia",
+        "regionType": "COUNTRY",
+        "regionId": "SA"
+      },
+      {
+        "regionName": "United Arab Emirates",
+        "regionType": "COUNTRY",
+        "regionId": "AE"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Guadeloupe",
+        "regionType": "COUNTRY",
+        "regionId": "GP"
+      },
+      {
+        "regionName": "Venezuela",
+        "regionType": "COUNTRY",
+        "regionId": "VE"
+      },
+      {
+        "regionName": "Reunion",
+        "regionType": "COUNTRY",
+        "regionId": "RE"
+      },
+      {
+        "regionName": "Barbados",
+        "regionType": "COUNTRY",
+        "regionId": "BB"
+      },
+      {
+        "regionName": "Martinique",
+        "regionType": "COUNTRY",
+        "regionId": "MQ"
+      },
+      {
+        "regionName": "French Guiana",
+        "regionType": "COUNTRY",
+        "regionId": "GF"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "SELLER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Author",
+      "value": "Harunadon Cunningham, Andrew Raemz"
+    },
+    {
+      "type": "STRING",
+      "name": "Binding",
+      "value": "Manual Binding"
+    },
+    {
+      "type": "STRING",
+      "name": "Book Title",
+      "value": "Even a Replica Can Fall in Love, Vol. 4 B [Premium Leather Bound]"
+    },
+    {
+      "type": "STRING",
+      "name": "Bookmark",
+      "value": "Uniform Colored Bookmark embeded stone"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "India"
+    },
+    {
+      "type": "STRING",
+      "name": "Designing",
+      "value": "Manual Designing"
+    },
+    {
+      "type": "STRING",
+      "name": "Embossing",
+      "value": "Manual Embossing"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Premium Leather Bound"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Premium Leather Bound"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "Adults"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "ENGLISH"
+    },
+    {
+      "type": "STRING",
+      "name": "Leaf Printing",
+      "value": "Manual Gold Leaf Printing"
+    },
+    {
+      "type": "STRING",
+      "name": "Leather",
+      "value": "Genuine Goat Leather"
+    },
+    {
+      "type": "STRING",
+      "name": "Marble Paper",
+      "value": "Handmade Marble Paper used as end Paper"
+    },
+    {
+      "type": "STRING",
+      "name": "Original Language",
+      "value": "ENGLISH"
+    },
+    {
+      "type": "STRING",
+      "name": "Pages",
+      "value": "168"
+    },
+    {
+      "type": "STRING",
+      "name": "Paper",
+      "value": "Natural shade Acid Free Paper"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalize",
+      "value": "Customization Option available with nominal extra charges."
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2026"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Book"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/407109238652?amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xD%2F7mTYmRScm%2FlW3Cwnke2Kq%2B%2FoijQqNMYliQ94dUz76Uhpq%2FhATivCELMSAZY9p4hDlAPZQXnhs1tSbXUsZ35K0QLZTHsKNwBDIeoX1InWJVouA3rVFqnrLng63qkc1Dod%2BHhK%2Bdd2WJsdwPhsmptw63JJqEvFZqWgbCGJZo%2BoGSIZF7015c1g9vtjLNni2Gk%3D",
+  "description": "<html> <head> <meta http-equiv=Content-Type content=\"text/html; charset=windows-1252\"> <meta name=Generator content=\"Microsoft Word 15 (filtered)\"> <style> <!-- /* Font Definitions */ @font-face {font-family:Wingdings; panose-1:5 0 0 0 0 0 0 0 0 0;} @font-face {font-family:Mangal; panose-1:0 0 4 0 0 0 0 0 0 0;} @font-face {font-family:\"Cambria Math\"; panose-1:2 4 5 3 5 4 6 3 2 4;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4;} @font-face {font-family:\"Book Antiqua\"; panose-1:2 4 6 2 5 3 5 3 3 4;} @font-face {font-family:\"Sitka Small\"; panose-1:2 0 5 5 0 0 0 2 0 4;} @font-face {font-family:\"Segoe UI Symbol\"; panose-1:2 11 5 2 4 2 4 2 2 3;} @font-face {font-family:\"Bookman Old Style\"; panose-1:2 5 6 4 5 5 5 2 2 4;} /* Style Definitions */ p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing {margin:0cm; font-size:11.0pt; font-family:\"Calibri\",sans-serif;} .MsoPapDefault {margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 36.0pt; border:solid #806000 1.0pt; padding:24.0pt 24.0pt 24.0pt 24.0pt;} div.WordSection1 {page:WordSection1;} /* List Definitions */ ol {margin-bottom:0cm;} ul {margin-bottom:0cm;} --> </style> </head> <body bgcolor=\"#FBE4D5\" lang=EN-IN style='word-wrap:break-word'> <div class=WordSection1> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:20.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>GYAN BOOKS</span></b></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>INTRODUCING A REMARKABLE LEATHER-BOUND EDITION, METICULOUSLY CRAFTED BY THE ESTEEMED INSTITUTION</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:20.0pt;font-family:\"Book Antiqua\",serif;color:#C00000'>&quot;</span></b><b><span lang=EN-US style='font-size:22.0pt;font-family:\"Book Antiqua\",serif;color:#C00000'>RARE BIBLIO&quot;.</span></b></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:black'>This title holds the distinction of being a Bestseller, highly praised by readers across the GLOBE. </span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:black'>We are thrilled to present this literary gem exclusively to our elite readers, meticulously encased in our one-of-a-kind </span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:black'>Premium Leather Binding</span></i></b><span lang=EN-US style='font-size:16.0pt; font-family:\"Sitka Small\";color:black'>. Following your order, we purchase the book from the original publisher/distributor and embark on the</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:black'> process of rebinding to elevate this book to a Luxurious Reading Style.</span></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:14.0pt;font-family:\"Book Antiqua\",serif'>A UNIQUE LEATHER-BOUND BOOK FOR ELITE READERS/COLLECTORS OF OLD RARE AND BESTSELLING BOOKS. </span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-family:\"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:#806000'>For the Binding, we use </span></i></b><b><u><span lang=EN-US style='font-size: 16.0pt;font-family:\"Sitka Small\";color:#806000'>GENUINE<i> LEATHER</i></span></u></b><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Sitka Small\";color:#806000'>, graced with opulent <u>GOLDEN LEAF DETAILING</u> on the <u>SPINE</u>, <u>FRONT COVER</u>, AND <u>BACK COVER</u>, ADDED BY <u>EDGE GILDING</u>.</span></i></b></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>ABOUT US</span></b></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:14.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We deal into reprinting of the master pieces crafted by authors around the world.</span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-indent:-36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We are proud to say that we have a collection of over 25 million books and our collection includes books that are as old as 200 years and hence are considered as RARE BOOKS.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We are pioneer in this field having experience of 40 years. </span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We also undertake printing and Leather Binding jobs of other books.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Thesis printing and Leather Binding is one of our important Service</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Many publishers and author approach us for their books to bind in our Unique leather binding format for their special customers.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Our craftsmen are active in this job since generations.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Restoration of old books is our expertise</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We are known by our Customization options.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We have many leather color options in our bucket.</span></p> <p class=MsoNoSpacing style='margin-left:36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;  </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>The whole process is done manually so that it gives you the same feeling of old book.</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>OFFERS &amp; SPECIALIZATION:</span></b></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:16.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-align:justify;text-indent: 18.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;<b><i><span style='color:#806000'>  </span></i></b></span><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Bookman Old Style\",serif;color:#806000'>SPECIAL DISCOUNT FOR BULK ORDERS, PLEASE CONTACT US.</span></i></b></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-align:justify;text-indent: -36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;</span><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif; color:#806000'>  </span></i></b><span lang=EN-US style='font-size:16.0pt; font-family:\"Book Antiqua\",serif'>CHOOSE ANY LEATHER COLOR OF YOUR CHOICE WITHOUT ANY EXTRA CHARGES, JUST CLICK ON IMAGES FOR OPTIONAL COLORS AND INFORM   US YOUR CHOICE THROUGH MAIL WITH COLOR CODE. </span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-align:justify;text-indent: -36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;</span><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif; color:#806000'>  </span></i></b><span lang=EN-US style='font-size:14.0pt; font-family:\"Book Antiqua\",serif'>WE OFFER A DIVERSE RANGE OF LEATHER COLORS, INCLUDING <b><span style='color:#CC0000'>RED</span></b>, <b><span style='color:#538135'>GREEN</span></b>, <b><span style='color:#1F4E79'>BLUE</span></b>, BLACK, <b><span style='color:#D60093'>MAGENTA</span></b>, <b><span style='color:#BF8F00'>YELLOW</span></b>, <b><span style='color:#AE6C52'>TAN</span></b>. WE ALSO OFFER MULTI-COLOR LABELS WITH THESE BEAUTIFUL BOOKS ON SPECIAL REQUEST.</span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-align:justify;text-indent: -36.0pt'><span lang=EN-US style='font-size:18.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;<b><i><span style='color:#806000'>  </span></i></b></span><b><i><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>AN ORIGINAL LEATHER IS BEING USED FOR BINDING THIS BOOK WITH GOLDEN LEAF PRINTING AND DESIGNING ON SPINE, FRONT AND BACK OF THE BOOK WITH EDGE GILDING</span></i></b><b><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>.</span></b></p> <p class=MsoNoSpacing style='text-align:justify'><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>Points to note before booking order:</span></b></p> <p class=MsoNoSpacing style='text-align:justify'><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-indent:-36.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>In case of multi volume sets, please note that the above listing is for a single volume only. (To order multiple volumes, please contact us separately).</span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-indent:-36.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We urge you to appreciate that our Leather-Bound Books are Genuine works of art and are Handcrafted by our Professional Craftsmen. Thus, requiring time and care to reach the pinnacle of excellence.</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We Prepare the Book after receiving the Order.</span></p> <p class=MsoNoSpacing style='margin-left:72.0pt;text-indent:-36.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We request you to understand that these leather-bound books are work of art and hence require time to go through different process to be the master pieces that they are.</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We usually take 40 business days as handling time to dispatch shipment. We consider special request for a special occasion.</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Craftsman based in India, prepared this book and shipped from different stock locations around the Globe.</span></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:16.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>Product Details: -</span></b></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Complete Title: Even a Replica Can Fall in Love, Vol. 4 By Harunadon Cunningham, Andrew Raemz 2026 [Premium Leather Bound] </span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Author: Harunadon Cunningham, Andrew Raemz </span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Language: ENGLISH </span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>No. Of Pages: 168 </span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Year: 2026 </span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We provide ‘Extra customization*’ on request with additional charges.</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>We also undertake printing and Leather Binding of all the books.</span></p> <p class=MsoNoSpacing style='margin-left:18.0pt;text-indent:18.0pt'><span lang=EN-US style='font-size:16.0pt;font-family:\"Segoe UI Symbol\",sans-serif'>&#9733;   </span><span lang=EN-US style='font-size:18.0pt;font-family:\"Book Antiqua\",serif'>Product Disclaimer: Please be aware that because leather is a natural material, slight discoloration or change in texture may be visible. </span></p> <p class=MsoNoSpacing><span lang=EN-US style='font-size:16.0pt;font-family: \"Book Antiqua\",serif'>&nbsp;</span></p> <p class=MsoNoSpacing align=center style='text-align:center'><b><span lang=EN-US style='font-size:16.0pt;font-family:\"Book Antiqua\",serif;color:#002060'>About the Book: IT'S TIME FOR NAO TO MAKE UP HER MIND. Sunao left the choice up to me. Will I live as myself, or will I go back inside her? I asked for a month to decide, but as Christmas approaches, I already have my answer. I'm a replica created to serve my original--what else can I do? But is that really what I want deep down in my heart? As time runs out, I must face my true feelings and choose: Sunao or Aki?",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "lotSize": 0,
+  "legacyItemId": "407109238652",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "261186",
+  "listingMarketplaceId": "EBAY_US"
+}

@@ -1,0 +1,172 @@
+{
+  "total_items_probed": 132,
+  "pct_with_localized_aspects": 100.0,
+  "pct_with_features_field": 49.2,
+  "pct_with_issue_number_field": 36.4,
+  "pct_with_series_title_field": 54.5,
+  "most_common_aspect_names": [
+    [
+      "Language",
+      127
+    ],
+    [
+      "Format",
+      113
+    ],
+    [
+      "Type",
+      105
+    ],
+    [
+      "Publisher",
+      103
+    ],
+    [
+      "Genre",
+      80
+    ],
+    [
+      "Publication Year",
+      78
+    ],
+    [
+      "Tradition",
+      73
+    ],
+    [
+      "Series Title",
+      72
+    ],
+    [
+      "Artist/Writer",
+      67
+    ],
+    [
+      "Intended Audience",
+      67
+    ],
+    [
+      "Features",
+      65
+    ],
+    [
+      "Country of Origin",
+      61
+    ],
+    [
+      "Unit of Sale",
+      60
+    ],
+    [
+      "Style",
+      59
+    ],
+    [
+      "Signed",
+      55
+    ],
+    [
+      "Inscribed",
+      55
+    ],
+    [
+      "Universe",
+      54
+    ],
+    [
+      "Personalized",
+      52
+    ],
+    [
+      "Vintage",
+      50
+    ],
+    [
+      "Author",
+      49
+    ]
+  ],
+  "category_paths_seen": [
+    [
+      "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+      80
+    ],
+    [
+      "Books & Magazines|Books",
+      38
+    ],
+    [
+      "Books & Magazines|Textbooks, Education & Reference|Textbooks",
+      8
+    ],
+    [
+      "Collectibles|Comic Books & Memorabilia|Artbooks",
+      2
+    ],
+    [
+      "Collectibles|Animation Art & Merchandise|Animation Merchandise|Other Animation Merchandise",
+      2
+    ],
+    [
+      "Books, Comics & Magazines|Books",
+      1
+    ],
+    [
+      "Collectibles|Comic Books & Memorabilia|Comics|Comics & Graphic Novels",
+      1
+    ]
+  ],
+  "sample_examples_with_features": [
+    {
+      "item_id": "v1|800251626391|0",
+      "title": "Re:Zero−Starting Life in Another World Vol. 1-28 Light Novel English FULL SET",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|318669385078|0",
+      "title": "Re:Zero Starting Life in Another World Vol 1-5 (Light Novel) Yen On English",
+      "Features": "1-8"
+    },
+    {
+      "item_id": "v1|800161144521|657318180501",
+      "title": "Re:Zero- Starting Life in Another World (Light Novel) Vol 1-26 English Version",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|236938808312|537364163253",
+      "title": "Re:Zero−Starting Life in Another World Vol. 1-28 Light Novel Eng. Ver. FULL SET",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|227299127107|0",
+      "title": "The Angel Next Door Spoils Me Rotten Vol. 1-8 w/ 5.5 & 8.5 Light Novel Full Set",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|385199341813|0",
+      "title": "The Angel Next Door Spoils Me Rotten Vol.1-11 + 5.5 + 8.5 + 11.5 Light Novel Set",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|267306861165|0",
+      "title": "The Angel Next Door Spoils Me Rotten Light Novel Volume 1-8 Full Set DHL EXPRESS",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|358320525615|626839749058",
+      "title": "Too Many Losing Heroines! Volume 1-6 Light Novel Single English Full Version New",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|318502109280|616888313998",
+      "title": "Too Many Losing Heroines! Light Novel Vol 1-6 ENGLISH VERSION LOOSE/Choose Vol",
+      "Features": "Set"
+    },
+    {
+      "item_id": "v1|377246432483|645626165496",
+      "title": "Too Many Losing Heroines! Volume 1-7 English Version Light Novel All Set New",
+      "Features": "Set"
+    }
+  ],
+  "sample_examples_without_aspects": []
+}

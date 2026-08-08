@@ -173,9 +173,19 @@ def main():
         "love unseen beneath the clear night sky light novel",
         "love unseen beneath the radiant night sky:volume",
         "even a replica can fall in love light novel",
+        "classroom of the elite light novel",
+        "mushoku tensei light novel",
+        "overlord light novel",
+        "konosuba light novel",
+        "sword art online light novel",
+        "spy classroom light novel",
+        "rascal does not dream of bunny girl senpai light novel",
+        "the eminence in shadow light novel",
+        "bofuri light novel",
+        "ascendance of a bookworm light novel"
     ]
 
-    SEARCH_LIMIT = 30  # Item/keyword search limitation
+    SEARCH_LIMIT = 150  # Item/keyword search limitation
     REQUEST_DELAY = 0.15  # preventing throttle and spam detection
 
     print(f"[{datetime.now()}] Starting ingestion process...")

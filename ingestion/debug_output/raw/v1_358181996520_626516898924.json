@@ -1,0 +1,1360 @@
+{
+  "itemId": "v1|358181996520|626516898924",
+  "sellerItemRevision": "2",
+  "title": "Ascendance of a Bookworm (Part 1-5) Full Set English Light Novel (Choose Part)",
+  "shortDescription": "Light Novel: Ascendance Of A Bookworm. (Underground Manga Publisher). And so begins this heartwarming biblio-fantasy—the story of a young book lover’s quest to bring literature to a world without it.",
+  "price": {
+    "value": "213.81",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Kuala Lumpur",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/SdgAAeSwiG1pgGAU/s-l1600.jpg",
+    "width": 1500,
+    "height": 1500
+  },
+  "additionalImages": [
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/NVYAAeSwanppgF8L/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/yCcAAeSwLU1pgGB0/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/kFIAAeSwGjBpgGAJ/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/lYMAAeSweLhpgGA6/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/UaEAAeSwOv5pgGAz/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/jYMAAeSwKuFpgGAl/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/ZdMAAeSwhw1pgGAg/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/WAYAAeSwg0ZpgF8N/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/I7cAAeSwYEZpgGB2/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/LwEAAeSw8VdpgGBq/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/LpIAAeSweq5pgGA~/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    }
+  ],
+  "marketingPrice": {
+    "originalPrice": {
+      "value": "229.90",
+      "currency": "USD"
+    },
+    "discountPercentage": "7.0",
+    "discountAmount": {
+      "value": "16.09",
+      "currency": "USD"
+    },
+    "priceTreatment": "MARKDOWN"
+  },
+  "itemCreationDate": "2026-02-02T14:47:36.000Z",
+  "seller": {
+    "username": "luxotic_store90",
+    "feedbackPercentage": "99.2",
+    "feedbackScore": 251
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 2,
+      "estimatedSoldQuantity": 1,
+      "estimatedRemainingQuantity": 2
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Expedited Shipping from outside US",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "29.90",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-18T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-24T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "15.90",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "Central America and Caribbean",
+        "regionType": "WORLD_REGION",
+        "regionId": "CENTRAL_AMERICA_AND_CARIBBEAN"
+      },
+      {
+        "regionName": "Middle East",
+        "regionType": "WORLD_REGION",
+        "regionId": "MIDDLE_EAST"
+      },
+      {
+        "regionName": "South America",
+        "regionType": "WORLD_REGION",
+        "regionId": "SOUTH_AMERICA"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Albania",
+        "regionType": "COUNTRY",
+        "regionId": "AL"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Gibraltar",
+        "regionType": "COUNTRY",
+        "regionId": "GI"
+      },
+      {
+        "regionName": "Guernsey",
+        "regionType": "COUNTRY",
+        "regionId": "GG"
+      },
+      {
+        "regionName": "Iceland",
+        "regionType": "COUNTRY",
+        "regionId": "IS"
+      },
+      {
+        "regionName": "Jersey",
+        "regionType": "COUNTRY",
+        "regionId": "JE"
+      },
+      {
+        "regionName": "Macedonia",
+        "regionType": "COUNTRY",
+        "regionId": "MK"
+      },
+      {
+        "regionName": "Moldova",
+        "regionType": "COUNTRY",
+        "regionId": "MD"
+      },
+      {
+        "regionName": "Montenegro",
+        "regionType": "COUNTRY",
+        "regionId": "ME"
+      },
+      {
+        "regionName": "Serbia",
+        "regionType": "COUNTRY",
+        "regionId": "RS"
+      },
+      {
+        "regionName": "Svalbard and Jan Mayen",
+        "regionType": "COUNTRY",
+        "regionId": "SJ"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Armenia",
+        "regionType": "COUNTRY",
+        "regionId": "AM"
+      },
+      {
+        "regionName": "Azerbaijan Republic",
+        "regionType": "COUNTRY",
+        "regionId": "AZ"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "Bhutan",
+        "regionType": "COUNTRY",
+        "regionId": "BT"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "Georgia",
+        "regionType": "COUNTRY",
+        "regionId": "GE"
+      },
+      {
+        "regionName": "India",
+        "regionType": "COUNTRY",
+        "regionId": "IN"
+      },
+      {
+        "regionName": "Kazakhstan",
+        "regionType": "COUNTRY",
+        "regionId": "KZ"
+      },
+      {
+        "regionName": "Kyrgyzstan",
+        "regionType": "COUNTRY",
+        "regionId": "KG"
+      },
+      {
+        "regionName": "Mongolia",
+        "regionType": "COUNTRY",
+        "regionId": "MN"
+      },
+      {
+        "regionName": "Nepal",
+        "regionType": "COUNTRY",
+        "regionId": "NP"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Sri Lanka",
+        "regionType": "COUNTRY",
+        "regionId": "LK"
+      },
+      {
+        "regionName": "Tajikistan",
+        "regionType": "COUNTRY",
+        "regionId": "TJ"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "regionType": "COUNTRY",
+        "regionId": "UZ"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Please Select Your Part",
+      "value": "Part 5-Volume 1-12 (12 Books)"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Miya Kazuki"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Cartoon Character"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Ascendance Of A Bookworm"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Ascendance of a Bookworm"
+    },
+    {
+      "type": "STRING",
+      "name": "Grade",
+      "value": "5.0 Very Good/Fine"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Malaysian Publisher (Local Printing)"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2022"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "Part 1-5"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Comedy, Drama, Fantasy, Shoujo, Slice of Life."
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Quantity",
+      "value": "1"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/358181996520?var=626516898924&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xD7yxcd4yr%2BjxXx7acgqnLlh3Zijr8S5IxDTyj%2BldOMzzuUtxWMq%2FGInLmGLykr5yXHAIsW5erlDNABBbN0LiL5LIs4gsymHd6UZiO9k4E%2BuQCA%2FvCw%2F2BSHs3%2BFwpRRAOLC6pQHyaPPV8%2FNFWaLekWT7ToHiDHuI9uIVtglxTdR07psd4EWMQLqUecf4zNxw8%3D",
+  "description": "\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">\n    <title>1-Column Ebay Template dewiso.com</title>\n    <!-- Bootstrap CSS for proper display when downloaded -->\n    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css\">\n    <style>\n        /* Override Bootstrap defaults to ensure no gaps */\n        body { margin: 0 !important; padding: 0 !important; font-size: 18px; }\n        * { margin: 0; padding: 0; }\n        img { max-width: 100%; }\n        \n        /* Primary color styles */\n        .primary-text-color { color: #ffffff; }\n        /* Secondary color styles */\n        .secondary-color-text { color: #000000; }\n        .secondary-color-bg { background-color: #F5F5F5; }\n        \n        /* Ensure container has proper max-width */\n        .container { max-width: 800px !important; }\n        \n        /* Gallery Styles */\n        .content__gallery {\n            width: 100%;\n            max-width: 800px;\n            margin: 0 auto;\n            text-align: center;\n        }\n        \n        .thumb__float {\n            display: block;\n            cursor: pointer;\n            width: 100px;\n            height: 100px;\n            border: none;\n            box-shadow: none;\n            transition: opacity 0.3s;\n        }\n        \n        .thumb__float:hover {\n            opacity: 0.8;\n        }\n        \n        .thumb__wrapper {\n            width: 100%;\n            height: 100%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n        }\n        \n        .thumb__wrapper img {\n            max-width: 100%;\n            max-height: 100%;\n            object-fit: cover;\n        }\n        \n        .slider__wrapper {\n            width: 100%;\n            height: auto;\n            aspect-ratio: 16/9; /* Maintain aspect ratio */\n            max-height: 400px;\n            overflow: hidden;\n            position: relative;\n            border: none;\n            outline: none;\n        }\n        \n        .slider {\n            display: flex;\n            width: 300%;\n            height: 100%;\n            transition: transform 0.3s ease-in-out;\n            transform: translateX(0);\n        }\n        \n        .slider > div {\n            width: 33.333%;\n            height: 100%;\n            background-size: contain;\n            background-repeat: no-repeat;\n            background-position: center;\n            background-color: inherit;\n            border: none;\n            outline: none;\n        }\n        \n        /* Focus states - for click persistence */\n        .thumb1:focus ~ .slider__wrapper .slider {\n            transform: translateX(0%);\n        }\n        \n        .thumb2:focus ~ .slider__wrapper .slider {\n            transform: translateX(-33.333%);\n        }\n        \n        .thumb3:focus ~ .slider__wrapper .slider {\n            transform: translateX(-66.666%);\n        }\n        \n        /* Hover states - CSS sibling selectors */\n        .thumb1:hover ~ .slider__wrapper .slider {\n            transform: translateX(0%);\n        }\n        \n        .thumb2:hover ~ .slider__wrapper .slider {\n            transform: translateX(-33.333%);\n        }\n        \n        .thumb3:hover ~ .slider__wrapper .slider {\n            transform: translateX(-66.666%);\n        }\n        \n        /* Remove focus outline for cleaner look */\n        .thumb__float:focus {\n            outline: none;\n            opacity: 0.7;\n        }\n        \n        /* Mobile responsiveness */\n        @media (max-width: 768px) {\n            .slider__wrapper {\n                max-height: 300px;\n            }\n            \n            .thumb__float {\n                width: 75px;\n                height: 75px;\n            }\n            \n            .thumb__container {\n                gap: 5px;\n            }\n        }\n    </style>\n\n\n<!-- TITLE --->\n<div id=\"title-part\" class=\"py-3\" style=\"background: #2A0948;\">\n<div class=\"container\" style=\"max-width: 800px;\">\n<div class=\"row\">\n<div class=\"col-12\">\n<h1 class=\"primary-text-color\" style=\"text-align: center;\"><span style=\"font-family: arial, helvetica, sans-serif;\"><em><strong>Ascendance of a Bookworm (Part 1-5) Full Set English Light Novel (Choose Part)</strong></em></span></h1>\n</div>\n</div>\n</div>\n</div>\n<!-- DESCRIPTION/GALLERY CONTAINER -->\n<div id=\"description-container\" class=\"secondary-color-bg pb-3 pt-4\">\n<div class=\"container\" style=\"max-width: 800px;\">\n<div class=\"row\"><!-- GALLERY -->\n<div id=\"image-gallery\" class=\"col-12 mb-4\">\n<div id=\"image-gallery\" class=\"col-12 mb-4\">\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Product Information</strong></span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"></span>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"></span></div>\n<div class=\"col-12 col-md-12\">\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Light Novel:</strong>&nbsp;<span>Ascendance Of A Bookworm</span></span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Volume:</strong> Part 1-5</span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Language: </strong>English Version</span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Art &amp; Story by&nbsp;</strong><span>Miya Kazuki</span></span></div>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Genre:&nbsp;</strong><span>Comedy, Drama, Fantasy, Shoujo, Slice of Life</span></span></div>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Condition:</strong> Brand New &amp; Sealed</span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Publisher:</strong> Malaysian Publisher</span></div>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">(Underground Manga Publisher)</span></div>\n<div class=\"col-12 col-md-12\"><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong>Synopsis</strong></span></div>\n<div class=\"col-12 col-md-12\">\n<p data-start=\"155\" data-end=\"485\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">A college girl who has loved books since she was little dies in an accident and is reborn in a completely unfamiliar world. She’s now Myne, a sickly five-year-old daughter of a poor soldier. To make matters worse, this new world has an extremely low literacy rate, and books are incredibly rare and expensive—far beyond her reach.</span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<p data-start=\"487\" data-end=\"661\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">But Myne won’t give up. If books don’t exist, she’ll just have to make them herself! Her dream is to become a librarian and live surrounded by books, no matter what it takes.</span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<p data-start=\"663\" data-end=\"792\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">And so begins this heartwarming biblio-fantasy—the story of a young book lover’s quest to bring literature to a world without it.</span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span><hr data-start=\"794\" data-end=\"797\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<p data-start=\"799\" data-end=\"879\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong data-start=\"799\" data-end=\"809\">Genres</strong>: Comedy, Drama, Fantasy, Shoujo, Slice of Life</span><br data-start=\"856\" data-end=\"859\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> <strong data-start=\"859\" data-end=\"876\">Also Known As</strong>:</span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<ul data-start=\"880\" data-end=\"1028\">\n<li data-start=\"880\" data-end=\"949\">\n<p data-start=\"882\" data-end=\"949\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><em data-start=\"882\" data-end=\"947\">Ascendance of a Bookworm – I’ll Become a Librarian At Any Cost!</em></span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span></li>\n<li data-start=\"950\" data-end=\"1028\">\n<p data-start=\"952\" data-end=\"1028\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><em data-start=\"952\" data-end=\"1028\">Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen</em></span></p>\n</li>\n</ul>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><br></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><em><strong></strong></em></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<div class=\"col-12 col-md-12\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><em><strong>Important Note!!</strong></em></span><br><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">Please note!! This book Not Suitable for collectors as this was not from Viz Media, Square Enix etc .It is suitable for first time that want to read manga.Book from Viz Media would cost you more. All content are originally from Viz Media but for printing and book,its premium Quality from Malaysian Publisher (Undergound Publisher).</span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"><strong><br></strong></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<div class=\"col-12 col-md-12\"></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<div class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #273c2c;\"><b></b></span></span></div>\n<div class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #273c2c;\"><b>Shipping &amp; Payment</b></span></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<ul>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">We only Currently accept payment via eBay managed payment.</span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">We will ship your item within 1-3 business days when payment is received validly. We will ensure that the goods will be delivered within the stipulated time which is within 1 to 3 working days from Monday to Friday. for an important note that saturday and sunday are non-working days and your goods are not delivered including public holidays.</span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">We use Express Shipping service <strong>via DHL Express</strong> from Overseas with Tracking number. For items to arrive It usually takes 3-7 working days for delivery on all international orders. Sometimes it may take up to 14 working days. If your item does not arrive within the time frame, please contact us via eBay message.</span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">Economy Shipping from Overseas we use delivery service <strong>via singapore post</strong> with Tracking number. It usually takes 11-35 working days for delivery on all international orders. Sometimes it may take up to 30 working days to arrive. If your item does not arrive within the time frame, please contact us via eBay message. </span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">All products are packed, and layered with bubble wrap to reduce damages during shipment delivery. </span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">To ensure the delivery can be processed smoothly, make sure your delivery address is verified and correct. We will contact you via ebay message to confirm the address to be sent to. We are not responsible for invalid addresses. Worldwide shipping are available.</span></li>\n</ul>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<p class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\"><strong>Custom</strong></span></p>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<ul>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">Import duties, taxes and additional charges are not included in the item price or shipping charges. Please note that these custom import duties and taxes are the buyer's responsibility. Please check with your country's customs before you buy. </span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">All customs fees &amp; taxes will be borne by the buyer. </span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">sometimes items are delayed due to customs. please allow some time for your country's customs clearance time, because the delay usually comes from Customs. </span></li>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">If there is a loss during delivery, the seller will not be responsible, but the seller will help to track the item. For proof of delivery, the seller will keep </span></li>\n</ul>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<div class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\"><span style=\"color: #273c2c;\"><b>Return</b></span></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<ul>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">If you have any problem with the order, do contact us via eBay message. we are glad to assist you and solve the problem as soon as possible. Items can be returned within 30 days in a good condition.</span></li>\n</ul>\n<div class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\"><strong><em><span style=\"color: #273c2c;\">Contact us</span></em></strong></span></div>\n<span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\"> </span>\n<ul>\n<li class=\"col-12 col-md-12\"><span style=\"font-size: 16px; font-family: arial, helvetica, sans-serif;\">If you have any questions, you can contact us via eBay message. We will ensure that the customer is our priority and if you are satisfied with our service, we sincerely hope that you will give us positive feedback. Our mission is to make sure buyers are satisfied with the support of our store. If there is a problem with your order, please contact us before leaving any negative or neutral feedback. We will do our best to solve the problem for you.</span></li>\n</ul>\n</div>\n</div>\n<div id=\"description-part\" class=\"col-12 secondary-color-text\"></div>\n</div>\n</div>\n</div>\n<!-- ICONS -->\n<div id=\"info-part\" class=\"secondary-color-bg pt-3\">\n<div class=\"container\" style=\"max-width: 800px;\">\n<div class=\"row\">\n<div class=\"col-12 col-md-6 pb-2\">\n<div class=\"row pb-1 secondary-color-text\">\n<div class=\"col-3 my-auto\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" style=\"height: auto; max-height: 60px; fill: currentColor;\" title=\"Shipping\"> <path d=\"M476.158,231.363l-13.259-53.035c3.625-0.77,6.345-3.986,6.345-7.839v-8.551c0-18.566-15.105-33.67-33.67-33.67h-60.392 V110.63c0-9.136-7.432-16.568-16.568-16.568H50.772c-9.136,0-16.568,7.432-16.568,16.568V256c0,4.427,3.589,8.017,8.017,8.017 c4.427,0,8.017-3.589,8.017-8.017V110.63c0-0.295,0.239-0.534,0.534-0.534h307.841c0.295,0,0.534,0.239,0.534,0.534v145.372 c0,4.427,3.589,8.017,8.017,8.017c4.427,0,8.017-3.589,8.017-8.017v-9.088h94.569c0.008,0,0.014,0.002,0.021,0.002 c0.008,0,0.015-0.001,0.022-0.001c11.637,0.008,21.518,7.646,24.912,18.171h-24.928c-4.427,0-8.017,3.589-8.017,8.017v17.102 c0,13.851,11.268,25.119,25.119,25.119h9.086v35.273h-20.962c-6.886-19.883-25.787-34.205-47.982-34.205 s-41.097,14.322-47.982,34.205h-3.86v-60.393c0-4.427-3.589-8.017-8.017-8.017c-4.427,0-8.017,3.589-8.017,8.017v60.391H192.817 c-6.886-19.883-25.787-34.205-47.982-34.205s-41.097,14.322-47.982,34.205H50.772c-0.295,0-0.534-0.239-0.534-0.534v-17.637 h34.739c4.427,0,8.017-3.589,8.017-8.017s-3.589-8.017-8.017-8.017H8.017c-4.427,0-8.017,3.589-8.017,8.017 s3.589,8.017,8.017,8.017h26.188v17.637c0,9.136,7.432,16.568,16.568,16.568h43.304c-0.002,0.178-0.014,0.355-0.014,0.534 c0,27.996,22.777,50.772,50.772,50.772s50.772-22.776,50.772-50.772c0-0.18-0.012-0.356-0.014-0.534h180.67 c-0.002,0.178-0.014,0.355-0.014,0.534c0,27.996,22.777,50.772,50.772,50.772c27.995,0,50.772-22.776,50.772-50.772 c0-0.18-0.012-0.356-0.014-0.534h26.203c4.427,0,8.017-3.589,8.017-8.017v-85.511C512,251.989,496.423,234.448,476.158,231.363z M375.182,144.301h60.392c9.725,0,17.637,7.912,17.637,17.637v0.534h-78.029V144.301z M375.182,230.881v-52.376h71.235 l13.094,52.376H375.182z M144.835,401.904c-19.155,0-34.739-15.583-34.739-34.739s15.584-34.739,34.739-34.739 c19.155,0,34.739,15.583,34.739,34.739S163.99,401.904,144.835,401.904z M427.023,401.904c-19.155,0-34.739-15.583-34.739-34.739 s15.584-34.739,34.739-34.739c19.155,0,34.739,15.583,34.739,34.739S446.178,401.904,427.023,401.904z M495.967,299.29h-9.086 c-5.01,0-9.086-4.076-9.086-9.086v-9.086h18.171V299.29z\"></path> </svg></div>\n<div class=\"col-9 my-auto\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">Delivery within 3-8 days. Shipping as fast as possible</span></div>\n</div>\n</div>\n<div class=\"col-12 col-md-6 pb-3\">\n<div class=\"row pb-1 secondary-color-text\">\n<div class=\"col-3 my-auto\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 44 44\" style=\"height: auto; max-height: 60px; fill: currentColor;\" title=\"Contact\"> <path d=\"M43,6H1C0.447,6,0,6.447,0,7v30c0,0.553,0.447,1,1,1h42c0.552,0,1-0.447,1-1V7C44,6.447,43.552,6,43,6z M42,33.581 L29.612,21.194l-1.414,1.414L41.59,36H2.41l13.392-13.392l-1.414-1.414L2,33.581V8h40V33.581z\"></path> <path d=\"M39.979,8L22,25.979L4.021,8H2v0.807L21.293,28.1c0.391,0.391,1.023,0.391,1.414,0L42,8.807V8H39.979z\"></path> </svg></div>\n<div class=\"col-9 my-auto\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 16px;\">Please contact if you have a question!</span></div>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "358181996520",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=358181996520",
+    "itemGroupTitle": "Ascendance of a Bookworm (Part 1-5) Full Set English Light Novel (Choose Part)",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/NckAAeSwauBpgF4o/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    },
+    "itemGroupAdditionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/oVMAAeSwTpdpgF6E/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/TgAAAeSw-JdpgF58/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/6ocAAeSwxbxpgF7l/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Rl0AAeSwRFZpgF6E/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/T64AAeSwMYJpgF5u/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/9FEAAeSwYTJpgF46/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M8cAAeSwXUppgGBZ/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/duAAAeSwBRppgF5w/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/SJsAAeSwvh5pgF7K/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/MDsAAeSwHVZpgF7Y/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QLsAAeSwD7JpgF86/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/o60AAeSwqJBpgF8~/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/i-YAAeSwwdZpgF9K/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/ixcAAeSw2AdpgF78/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/rdQAAeSwbcxpgF8k/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/KuUAAeSwDXtpgF8s/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Wb4AAeSwR8hpgF77/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/FAwAAeSwcVxpgF6L/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QkoAAeSwjddpgF6a/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/QRMAAeSwL95pgF9f/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/M7EAAeSwGL5pgF9I/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/qlEAAeSwdyZpgGBb/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/nKUAAeSwmLFpgF9n/s-l1600.jpg",
+        "width": 1500,
+        "height": 1500
+      }
+    ]
+  },
+  "unitPricingMeasure": "Unit",
+  "unitPrice": {
+    "value": "213.81",
+    "currency": "USD"
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "legacyItemId": "358181996520",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

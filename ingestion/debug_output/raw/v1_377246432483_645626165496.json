@@ -1,0 +1,1614 @@
+{
+  "itemId": "v1|377246432483|645626165496",
+  "sellerItemRevision": "3",
+  "title": "Too Many Losing Heroines! Volume 1-7 English Version Light Novel All Set New",
+  "shortDescription": "Too Many Losing Heroines! 📚✨Too Many Losing Heroines! Light Novel Collection Vol. 1–7 (English Version) – Complete Set ✨📚. 📖 Title:Too Many Losing Heroines! 🔄 Edition:Reprint. 🌍 Language:English Version.",
+  "price": {
+    "value": "219.90",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Selangor",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/z5QAAeSw4UlqJ4pV/s-l1600.jpg",
+    "width": 1437,
+    "height": 1600
+  },
+  "itemCreationDate": "2026-06-09T17:37:01.000Z",
+  "seller": {
+    "username": "tripleastores",
+    "feedbackPercentage": "100.0",
+    "feedbackScore": 74
+  },
+  "gtin": "Does not apply",
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 4,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 4
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Economy Shipping from outside US",
+      "type": "Economy Shipping from outside",
+      "shippingCost": {
+        "value": "29.90",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-26T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-09-24T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "15.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    },
+    {
+      "shippingServiceCode": "Standard Shipping from outside US",
+      "type": "Standard Shipping from outside",
+      "shippingCost": {
+        "value": "59.99",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-24T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-09-08T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "15.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    },
+    {
+      "shippingServiceCode": "Expedited Shipping from outside US",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "79.99",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-18T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-24T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Armenia",
+        "regionType": "COUNTRY",
+        "regionId": "AM"
+      },
+      {
+        "regionName": "Azerbaijan Republic",
+        "regionType": "COUNTRY",
+        "regionId": "AZ"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "Georgia",
+        "regionType": "COUNTRY",
+        "regionId": "GE"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Tajikistan",
+        "regionType": "COUNTRY",
+        "regionId": "TJ"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "regionType": "COUNTRY",
+        "regionId": "UZ"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "Argentina",
+        "regionType": "COUNTRY",
+        "regionId": "AR"
+      },
+      {
+        "regionName": "Bolivia",
+        "regionType": "COUNTRY",
+        "regionId": "BO"
+      },
+      {
+        "regionName": "Chile",
+        "regionType": "COUNTRY",
+        "regionId": "CL"
+      },
+      {
+        "regionName": "Colombia",
+        "regionType": "COUNTRY",
+        "regionId": "CO"
+      },
+      {
+        "regionName": "Ecuador",
+        "regionType": "COUNTRY",
+        "regionId": "EC"
+      },
+      {
+        "regionName": "Falkland Islands (Islas Malvinas)",
+        "regionType": "COUNTRY",
+        "regionId": "FK"
+      },
+      {
+        "regionName": "French Guiana",
+        "regionType": "COUNTRY",
+        "regionId": "GF"
+      },
+      {
+        "regionName": "Guyana",
+        "regionType": "COUNTRY",
+        "regionId": "GY"
+      },
+      {
+        "regionName": "Paraguay",
+        "regionType": "COUNTRY",
+        "regionId": "PY"
+      },
+      {
+        "regionName": "Peru",
+        "regionType": "COUNTRY",
+        "regionId": "PE"
+      },
+      {
+        "regionName": "Suriname",
+        "regionType": "COUNTRY",
+        "regionId": "SR"
+      },
+      {
+        "regionType": "COUNTRY",
+        "regionId": "UY"
+      },
+      {
+        "regionName": "Venezuela",
+        "regionType": "COUNTRY",
+        "regionId": "VE"
+      },
+      {
+        "regionName": "Albania",
+        "regionType": "COUNTRY",
+        "regionId": "AL"
+      },
+      {
+        "regionName": "Austria",
+        "regionType": "COUNTRY",
+        "regionId": "AT"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Belgium",
+        "regionType": "COUNTRY",
+        "regionId": "BE"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Bulgaria",
+        "regionType": "COUNTRY",
+        "regionId": "BG"
+      },
+      {
+        "regionName": "Republic of Croatia",
+        "regionType": "COUNTRY",
+        "regionId": "HR"
+      },
+      {
+        "regionName": "Cyprus",
+        "regionType": "COUNTRY",
+        "regionId": "CY"
+      },
+      {
+        "regionName": "Czech Republic",
+        "regionType": "COUNTRY",
+        "regionId": "CZ"
+      },
+      {
+        "regionName": "Denmark",
+        "regionType": "COUNTRY",
+        "regionId": "DK"
+      },
+      {
+        "regionName": "Estonia",
+        "regionType": "COUNTRY",
+        "regionId": "EE"
+      },
+      {
+        "regionName": "Finland",
+        "regionType": "COUNTRY",
+        "regionId": "FI"
+      },
+      {
+        "regionName": "France",
+        "regionType": "COUNTRY",
+        "regionId": "FR"
+      },
+      {
+        "regionName": "Germany",
+        "regionType": "COUNTRY",
+        "regionId": "DE"
+      },
+      {
+        "regionName": "Gibraltar",
+        "regionType": "COUNTRY",
+        "regionId": "GI"
+      },
+      {
+        "regionName": "Greece",
+        "regionType": "COUNTRY",
+        "regionId": "GR"
+      },
+      {
+        "regionName": "Guernsey",
+        "regionType": "COUNTRY",
+        "regionId": "GG"
+      },
+      {
+        "regionName": "Hungary",
+        "regionType": "COUNTRY",
+        "regionId": "HU"
+      },
+      {
+        "regionName": "Iceland",
+        "regionType": "COUNTRY",
+        "regionId": "IS"
+      },
+      {
+        "regionName": "Ireland",
+        "regionType": "COUNTRY",
+        "regionId": "IE"
+      },
+      {
+        "regionName": "Italy",
+        "regionType": "COUNTRY",
+        "regionId": "IT"
+      },
+      {
+        "regionName": "Jersey",
+        "regionType": "COUNTRY",
+        "regionId": "JE"
+      },
+      {
+        "regionName": "Latvia",
+        "regionType": "COUNTRY",
+        "regionId": "LV"
+      },
+      {
+        "regionName": "Lithuania",
+        "regionType": "COUNTRY",
+        "regionId": "LT"
+      },
+      {
+        "regionName": "Luxembourg",
+        "regionType": "COUNTRY",
+        "regionId": "LU"
+      },
+      {
+        "regionName": "Macedonia",
+        "regionType": "COUNTRY",
+        "regionId": "MK"
+      },
+      {
+        "regionName": "Malta",
+        "regionType": "COUNTRY",
+        "regionId": "MT"
+      },
+      {
+        "regionName": "Moldova",
+        "regionType": "COUNTRY",
+        "regionId": "MD"
+      },
+      {
+        "regionName": "Montenegro",
+        "regionType": "COUNTRY",
+        "regionId": "ME"
+      },
+      {
+        "regionName": "Netherlands",
+        "regionType": "COUNTRY",
+        "regionId": "NL"
+      },
+      {
+        "regionName": "Poland",
+        "regionType": "COUNTRY",
+        "regionId": "PL"
+      },
+      {
+        "regionName": "Portugal",
+        "regionType": "COUNTRY",
+        "regionId": "PT"
+      },
+      {
+        "regionName": "Romania",
+        "regionType": "COUNTRY",
+        "regionId": "RO"
+      },
+      {
+        "regionName": "Serbia",
+        "regionType": "COUNTRY",
+        "regionId": "RS"
+      },
+      {
+        "regionName": "Slovakia",
+        "regionType": "COUNTRY",
+        "regionId": "SK"
+      },
+      {
+        "regionName": "Slovenia",
+        "regionType": "COUNTRY",
+        "regionId": "SI"
+      },
+      {
+        "regionName": "Spain",
+        "regionType": "COUNTRY",
+        "regionId": "ES"
+      },
+      {
+        "regionName": "Svalbard and Jan Mayen",
+        "regionType": "COUNTRY",
+        "regionId": "SJ"
+      },
+      {
+        "regionName": "Sweden",
+        "regionType": "COUNTRY",
+        "regionId": "SE"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Jordan",
+        "regionType": "COUNTRY",
+        "regionId": "JO"
+      },
+      {
+        "regionName": "Kuwait",
+        "regionType": "COUNTRY",
+        "regionId": "KW"
+      },
+      {
+        "regionName": "Lebanon",
+        "regionType": "COUNTRY",
+        "regionId": "LB"
+      },
+      {
+        "regionName": "Turkey",
+        "regionType": "COUNTRY",
+        "regionId": "TR"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "Anguilla",
+        "regionType": "COUNTRY",
+        "regionId": "AI"
+      },
+      {
+        "regionName": "Antigua and Barbuda",
+        "regionType": "COUNTRY",
+        "regionId": "AG"
+      },
+      {
+        "regionName": "Aruba",
+        "regionType": "COUNTRY",
+        "regionId": "AW"
+      },
+      {
+        "regionName": "Bahamas",
+        "regionType": "COUNTRY",
+        "regionId": "BS"
+      },
+      {
+        "regionName": "Barbados",
+        "regionType": "COUNTRY",
+        "regionId": "BB"
+      },
+      {
+        "regionName": "Belize",
+        "regionType": "COUNTRY",
+        "regionId": "BZ"
+      },
+      {
+        "regionName": "British Virgin Islands",
+        "regionType": "COUNTRY",
+        "regionId": "VG"
+      },
+      {
+        "regionName": "Cayman Islands",
+        "regionType": "COUNTRY",
+        "regionId": "KY"
+      },
+      {
+        "regionName": "Costa Rica",
+        "regionType": "COUNTRY",
+        "regionId": "CR"
+      },
+      {
+        "regionName": "Dominica",
+        "regionType": "COUNTRY",
+        "regionId": "DM"
+      },
+      {
+        "regionName": "Dominican Republic",
+        "regionType": "COUNTRY",
+        "regionId": "DO"
+      },
+      {
+        "regionName": "El Salvador",
+        "regionType": "COUNTRY",
+        "regionId": "SV"
+      },
+      {
+        "regionName": "Grenada",
+        "regionType": "COUNTRY",
+        "regionId": "GD"
+      },
+      {
+        "regionName": "Guadeloupe",
+        "regionType": "COUNTRY",
+        "regionId": "GP"
+      },
+      {
+        "regionName": "Guatemala",
+        "regionType": "COUNTRY",
+        "regionId": "GT"
+      },
+      {
+        "regionName": "Haiti",
+        "regionType": "COUNTRY",
+        "regionId": "HT"
+      },
+      {
+        "regionName": "Honduras",
+        "regionType": "COUNTRY",
+        "regionId": "HN"
+      },
+      {
+        "regionName": "Jamaica",
+        "regionType": "COUNTRY",
+        "regionId": "JM"
+      },
+      {
+        "regionName": "Martinique",
+        "regionType": "COUNTRY",
+        "regionId": "MQ"
+      },
+      {
+        "regionName": "Montserrat",
+        "regionType": "COUNTRY",
+        "regionId": "MS"
+      },
+      {
+        "regionName": "Netherlands Antilles",
+        "regionType": "COUNTRY",
+        "regionId": "AN"
+      },
+      {
+        "regionName": "Nicaragua",
+        "regionType": "COUNTRY",
+        "regionId": "NI"
+      },
+      {
+        "regionName": "Panama",
+        "regionType": "COUNTRY",
+        "regionId": "PA"
+      },
+      {
+        "regionName": "Saint Kitts-Nevis",
+        "regionType": "COUNTRY",
+        "regionId": "KN"
+      },
+      {
+        "regionName": "Saint Lucia",
+        "regionType": "COUNTRY",
+        "regionId": "LC"
+      },
+      {
+        "regionName": "Saint Vincent and the Grenadines",
+        "regionType": "COUNTRY",
+        "regionId": "VC"
+      },
+      {
+        "regionName": "Trinidad and Tobago",
+        "regionType": "COUNTRY",
+        "regionId": "TT"
+      },
+      {
+        "regionName": "Turks and Caicos Islands",
+        "regionType": "COUNTRY",
+        "regionId": "TC"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnMethod": "REPLACEMENT",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "American Samoa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "taxPercentage": "19.0",
+      "shippingAndHandlingTaxed": false,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": false
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Guam",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GU"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "taxPercentage": "19.0",
+      "shippingAndHandlingTaxed": false,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": false
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Northern Mariana Islands",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MP"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "taxPercentage": "19.0",
+      "shippingAndHandlingTaxed": false,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": false
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Palau",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PW"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "taxPercentage": "19.0",
+      "shippingAndHandlingTaxed": false,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": false
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virgin Islands, U.S.",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "taxPercentage": "19.0",
+      "shippingAndHandlingTaxed": false,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": false
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Vol.",
+      "value": "1-7 Full Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Comic Book Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Seller Notes",
+      "value": "Not Suitable For Collector"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Type",
+      "value": "Unit"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit Quantity",
+      "value": "1"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Takibi Amamori"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Anna Yanami, Kazuhiko Nukumizu, Yumeko Shikiya, Chika Komari, Lemon Yakishio, Koto Tsukinoki, Tiara Basori, Shikiya Yumeko, Karen Himemiya, Shintarō Tamaki"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "Too Many Losing Heroines!"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "Ready Stock, Express Delivery"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Underground Publisher"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2024"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Issue Number",
+      "value": "1-7"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Adventure, Comedy, Romance, fan"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/377246432483?var=645626165496&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xCHdoGahvqaTr%2FpYZKc4CxWI4RnwUZEkabnlB7dlFnQ0yTurAKIWad8%2F3tEvBQhPNOTA%2Fo7iOFgDAgO0cF%2BkTdnVkKUqijxZv8uf2Otxs37qI7nlWO%2BQXneb4VAOwOA2b%2FJXmLySBGkzunOGFRvYNHFUvCFz4u7ENliQRFDQKNs0Bda6puL99QccRWO6ZT5CpM%3D",
+  "description": "<div style=\"background: rgb(253, 254, 254); border-left: 1px solid rgb(203, 212, 194); border-right: 1px solid rgb(203, 212, 194); border-top: 1px solid rgb(203, 212, 194); line-height: 45px;\">\n<div class=\"container\" style=\"border-bottom: 1px solid rgb(203, 212, 194); padding: 40px 0px;\">\n<div class=\"col-12 col-md-12\">\n<h1 style=\"text-align: center;\"><font face=\"Arial\" color=\"#4c0e51\"><strong>TRIPLEASTORES</strong><br>Too Many Losing Heroines! Volume 1-7 English Version Light Novel All Set New - Express Shipping</font></h1>\n</div>\n</div>\n</div>\n\n<div style=\"border-left: 1px solid #CBD4C2; border-right: 1px solid #CBD4C2; line-height: 25px\">\n<div class=\"container\" style=\"padding-bottom: 20px; padding-top: 50px\">\n<div class=\"row\">\n<div class=\"col-12 col-md-6\" style=\"padding-bottom: 40px\"><strong><font face=\"Arial\"><span style=\"width: 90%;\"><font color=\"#353535\"><span style=\"width: 90%;\"><img alt=\"Image\" class=\"mx-auto d-block img-fluid\" src=\"https://i.postimg.cc/mkvMmmv8/1.png\" style=\"width: 90%\" title=\"Image\"></span></font></span></font></strong></div><div class=\"col-12 col-md-6\" style=\"padding-bottom: 40px\"><strong><font face=\"Arial\"><span style=\"width: 90%;\"><font color=\"#353535\"><span style=\"width: 90%;\"><br></span></font></span></font></strong></div><div class=\"col-12 col-md-6\" style=\"padding-bottom: 40px\"><h1 data-start=\"127\" data-end=\"209\">&nbsp;Product Description</h1>\n<hr data-start=\"211\" data-end=\"214\"></div><div class=\"col-12 col-md-6\" style=\"padding-bottom: 40px\"><p data-start=\"0\" data-end=\"102\">📚✨ <strong data-start=\"4\" data-end=\"98\">Too Many Losing Heroines! Light Novel Collection Vol. 1–7 (English Version) – Complete Set</strong> ✨📚</p>\n<p data-start=\"104\" data-end=\"137\">🚚 <strong data-start=\"107\" data-end=\"137\">Express Shipping Available</strong></p>\n<p data-start=\"139\" data-end=\"161\">🌟 <strong data-start=\"142\" data-end=\"161\">Product Details</strong></p>\n<ul data-start=\"162\" data-end=\"387\">\n<li data-section-id=\"10rv75y\" data-start=\"162\" data-end=\"203\">\n📖 Title: <strong data-start=\"174\" data-end=\"203\">Too Many Losing Heroines!</strong>\n</li>\n<li data-section-id=\"9whcxc\" data-start=\"204\" data-end=\"238\">\n📚 Volumes: <strong data-start=\"218\" data-end=\"238\">1–7 Complete Set</strong>\n</li>\n<li data-section-id=\"6xk2bd\" data-start=\"239\" data-end=\"273\">\n🌍 Language: <strong data-start=\"254\" data-end=\"273\">English Version</strong>\n</li>\n<li data-section-id=\"wxas5t\" data-start=\"274\" data-end=\"291\">\n📏 Size: <strong data-start=\"285\" data-end=\"291\">A5</strong>\n</li>\n<li data-section-id=\"rjg5gv\" data-start=\"292\" data-end=\"321\">\n🆕 Condition: <strong data-start=\"308\" data-end=\"321\">Brand New</strong>\n</li>\n<li data-section-id=\"sne6t5\" data-start=\"322\" data-end=\"347\">\n🔄 Edition: <strong data-start=\"336\" data-end=\"347\">Reprint</strong>\n</li>\n<li data-section-id=\"1f482ki\" data-start=\"348\" data-end=\"387\">\n📦 Carefully packed for safe delivery\n</li>\n</ul>\n<p data-start=\"389\" data-end=\"715\">💖 <strong data-start=\"392\" data-end=\"409\">Story Summary</strong><br>\nMeet <strong data-start=\"415\" data-end=\"436\">Nukumizu Kazuhiko</strong>, an ordinary high school student who prefers to stay out of the spotlight. One day, he witnesses the popular and energetic <strong data-start=\"560\" data-end=\"575\">Yanami Anna</strong> getting rejected by her longtime crush. Soon, he realizes that several other popular girls around him are experiencing the same heartbreak!</p>\n<p data-start=\"717\" data-end=\"1050\">As Kazuhiko becomes involved in their lives, he finds himself surrounded by \"losing heroines\"—girls who aren't destined to win the romance they desire. Filled with comedy, heartfelt moments, friendship, and unexpected emotional depth, this beloved light novel series offers a fresh and entertaining take on the romantic comedy genre.</p>\n<p data-start=\"1052\" data-end=\"1074\">✨ Perfect for fans of:</p>\n<ul data-start=\"1075\" data-end=\"1219\">\n<li data-section-id=\"t3terf\" data-start=\"1075\" data-end=\"1095\">\n❤️ Romantic Comedy\n</li>\n<li data-section-id=\"14zaqr2\" data-start=\"1096\" data-end=\"1120\">\n🎭 School Life Stories\n</li>\n<li data-section-id=\"19wly9j\" data-start=\"1121\" data-end=\"1148\">\n😂 Comedy &amp; Slice of Life\n</li>\n<li data-section-id=\"3zai01\" data-start=\"1149\" data-end=\"1184\">\n💕 Character-Driven Relationships\n</li>\n<li data-section-id=\"1qxgata\" data-start=\"1185\" data-end=\"1219\">\n📚 Popular Japanese Light Novels\n</li>\n</ul>\n<p data-start=\"1221\" data-end=\"1451\">📦 <strong data-start=\"1224\" data-end=\"1257\">Shipping &amp; Import Information</strong><br>\n✅ Express Shipping Included<br data-start=\"1285\" data-end=\"1288\">\n✅ Secure Packaging<br data-start=\"1306\" data-end=\"1309\">\n✅ <strong data-start=\"1311\" data-end=\"1347\">100% Duty &amp; Tax Borne by Shipper</strong> – Buyers do not need to worry about additional import duties or taxes upon delivery (where applicable).</p>\n<p data-start=\"1453\" data-end=\"1583\">🛒 <strong data-start=\"1456\" data-end=\"1489\">Looking for specific volumes?</strong><br>\n✅ We also sell <strong data-start=\"1505\" data-end=\"1529\">loose/single volumes</strong> separately. Feel free to contact us for availability.</p>\n<p data-start=\"1585\" data-end=\"1687\" data-is-last-node=\"\" data-is-only-node=\"\">🎁 A must-have collection for light novel enthusiasts and fans of heartwarming romantic comedies! 📚💕</p><h3 data-start=\"216\" data-end=\"249\"><p class=\"QN2lPu\" style=\"margin: 0px; color: rgba(0, 0, 0, 0.8); font-family: Roboto, SHPBurmese, SHPKhmer, &quot;Helvetica Neue&quot;, Helvetica, Arial, ?????, &quot;WenQuanYi Zen Hei&quot;, &quot;Hiragino Sans GB&quot;, &quot;?? Pro&quot;, &quot;LiHei Pro&quot;, &quot;Heiti TC&quot;, ?????, &quot;Microsoft JhengHei UI&quot;, &quot;Microsoft JhengHei&quot;, sans-serif; font-size: 14px; font-weight: 400; white-space-collapse: preserve;\"><br></p><p class=\"QN2lPu\" style=\"margin: 0px; color: rgba(0, 0, 0, 0.8); font-family: Roboto, SHPBurmese, SHPKhmer, &quot;Helvetica Neue&quot;, Helvetica, Arial, ?????, &quot;WenQuanYi Zen Hei&quot;, &quot;Hiragino Sans GB&quot;, &quot;?? Pro&quot;, &quot;LiHei Pro&quot;, &quot;Heiti TC&quot;, ?????, &quot;Microsoft JhengHei UI&quot;, &quot;Microsoft JhengHei&quot;, sans-serif; font-size: 14px; font-weight: 400; white-space-collapse: preserve;\"><br></p></h3><h3 data-start=\"1987\" data-end=\"2016\">&nbsp;Shipping Information</h3>\n<ul data-start=\"2017\" data-end=\"2309\">\n<li data-start=\"2017\" data-end=\"2081\">\n<p data-start=\"2019\" data-end=\"2081\"><strong data-start=\"2019\" data-end=\"2043\"><font color=\"#7f160e\">Aramex Express</font> , <font color=\"#80593b\">DHL Express</font> and <font color=\"#0039f3\">Fedex Express</font> Shipping</strong> with tracking number on all orders.</p>\n</li>\n<li data-start=\"2082\" data-end=\"2154\">\n<p data-start=\"2084\" data-end=\"2154\">Orders ship within <strong data-start=\"2103\" data-end=\"2124\">3-5 business days</strong> after payment confirmation.</p>\n</li>\n<li data-start=\"2155\" data-end=\"2251\">\n<p data-start=\"2157\" data-end=\"2251\">Estimated delivery: <strong data-start=\"2177\" data-end=\"2198\">3-21 business days</strong> (subject to customs, holidays, or weather delays).</p>\n</li>\n<li data-start=\"2252\" data-end=\"2309\">\n<p data-start=\"2254\" data-end=\"2309\"><strong data-start=\"2254\" data-end=\"2280\">Remote area deliveries</strong> may incur additional fees.</p>\n</li>\n</ul>\n<hr data-start=\"2311\" data-end=\"2314\">\n<h3 data-start=\"2316\" data-end=\"2332\">&nbsp;Payment</h3>\n<ul data-start=\"2333\" data-end=\"2447\">\n<li data-start=\"2333\" data-end=\"2385\">\n<p data-start=\"2335\" data-end=\"2385\">Payment must be made within <strong data-start=\"2363\" data-end=\"2382\">3 business days</strong>.</p>\n</li>\n<li data-start=\"2386\" data-end=\"2447\">\n<p data-start=\"2388\" data-end=\"2447\">Products will only be shipped to <strong data-start=\"2421\" data-end=\"2444\">confirmed addresses</strong>.</p>\n</li>\n</ul>\n<hr data-start=\"2449\" data-end=\"2452\">\n<h3 data-start=\"2454\" data-end=\"2485\">&nbsp;Return &amp; Refund Policy</h3>\n<ul data-start=\"2486\" data-end=\"2707\">\n<li data-start=\"2486\" data-end=\"2571\">\n<p data-start=\"2488\" data-end=\"2571\">Returns or refunds must be requested <strong data-start=\"2525\" data-end=\"2568\">within 30 days of receiving the product</strong>.</p>\n</li>\n<li data-start=\"2572\" data-end=\"2645\">\n<p data-start=\"2574\" data-end=\"2645\">Items must be returned in their <strong data-start=\"2606\" data-end=\"2642\">original condition and packaging</strong>.</p>\n</li>\n<li data-start=\"2646\" data-end=\"2707\">\n<p data-start=\"2648\" data-end=\"2707\">Return shipping costs are the <strong data-start=\"2678\" data-end=\"2704\">buyer's responsibility</strong>.</p>\n</li>\n</ul>\n<hr data-start=\"2709\" data-end=\"2712\">\n<h3 data-start=\"2714\" data-end=\"2738\">&nbsp;Customs &amp; Taxes</h3>\n<ul data-start=\"2739\" data-end=\"2885\">\n<li data-start=\"2739\" data-end=\"2795\">\n<p data-start=\"2741\" data-end=\"2795\">Product prices <strong data-start=\"2756\" data-end=\"2792\">exclude customs duties and taxes</strong>.</p>\n</li>\n<li data-start=\"2796\" data-end=\"2885\">\n<p data-start=\"2798\" data-end=\"2885\">Any applicable fees imposed by your country's customs will be <strong data-start=\"2860\" data-end=\"2882\">borne by the shipper</strong>.</p>\n</li>\n</ul>\n<hr data-start=\"2887\" data-end=\"2890\">\n<h3 data-start=\"2892\" data-end=\"2908\">&nbsp;Feedback</h3>\n<ul data-start=\"2909\" data-end=\"3268\">\n<li data-start=\"2909\" data-end=\"3011\">\n<p data-start=\"2911\" data-end=\"3011\">If you are satisfied with our product and service, please leave us a <strong data-start=\"2980\" data-end=\"3008\">5-star positive feedback</strong>.</p>\n</li>\n<li data-start=\"3012\" data-end=\"3072\">\n<p data-start=\"3014\" data-end=\"3072\">Your support encourages us to grow and serve you better.</p>\n</li>\n<li data-start=\"3073\" data-end=\"3198\">\n<p data-start=\"3075\" data-end=\"3198\">If you encounter any issues, kindly <strong data-start=\"3111\" data-end=\"3153\">contact us before leaving a low rating-</strong>we will do our best to resolve it quickly.</p>\n</li>\n<li data-start=\"3199\" data-end=\"3268\">\n<p data-start=\"3201\" data-end=\"3268\">Feel free to reach out anytime with questions about our products.</p>\n</li>\n</ul>\n<hr data-start=\"3270\" data-end=\"3273\">\n<p data-start=\"3275\" data-end=\"3366\">&nbsp;Perfect for casual readers who want to enjoy this amazing story at an affordable price!</p></div></div></div></div><div style=\"background: #FDFEFE; border-left: 1px solid #CBD4C2; border-right: 1px solid #CBD4C2; color: #353535; line-height: 25px\"><div class=\"container\" style=\"border-top: 1px solid #CBD4C2; padding: 40px 0 40px 0\"><div class=\"col-12 col-md-12\"><ul style=\"line-height: 25px; font-size: 16px; margin-top: 30px;\">\n</ul>\n</div>\n</div>\n</div>\n\n<div style=\"background: #F4F6F7; border-left: 1px solid #283055; border-right: 1px solid #283055; color: #273C2C; line-height: 25px\">\n<div class=\"container\" style=\"padding: 40px 0 40px 0\">\n<div class=\"col-12 col-md-12\">\n<h2 style=\"color: #283055; line-height: 45px\"><font face=\"Tahoma\">Contact us</font></h2>\n</div>\n</div>\n</div>\n\n<div style=\"border-left: 1px solid rgb(40, 48, 85); border-right: 1px solid rgb(40, 48, 85); border-bottom: 1px solid rgb(40, 48, 85); line-height: 25px;\">\n<div class=\"container\" style=\"color: rgb(39, 60, 44); padding: 40px 0px;\">\n<div class=\"col-12 col-md-12\">\n<hr align=\"left\" style=\"background: #283055; height: 1px; width: 10%\">\n<p><font face=\"Tahoma\">We can be contacted at any time through eBay messages if you have any questions, comments or product requests. We will respond to you within 24 hours and do our best to help you out! We encourage our customers to contact us with any questions or concerns! We'd like to be sure you are completely satisfied with your purchase.</font></p>\n</div>\n\n<table class=\"table table-responsive table-borderless\" style=\"line-height: 25px; margin-top: 30px;\">\n\t<tbody>\n\t\t<tr>\n\t\t\t<th scope=\"row\"><font face=\"Tahoma\">Payment</font></th>\n\t\t\t<td><font face=\"Tahoma\">We accept payment through ebay manage payment.</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\"><font face=\"Tahoma\">Shipping</font></th>\n\t\t\t<td><font face=\"Tahoma\">This product will be shipped via standard shipping (SingPost) or fast shipping (DHL) from Malaysia. Your products will be shipped with a valid tracking number. All products are packed and layered with bubble wrap to reduce damages during shipping and delivery. Estimate delivery is between 3 to 7 business days.<br>\n\t\t\tIf you have any problem with the order, do contact us via ebay message. We are glad to assist you and solving the problem as soon as possible. Items can be returned within 30 days in a good condition.</font></td>\n\t\t</tr>\n\t\t<tr>\n\t\t\t<th scope=\"row\"><font face=\"Tahoma\">Disclaimer</font></th><td><font face=\"Tahoma\">All purchases are final and buyers are responsible for any tax imposed by the custom upon receiving the package.<br>\n\t\t\tIf satisfied with our service/product, a 5 star positive feedback from you ladies and gentlemen is very much appreciated and the recognition will motivate us to serve you better.</font></td>\n\t\t</tr>\n\t</tbody>\n</table>\n</div>\n\n<div class=\"col-12 col-md-12 element\" style=\"border-top: 1px solid rgb(40, 48, 85); line-height: 25px;\">\n<div class=\"container\" style=\"padding: 20px 0px 10px; font-size: 80%; text-align: center;\">\n<p><font face=\"Arial\" color=\"#544094\">Thank You.Follow the \"tripleastores\" on Ebay</font></p>\n</div>\n</div></div>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "377246432483",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=377246432483",
+    "itemGroupTitle": "Too Many Losing Heroines! Volume 1-7 English Version Light Novel All Set New",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/J1cAAeSwOVZqJ4nW/s-l1600.jpg",
+      "width": 1437,
+      "height": 1600
+    },
+    "itemGroupAdditionalImages": [
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/Ze8AAeSw0sVqJ4nU/s-l1600.jpg",
+        "width": 1437,
+        "height": 1600
+      },
+      {
+        "imageUrl": "https://i.ebayimg.com/images/g/RyIAAeSwszFqJ4nU/s-l1600.jpg",
+        "width": 1437,
+        "height": 1600
+      }
+    ]
+  },
+  "unitPricingMeasure": "Unit",
+  "unitPrice": {
+    "value": "219.90",
+    "currency": "USD"
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "legacyItemId": "377246432483",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

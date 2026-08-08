@@ -1,0 +1,1232 @@
+{
+  "itemId": "v1|316032128892|614596083133",
+  "sellerItemRevision": "9",
+  "title": "86 EIGHTY-SIX Light Novel (SINGLE/MIX/FULL SET) Volume 1-12 English Version Book",
+  "shortDescription": "The printing and book was premium quality from Underground Publisher. Because of the different colours of printing ink, the books may have slightly different colours than the original. Give us a call.",
+  "price": {
+    "value": "207.86",
+    "currency": "USD"
+  },
+  "categoryPath": "Collectibles|Comic Books & Memorabilia|Manga & Asian Comics|Single Volumes",
+  "categoryIdPath": "1|63|33346|259109",
+  "condition": "Brand New",
+  "conditionId": "1000",
+  "itemLocation": {
+    "city": "Kuala Lumpur",
+    "postalCode": "*****",
+    "country": "MY"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/Tr4AAOSwtjZnU8Su/s-l1600.jpg",
+    "width": 960,
+    "height": 875
+  },
+  "marketingPrice": {
+    "originalPrice": {
+      "value": "218.80",
+      "currency": "USD"
+    },
+    "discountPercentage": "5.0",
+    "discountAmount": {
+      "value": "10.94",
+      "currency": "USD"
+    },
+    "priceTreatment": "MARKDOWN"
+  },
+  "itemCreationDate": "2024-12-07T03:50:50.000Z",
+  "seller": {
+    "username": "nabrichstore",
+    "feedbackPercentage": "99.2",
+    "feedbackScore": 442
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 2,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 2
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "Standard Shipping from outside US",
+      "type": "Standard Shipping from outside",
+      "shippingCost": {
+        "value": "4.90",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-31T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-09-15T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "1.90",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "Central America and Caribbean",
+        "regionType": "WORLD_REGION",
+        "regionId": "CENTRAL_AMERICA_AND_CARIBBEAN"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "Argentina",
+        "regionType": "COUNTRY",
+        "regionId": "AR"
+      },
+      {
+        "regionName": "Brazil",
+        "regionType": "COUNTRY",
+        "regionId": "BR"
+      },
+      {
+        "regionName": "Falkland Islands (Islas Malvinas)",
+        "regionType": "COUNTRY",
+        "regionId": "FK"
+      },
+      {
+        "regionName": "French Guiana",
+        "regionType": "COUNTRY",
+        "regionId": "GF"
+      },
+      {
+        "regionName": "Guyana",
+        "regionType": "COUNTRY",
+        "regionId": "GY"
+      },
+      {
+        "regionName": "Suriname",
+        "regionType": "COUNTRY",
+        "regionId": "SR"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "Armenia",
+        "regionType": "COUNTRY",
+        "regionId": "AM"
+      },
+      {
+        "regionName": "Azerbaijan Republic",
+        "regionType": "COUNTRY",
+        "regionId": "AZ"
+      },
+      {
+        "regionName": "Bangladesh",
+        "regionType": "COUNTRY",
+        "regionId": "BD"
+      },
+      {
+        "regionName": "Bhutan",
+        "regionType": "COUNTRY",
+        "regionId": "BT"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "Georgia",
+        "regionType": "COUNTRY",
+        "regionId": "GE"
+      },
+      {
+        "regionName": "India",
+        "regionType": "COUNTRY",
+        "regionId": "IN"
+      },
+      {
+        "regionName": "Kazakhstan",
+        "regionType": "COUNTRY",
+        "regionId": "KZ"
+      },
+      {
+        "regionName": "Kyrgyzstan",
+        "regionType": "COUNTRY",
+        "regionId": "KG"
+      },
+      {
+        "regionName": "Maldives",
+        "regionType": "COUNTRY",
+        "regionId": "MV"
+      },
+      {
+        "regionName": "Mongolia",
+        "regionType": "COUNTRY",
+        "regionId": "MN"
+      },
+      {
+        "regionName": "Nepal",
+        "regionType": "COUNTRY",
+        "regionId": "NP"
+      },
+      {
+        "regionName": "Pakistan",
+        "regionType": "COUNTRY",
+        "regionId": "PK"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Tajikistan",
+        "regionType": "COUNTRY",
+        "regionId": "TJ"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Uzbekistan",
+        "regionType": "COUNTRY",
+        "regionId": "UZ"
+      },
+      {
+        "regionName": "Bahrain",
+        "regionType": "COUNTRY",
+        "regionId": "BH"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Israel",
+        "regionType": "COUNTRY",
+        "regionId": "IL"
+      },
+      {
+        "regionName": "Lebanon",
+        "regionType": "COUNTRY",
+        "regionId": "LB"
+      },
+      {
+        "regionName": "Oman",
+        "regionType": "COUNTRY",
+        "regionId": "OM"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "Bosnia and Herzegovina",
+        "regionType": "COUNTRY",
+        "regionId": "BA"
+      },
+      {
+        "regionName": "Bulgaria",
+        "regionType": "COUNTRY",
+        "regionId": "BG"
+      },
+      {
+        "regionName": "Cyprus",
+        "regionType": "COUNTRY",
+        "regionId": "CY"
+      },
+      {
+        "regionName": "Gibraltar",
+        "regionType": "COUNTRY",
+        "regionId": "GI"
+      },
+      {
+        "regionName": "Guernsey",
+        "regionType": "COUNTRY",
+        "regionId": "GG"
+      },
+      {
+        "regionName": "San Marino",
+        "regionType": "COUNTRY",
+        "regionId": "SM"
+      },
+      {
+        "regionName": "Svalbard and Jan Mayen",
+        "regionType": "COUNTRY",
+        "regionId": "SJ"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Vatican City State",
+        "regionType": "COUNTRY",
+        "regionId": "VA"
+      },
+      {
+        "regionName": "Macau",
+        "regionType": "COUNTRY",
+        "regionId": "MO"
+      },
+      {
+        "regionName": "Malaysia",
+        "regionType": "COUNTRY",
+        "regionId": "MY"
+      },
+      {
+        "regionName": "Philippines",
+        "regionType": "COUNTRY",
+        "regionId": "PH"
+      },
+      {
+        "regionName": "Singapore",
+        "regionType": "COUNTRY",
+        "regionId": "SG"
+      },
+      {
+        "regionName": "Bermuda",
+        "regionType": "COUNTRY",
+        "regionId": "BM"
+      },
+      {
+        "regionName": "Greenland",
+        "regionType": "COUNTRY",
+        "regionId": "GL"
+      },
+      {
+        "regionName": "Mexico",
+        "regionType": "COUNTRY",
+        "regionId": "MX"
+      },
+      {
+        "regionName": "Saint Pierre and Miquelon",
+        "regionType": "COUNTRY",
+        "regionId": "PM"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "BUYER",
+    "returnPeriod": {
+      "value": 30,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Vol.",
+      "value": "1-12"
+    },
+    {
+      "type": "STRING",
+      "name": "Unit of Sale",
+      "value": "Mixed Lot"
+    },
+    {
+      "type": "STRING",
+      "name": "Artist/Writer",
+      "value": "Asato Asato"
+    },
+    {
+      "type": "STRING",
+      "name": "Character",
+      "value": "Shinei Nouzen"
+    },
+    {
+      "type": "STRING",
+      "name": "Tradition",
+      "value": "Manga"
+    },
+    {
+      "type": "STRING",
+      "name": "Signed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Series Title",
+      "value": "86 - Eighty Six"
+    },
+    {
+      "type": "STRING",
+      "name": "Universe",
+      "value": "86, Eighty-Six"
+    },
+    {
+      "type": "STRING",
+      "name": "Publisher",
+      "value": "Malaysia Pubisher"
+    },
+    {
+      "type": "STRING",
+      "name": "Inscribed",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Intended Audience",
+      "value": "General Audience"
+    },
+    {
+      "type": "STRING",
+      "name": "Vintage",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Publication Year",
+      "value": "2021"
+    },
+    {
+      "type": "STRING",
+      "name": "Type",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Softcover"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "English"
+    },
+    {
+      "type": "STRING",
+      "name": "Personalized",
+      "value": "No"
+    },
+    {
+      "type": "STRING",
+      "name": "Style",
+      "value": "Black & White"
+    },
+    {
+      "type": "STRING",
+      "name": "Features",
+      "value": "Set"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Mecha, Military, Science Fiction"
+    },
+    {
+      "type": "STRING",
+      "name": "Country/Region of Manufacture",
+      "value": "Malaysia"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/316032128892?var=614596083133&amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xAo2Yx%2F5wucxWDt%2F9GvqMAcrrXEwUQ1fJ2yINqyKQIxbLuBgxRWWbuMmLWN0sQJ9Bn%2F66PYqfeOhI3yDzdVujIOWs0Vy6ezZAEoVZ%2BmZL25LVyqYolOJwPxlUJXr352vYdhJD3OVoGPzK%2Bg0is1qCBSneAimaZpkfZDitXdZXVE3xZf3zpfcoEJKkjcwLLgnPc%3D",
+  "description": "<div id=\"template-6\"><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"><style> @import url('https://img.eselt.de/assets/templates/vendor/bootstrap.v3.3.5.min.css'); @import url('https://img.eselt.de/fonts/vendor/font-awesome-5.1.0/css/all.css'); </style><!----><style> /* oswald-300 - latin-ext_latin */ @font-face { font-family: 'Oswald'; font-style: normal; font-weight: 300; src: url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.eot'); /* IE9 Compat Modes */ src: local('Oswald Light'), local('Oswald-Light'), url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-300.svg#Oswald') format('svg'); /* Legacy iOS */ } /* oswald-regular - latin-ext_latin */ @font-face { font-family: 'Oswald'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Oswald Regular'), local('Oswald-Regular'), url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-regular.svg#Oswald') format('svg'); /* Legacy iOS */ } /* oswald-700 - latin-ext_latin */ @font-face { font-family: 'Oswald'; font-style: normal; font-weight: 700; src: url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.eot'); /* IE9 Compat Modes */ src: local('Oswald Bold'), local('Oswald-Bold'), url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/oswald-v-16/oswald-v16-latin-ext_latin-700.svg#Oswald') format('svg'); /* Legacy iOS */ } /* russo-one-regular - latin-ext_latin */ @font-face { font-family: 'Russo One'; font-style: normal; font-weight: 400; src: url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */ src: local('Russo One'), local('RussoOne-Regular'), url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */ url('https://img.eselt.de/fonts/vendor/russo-one-v6/russo-one-v6-latin-ext_latin-regular.svg#RussoOne') format('svg'); /* Legacy iOS */ } </style><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><style id=\"template__version\"> .gallery__wrapper{display:flex;height:600px}@media (max-width:992px){.gallery__wrapper{display:block;height:auto}}.gallery__wrapper .gallery__bg{height:100%;overflow-y:auto}@media (max-width:992px){.gallery__wrapper .gallery__bg{height:auto}}.images .image-wrapper{margin:24px auto;text-align:center;max-width:100%;height:auto}.images .image-wrapper img{max-width:80%;margin-left:auto;margin-right:auto}.content__gallery{width:100%;position:relative;overflow:hidden;background:hsla(0,0%,100%,.6);text-align:center}.content__gallery .slider__wrapper{overflow:hidden;margin:12px;background:hsla(0,0%,100%,.3);width:100%;height:600px}@media (max-width:768px){.content__gallery .slider__wrapper{height:450px}}@media (max-width:480px){.content__gallery .slider__wrapper{height:300px}}.content__gallery .slider__wrapper .slider{height:100%;width:100%;display:inline-block;white-space:nowrap;font-size:0;transition:all 0s 9999999s}.content__gallery .slider__wrapper .slider>*{height:100%;width:100%;display:inline-block;background-size:contain;background-repeat:no-repeat;background-position:50%}.content__gallery .thumb__float{display:inline-block;margin:12px;border:1px solid #007ba3}.content__gallery .thumb__float .thumb__wrapper{width:80px;height:80px;padding:3px;background:#fff}.content__gallery .thumb__float .thumb__wrapper img{cursor:pointer}@media (max-width:1152px){.content__gallery .thumb__float .thumb__wrapper{width:60px;height:60px;padding:5px}}@media (max-width:480px){.content__gallery .thumb__float .thumb__wrapper{width:40px;height:40px;padding:3px}}.content__gallery--flex-column{display:flex;flex-wrap:wrap;justify-content:flex-start;align-items:center;flex-direction:column;height:600px;overflow-x:auto}@media (max-width:768px){.content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}}.content__gallery--flex-column .slider__wrapper{width:100%;height:100%}@media (max-width:768px){.content__gallery--flex-column .slider__wrapper{height:300px}}.content__gallery--left .slider__wrapper{order:2;width:800px}@media (max-width:1100px){.content__gallery--left .slider__wrapper{width:700px}}@media (max-width:1000px){.content__gallery--left .slider__wrapper{width:600px}}@media (max-width:900px){.content__gallery--left .slider__wrapper{width:550px}}@media (max-width:800px){.content__gallery--left .slider__wrapper{width:500px}}@media (max-width:768px){.content__gallery--left .slider__wrapper{width:100%;order:1}}.content__gallery--left .thumb__float{order:1}@media (max-width:768px){.content__gallery--left .thumb__float{order:2}}.content__gallery--right .slider__wrapper{order:1;width:800px}@media (max-width:1100px){.content__gallery--right .slider__wrapper{width:700px}}@media (max-width:1000px){.content__gallery--right .slider__wrapper{width:600px}}@media (max-width:900px){.content__gallery--right .slider__wrapper{width:550px}}@media (max-width:800px){.content__gallery--right .slider__wrapper{width:500px}}@media (max-width:768px){.content__gallery--right .slider__wrapper{width:100%}}.content__gallery--right .thumb__float{order:2}.content__gallery--bottom{display:flex;flex-wrap:wrap;justify-content:center;align-items:center}.content__gallery--bottom .slider__wrapper{order:1}.content__gallery--bottom .thumb__float{order:2}.content__gallery--higher{height:750px}@media (max-width:768px){.content__gallery--higher{height:auto}}.content__gallery--highest{height:900px}@media (max-width:768px){.content__gallery--highest{height:auto}}.image-cover__wrapper{text-align:center}.image-cover__img{max-width:100%;margin:0 auto}.slideshow{height:600px;width:100%}.slideshow>*{height:100%;width:100%;background-size:contain;background-repeat:no-repeat;background-position:50%;margin-bottom:10%}#layout__layout-3 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-3 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-3 .content__gallery--left .thumb__float{order:2}#layout__layout-3 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-4 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-4 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-4 .content__gallery--left .thumb__float{order:2}#layout__layout-4 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-5 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-5 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-5 .content__gallery--left .thumb__float{order:2}#layout__layout-5 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-6 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-6 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-6 .content__gallery--left .thumb__float{order:2}#layout__layout-6 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-7 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-7 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-7 .content__gallery--left .thumb__float{order:2}#layout__layout-7 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-8 .content__gallery--flex-column{flex-direction:row;overflow-x:hidden;height:auto;justify-content:center}#layout__layout-8 .content__gallery--left .slider__wrapper{width:100%;height:480px;order:1}#layout__layout-8 .content__gallery--left .thumb__float{order:2}#layout__layout-8 .content__gallery--right .slider__wrapper{width:100%;height:480px;order:1}.content_tabs{margin:0;padding:0;overflow:hidden}.tabs__label{flex:1;color:#007ba3;border-right:2px solid #007ba3;padding:16px 0;background:#ffc808;text-decoration:none;font-weight:700;text-align:center;cursor:pointer;z-index:999}.tabs__label:hover{background:#007ba3;color:#ffc808}.tabs__label:last-of-type a{border:none}.tabs__wrapper{position:relative;overflow:hidden}.tabs__slider{height:600px;width:100%;transition:all 0s 9999999s}.tabs__slider>*{height:100%;width:100%;overflow-y:auto;overflow-x:hidden}.tabs__tab{background:#fff;width:100%;display:flex;flex-flow:row wrap}@media (max-width:768px){.tabs__tab{flex-direction:column}}.tabs__box{border:2px solid #007ba3;width:100%}.tabs__box--content{background:#fff;padding:12px}.tabs__box--aside .aside{margin:0!important;min-height:100%}.tabs__box--aside .aside-block{margin:0!important}.fa,.far,.fas{font-family:Font Awesome\\ 5 Free!important}.word-break{word-break:break-all!important}.footer .footer-block__wrapper{padding:0 16px}@media (max-width:360px){.footer .footer-block .footer-block__body{font-size:15px!important}}.footer .footer-block .footer-block__body .fa{margin-right:5px}.aside-block .aside-block__icons img{border-radius:6px}.container{max-width:100%}#layout__gallery{margin:24px 0}.order-1{order:1}.order-2{order:2}.flex{display:flex}.flex-1{flex:1}.flex-2{flex:2}.direction-column{flex-direction:column}.mt0{margin-top:0!important}.mb0{margin-bottom:0!important}.col-md-3 .aside-block .aside-block__icons{text-align:center}.col-md-3 .aside-block .aside-block__icons img{width:75px}@media (max-width:992px){.menu{font-size:16px!important}}.disabled-link,.disabled-links a{pointer-events:none;cursor:default}img{max-width:100%}.yt{width:100%;text-align:center;position:relative;overflow:hidden}.yt img{display:block;max-width:100%;border:0;margin:1em auto}.yt a:after{content:\"\\A0\\25BA\";position:absolute;width:60px;height:50px;left:0;top:0;right:0;bottom:0;margin:auto;border:0;border-radius:10px;color:#fff;background:rgba(0,0,0,.6);font-size:24px;line-height:50px;cursor:pointer}.yt a:hover:after{background:#cc181e}.yt__img{margin-top:1em;margin-bottom:1em;display:block}#template-6 header{margin:0;padding:0;background:none;box-shadow:none;text-shadow:none;position:relative;width:auto;height:auto;overflow:hidden;z-index:auto}#template-6 .template__wrapper{width:100%;background-image:linear-gradient(180deg,#e2f0f9 0,#fff);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=\"#FFE2F0F9\",endColorstr=\"#FFFFFFFF\",GradientType=0);background-repeat:repeat-x}@media (max-width:768px){#template-6 .template__wrapper .container{margin:0;padding:0}}#template-6 .header .container{display:flex;flex-direction:column}#template-6 .header .header__brand{order:2;display:flex;align-items:center}#template-6 .header .header__brand .header__logo{margin:12px 0;font-family:Russo One,sans-serif;font-size:48px;font-weight:700;color:#007ba3;flex:1}#template-6 .header .header__brand .header__logo img{max-width:80%}@media (max-width:768px){#template-6 .header .header__brand .header__logo{text-align:center}}@media (max-width:480px){#template-6 .header .header__brand .header__logo{font-size:32px}}#template-6 .header .header__brand .header__slogan{font-family:Russo One,sans-serif;font-size:26px;font-weight:400;color:#007ba3;text-align:right;flex:1}@media (max-width:768px){#template-6 .header .header__brand .header__slogan{text-align:center}}@media (max-width:480px){#template-6 .header .header__brand .header__slogan{font-size:20px}}@media (max-width:768px){#template-6 .header .header__brand{display:block;text-align:center}}#template-6 .header .header__contact{background:#068;padding:6px 12px;font-family:Oswald,sans-serif;font-size:20px;font-weight:400;text-align:right;color:#ffc808;order:1}#template-6 .header .header__contact a{color:#ffc808}#template-6 .header .header__contact div{float:right}@media (max-width:768px){#template-6 .header .header__contact div{display:block;clear:both}}#template-6 .header .header__contact .fa{margin-right:6px;margin-left:12px}@media (max-width:480px){#template-6 .header .header__contact{font-size:16px;text-align:center}}#template-6 .footer{margin-top:12px}#template-6 .footer>.container{display:flex}@media (max-width:768px){#template-6 .footer>.container{flex-direction:column}}#template-6 .footer-block{text-align:center}#template-6 .footer-block .footer-block__title{font-family:Oswald,sans-serif;font-size:24px;font-weight:700;color:#ffc808;margin-top:0;margin-bottom:9.6px}@media (max-width:768px){#template-6 .footer-block .footer-block__title{margin-top:19.2px}}#template-6 .footer-block .footer-block__body{font-family:Oswald,sans-serif;font-size:18px;font-weight:400;color:#ffeeb4}#template-6 .footer-block .footer-block__body a{color:#ffeeb4}#template-6 .footer-block .footer-block__body .btn{background-color:#ffc808;border:none;color:#068;padding:6px 18px;margin-top:12px;text-align:center;text-decoration:none;display:inline-block}#template-6 .footer-block .footer-block__body .btn:hover{background-color:#ffeeb4}#template-6 .footer-block .footer-block__body .menu{font-family:inherit;font-size:inherit;font-weight:inherit;margin:0;padding:0;background:none;box-shadow:none}#template-6 .footer-block .footer-block__body .menu .container{width:100%!important;padding:0!important}#template-6 .footer-block .footer-block__body .menu .menu__list{margin:0;padding:0;display:block;list-style:none}#template-6 .footer-block .footer-block__body .menu .menu__item{text-align:center}#template-6 .footer-block .footer-block__body .menu .menu__item a{display:block;color:inherit;border:0;padding:0}#template-6 .footer-block .footer-block__body .menu .menu__item a:hover{background:none;color:inherit}#template-6 .footer__eselt{margin:12px auto;font-family:Helvetica,sans-serif;font-size:.8em;font-weight:400;color:#888;text-align:right;width:98%;order:99}#template-6 .footer__eselt a{color:#888}@media (max-width:768px){#template-6 .footer__eselt{text-align:center}}#template-6 .footer__logo{font-family:Titillium Web,sans-serif}#template-6 .footer__logo:before{content:\"&#x45;&#x72;&#x73;&#x74;&#x65;&#x6C;&#x6C;&#x74;&#x20;&#x6D;&#x69;&#x74; \"}#template-6 .footer__logo .text:before{content:\"&#x45;&#x73;&#x65;&#x6C;&#x74;\"}#template-6 .no-margin{margin:0!important}#template-6 .no-margin-top{margin-top:0!important}#template-6 .no-margin-right{margin-right:0!important}#template-6 .no-margin-bottom{margin-bottom:0!important}#template-6 .no-margin-left{margin-left:0!important}#template-6 .menu{font-family:Oswald,sans-serif;font-size:18px;margin:0;padding:18px 0}#template-6 .menu .menu__list{margin:0;padding:0;display:flex;flex-wrap:wrap;justify-content:center;list-style:none;text-transform:uppercase}@media (max-width:768px){#template-6 .menu .menu__list{display:block}}#template-6 .menu .menu__item{flex:1;text-align:center}#template-6 .menu .menu__item a{display:block;color:#ffc808;padding:6px 0}#template-6 .menu .menu__item a:hover{background:#ffc808;color:#007ba3;border-radius:6px}#template-6 .menu .menu__item a .fa{font-size:1.2em}#template-6 .menu--footer .menu__list{margin:0;padding:0;list-style:none}#template-6 .content__wrapper{background:#068;padding:0 24px 24px;box-shadow:0 5px 20px rgba(0,0,0,.6);border-radius:24px}@media (max-width:768px){#template-6 .content__wrapper{padding:0 0 18px}}#template-6 .content{background:#fff;margin:0;font-family:Oswald,sans-serif;color:#212121;font-size:16px;line-height:1.5;padding:24px;border-radius:24px}@media (max-width:768px){#template-6 .content{padding:0}}#template-6 .content .content__header{margin:12px 0}#template-6 .content .content__header .content__title{margin:0;color:#ffc808;background:#007ba3;padding:18px;border-radius:12px;text-align:center;font-size:32px}@media (max-width:480px){#template-6 .content .content__header .content__title{font-size:24px}}#template-6 .content .content__description{margin:24px 0;padding:12px;color:#616161;overflow:hidden}#template-6 .content .content__description p{margin:0 0 6px}#template-6 .content .content__bulletpoints{margin:24px 0;padding:12px;color:#616161}#template-6 .content .content__bulletpoints .bulletpoints__list{margin:0;padding:0;list-style:none}#template-6 .content .content__bulletpoints .bulletpoints__item{margin-bottom:6px}#template-6 .content .content__bulletpoints .bulletpoints__item .fa{color:#007ba3}#template-6 .vertical-align-middle{white-space:nowrap;text-align:center}#template-6 .vertical-align-middle .vertical-align-helper{display:inline-block;height:100%;vertical-align:middle}#template-6 .vertical-align-middle img{display:inline-block;vertical-align:middle;margin:0;padding:0;max-width:100%;max-height:100%}#template-6 .aside{background:#ffeeb4;padding:12px 0;margin:24px 0;overflow:hidden;border-radius:24px}#template-6 .aside-block{text-align:left;padding:6px}#template-6 .aside-block .aside-block__title{font-family:Oswald,sans-serif;font-size:32px;font-weight:700;color:#068;margin-bottom:12px;text-align:left}#template-6 .aside-block .aside-block__title .fa{font-size:32px}#template-6 .aside-block .aside-block__body{font-family:Oswald,sans-serif;font-size:16px;font-weight:400;color:#212121}#template-6 .aside-block .aside-block__icons{text-align:left;margin-bottom:12px}#template-6 .aside-block .aside-block__icons img{margin:3px}@media (max-width:1200px) and (min-width:768px){#template-6 .aside-block{padding:0}#template-6 .aside-block .aside-block__title,#template-6 .aside-block .aside-block__title .fa{font-size:26px}#template-6 .aside-block .aside-block__body{font-size:15px}#template-6 .aside-block__icons{text-align:left;margin-bottom:12px}#template-6 .aside-block__icons img{margin:3px;width:70px}}#template-6 .container{max-width:100%} #template-6 .template__wrapper { background-image: linear-gradient(to bottom, #e2f0f9 0%, #fff 100%); margin-bottom: 20px; } #template-6 .content__wrapper { background-color: #006688; } #template-6 .header { background: none; } #template-6 .header .header__brand .header__logo { font-family: \"Russo One\"; color: #006688; } #template-6 .header .header__brand .header__slogan { font-family: \"Russo One\"; color: #006688; } #template-6 .header .header__contact { font-family: \"Russo One\"; color: #ffc808; background-color: #006688; } #template-6 .header .header__contact a { color: #ffc808; background-color: #006688; } #template-6 .footer { background: none; } #template-6 .footer .footer__contact { color: #ffc808; } #template-6 .footer-block .footer-block__body a { color: #ffc808; } #template-6 .footer-block .footer-block__body .menu .menu__item a { color: #ffc808; background: none; } #template-6 .footer-block .footer-block__body .btn { background-color: #ffc808; color: #006688; } #template-6 .footer-block .footer-block__body .btn:hover { background-color: #ffc808; color: #006688; } #template-6 .footer-block .footer-block__title { font-family: \"Oswald\"; color: #ffc808; } #template-6 .footer-block .footer-block__body { font-family: \"Oswald\"; color: #ffc808; } #template-6 .menu { font-family: \"Oswald\"; background: none; } #template-6 .menu .menu__item a { background: none; color: #ffc808; border-color: #006688; } #template-6 .menu .menu__item a:hover { background-color: #ffc808; color: #006688; } #template-6 .content .content__header .content__title { font-family: \"Oswald\"; color: #ffc808; background-color: #006688; } #template-6 .content { font-family: \"Oswald\"; background: #ffffff; } #template-6 .content .content__description { color: #444444; } #template-6 .content .content__bulletpoints { color: #444444; } #template-6 .content .content__bulletpoints .bulletpoints__item .fa { color: #006688; } #template-6 .aside { background: #ffc808; } #template-6 .aside-block .aside-block__body { font-family: \"Oswald\"; color: #444444; } #template-6 .aside .aside-block .aside-block__title { font-family: \"Oswald\"; color: #006688; } #template-6 .images .image-wrapper img { border-color: #006688; background-color: #ffc808; } #template-6 .content__gallery .thumb__float { border-color: #006688; } #template-6 .content__gallery .gallery__prev-next a { color: #006688; } #template-6 .content__gallery { background: rgba(255, 255, 255, 0.6); } #template-6 .tabs__label { background: #ffc808; color: #006688; border-color: #006688; } #template-6 .tabs__label:hover { background: #006688; color: #ffc808; } #template-6 .tabs__box { border-color: #006688; } #template-6 .tabs__box--content { background: #ffffff; } #template-6 .template__wrapper .myticdPNMQs { margin: 0; font-family: Helvetica, sans-serif; font-size: 0.8em; font-weight: normal; color: #888; text-align: right; width: 100%; position: absolute; right: 0; bottom: 0; padding: 4px 16px; background: #fff; } #template-6 .template__wrapper .myticdPNMQs a { color: #888; width: 1140px; max-width: 100%; margin: auto; display: block; } @media (max-width: 768px) { #template-6 .template__wrapper .myticdPNMQs { text-align: center; } } #template-6 .template__wrapper .zYsWjt069cqZVBt { font-family: 'Titillium Web', sans-serif; } </style><!----><!----><!----><!----><!----><!----><div><div><div class=\"template__wrapper\" style=\"position: relative; padding-bottom: 50px;\"><div class=\"myticdPNMQs\"><a href=\"https://www.ebay.com/str/eselt?_tab=about\" target=\"_blank\"><span> Created with <strong><span class=\"zYsWjt069cqZVBt\"> Eselt </span></strong></span> - <span>Mobile Optimized Listing Designs for eBay Sellers</span></a></div><header class=\"header\"><div class=\"container\"><div class=\"header__brand\"><div class=\"header__logo\"><div>nabrichstore</div></div><!----></div><div class=\"header__contact word-break\"><div><i aria-hidden=\"true\" class=\"fa fa-phone-square\"></i><span>Give us a call</span></div><div><i aria-hidden=\"true\" class=\"fa fa-envelope\"></i><span>Send us a message</span></div></div></div></header><div class=\"myticdPNMQs\"><a href=\"https://www.ebay.com/str/eselt?_tab=about\" target=\"_blank\"><span> Created with <strong><span class=\"zYsWjt069cqZVBt\"> Eselt </span></strong></span> - <span>Mobile Optimized Listing Designs for eBay Sellers</span></a></div><div class=\"container\"><div class=\"content__wrapper\"><nav class=\"menu\"><div class=\"container\"><ul class=\"menu__list\"><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null\" target=\"_blank\" class=\"disabled-link\"> Our Store </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null\" target=\"_blank\" class=\"disabled-link\"> Seller Profile </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null?uc=profile&amp;_tab=feedback\" target=\"_blank\" class=\"disabled-link\"> Feedback </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null?uc=profile&amp;_tab=about\" target=\"_blank\" class=\"disabled-link\"> About us </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=null\" target=\"_blank\" class=\"disabled-link\"> Contact </a></li></ul></div></nav><main class=\"content\"><div class=\"content__header\"><h1 class=\"content__title\"> 86 EIGHTY-SIX Light Novel (SINGLE/MIX/FULL SET) Volume 1-12 English Version Book </h1></div><div><div class=\"product-2703313\"></div><!----><!----><!----><!----><div id=\"layout__layout-5\"><div class=\"row\"><div class=\"col col-md-9 col-md-push-3\"><div id=\"layout__content\" style=\"margin-bottom: 0px;\"><div class=\"row flex direction-column\"><div class=\"col col-md-12 order-1\"><div class=\"content__description mb0\"><p><br></p><h3><strong style=\"color: rgb(0, 0, 0);\">FREE EXPRESS SHIPPING IF PURCHASING 5 OR MORE BOOKS.</strong></h3><p><br></p><h4><span style=\"background-color: initial; font-family: inherit;\">ATTENTION</span></h4><h4><span style=\"font-weight: normal;\"><span>Please note that this book is NOT SUITABLE for collector as this was not from original producer (Viz Media, Square Enix, etc..). It is suitable for first time that want to read manga. Book from Viz Media would cost you more. All content are originally and same from Original Comic. The printing and book was premium quality from&nbsp;</span><span style=\"background-color:rgb(255,255,0);\">Underground Publisher</span><span>.</span></span></h4><h4><span style=\"font-weight: normal;\">Because of the different colours of printing ink, the books may have slightly different colours than the original.</span></h4><p><br></p><p><br></p><p></p><hr><p></p><p><strong>Shipping &amp; Payments</strong></p><ul><li><span>We will ship your item within 1-5 working days when payment received. We take great pride in our swift dispatch times, ensuring that orders are shipped within 1 to 5 working days from Monday to Friday. It's important to note that this timeframe excludes public holidays.</span></li><li>Estimated standard shipping from USA - 4 to 9 business days.</li><li>Economy Shipping from Abroad with Tracking. Normally it takes 11-35 working days for delivery on all international order. Sometimes it may take up to 30 working days to arrive. If your item does not arrive within the time frame, please contact us via eBay message.&nbsp;</li><li>FedEx / DHL Express Shipping from Aboard with Tracking. Normally it takes 5-10 working days for delivery on all international order. Sometimes it may take up to 14 working days to arrive. If your item does not arrive within the time frame, please contact us via eBay message.</li><li>Proof of shipment will be kept for future reference.</li><li>Your item will be packed up properly to avoid any damages.</li><li>To ensure a smooth delivery/transaction, please make sure your shipping address is verified and correct. We are not responsible for invalid addresses. Worldwide shipping available.</li><li>30 days full refund or exchange on any item. Buyer is responsible for return shipping unless there is a problem with the order.</li></ul><p></p><hr><p></p><p><strong>Customs</strong></p><ul><li>International shipments may be subjected to additional custom fees and duties. We DO NOT pre-bill any import duties, customs fees or tariffs imposed by various government on the product.</li><li>We DO NOT responsible for your country’s customs. Please check with your country’s customs before you buy.</li><li>All the customs fee &amp; taxes will be on the buyer’s responsibility.</li><li>Also allow some time for your country’s customs clearance time, because the delays usually come from Customs.</li><li>Seller are not responsible for item lost, but seller always keeps the proof of delivery.</li></ul><p></p><hr><p></p><p><strong>Contact Us</strong></p><p>If you have any questions or concerns, you can reach us through eBay messages. We appreciate your business and if you are satisfied with our service, kindly provide positive feedbacks and rate the details of the transaction. Our goal is to make sure you are a satisfied buyer so kindly give us the chance to do so. Should anything goes wrong with your order, kindly contact us before leaving any negative or neutral feedbacks.</p></div></div><div class=\"col col-md-12 order-2\"><div class=\"content__bulletpoints\" style=\"display: none;\"><ul class=\"bulletpoints__list\"></ul></div></div></div></div><div id=\"layout__gallery\" style=\"margin-top: 0px;\"><div><!----><!----><!----><!----></div></div></div><div class=\"col col-md-3 col-md-pull-9\"><div id=\"layout__aside\" style=\"margin-top: 24px;\"><aside class=\"aside\"><div class=\"container\"><div id=\"aside-payment\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fas fa-dollar-sign\"></i> Payment </div><div class=\"aside-block__icons\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/google_pay.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/paypal.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/apple_pay.png\"><img src=\"https://img.eselt.de/assets/templates/icons/payment/credit_card.png\"></div><div class=\"aside-block__body\"><div><p class=\"aside-block\"><span style=\"color:rgb(68,68,68);\">Currently we accept payment through eBay manage payment.</span></p></div></div></div></div><div id=\"aside-shipping\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fa fa-truck\"></i> Shipping </div><div class=\"aside-block__icons\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/fedex.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/ups.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/express.png\"><img src=\"https://img.eselt.de/assets/templates/icons/shipping/other.png\"></div><div class=\"aside-block__body\"><div><p class=\"aside-block\"><span style=\"color:#444444;\"><span>We are using FedEx, DHL Express &amp; Singapore Post. Handling time is 1-5 working&nbsp;days. Your goods will be shipped out with valid tracking number. The product will be packed with bubble wrap to reduces damages during shipment delivery. Estimated delivery is between 3 to 21 business days.</span></span></p></div></div></div></div><div id=\"aside-returns\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fas fa-undo\"></i> Returns </div><div class=\"aside-block__body\"><div><p class=\"aside-block\"><span style=\"color:rgb(68,68,68);\">Do contact us via eBay message if you have any problem with the order. We are glad to assist you and solving the problem as soon as possible. Items can be returned within 30 days in a good condition.</span><br></p></div></div></div></div><div id=\"aside-other\"><div class=\"aside-block\"><div class=\"aside-block__title\"><i class=\"fa fa-info-circle\"></i> Other </div><div class=\"aside-block__body\"><div><p class=\"aside-block\"><span style=\"color:rgb(68,68,68);\">Note: Import duties, taxes, and additional charges are not included in the item price/ shipping charges. Please be aware this custom import duties and taxes are from buyer's responsibility.</span><br></p><p><br></p></div></div></div></div></div></aside></div></div></div></div><!----><!----><!----><!----></div></main><!----><div><footer class=\"footer\"><div class=\"container\"><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title no-margin-top\"> Links </div><div class=\"footer-block__body\"><nav class=\"menu\"><div class=\"container\"><ul class=\"menu__list\"><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null\" target=\"_blank\" class=\"disabled-link\"> Our Store </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null\" target=\"_blank\" class=\"disabled-link\"> Seller Profile </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null?uc=profile&amp;_tab=feedback\" target=\"_blank\" class=\"disabled-link\"> Feedback </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/usr/null?uc=profile&amp;_tab=about\" target=\"_blank\" class=\"disabled-link\"> About us </a></li><li class=\"menu__item\"><a href=\"https://www.ebay.com/contact/sendmsg?&amp;recipient=null\" target=\"_blank\" class=\"disabled-link\"> Contact </a></li></ul></div></nav></div></div></div><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title\"> More items </div><div class=\"footer-block__body\"> Are you looking for something similar? See our other items!<br><a href=\"https://www.ebay.com/sch/i.html?_ssn=null\" target=\"_blank\" class=\"btn\"><i class=\"fas fa-search\"></i> Show more items </a></div></div></div><div class=\"footer-block__wrapper flex-1\"><div class=\"footer-block\"><div class=\"footer-block__title\"> Contact </div><div class=\"footer-block__body footer__contact\"><i aria-hidden=\"true\" class=\"fa fa-phone-square\"></i><span>Give us a call</span><br><i aria-hidden=\"true\" class=\"fa fa-envelope\"></i><span>Send us a message</span></div></div></div></div></footer><!----></div></div></div><div class=\"myticdPNMQs\"><a href=\"https://www.ebay.com/str/eselt?_tab=about\" target=\"_blank\"><span> Created with <strong><span class=\"zYsWjt069cqZVBt\"> Eselt </span></strong></span> - <span>Mobile Optimized Listing Designs for eBay Sellers</span></a></div></div></div></div></div>",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "primaryItemGroup": {
+    "itemGroupId": "316032128892",
+    "itemGroupType": "SELLER_DEFINED_VARIATIONS",
+    "itemGroupHref": "https://api.ebay.com/buy/browse/v1/item/get_items_by_item_group?item_group_id=316032128892",
+    "itemGroupTitle": "86 EIGHTY-SIX Light Novel (SINGLE/MIX/FULL SET) Volume 1-12 English Version Book",
+    "itemGroupImage": {
+      "imageUrl": "https://i.ebayimg.com/images/g/twcAAOSwkFJnU8Q9/s-l1600.jpg",
+      "width": 1500,
+      "height": 1500
+    }
+  },
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "legacyItemId": "316032128892",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "259109",
+  "listingMarketplaceId": "EBAY_US"
+}

@@ -1,0 +1,1003 @@
+{
+  "itemId": "v1|137459906243|0",
+  "sellerItemRevision": "3",
+  "title": "The Angel Next Door Vol 1-8 Plus 5.5 Bonus Goods Light Novel Set Used",
+  "shortDescription": "This is apre‑owned item.",
+  "price": {
+    "value": "203.10",
+    "currency": "USD"
+  },
+  "categoryPath": "Books & Magazines|Books",
+  "categoryIdPath": "267|261186",
+  "condition": "Good",
+  "conditionId": "5000",
+  "conditionDescription": "Used light novel and goods set. Item Details: - The Angel Next Door volumes 1-8 plus 5.5 special edition - Includes store bonus leaflets, clear files, postcards and B2 tapestry - Some items opened or stored.",
+  "itemLocation": {
+    "city": "Japan",
+    "country": "JP"
+  },
+  "image": {
+    "imageUrl": "https://i.ebayimg.com/images/g/E2EAAeSwvLpqQILD/s-l1600.jpg",
+    "width": 1080,
+    "height": 810
+  },
+  "additionalImages": [
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/f~4AAeSw9SNqQILD/s-l1600.jpg",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/EvMAAeSwUMpqQILD/s-l1600.jpg",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "imageUrl": "https://i.ebayimg.com/images/g/OUgAAeSwqWhqQILD/s-l1600.jpg",
+      "width": 810,
+      "height": 1080
+    }
+  ],
+  "itemCreationDate": "2026-06-28T02:07:10.000Z",
+  "seller": {
+    "username": "ann-pain",
+    "feedbackPercentage": "99.7",
+    "feedbackScore": 708
+  },
+  "estimatedAvailabilities": [
+    {
+      "deliveryOptions": [
+        "SHIP_TO_HOME"
+      ],
+      "estimatedAvailabilityStatus": "IN_STOCK",
+      "estimatedAvailableQuantity": 1,
+      "estimatedSoldQuantity": 0,
+      "estimatedRemainingQuantity": 1
+    }
+  ],
+  "shippingOptions": [
+    {
+      "shippingServiceCode": "eBay SpeedPAK Expedited",
+      "type": "Expedited Shipping from outside",
+      "shippingCost": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "quantityUsedForEstimate": 1,
+      "minEstimatedDeliveryDate": "2026-08-13T10:00:00.000Z",
+      "maxEstimatedDeliveryDate": "2026-08-25T10:00:00.000Z",
+      "additionalShippingCostPerUnit": {
+        "value": "20.00",
+        "currency": "USD"
+      },
+      "shippingCostType": "FIXED"
+    }
+  ],
+  "shipToLocations": {
+    "regionIncluded": [
+      {
+        "regionName": "Worldwide",
+        "regionType": "WORLDWIDE",
+        "regionId": "WORLDWIDE"
+      }
+    ],
+    "regionExcluded": [
+      {
+        "regionName": "US Protectorates",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_PR"
+      },
+      {
+        "regionName": "Alaska/Hawaii",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AH"
+      },
+      {
+        "regionName": "APO/FPO",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "_AP"
+      },
+      {
+        "regionName": "Japan",
+        "regionType": "COUNTRY",
+        "regionId": "JP"
+      },
+      {
+        "regionName": "Wallis and Futuna",
+        "regionType": "COUNTRY",
+        "regionId": "WF"
+      },
+      {
+        "regionName": "Palau",
+        "regionType": "COUNTRY",
+        "regionId": "PW"
+      },
+      {
+        "regionName": "Russian Federation",
+        "regionType": "COUNTRY",
+        "regionId": "RU"
+      },
+      {
+        "regionName": "Turkey",
+        "regionType": "COUNTRY",
+        "regionId": "TR"
+      },
+      {
+        "regionName": "Africa",
+        "regionType": "WORLD_REGION",
+        "regionId": "AFRICA"
+      },
+      {
+        "regionName": "Vanuatu",
+        "regionType": "COUNTRY",
+        "regionId": "VU"
+      },
+      {
+        "regionName": "Cook Islands",
+        "regionType": "COUNTRY",
+        "regionId": "CK"
+      },
+      {
+        "regionName": "Micronesia",
+        "regionType": "COUNTRY",
+        "regionId": "FM"
+      },
+      {
+        "regionName": "Tuvalu",
+        "regionType": "COUNTRY",
+        "regionId": "TV"
+      },
+      {
+        "regionName": "American Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "AS"
+      },
+      {
+        "regionName": "Marshall Islands",
+        "regionType": "COUNTRY",
+        "regionId": "MH"
+      },
+      {
+        "regionName": "South America",
+        "regionType": "WORLD_REGION",
+        "regionId": "SOUTH_AMERICA"
+      },
+      {
+        "regionName": "Nauru",
+        "regionType": "COUNTRY",
+        "regionId": "NR"
+      },
+      {
+        "regionName": "Guam",
+        "regionType": "COUNTRY",
+        "regionId": "GU"
+      },
+      {
+        "regionName": "New Caledonia",
+        "regionType": "COUNTRY",
+        "regionId": "NC"
+      },
+      {
+        "regionName": "Tonga",
+        "regionType": "COUNTRY",
+        "regionId": "TO"
+      },
+      {
+        "regionName": "Yemen",
+        "regionType": "COUNTRY",
+        "regionId": "YE"
+      },
+      {
+        "regionName": "Fiji",
+        "regionType": "COUNTRY",
+        "regionId": "FJ"
+      },
+      {
+        "regionName": "French Polynesia",
+        "regionType": "COUNTRY",
+        "regionId": "PF"
+      },
+      {
+        "regionName": "Turkmenistan",
+        "regionType": "COUNTRY",
+        "regionId": "TM"
+      },
+      {
+        "regionName": "Belarus",
+        "regionType": "COUNTRY",
+        "regionId": "BY"
+      },
+      {
+        "regionName": "Solomon Islands",
+        "regionType": "COUNTRY",
+        "regionId": "SB"
+      },
+      {
+        "regionName": "Ukraine",
+        "regionType": "COUNTRY",
+        "regionId": "UA"
+      },
+      {
+        "regionName": "Niue",
+        "regionType": "COUNTRY",
+        "regionId": "NU"
+      },
+      {
+        "regionName": "Western Samoa",
+        "regionType": "COUNTRY",
+        "regionId": "WS"
+      },
+      {
+        "regionName": "Afghanistan",
+        "regionType": "COUNTRY",
+        "regionId": "AF"
+      },
+      {
+        "regionName": "India",
+        "regionType": "COUNTRY",
+        "regionId": "IN"
+      },
+      {
+        "regionName": "Kiribati",
+        "regionType": "COUNTRY",
+        "regionId": "KI"
+      },
+      {
+        "regionName": "Iraq",
+        "regionType": "COUNTRY",
+        "regionId": "IQ"
+      },
+      {
+        "regionName": "Central America and Caribbean",
+        "regionType": "WORLD_REGION",
+        "regionId": "CENTRAL_AMERICA_AND_CARIBBEAN"
+      },
+      {
+        "regionName": "China",
+        "regionType": "COUNTRY",
+        "regionId": "CN"
+      },
+      {
+        "regionName": "Vietnam",
+        "regionType": "COUNTRY",
+        "regionId": "VN"
+      },
+      {
+        "regionName": "Papua New Guinea",
+        "regionType": "COUNTRY",
+        "regionId": "PG"
+      },
+      {
+        "regionName": "PO Box",
+        "regionType": "COUNTRY_REGION",
+        "regionId": "PO_BOX"
+      }
+    ]
+  },
+  "returnTerms": {
+    "returnsAccepted": true,
+    "refundMethod": "MONEY_BACK",
+    "returnShippingCostPayer": "SELLER",
+    "returnPeriod": {
+      "value": 60,
+      "unit": "CALENDAR_DAY"
+    }
+  },
+  "taxes": [
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alabama",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Alaska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arizona",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AZ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Arkansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "AR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "California",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Colorado",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CO"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Connecticut",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "CT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "District of Columbia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "DC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Florida",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "FL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Georgia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "GA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Hawaii",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "HI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Idaho",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ID"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Illinois",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IL"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Indiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Iowa",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "IA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kansas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Kentucky",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "KY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Louisiana",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "LA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maine",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ME"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Maryland",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Massachusetts",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Michigan",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Minnesota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Mississippi",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "MS"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nebraska",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NE"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Nevada",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Jersey",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NJ"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New Mexico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NM"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "New York",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "NC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "North Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "ND"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Ohio",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OH"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Oklahoma",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "OK"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Pennsylvania",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Puerto Rico",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "PR"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Rhode Island",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "RI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Carolina",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SC"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "South Dakota",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "SD"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Tennessee",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TN"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Texas",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "TX"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Utah",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "UT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Vermont",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VT"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "VA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Washington",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WA"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "West Virginia",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WV"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wisconsin",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WI"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    },
+    {
+      "taxJurisdiction": {
+        "region": {
+          "regionName": "Wyoming",
+          "regionType": "STATE_OR_PROVINCE"
+        },
+        "taxJurisdictionId": "WY"
+      },
+      "taxType": "STATE_SALES_TAX",
+      "shippingAndHandlingTaxed": true,
+      "includedInPrice": false,
+      "ebayCollectAndRemitTax": true
+    }
+  ],
+  "localizedAspects": [
+    {
+      "type": "STRING",
+      "name": "Country/Region of Manufacture",
+      "value": "Japan"
+    },
+    {
+      "type": "STRING",
+      "name": "Country of Origin",
+      "value": "Japan"
+    },
+    {
+      "type": "STRING",
+      "name": "Book Title",
+      "value": "The Angel Next Door Spoils Me Rotten"
+    },
+    {
+      "type": "STRING",
+      "name": "Format",
+      "value": "Paperback"
+    },
+    {
+      "type": "STRING",
+      "name": "Language",
+      "value": "Japanese"
+    },
+    {
+      "type": "STRING",
+      "name": "Genre",
+      "value": "Light Novel"
+    },
+    {
+      "type": "STRING",
+      "name": "Quantity",
+      "value": "9 books plus goods"
+    },
+    {
+      "type": "STRING",
+      "name": "Included Items",
+      "value": "Leaflets, clear files, postcards, B2 tapestry"
+    },
+    {
+      "type": "STRING",
+      "name": "Condition Notes",
+      "value": "Used/stored condition, some sealed books included"
+    },
+    {
+      "type": "STRING",
+      "name": "Author",
+      "value": "NA"
+    }
+  ],
+  "topRatedBuyingExperience": false,
+  "buyingOptions": [
+    "FIXED_PRICE",
+    "BEST_OFFER"
+  ],
+  "itemWebUrl": "https://www.ebay.com/itm/137459906243?amdata=enc%3AAQALAAAAoGfYFPkwiKCW4ZNSs2u11xDenbcTkXJpS7UTlbr6Mcks2RyLwkiDElQ85sSNIVz8eK%2BiAMUEv37U%2BsJrF3JS8wyxVXKI3HIPB%2FDDN6go9RVXRprBfdOFYFTjej9FHEwI1ll4sGbvEQ75%2FheY01Bs0%2BmykKXfWSa9qBrOTDwVpL2LiYZ3v36qvGsvEW9QyiLe7CN8zUq433PgpjHd49fG%2BK0%3D",
+  "description": "<style>\n:root{\n--brand:#255946;  /* deep green */\n--brand-2:#0b3d2e;/* dark pine */\n--ink:#222;       /* text */\n--muted:#5b6368;  /* muted */\n--bg:#f7f5ef;     /* warm sand */\n--card:#ffffff;   /* cards */\n--line:#e6e2d9;   /* borders (sand tone) */\n--warn:#fff5f2;   /* soft coral */\n--warn-line:#ffd9cf;/* coral line */\n--secbar-bg:#e9f0ec; /* heading bg (sage) */\n--us-bg:#eef7f2;     /* U.S. notice bg (mint) */\n--us-line:#d9e8e1;   /* U.S. box border */\n}\n*{box-sizing:border-box}\n.container{max-width:1000px;margin:0 auto;padding:28px;background:var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif}\n\n/* Hero */\n.hero{background:linear-gradient(135deg,#0b3d2e,#255946);color:#fff;border-radius:18px;padding:22px 20px;margin-bottom:16px;border:1px solid var(--line);box-shadow:0 3px 10px rgba(12,20,12,.12)}\n.hero h1{margin:0 0 6px;font-size:24px;letter-spacing:.2px;color:#ffffff}\n.lead{margin:0;opacity:.95;font-size:18px}\n\n/* Headings */\n.secbar{background:var(--secbar-bg);color:#0b3d2e;border-radius:10px;padding:10px 14px;font-weight:800;letter-spacing:.2px;margin:18px 0 8px;border:1px solid var(--us-line);box-shadow:0 2px 6px rgba(0,0,0,.04)}\n.secbar.top{background:var(--us-bg);border-color:var(--us-line)}\n\n/* Panels & lists */\n.panel{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px 20px;margin-bottom:16px;box-shadow:0 6px 20px rgba(0,0,0,.05)}\n.infostrip{background:#fff;border:2px dashed var(--line);border-radius:14px;padding:12px 16px;margin:0 0 18px}\n.muted{color:var(--muted)}\nul{margin:0;padding-left:22px}\nli{margin:8px 0}\n.sub{font-weight:800;margin:0 0 8px}\n\n/* Notices */\n.warnbox{background:var(--warn);border:1px solid var(--warn-line);border-radius:12px;padding:14px 16px;box-shadow:0 2px 8px rgba(255,85,0,.05)}\n.usbox{background:var(--us-bg);border:1px solid var(--us-line);border-radius:12px;padding:12px 14px}\n.note{font-size:12px;margin-top:8px}\n\n/* Accents */\n.red{color:#b91c1c;font-weight:800}\n.ico{display:inline-block;width:1.2em;text-align:center;margin-right:8px}\n\n/* Closing */\n.closing{margin-top:28px;text-align:center;padding:22px 0;border-top:1px solid var(--line)}\n.closing .line1{font-size:24px;font-weight:800;letter-spacing:.3px;background:linear-gradient(90deg,#0b3d2e,#507462);-webkit-background-clip:text;background-clip:text;color:transparent}\n.closing .line2{font-size:14px;color:var(--muted);margin-top:6px}\n</style>\n\n<div class=\"container\">\n<section class=\"hero\">\n<h1>Important Notes — Please Read</h1>\n<p class=\"lead\">Key information about this listing appears below. Thank you for reviewing it before purchase.</p>\n</section>\n\n<section class=\"infostrip\">\n<p>\n<span class=\"ico\">📦</span>\n<span class=\"red\">Ships from Japan</span>. This is a <span class=\"red\">pre‑owned</span> item. Please read the full description and review all photos carefully before purchasing.</p>\n</section>\n\n<h2 class=\"secbar top\">\n<span class=\"ico\">🇺🇸</span>Information for U.S. Buyers — Duties &amp; Taxes</h2>\n<section class=\"panel\">\n<div class=\"usbox\">\n<p class=\"sub\">For U.S. Customers: <span class=\"red\">Prices include import duties &amp; taxes</span>\n</p>\n<ul>\n<li>The price you see already covers U.S. import duties and taxes.</li>\n<li>No customs charges beyond the item price and shipping will be requested.</li>\n<li>Items are carefully packed and dispatched with tracking for peace of mind.</li>\n<li>\n<b>VAT / Sales Tax:</b> In the U.S., sales tax or VAT may apply and, if so, it will be collected at <b>checkout</b>.</li>\n</ul>\n</div>\n</section>\n\n<h2 class=\"secbar\">\n<span class=\"ico\">🌐</span>International Buyers — Please Note</h2>\n<section class=\"warnbox\">\n<p>\n<b>International Buyers — Please Note</b>\n</p>\n<p>\n<span class=\"red\">Import duties, taxes, and charges are not included</span> in the item price or shipping cost (except for U.S. as noted). Please check with your country's customs office to determine any additional costs prior to bidding or buying. These fees vary by country and are determined by local customs.</p>\n</section>\n\n<h2 class=\"secbar\">\n<span class=\"ico\">📄</span>Description</h2>\n<section class=\"panel\">\n<p>Thank you for visiting our page. We offer carefully sourced items from Japan, including both vintage and modern pieces across categories such as fashion, accessories, collectibles, electronics, hobby, and home goods. Each listing is checked and described to help you buy with confidence.</p>\n<ul>\n<li>\n<b>Condition &amp; Photos:</b> Please review all photos and the description for the exact condition and what is included. Pre‑owned items may show minor signs of use such as small scratches, marks, or age‑related wear.</li>\n<li>\n<b>Specs &amp; Fit / Compatibility:</b> For wearable items, please check the sizes and measurements. For electronics and devices, confirm model numbers, supported regions/voltages, and language settings. For collectibles and parts, verify scale, materials, and compatibility before purchase.</li>\n<li>\n<b>Included Items:</b> Only items shown in the photos or explicitly noted in the description are included. Display stands, background props, and measurement tools are not included unless stated.</li>\n<li>\n<b>Packaging &amp; Care:</b> We pack securely for international transit. When available, original boxes or documents will be mentioned; otherwise, we use protective packing materials.</li>\n<li>\n<b>Notes on Vintage &amp; Pre‑owned Goods:</b> Natural patina, minor deterioration, or manufacturing tolerances may exist. Unless specified, performance tests (e.g., water resistance) are not guaranteed.</li>\n</ul>\n</section>\n\n<h2 class=\"secbar\">\n<span class=\"ico\">📦</span>Shipping</h2>\n<section class=\"panel\">\n<p>We ship by <b>eBay SpeedPAK Expedited</b> or <b>eBay SpeedPAK Economy</b>, <b>EMS</b>, and <b>International Mail</b>. All items are packed securely; tracking is provided when available for the selected service.</p>\n<ul>\n<li>\n<b>Service selection:</b> We choose the most suitable service based on destination, item size/weight, and delivery speed. If you have a preference, please let us know before purchase.</li>\n<li>\n<b>Remote Area Surcharge:</b> If your address is designated as a remote area by the carrier, a surcharge may apply. In such cases, we may request the additional shipping fee or cancel the order with your approval.</li>\n</ul>\n</section>\n\n<h2 class=\"secbar\">\n<span class=\"ico\">💰</span>Payment</h2>\n<section class=\"panel\">\n<p>For U.S. buyers: <span class=\"red\">import duties and taxes are included</span> in the item price. No extra fees beyond item price and shipping. <b>VAT / Sales Tax:</b> In the U.S., sales tax or VAT may apply and, if so, it will be collected at <b>checkout</b>.</p>\n<p>For buyers outside the U.S.: import duties, taxes, and handling fees are <span class=\"red\">not included</span> and may be collected by your country's customs office.</p>\n</section>\n\n<h2 class=\"secbar\">\n<span class=\"ico\">↪️</span>Cancellations &amp; Returns</h2>\n<section class=\"panel\">\n<p>Cancellation or returns will be accepted only if the item has an obvious problem that was not mentioned in the listing description. If that, please let us know within 3 days you got the item. <b>Return shipping and any other related costs may be the buyer's responsibility.</b>\n</p>\n</section>\n\n<section class=\"closing\">\n<p class=\"line1\">\n<span class=\"ico\">⏳</span>Thank you very much for your interest in our items.</p>\n<p class=\"line2\">We look forward to serving you with trusted Japanese quality and careful packing.</p>\n</section>\n</div>\n",
+  "paymentMethods": [
+    {
+      "paymentMethodType": "OTHER"
+    },
+    {
+      "paymentMethodType": "WALLET",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "PAYPAL"
+        },
+        {
+          "paymentMethodBrandType": "APPLE_PAY"
+        },
+        {
+          "paymentMethodBrandType": "GOOGLE_PAY"
+        }
+      ]
+    },
+    {
+      "paymentMethodType": "CREDIT_CARD",
+      "paymentMethodBrands": [
+        {
+          "paymentMethodBrandType": "VISA"
+        },
+        {
+          "paymentMethodBrandType": "MASTERCARD"
+        },
+        {
+          "paymentMethodBrandType": "DISCOVER"
+        },
+        {
+          "paymentMethodBrandType": "DINERS_CLUB"
+        }
+      ]
+    }
+  ],
+  "immediatePay": true,
+  "enabledForGuestCheckout": true,
+  "eligibleForInlineCheckout": true,
+  "lotSize": 0,
+  "legacyItemId": "137459906243",
+  "priorityListing": true,
+  "adultOnly": false,
+  "categoryId": "261186",
+  "listingMarketplaceId": "EBAY_US"
+}
