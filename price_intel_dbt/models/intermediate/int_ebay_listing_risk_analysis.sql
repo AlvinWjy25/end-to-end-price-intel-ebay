@@ -5,12 +5,11 @@ with source_data as (
 risk_scoring as (
     select 
         *,
-
         -- Text risk score with negation-aware matching
         case
             when (
-                title ~* '(reprint|unbranded|bootleg|pdf|ebook|custom print)'
-                or description ~* '(reprint|not original|loose|print on demand|not an official|not official|not suitable|fan translated|fan-translated|not from original)'
+                title ~* '(reprint|unbranded|bootleg|pdf|ebook|custom print|reading edition)'
+                or description ~* '(reprint|not original|loose|print on demand|not an official|not official|not suitable|fan translated|fan-translated|not from original|reading edition)'
             )
             and not (
                 -- True Positive protection: negate the risk keywords within 4 words
@@ -23,10 +22,12 @@ risk_scoring as (
         end as text_risk_score,
 
         case
-            when price < 30.00 and is_boxset = true
+            when is_boxset is true 
+                and volume_number_end is not null
+                and (price / NULLIF(volume_number_end - volume_number + 1, 0)) < 5.00  -- contoh threshold
             then 30
 
-            when price < 8.00 and condition != 'Acceptable' -- Allow 'Acceptable' condition below $8
+            when price < 10.00 and condition !~* 'acceptable|used' -- Allow 'Acceptable & used' condition below $8
             then 15
 
             else 0
@@ -42,8 +43,6 @@ select
     case
         when (text_risk_score + price_risk_score) >= 50
             then 'High Risk'
-        when (text_risk_score + price_risk_score) >= 20
-            then 'Medium Risk (Need Review)'
         else 'Low Risk'
     end as risk_category
 

@@ -5,52 +5,85 @@ with source as (
 cleaned as (
     select
         item_id,
-        trim(title) as title,
-        
+        fetched_at,
         case 
             when price > 0 then price 
             else null 
         end as price,
-        
+        trim(title) as title,
         upper(trim(currency)) as currency,
         initcap(trim(condition)) as condition,
         upper(trim(seller_location)) as seller_location,
         trim(description) as description,
-        fetched_at,
 
-        -- Deteksi range volume dulu (Vol. 1-28, Vol 1-5, Vol.1-43, dst)
-        -- Ini prioritas pertama karena kalau range terdeteksi, single volume_number jadi kurang bermakna
         case
-            when title ~* '(?:vol\.?|vols\.?|volume)\s*\d+\s*-\s*\d+'
+            when title ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+\s*-\s*(?:vol\.?|vols\.?|volume|volumes)?\s*\d+' or title ~* '(complete set|full set)'
             then true
             else false
-        end as is_boxset,
+        end as is_boxset
+    from source
+),
 
-        (regexp_match(title, '(?:vol\.?|vols\.?|volume)\s*(\d+(?:\.\d+)?)', 'i'))[1]::float as volume_number,
-        (regexp_match(title, '(?:vol\.?|vols\.?|volume)\s*(\d+)\s*-\s*(\d+)', 'i'))[2]::float as volume_number_end,
+Feature_Engineering as (
+    select
+        *,        
+        (regexp_match(title, '(?:vol\.?|vols\.?|volume|volumes)\s*(\d+(?:\.\d+)?)', 'i'))[1]::float as volume_number,
+        (regexp_match(title, '(?:vol\.?|vols\.?|volume|volumes)\s*(\d+)\s*-\s*(?:vol\.?|vols\.?|volume|volumes)?\s*(\d+)', 'i'))[2]::float as volume_number_end,
 
         case    
-            when title ~* '(?:vol\.?|vols\.?|volume)\s*\d+\s*-\s*\d+'
-             and title ~* '\d+\.\d+'
+            when ((is_boxset is true
+             or description ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+\s*-\s*\d+') and description ~* '\d+\.\d+')
             then true
             else false
-        end as boxset_special_edition_included,
+        end as boxset_side_story_edition_included,
 
         case    
             when title ~* 'vol. \d+\.\d+'
-            and title !~* '(?:vol\.?,?|vols\.?,?|volume)\s*\d+\s*-\s*\d+'
+            and title !~* '(?:vol\.?,?|vols\.?,?|volume|volumes)\s*\d+\s*-\s*\d+'
             then true
             else false
-        end as standalone_special_set
+        end as standalone_side_story_edition,
 
-    from source
+        case 
+            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|signed|Obi)'
+            then true
+            else false
+        end as is_special_edition
+
+    from cleaned
     where item_id is not null
 ),
 
 deduplicated as (
     select distinct on (item_id) *
-    from cleaned
+    from Feature_Engineering
+    order by item_id, fetched_at desc
+),
+
+light_novel_only as(
+    select *
+    from deduplicated
+    where title !~* 'manga'
+        and title !~* 'figure'
+        and title !~* 'artbook'
+        and title !~* 'poster'
+        and title !~* 'blanket'
+        and title !~* 'acrylic'
+        and title !~* 't-shirt'
+        and title !~* 'cosplay'
+        and title !~* 'keychain'
+        and title !~* 'sticker'
+        and title !~* 'wall scroll'
+        and title !~* 'phone case'
+        and title !~* 'figurine'
+        and title !~* 'diorama'
+        and title !~* 'nendoroid'
+        and title !~* 'figma'
+        and title !~* ' statue'
+        and title !~* ' scale'
+        and title !~* 'prize'
+        and title !~* 'bandai'
     order by item_id, fetched_at desc
 )
 
-select * from deduplicated
+select * from light_novel_only

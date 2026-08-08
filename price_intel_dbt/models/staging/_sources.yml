@@ -29,6 +29,10 @@ sources:
                         Known limitation: 
                         regex can't correctly identify physical box-set when listed at single/loosely invidivual volumes,
                         This require advance ML model to identify, so this feature may not be 100% accurate but good enough.
+          - name: is_special_edition
+            description: >
+                        Boolean value indicating if the listing is a special edition,
+                        Detected pattern of 'special bonus', 'platinum collector', 'booklet', 'limited edition', 'fanbook', 'signed', 'Obi' in title.
           - name: price
             description: "Price"
           - name: currency

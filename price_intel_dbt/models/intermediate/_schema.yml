@@ -8,10 +8,16 @@ models:
         description: "Extracted volume number"
       - name: volume_number_end
         description: "Extracted volume number end in a box-set"
-      - name: boxset_special_edition_included
-        description: "Boolean value indicating if the listing is a boxset with special edition included"
-      - name: standalone_special_set
-        description: "Boolean value indicating if the listing is a standalone with special edition included"
+      - name: boxset_side_story_edition_included
+        description: "Boolean value indicating if the listing is a boxset with side story edition included"
+      - name: standalone_side_story_edition
+        description: "Boolean value indicating if the listing is a standalone with side story edition included"
+      - name: is_special_edition
+        description: "Boolean value indicating if the listing is a special edition"
+      - name: text_risk_score
+        description: "Accumulated risk score from text anomalies"
+      - name: price_risk_score
+        description: "Accumulated risk score from price anomalies"
       - name: total_risk_score
         description: "Accumulated risk score from text and price anomalies"
       - name: risk_category
@@ -19,4 +25,4 @@ models:
         tests:
           - accepted_values:
               arguments:
-                values: ['High Risk', 'Medium Risk (Need Review)', 'Low Risk']
+                values: ['High Risk', 'Low Risk']
