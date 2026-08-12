@@ -16,9 +16,13 @@ import os
 import time
 import requests
 import psycopg2
+from datetime import datetime
+from psycopg2.extras import Json
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # ---------------------------------------------------------
 # 1. Load credentials from .env
@@ -68,39 +72,46 @@ def get_access_token() -> str:
 # ---------------------------------------------------------
 # 3. Search listing by keyword -> return list item_id
 # ---------------------------------------------------------
-def search_item_ids(access_token: str, keyword: str, limit: int = 30) -> list[str]:
+def search_item_ids(session: requests.Session, access_token: str, keyword: str, limit: int = 30) -> list[str]:
     headers = {
         "Authorization": f"Bearer {access_token}",
         "X-EBAY-C-MARKETPLACE-ID": "EBAY_US",
     }
     params = {"q": keyword, "limit": limit}
 
-    response = requests.get(EBAY_SEARCH_URL, headers=headers, params=params, timeout=10)
-    response.raise_for_status()
-    data = response.json()
-
-    items = data.get("itemSummaries", [])
-    return [item["itemId"] for item in items if "itemId" in item]
-
+    try:
+        response = session.get(EBAY_SEARCH_URL, headers=headers, params=params, timeout=20)
+        response.raise_for_status()
+        data = response.json()
+        items = data.get("itemSummaries", [])
+        return [item["itemId"] for item in items if "itemId" in item]
+    except requests.exceptions.RequestException as e:
+        print(f" Warning: Gagal search keyword '{keyword}': {e}")
+        return []
 
 # ---------------------------------------------------------
-# 4. Get full detail of 1 item (including full description)
+# 4. Get item details
 # ---------------------------------------------------------
-def get_item_detail(access_token: str, item_id: str) -> dict | None:
+def get_item_detail(session: requests.Session, access_token: str, item_id: str) -> dict | None:
     headers = {
         "Authorization": f"Bearer {access_token}",
         "X-EBAY-C-MARKETPLACE-ID": "EBAY_US",
     }
     url = f"{EBAY_ITEM_URL}/{item_id}"
 
-    response = requests.get(url, headers=headers, timeout=10)
+    try:
+        response = session.get(url, headers=headers, timeout=20)
 
-    # Some items may have been delisted/no longer available
-    # between the time search was called and getItem was called -- just skip, don't crash.
-    if response.status_code != 200:
+        if response.status_code != 200:
+            return None
+
+        return response.json()
+    except requests.exceptions.Timeout:
+        print(f" Warning: Timeout saat mengambil item_id {item_id}, dilewati.")
         return None
-
-    return response.json()
+    except requests.exceptions.RequestException as e:
+        print(f" Warning: Error jaringan pada item_id {item_id}: {e}")
+        return None
 
 
 def strip_html(raw_html: str | None) -> str | None:
@@ -112,6 +123,19 @@ def strip_html(raw_html: str | None) -> str | None:
     text = soup.get_text(separator=" ", strip=True)
     return text
 
+
+def create_retry_session() -> requests.Session:
+    session = requests.Session()
+    retries = Retry(
+        total=3,                # Coba ulang maksimal 3 kali
+        backoff_factor=1,       # Tunggu 1s, 2s, 4s antar trial
+        status_forcelist=[429, 500, 502, 503, 504],
+        raise_on_status=False
+    )
+    adapter = HTTPAdapter(max_retries=retries)
+    session.mount("https://", adapter)
+    session.mount("http://", adapter)
+    return session
 
 # ---------------------------------------------------------
 # 5. Parse response getItem to tuple
@@ -133,7 +157,10 @@ def parse_item(item: dict) -> tuple:
     description_raw = item.get("description")
     description_clean = strip_html(description_raw)
 
-    return (item_id, title, price, currency, condition, seller_location, description_clean)
+    localized_aspects = item.get("localizedAspects", [])
+    localized_aspects_json = Json(localized_aspects)
+
+    return (item_id, title, price, currency, condition, seller_location, description_clean, localized_aspects_json)
 
 
 # ---------------------------------------------------------
@@ -146,17 +173,29 @@ def insert_listings(rows: list[tuple]) -> int:
     cur = conn.cursor()
 
     insert_query = """
-        INSERT INTO raw.ebay_listings (item_id, title, price, currency, condition, seller_location, description)
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        INSERT INTO raw.ebay_listings (item_id, title, price, currency, condition, seller_location, description, localized_aspects)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
+        ON CONFLICT (item_id) DO UPDATE SET
+            title = EXCLUDED.title,
+            price = EXCLUDED.price,
+            currency = EXCLUDED.currency,
+            condition = EXCLUDED.condition,
+            seller_location = EXCLUDED.seller_location,
+            description = EXCLUDED.description,
+            localized_aspects = EXCLUDED.localized_aspects;
     """
 
-    cur.executemany(insert_query, rows)
-    conn.commit()
-
-    inserted_count = cur.rowcount
-    cur.close()
-    conn.close()
-
+    try:
+        cur.executemany(insert_query, rows)
+        conn.commit()
+        inserted_count = cur.rowcount
+    except Exception as e:
+        conn.rollback()
+        print(f"Error when inserting data: {e}")
+        inserted_count = 0
+    finally:
+        cur.close()
+        conn.close()
     return inserted_count
 
 
@@ -164,6 +203,7 @@ def insert_listings(rows: list[tuple]) -> int:
 # 6. Main
 # ---------------------------------------------------------
 def main():
+
     keywords = [
         "re:zero light novel",
         "the angel next door light novel",
@@ -181,24 +221,30 @@ def main():
         "spy classroom light novel",
         "rascal does not dream of bunny girl senpai light novel",
         "the eminence in shadow light novel",
-        "bofuri light novel",
-        "ascendance of a bookworm light novel"
     ]
 
-    SEARCH_LIMIT = 150  # Item/keyword search limitation
+    SEARCH_LIMIT = 170  # Item/keyword search limitation
     REQUEST_DELAY = 0.15  # preventing throttle and spam detection
 
     print(f"[{datetime.now()}] Starting ingestion process...")
 
+    session = create_retry_session() #auto-retry session
     token = get_access_token()
     print("Access token successfully obtained.")
 
     # Stage 1: Gather all item_id from each keyword
     all_item_ids = []
-    for kw in keywords:
-        ids = search_item_ids(token, kw, limit=SEARCH_LIMIT)
-        all_item_ids.extend(ids)
-        print(f"  - '{kw}': {len(ids)} item_id found")
+    for base_kw in keywords:
+        search_variations = [
+            base_kw,
+            f"{base_kw} special edition",           
+            f"{base_kw} limited edition"     
+        ]
+        
+        for kw in search_variations:
+            ids = search_item_ids(session, token, kw, limit=SEARCH_LIMIT) 
+            all_item_ids.extend(ids)
+            print(f"  - '{kw}': {len(ids)} item_id found")
 
     # Deduplicate
     all_item_ids = list(dict.fromkeys(all_item_ids))
@@ -208,7 +254,7 @@ def main():
     all_rows = []
     skipped = 0
     for i, item_id in enumerate(all_item_ids, start=1):
-        detail = get_item_detail(token, item_id)
+        detail = get_item_detail(session, token, item_id) # Oper session
         if detail is None:
             skipped += 1
             continue
@@ -217,7 +263,8 @@ def main():
         time.sleep(REQUEST_DELAY)
 
         if i % 50 == 0:
-            print(f"  ...progress: {i}/{len(all_item_ids)} item processed")
+            current_time = datetime.now().strftime("%H:%M:%S")
+            print(f"[{current_time}] ...progress: {i}/{len(all_item_ids)} item processed")
 
     print(f"getItem finished. {len(all_rows)} item successfully processed, {skipped} item skipped (delisted/error).")
 

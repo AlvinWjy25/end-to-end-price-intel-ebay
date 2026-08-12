@@ -5,7 +5,6 @@ with source as (
 cleaned as (
     select
         item_id,
-        fetched_at,
         case 
             when price > 0 then price 
             else null 
@@ -15,48 +14,64 @@ cleaned as (
         initcap(trim(condition)) as condition,
         upper(trim(seller_location)) as seller_location,
         trim(description) as description,
+        localized_aspects,
+        cast(created_at as timestamptz) as fetched_at,
 
         case
-            when title ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+\s*-\s*(?:vol\.?|vols\.?|volume|volumes)?\s*\d+' or title ~* '(complete set|full set)'
+            when title ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+\s*-\s*(?:vol\.?|vols\.?|volume|volumes)?\s*\d+' 
+            or title ~* '(complete set|full set)'
+            or title ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+(?:\s*,\s*\d+)+'
             then true
             else false
         end as is_boxset
+
     from source
-),
-
-Feature_Engineering as (
-    select
-        *,        
-        (regexp_match(title, '(?:vol\.?|vols\.?|volume|volumes)\s*(\d+(?:\.\d+)?)', 'i'))[1]::float as volume_number,
-        (regexp_match(title, '(?:vol\.?|vols\.?|volume|volumes)\s*(\d+)\s*-\s*(?:vol\.?|vols\.?|volume|volumes)?\s*(\d+)', 'i'))[2]::float as volume_number_end,
-
-        case    
-            when ((is_boxset is true
-             or description ~* '(?:vol\.?|vols\.?|volume|volumes)\s*\d+\s*-\s*\d+') and description ~* '\d+\.\d+')
-            then true
-            else false
-        end as boxset_side_story_edition_included,
-
-        case    
-            when title ~* 'vol. \d+\.\d+'
-            and title !~* '(?:vol\.?,?|vols\.?,?|volume|volumes)\s*\d+\s*-\s*\d+'
-            then true
-            else false
-        end as standalone_side_story_edition,
-
-        case 
-            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|signed|Obi)'
-            then true
-            else false
-        end as is_special_edition
-
-    from cleaned
     where item_id is not null
 ),
 
+-- Tier 0: flatten localized_aspects JSONB into flat columns.
+-- Avoids re-parsing the JSONB array in every downstream CTE.
+-- eBay's localizedAspects is a list of {"name", "type", "value"} objects;
+-- we pull out only the aspects relevant to volume extraction and lot detection.
+aspects_flattened as (
+    select
+        item_id,
+        (
+            select la->>'value'
+            from jsonb_array_elements(localized_aspects) as la
+            where la->>'name' = 'Book Title'
+            limit 1
+        ) as aspect_book_title,
+        (
+            select la->>'value'
+            from jsonb_array_elements(localized_aspects) as la
+            where la->>'name' = 'Issue Number'
+            limit 1
+        ) as aspect_issue_number,
+        (
+            select la->>'value'
+            from jsonb_array_elements(localized_aspects) as la
+            where la->>'name' = 'Unit of Sale'
+            limit 1
+        ) as aspect_unit_of_sale
+    from cleaned
+    where localized_aspects is not null
+),
+
+joined as (
+    select
+        c.*,
+        a.aspect_book_title,
+        a.aspect_issue_number,
+        a.aspect_unit_of_sale
+    from cleaned c
+    left join aspects_flattened a using (item_id)
+),
+
+
 deduplicated as (
     select distinct on (item_id) *
-    from Feature_Engineering
+    from joined
     order by item_id, fetched_at desc
 ),
 
@@ -86,4 +101,6 @@ light_novel_only as(
     order by item_id, fetched_at desc
 )
 
-select * from light_novel_only
+select
+    *
+from light_novel_only

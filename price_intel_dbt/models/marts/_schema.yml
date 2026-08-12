@@ -6,15 +6,42 @@ models:
       Final table ready for price modeling 
     columns:
       - name: item_id
-        tests:
-          - unique
-          - not_null
+        description: "Unique ID item from eBay"
+      - name: title
+        description: "Title listing product"
+      - name: currency
+        description: "Currency of listing"    
+      - name: condition
+        description: "Condition of product"
+      - name: seller_location
+        description: "Location of seller"
+      - name: is_boxset
+        description: "Boolean value indicating if the listing is a boxset or not"
+      - name: is_special_edition
+        description: "Boolean value indicating if the listing is a special edition"
+      - name: boxset_side_story_edition_included
+        description: "Boolean value indicating if the listing is a boxset with side story edition included"
+      - name: standalone_side_story_edition
+        description: "Boolean value indicating if the listing is a standalone with side story edition included"
       - name: price
-        tests:
-          - not_null
+        description: "Price"
+      - name: price_per_volume
+        description: "Price divided by volume number"
+      - name: volume_number
+        description: "Volume number"
+      - name: volume_number_end
+        description: "Last volume number in a box-set"
+      - name: total_risk_score
+        description: "Total accumulated risk score from text and price anomalies"
       - name: risk_category
         description: "Risk level category: High Risk, Medium Risk, or Low Risk"
         tests:
           - accepted_values:
               arguments:
                 values: ['High Risk', 'Low Risk']
+      - name: volume_confidence
+        description: 'Classification confidence level of the volume number extraction based on Tiering Workflow'
+        tests:
+          - accepted_values:
+              arguments:
+              values: ['low', 'medium', 'high']

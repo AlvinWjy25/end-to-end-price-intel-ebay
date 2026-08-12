@@ -26,3 +26,101 @@ models:
           - accepted_values:
               arguments:
                 values: ['High Risk', 'Low Risk']
+      - name: volume_number
+        description: "Extracted volume number"
+      - name: is_boxset
+        description: > 
+          Boolean value indicating if the listing is a boxset, 
+          Detected pattern of 'Vol X-Y' in title.
+          Known limitation: 
+          regex can't correctly identify physical box-set when listed at single/loosely invidivual volumes,
+          This require advance ML model to identify, so this feature may not be 100% accurate but good enough.
+      - name: volume_number_end
+        description: > 
+            Known limitation:
+            Regex may not show the second digit when the title is not written in format 'Vol X-Y'
+            Example: 'Vol 1, 15-16' may only show volume 1 and 15 as the range
+            Example: 'Vol 1-11.5' may only be displayed as volume 1-11 
+      - name: is_special_edition
+        description: >
+          Boolean value indicating if the listing is a special edition,
+          Detected pattern of 'special bonus', 'platinum collector', 'booklet', 'limited edition', 'fanbook', 'signed', 'Obi' in title.
+      
+      # Tiering Workflow
+
+      # Tier 1
+      - name: tier1_issue_range_start # High Confidence
+        description: >
+          Looks for formats like '1-26' or '1 to 27', includes a negative lookahead to prevent
+          misintepreting edition number like '6-1ST', meaning first printing.
+      - name: tier1b_issue_single_volume # High Confidence
+        description: >
+          f a range isn't found, it checks if the aspect contains a single, clean number (e.g., "24").
+      
+      # Tier 2
+      - name: tier2_book_title_volume # High Confidence
+        description: >
+          if tier 1 fails, the model cheks the aspect_book_title  to look for 'Vol. N'. While reliable
+          when present, regexp may fail to identify if the field is inconsistent. Ebay / Seller sometimes truncates
+          this field before the volume number, or populates it with only the series name. This is observed in 
+          the diagnostic query against raw.ebay_listings.
+      
+      # Tier 3
+      - name: tier3_title_range_start, tier3_title_range_end # Medium Confidence
+        description: >
+          if tier 1/1b/2 all fail, the model looks for patterns like 'vol. N' or 'vol. N-M' in the main listing title.
+          This is considered medium confidence because the main title is often less structured than the dedicated
+          aspect fields, increasing the chance of false positives or missed volumes.
+      
+      - name: tier3_title_hash_volume # Medium Confidence
+        description: >
+          if tier 1/1b/2 all fail, the model looks for patterns like '#N' in the main listing title.
+          This is considered medium confidence because the main title is often less structured than the dedicated
+          aspect fields, increasing the chance of false positives or missed volumes. it also reuses the negative
+          lookahead to ignore '-1ST' printings to avoid registering SKU numbers (SKU#4829102) as volume number.
+      
+      # Tier 4 
+      - name: tier4_desc_range_start, tier4_desc_range_end # Low Confidence
+        description: >
+          extract volume ranges from the description body.
+          This is considered low confidence because the description is unstructured text and may not match with title volume range.
+          This is a last resort fallback to capture any volume information that was not captured by the higher-tier
+          extraction methods.
+      - name: tier4_desc_volume # Low Confidence
+        description: >
+          extract single volumes from the description body.
+          This is considered low confidence because the description is unstructured text and may not match with title volume range.
+          This is a last resort fallback to capture any volume information that was not captured by the higher-tier
+          extraction methods.
+
+
+      # Special Set and Edition Detection
+      - name: boxset_side_story_edition_included
+        description: > 
+          Boolean value indicating if the listing is a boxset with side story edition included
+      - name: standalone_side_story_edition
+        description: >
+          Boolean value indicating if the listing is a standalone with side story edition included
+      - name: is_special_edition
+        description: >
+          Boolean value indicating if the listing is a special edition
+
+      # Risk Score Calculation
+      - name: text_risk_score
+        description: "Accumulated risk score from text anomalies"
+      - name: price_risk_score
+        description: "Accumulated risk score from price anomalies"
+      - name: total_risk_score
+        description: "Accumulated risk score from text and price anomalies"
+      - name: risk_category
+        description: "Risk level category: High Risk, Medium Risk, or Low Risk"
+        tests:
+          - accepted_values:
+              arguments:
+              values: ['High Risk', 'Low Risk']
+      - name: volume_confidence
+        description: 'Classification confidence level of the volume number extraction based on Tiering Workflow'
+        tests:
+          - accepted_values:
+              arguments:
+              values: ['low', 'medium', 'high']

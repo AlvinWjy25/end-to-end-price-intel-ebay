@@ -8,33 +8,12 @@ sources:
       - name: ebay_listings
         description: "Raw data from ebay_api"
         columns:
-          - name: id
-            description: "Primary key auto increment"
           - name: item_id
             description: "Unique ID item from eBay"
-          - name: title
-            description: "Title listing product"  
-          - name: volume_number
-            description: "Extracted volume number"
-          - name: volume_number_end
-            description: > 
-                        Known limitation:
-                        Regex may not show the second digit when the title is not written in format 'Vol X-Y'
-                        Example: 'Vol 1, 15-16' may only show volume 1 and 15 as the range
-                        Example: 'Vol 1-11.5' may only be displayed as volume 1-11
-          - name: is_boxset
-            description: > 
-                        Boolean value indicating if the listing is a boxset, 
-                        Detected pattern of 'Vol X-Y' in title.
-                        Known limitation: 
-                        regex can't correctly identify physical box-set when listed at single/loosely invidivual volumes,
-                        This require advance ML model to identify, so this feature may not be 100% accurate but good enough.
-          - name: is_special_edition
-            description: >
-                        Boolean value indicating if the listing is a special edition,
-                        Detected pattern of 'special bonus', 'platinum collector', 'booklet', 'limited edition', 'fanbook', 'signed', 'Obi' in title.
           - name: price
             description: "Price"
+          - name: title
+            description: "Title listing product"  
           - name: currency
             description: "Currency of listing"
           - name: condition
@@ -43,5 +22,14 @@ sources:
             description: "Location of seller"
           - name: description
             description: "Description of product provided by seller"
+          - name: localized_aspects
+            description: "A JSON formatted metadata description of light novel 
+                          based on ebay format, containing key details about the book such as:
+                            - aspect_issue_number, Volume number or range (inconsistent format, needs REGEXP pattern handling)
+                            - aspect_book_title, Prioritize using localized_aspects based title compared to product title
+                            - aspect_unit_of_sale = individual / set, inconsistent across listing"           
           - name: fetched_at
             description: "Timestamp when data was fetched"
+          - name: is_boxset
+            description: "Boolean indicating whether the listing is a boxset or not
+                          based on range provided from title"
