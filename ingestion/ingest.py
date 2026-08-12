@@ -13,6 +13,7 @@ Process:
 """
 
 import os
+import json
 import time
 import requests
 import psycopg2
@@ -86,7 +87,7 @@ def search_item_ids(session: requests.Session, access_token: str, keyword: str, 
         items = data.get("itemSummaries", [])
         return [item["itemId"] for item in items if "itemId" in item]
     except requests.exceptions.RequestException as e:
-        print(f" Warning: Gagal search keyword '{keyword}': {e}")
+        print(f" Warning: Fail search keyword'{keyword}': {e}")
         return []
 
 # ---------------------------------------------------------
@@ -107,10 +108,10 @@ def get_item_detail(session: requests.Session, access_token: str, item_id: str) 
 
         return response.json()
     except requests.exceptions.Timeout:
-        print(f" Warning: Timeout saat mengambil item_id {item_id}, dilewati.")
+        print(f" Warning: Timeout getting item {item_id}, skipped.")
         return None
     except requests.exceptions.RequestException as e:
-        print(f" Warning: Error jaringan pada item_id {item_id}: {e}")
+        print(f" Warning: Network error on item_id {item_id}: {e}")
         return None
 
 
@@ -126,9 +127,9 @@ def strip_html(raw_html: str | None) -> str | None:
 
 def create_retry_session() -> requests.Session:
     session = requests.Session()
-    retries = Retry(
-        total=3,                # Coba ulang maksimal 3 kali
-        backoff_factor=1,       # Tunggu 1s, 2s, 4s antar trial
+    retries = Retry( # Retry with exponential backoff
+        total=3,                
+        backoff_factor=1,       
         status_forcelist=[429, 500, 502, 503, 504],
         raise_on_status=False
     )
@@ -198,6 +199,31 @@ def insert_listings(rows: list[tuple]) -> int:
         conn.close()
     return inserted_count
 
+def save_backup_to_json(rows: list[tuple], filename: str):
+    # Save result to JSON file before insert to database.
+    backup_data = []
+    
+    for row in rows:
+        # Mapping tuple order from parse_item() back to dictionary
+        item_dict = {
+            "item_id": row[0],
+            "title": row[1],
+            "price": row[2],
+            "currency": row[3],
+            "condition": row[4],
+            "seller_location": row[5],
+            "description": row[6],
+            # row[7] is psycopg2.extras.Json, use .adapted to get the original list
+            "localized_aspects": row[7].adapted if row[7] else None 
+        }
+        backup_data.append(item_dict)
+
+    # Create folder backup
+    os.makedirs(os.path.dirname(filename), exist_ok=True)
+
+    # Write to JSON
+    with open(filename, "w", encoding="utf-8") as f:
+        json.dump(backup_data, f, ensure_ascii=False, indent=4)
 
 # ---------------------------------------------------------
 # 6. Main
@@ -223,8 +249,8 @@ def main():
         "the eminence in shadow light novel",
     ]
 
-    SEARCH_LIMIT = 170  # Item/keyword search limitation
-    REQUEST_DELAY = 0.15  # preventing throttle and spam detection
+    SEARCH_LIMIT = 180  # Item/keyword search limitation
+    REQUEST_DELAY = 0.12  # preventing throttle and spam detection
 
     print(f"[{datetime.now()}] Starting ingestion process...")
 
@@ -269,6 +295,17 @@ def main():
     print(f"getItem finished. {len(all_rows)} item successfully processed, {skipped} item skipped (delisted/error).")
 
     if all_rows:
+        timestamp_str = datetime.now().strftime("%Y%m%d_%H%M%S")
+        backup_filepath = f"backups/ebay_raw_{timestamp_str}.json"
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving backup to {backup_filepath}...")
+        try:
+            save_backup_to_json(all_rows, backup_filepath)
+            print(f"Backup successfully saved!")
+        except Exception as e:
+            print(f"Warning: Failed to save JSON backup file: {e}")
+
+        # Stage 3: Insert data to database
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] Saving {len(all_rows)} row to database...")
         inserted = insert_listings(all_rows)
         print(f"[{datetime.now()}] Finished. {inserted} row successfully inserted to raw.ebay_listings.")
     else:
