@@ -99,7 +99,7 @@ volume_extraction as (
         end as standalone_side_story_edition,
 
         case 
-            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|signed|obi|first print|first edition|royal)'
+            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|signed|obi|first print|first edition|royal|1st Print|sign|signed)'
             then true
             else false
         end as is_special_edition
@@ -188,7 +188,28 @@ metrics_calculation as (
             
             -- Jika single volume, harga per volume adalah harga barang itu sendiri
             else price 
-        end as price_per_volume
+        end as price_per_volume,
+
+        case
+            -- If we have a valid range where end >= start, count is end - start + 1
+            when volume_number_end is not null 
+                and volume_number is not null 
+                and (volume_number_end - volume_number) >= 0
+            then (volume_number_end - volume_number + 1)
+            
+            -- If end < start (anomaly/negative delta), default to 1 (matching your np.where logic)
+            when volume_number_end is not null 
+                and volume_number is not null 
+                and (volume_number_end - volume_number) < 0
+            then 1
+            
+            -- If it's a single volume (no end range, but has a start volume), the count is 1
+            when volume_number is not null and volume_number_end is null
+            then 1
+            
+            -- Fallback for listings where no volume could be extracted (default to 1)
+            else 1
+        end as volume_count
         
     from volume_resolved
 ),
@@ -201,7 +222,8 @@ risk_scoring as (
             when (
                 title ~* '(reprint|unbranded|bootleg|pdf|ebook|custom print|reading edition)'
                 or description ~* '(reprint|not original|loose|print on demand|not an official|not official|not suitable|fan translated|fan-translated|not from original|reading edition)'
-            )
+                or condition is NULL
+            ) 
             and not (
                 -- True Positive protection: negate the risk keywords within 4 words
                 description ~* '(not|no|never|isn''t|isnt|without)\s+(\w+\s+){0,4}(reprint|unofficial|fan.?translated|bootleg)'

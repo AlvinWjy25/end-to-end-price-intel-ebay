@@ -58,14 +58,26 @@ aspects_flattened as (
     where localized_aspects is not null
 ),
 
+simple_title_analysis as (
+    select 
+        item_id,
+        title,
+        length(title) as title_length,
+        array_length(regexp_split_to_array(trim(title), '\s+'), 1) as title_word_count
+    from cleaned
+),
+
 joined as (
     select
         c.*,
         a.aspect_book_title,
         a.aspect_issue_number,
-        a.aspect_unit_of_sale
+        a.aspect_unit_of_sale,
+        s.title_length,
+        s.title_word_count
     from cleaned c
     left join aspects_flattened a using (item_id)
+    left join simple_title_analysis s using (item_id)
 ),
 
 

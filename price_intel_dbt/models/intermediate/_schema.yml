@@ -8,6 +8,10 @@ models:
         description: "Extracted volume number"
       - name: volume_number_end
         description: "Extracted volume number end in a box-set"
+      - name: volume_count
+        description: >
+          Total count of volumes, derived from volume_number_end minus volume_number plus one.
+          Example: for box-set from volume 1 to 10, volume_count will be 10 (10 - 1 + 1).
       - name: boxset_side_story_edition_included
         description: "Boolean value indicating if the listing is a boxset with side story edition included"
       - name: standalone_side_story_edition
@@ -112,15 +116,3 @@ models:
         description: "Accumulated risk score from price anomalies"
       - name: total_risk_score
         description: "Accumulated risk score from text and price anomalies"
-      - name: risk_category
-        description: "Risk level category: High Risk, Medium Risk, or Low Risk"
-        tests:
-          - accepted_values:
-              arguments:
-              values: ['High Risk', 'Low Risk']
-      - name: volume_confidence
-        description: 'Classification confidence level of the volume number extraction based on Tiering Workflow'
-        tests:
-          - accepted_values:
-              arguments:
-              values: ['low', 'medium', 'high']
