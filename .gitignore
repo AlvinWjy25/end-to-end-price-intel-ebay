@@ -1,8 +1,9 @@
-.env
+config/.env
 
 price_intel_dbt/target/
 price_intel_dbt/dbt_packages/
 price_intel_dbt/logs/
+price_intel_dbt/profiles.yml
 logs/
 
 __pycache__/

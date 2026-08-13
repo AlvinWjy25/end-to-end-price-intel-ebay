@@ -246,10 +246,11 @@ def main():
         "sword art online light novel",
         "spy classroom light novel",
         "rascal does not dream of bunny girl senpai light novel",
-        "the eminence in shadow light novel",
+        "the eminence in shadow light novel"
+        
     ]
 
-    SEARCH_LIMIT = 180  # Item/keyword search limitation
+    SEARCH_LIMIT = 200  # Item/keyword search limitation
     REQUEST_DELAY = 0.12  # preventing throttle and spam detection
 
     print(f"[{datetime.now()}] Starting ingestion process...")
