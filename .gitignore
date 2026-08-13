@@ -1,3 +1,10 @@
+__pycache__/
+*.pyc 
+.venv/
+.venv*/
+.antigravity/
+
+# directory:
 config/.env
 
 price_intel_dbt/target/
@@ -6,10 +13,5 @@ price_intel_dbt/logs/
 price_intel_dbt/profiles.yml
 logs/
 
-__pycache__/
-*.pyc 
-.venv/
-.venv*/
 mininotion.txt
 .user.yml
-.antigravity/
