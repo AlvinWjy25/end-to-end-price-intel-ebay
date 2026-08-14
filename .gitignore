@@ -21,7 +21,6 @@ price_intel_dbt/logs/
 price_intel_dbt/profiles.yml
 
 #parent dir
-mininotion.txt
 .user.yml
-README.md 
+readme_note.md 
 #incomplete
