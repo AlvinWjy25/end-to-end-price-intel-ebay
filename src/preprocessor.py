@@ -1,14 +1,173 @@
 import sys
 import os
+import numpy as np
 from pathlib import Path
+from datetime import datetime
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
 
 #DB Postgres Connection
 root_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_dir))
-from config.config_script import load_dataframe
+from config.config_script import load_dataframe, setup_logger
 
-df_regression, df_classification = load_dataframe().fit()
-print(df_regression.head(5))
-        
-        
+class preprocess_regression(load_dataframe):
+    def __init__(self, random_state=42):
+        super().__init__()
+        self.logger = setup_logger('preprocessor_run')
+        self.random_state = random_state
+        self.logger.info("Initialized preprocessing class.")
+    
+    def ordinal_encoder(self, df):
+        self.logger.info("Executing ordinal encoding process...")
+        # A.2.1 Volume Tier
+        def get_volume_tier(count):
+            if count == 1:
+                return 'single_volume'
+            elif 2 <= count <= 5:
+                return 'small_bundle'
+            elif 6 <= count <= 15:
+                return 'medium_set'
+            else:
+                return 'complete_large_set'
 
+        def get_volume_tier(count):
+            if count == 1:
+                return 1  # single_volume
+            elif 2 <= count <= 5:
+                return 2  # small_bundle
+            elif 6 <= count <= 15:
+                return 3  # medium_set
+            else:
+                return 4  # complete_large_set
+        condition_map = {
+            'Acceptable': 1,
+            'Used': 2,
+            'Good': 3,
+            'Very Good': 4,
+            'Like New': 5,
+            'New': 6,
+            'Brand New': 7,
+            'unknown': 0  # Neutral fallback (middle ground)
+        }
+        
+        # Encode Condition
+        df['condition_encoded'] = df['condition'].map(condition_map).fillna(3)
+        
+        # Encode Volume Tier
+        df['volume_tier'] = df['volume_count'].apply(get_volume_tier)
+        df['volume_tier_encoded'] = df['volume_count'].apply(get_volume_tier)
+
+        df = df.drop(columns='condition')
+        self.logger.info("Ordinal encoding completed.")
+        return df
+    
+    def split_data(self, df_price_model):
+        self.logger.info("Preparing model features and splitting data...")
+        self.numeric_features = [
+            'title_length', 
+            'title_word_count', 
+            'volume_count',
+            'text_risk_score',
+            'volume_tier_encoded',
+            'condition_encoded'
+        ]
+
+        self.categorical_features = [
+            'currency', 
+            'seller_location'
+        ]
+
+        self.boolean_features = [
+            'is_boxset', 
+            'is_special_edition', 
+            'boxset_side_story_edition_included', 
+            'standalone_side_story_edition'
+        ]
+
+        self.feature_cols = self.numeric_features + self.categorical_features + self.boolean_features
+        target_col = 'price'
+
+        self.X = df_price_model[self.feature_cols]
+        self.y = df_price_model[target_col]
+
+        self.df_meta = df_price_model[['item_id', 'title', 'is_special_edition', 'is_boxset']]
+
+        self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test = train_test_split(
+            self.X, self.y, df_price_model.index, test_size = 0.2, random_state = self.random_state
+        )
+
+        self.X_train[self.categorical_features] = self.X_train[self.categorical_features].astype(str)
+        self.X_test[self.categorical_features] = self.X_test[self.categorical_features].astype(str)
+        self.logger.info(f"Train: {len(self.X_train)}, Test: {len(self.X_test)}")
+        self.logger.info("Train-test split completed.")
+
+        return self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features
+    
+    @staticmethod
+    def overview_dataframe(self, df):
+        self.logger.info("Generating dataframe overview.")
+        print("=" * 50, 'DATAFRAME HEAD', "=" * 60)
+        print(df.head(5))
+        print("=" * 60, 'DATAFRAME INFO', "=" * 60)
+        print(df.info())
+        print("=" * 60, 'DATAFRAME STATISTICS', "=" * 60)
+        print(df.describe())
+        print("=" * 120)
+    
+    def final_check(self):
+        self.logger.info("Executing pipeline diagnostic checks...")
+        # Test [1]
+        if(np.sum(self.df_price_model[self.df_price_model['price'] < 0]) != 0):
+            self.logger.error("[FAIL TEST - 1]: Negative values discovered in price target!")
+            test_1 = 'Fail'
+        else:
+            self.logger.info("[PASS TEST - 1]: No negative values in price")
+            test_1 = 'Pass'
+        
+        # Test [2]
+        if self.X.isna().sum().sum() != 0:
+            self.logger.error(f"[FAIL TEST - 2]: NaN values present in feature matrix X! (Count: {self.X.isna().sum().sum()})")
+            test_2 = 'Fail'
+        else:
+            self.logger.info("[PASS TEST - 2]: No NaN values in X")
+            test_2 = 'Pass'
+        
+        # Test [3]
+        if (np.sum(self.X_train['volume_count'] < 0) + np.sum(self.X_test['volume_count'] < 0)) != 0:   
+            self.logger.error("[FAIL TEST - 3]: Negative values discovered in volume_count!")
+            test_3 = 'Fail'
+        else:
+            self.logger.info("[PASS TEST - 3]: No negative values in volume_count")
+            test_3 = 'Pass'
+        
+        if test_1 == 'Pass' and test_2 == 'Pass' and test_3 == 'Pass':
+            self.logger.info("[PASS TEST - ALL]: Preprocessing diagnostic verification complete.")
+        else:
+            self.logger.error("[FAIL TEST] Verification tests failed. Halting execution.")
+            raise ValueError(f"Preprocessing checks failed: Test1={test_1}, Test2={test_2}, Test3={test_3}")
+    
+    def fit_transform(self, df_raw):
+        self.logger.info("Starting comprehensive preprocessing pipeline.")
+        self.df_price_model = df_raw[(df_raw['risk_category'] != 'High Risk') & (df_raw['volume_confidence'] != 'low')]
+        self.df_price_model = self.ordinal_encoder(self.df_price_model)
+        self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features = self.split_data(self.df_price_model)
+        
+        self.final_check()
+
+        if __name__ == "__main__":
+            self.overview_dataframe(self, self.df_price_model)
+        self.logger.info("Preprocessing pipeline completed successfully.")
+
+        return self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features
+    
+if __name__ == "__main__":
+    logger = setup_logger('preprocessor_run')
+    logger.info("Running preprocessor.py directly...")
+    try:
+        df_regression, df_classification = preprocess_regression().fit()
+        
+        X_train, X_test, y_train, y_test, indices_train, indices_test, df_meta, feature_cols, categorical_features, boolean_features, numeric_features = preprocess_regression().fit_transform(df_regression)
+    except Exception as e:
+        logger.exception(f"Unhandled exception during direct run: {e}")

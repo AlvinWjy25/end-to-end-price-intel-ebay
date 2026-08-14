@@ -5,13 +5,21 @@ __pycache__/
 .antigravity/
 
 # directory:
-config/.env
 
+#config
+config/.env
+config/__pycache__
+
+#logs
+logs/dbt_logs
+logs/pipeline_logs
+
+#price_intel_dbt
 price_intel_dbt/target/
 price_intel_dbt/dbt_packages/
 price_intel_dbt/logs/
 price_intel_dbt/profiles.yml
-logs/
 
+#parent dir
 mininotion.txt
 .user.yml
