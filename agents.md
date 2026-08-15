@@ -5,6 +5,7 @@ This document provides a comprehensive breakdown of the core logic, database sch
 ---
 
 ## Directory Structure
+```
 project_1/
 ├── config/
 |   ├──.env
@@ -43,7 +44,7 @@ project_1/
 │   └── macros/
 │        ├── generate_schema_name.sql
 │        └── .gitkeep
-
+```
 
 
 ## 1. System Overview & Architecture
