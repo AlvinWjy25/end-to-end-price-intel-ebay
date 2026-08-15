@@ -4,6 +4,48 @@ This document provides a comprehensive breakdown of the core logic, database sch
 
 ---
 
+## Directory Structure
+project_1/
+├── config/
+|   ├──.env
+|   ├──config_script.py
+|   └──requirements.txt   
+├── logs/
+│   ├── dbt_logs     
+│   └── pipeline_logs    
+├── src/
+│   ├── artifacts/
+│   ├── ingestion/
+│   │   ├── backups/
+│   │   └── ingest.py
+│   ├── train.py
+│   ├── pipeline.py
+│   ├── evaluate.py
+│   └── preprocessor.py
+├── notebook/
+|   ├── 01_EDA.ipynb (regression - Done)
+│   └── 02_EDA.ipynb (classification - not started)
+├── price_intel_dbt/
+│   ├── analyses/
+│   ├── .user.yml
+│   ├── profiles.yml
+│   ├── dbt_project.yml
+│   ├── models/
+│   │   ├── fact/ 
+│   │   |   ├── fct_ebay_listings.sql
+│   │   |   ├── _schema.yml
+│   │   ├── intermediate/
+│   │   |   ├── int_ebay_listing_risk_analysis.sql
+│   │   |   ├── _schema.yml
+│   │   └── staging/
+│   │       ├── stg_ebay_listings.sql
+│   │       └── _sources.yml
+│   └── macros/
+│        ├── generate_schema_name.sql
+│        └── .gitkeep
+
+
+
 ## 1. System Overview & Architecture
 
 The project is an end-to-end price intelligence and machine learning pipeline that collects, cleans, analyzes, and models prices of Light Novel listings on eBay.

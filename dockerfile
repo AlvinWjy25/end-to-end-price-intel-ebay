@@ -15,4 +15,4 @@ COPY . .
 
 # 6. Tentukan COMMAND SPESIFIK yang dieksekusi saat container berjalan.
 # Contoh: Menjalankan pipeline utama. Sesuaikan path-nya jika perlu memanggil config.
-# CMD ["./run_pipeline.sh"]
+CMD ["./run_pipeline.sh"]

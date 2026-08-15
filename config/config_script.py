@@ -1,5 +1,7 @@
 from pathlib import Path
 import pandas as pd
+import pyarrow
+import fastparquet
 import os
 
 import logging
@@ -16,6 +18,28 @@ LOG_DIR.mkdir(parents=True, exist_ok=True)
 print(f'ROOT DIR: {ROOT_DIR}\n')
 ARTIFACT_DIR = Path(ROOT_DIR / 'src' / 'artifacts')
 ARTIFACT_DIR.mkdir(parents = True, exist_ok = True)
+
+PREPROCESSED_DIR = Path(ARTIFACT_DIR / 'preprocessed' / 'regression')
+PREPROCESSED_DIR.mkdir(parents = True, exist_ok = True)
+
+X_TRAIN_PATH = PREPROCESSED_DIR / 'X_train.parquet'
+X_TEST_PATH = PREPROCESSED_DIR / 'X_test.parquet'
+Y_TRAIN_PATH = PREPROCESSED_DIR / 'y_train.parquet'
+Y_TEST_PATH = PREPROCESSED_DIR / 'y_test.parquet'
+Y_PRED_PATH = PREPROCESSED_DIR / 'y_pred.parquet'
+DF_META_PATH = PREPROCESSED_DIR / 'df_meta.parquet'
+
+EVALUATION_DIR = Path(ARTIFACT_DIR / 'evaluation')
+EVALUATION_DIR.mkdir(parents = True, exist_ok = True)
+
+EVAL_SUMMARY_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_report.json'
+EVAL_DATAFRAME_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_dataframe.json'
+
+EVAL_SUMMARY_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_report.json'
+EVAL_DATAFRAME_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_dataframe.json'
+
+MODEL_REGRESSION_PATH = Path(ARTIFACT_DIR / 'models' / 'final_regression.joblib')
+MODEL_CLASSIFICATION_PATH = Path(ARTIFACT_DIR / 'models' / 'final_classification.joblib')
 
 def setup_logger(run_type: str) -> logging.Logger:
     """
