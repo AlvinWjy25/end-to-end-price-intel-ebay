@@ -23,7 +23,7 @@ price_intel_dbt/profiles.yml
 #src
 src/__pycache__
 src/artifacts/preprocessed/classification/
-src\artifacts\preprocessed\regression
+src/artifacts/preprocessed/regression/
 
 #parent dir
 .user.yml
