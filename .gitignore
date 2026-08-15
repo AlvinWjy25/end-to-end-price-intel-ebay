@@ -20,6 +20,9 @@ price_intel_dbt/dbt_packages/
 price_intel_dbt/logs/
 price_intel_dbt/profiles.yml
 
+#src
+src/__pycache__
+
 #parent dir
 .user.yml
 readme_note.md 

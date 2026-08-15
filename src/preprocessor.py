@@ -1,6 +1,7 @@
 import sys
 import os
 import numpy as np
+import pandas as pd
 from pathlib import Path
 from datetime import datetime
 from sklearn.model_selection import train_test_split
@@ -10,7 +11,7 @@ from sklearn.compose import ColumnTransformer
 #DB Postgres Connection
 root_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_dir))
-from config.config_script import load_dataframe, setup_logger
+from config.config_script import load_dataframe, setup_logger, X_TRAIN_PATH, X_TEST_PATH, Y_TRAIN_PATH, Y_TEST_PATH, Y_PRED_PATH, DF_META_PATH
 
 class preprocess_regression(load_dataframe):
     def __init__(self, random_state=42):
@@ -32,15 +33,16 @@ class preprocess_regression(load_dataframe):
             else:
                 return 'complete_large_set'
 
-        def get_volume_tier(count):
+        def get_volume_tier_encoded(count):
             if count == 1:
-                return 1  # single_volume
+                return 1
             elif 2 <= count <= 5:
-                return 2  # small_bundle
+                return 2
             elif 6 <= count <= 15:
-                return 3  # medium_set
+                return 3
             else:
-                return 4  # complete_large_set
+                return 4
+
         condition_map = {
             'Acceptable': 1,
             'Used': 2,
@@ -49,7 +51,7 @@ class preprocess_regression(load_dataframe):
             'Like New': 5,
             'New': 6,
             'Brand New': 7,
-            'unknown': 0  # Neutral fallback (middle ground)
+            'unknown': 3  # Neutral fallback (middle ground)
         }
         
         # Encode Condition
@@ -57,9 +59,9 @@ class preprocess_regression(load_dataframe):
         
         # Encode Volume Tier
         df['volume_tier'] = df['volume_count'].apply(get_volume_tier)
-        df['volume_tier_encoded'] = df['volume_count'].apply(get_volume_tier)
+        df['volume_tier_encoded'] = df['volume_count'].apply(get_volume_tier_encoded)
 
-        df = df.drop(columns='condition')
+        df = df.drop(columns=['condition'])
         self.logger.info("Ordinal encoding completed.")
         return df
     
@@ -106,8 +108,9 @@ class preprocess_regression(load_dataframe):
         return self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features
     
     @staticmethod
-    def overview_dataframe(self, df):
-        self.logger.info("Generating dataframe overview.")
+    def overview_dataframe(df):
+        logger = setup_logger('preprocessor_run')
+        logger.info("Generating dataframe overview.")
         print("=" * 50, 'DATAFRAME HEAD', "=" * 60)
         print(df.head(5))
         print("=" * 60, 'DATAFRAME INFO', "=" * 60)
@@ -157,7 +160,7 @@ class preprocess_regression(load_dataframe):
         self.final_check()
 
         if __name__ == "__main__":
-            self.overview_dataframe(self, self.df_price_model)
+            self.overview_dataframe(self.df_price_model)
         self.logger.info("Preprocessing pipeline completed successfully.")
 
         return self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features
@@ -169,5 +172,13 @@ if __name__ == "__main__":
         df_regression, df_classification = preprocess_regression().fit()
         
         X_train, X_test, y_train, y_test, indices_train, indices_test, df_meta, feature_cols, categorical_features, boolean_features, numeric_features = preprocess_regression().fit_transform(df_regression)
+
+        pd.DataFrame(X_train).to_parquet(X_TRAIN_PATH, index=False)
+        pd.DataFrame(X_test).to_parquet(X_TEST_PATH, index=False)
+        pd.DataFrame(y_train).to_parquet(Y_TRAIN_PATH, index=False)
+        pd.DataFrame(y_test).to_parquet(Y_TEST_PATH, index=False)
+        pd.DataFrame(df_meta).to_parquet(DF_META_PATH, index=False)
+
+        logger.info("Preprocessed data saved to artifacts/preprocessed directory.")
     except Exception as e:
         logger.exception(f"Unhandled exception during direct run: {e}")
