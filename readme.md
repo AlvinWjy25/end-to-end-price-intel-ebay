@@ -66,7 +66,7 @@ eBay Browse API → ingest.py → raw.ebay_listings (Postgres)
    docker compose up
    ```
    This will: spin up Postgres → run the dbt pipeline (staging → intermediate → marts) → run `pipeline.py` (feature prep + inference) → launch the API → launch the frontend.
-4. Once containers are up, the app will be available at `http://localhost:5432`.
+4. Once containers are up, the app will be available at `http://localhost:<port>` (planned).
 
 ## Key design decisions (TL;DR)
 
