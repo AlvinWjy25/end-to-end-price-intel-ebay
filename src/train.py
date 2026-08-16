@@ -39,7 +39,7 @@ class Pipeline_train(Pipeline_evaluate):
             self.logger.error(f"Error loading preprocessed data: {e}, make sure to run preprocessor.py first!")
             raise 
 
-        self.numeric_features = ['title_length', 'title_word_count', 'volume_count', 'text_risk_score', 'condition_encoded', 'volume_tier_encoded']
+        self.numeric_features = ['title_length', 'title_word_count', 'volume_count', 'condition_encoded', 'volume_tier_encoded']
         self.categorical_features = ['currency', 'seller_location']
         self.boolean_features = ['is_boxset', 'is_special_edition', 'boxset_side_story_edition_included', 'standalone_side_story_edition']
 
