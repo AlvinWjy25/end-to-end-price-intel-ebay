@@ -16,6 +16,15 @@ project_1/
 │   └── pipeline_logs    
 ├── src/
 │   ├── artifacts/
+│   │   ├── evaluation/
+|   │   │   ├── classification/
+|   │   │   └── regression/
+|   │   └── models
+|   │   │   ├── classification/
+|   │   │   └── regression/
+│   │   └── preprocessed
+|   │   │   ├── classification/
+|   │   │   └── regression/ (X_train, dst)
 │   ├── ingestion/
 │   │   ├── backups/
 │   │   └── ingest.py

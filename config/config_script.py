@@ -13,6 +13,8 @@ from dotenv import load_dotenv
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
 LOG_DIR = ROOT_DIR / "logs" / "pipeline_logs"
+DBT_LOG_DIR = ROOT_DIR / "logs" / "dbt_logs"
+DBT_LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 
 print(f'ROOT DIR: {ROOT_DIR}\n')
