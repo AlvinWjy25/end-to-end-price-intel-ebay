@@ -14,6 +14,8 @@ config/__pycache__
 logs/dbt_logs
 logs/pipeline_logs
 
+#notebook
+
 #price_intel_dbt
 price_intel_dbt/target/
 price_intel_dbt/dbt_packages/

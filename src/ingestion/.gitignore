@@ -1,6 +1,0 @@
-debug_output/
-target/
-dbt_packages/
-logs/
-.env
-backups/
