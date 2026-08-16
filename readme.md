@@ -6,7 +6,9 @@ End-to-end ML/data engineering pipeline that ingests eBay light novel listings, 
 
 ## Why this project
 
-Light novel listings on eBay are notoriously inconsistent: sellers mix official releases, unofficial reprints/bootlegs, single volumes, and box sets under near-identical titles, with price ranging from $3 to $2,000 for what looks like "the same item" at a glance. This project builds a pipeline to disambiguate that automatically — first by extracting reliable structured signal from noisy title/description text, then by scoring risk and predicting price on top of it.
+Light novel listings on eBay are notoriously inconsistent: sellers mix official releases, unofficial reprints/bootlegs, single volumes, and box sets under near-identical titles, with price ranging from $3 to $2,000 for what looks like "the same item" at a glance. This project builds a pipeline to disambiguate that automatically — first by extracting reliable structured signal from noisy title/description text, then by scoring risk and predicting price on top of it. 
+
+This project is built to classify if a light novel listing is an official light novel listing or not, and predict the price of an official light novel listing, given the region and condition of the item.
 
 ## Current status
 
@@ -86,6 +88,7 @@ Covers: complete dbt lineage rationale, EDA notebooks, feature engineering tier-
 
 ## Known limitations
 
-- Training set is currently ~1,647 rows after risk/confidence filtering — small enough that hyperparameter tuning via 5-fold CV showed high variance across folds and was not adopted (default XGBoost params used instead; see full docs).
+- Training set is currently ~1,647 rows (54.88%) are qualified enough after filtering — small enough that hyperparameter tuning via 5-fold CV showed high variance across folds and was not adopted (default XGBoost params used instead; see full docs).
+- Most of the data pulled from ebay listings are due to unofficial listings (automatically marked as high risk), inconsistent/incomplete metadata with title and description listings, or listings without condition information.
 - Price prediction is capped near the training set's max observed price (~$1,099.99) — the model does not extrapolate well to very rare, ultra-high-value listings.
 - `seller_location` is currently the dominant price signal (proxying for import/rarity/edition), but only 7 countries are represented and two (Germany, Canada) have fewer than 5 listings each — generalization to unseen seller countries is untested.
