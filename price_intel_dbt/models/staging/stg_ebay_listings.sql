@@ -92,6 +92,7 @@ light_novel_only as(
     from deduplicated
     where title !~* 'manga'
         and title !~* 'figure'
+        and title !~* 'tapestry'
         and title !~* 'artbook'
         and title !~* 'poster'
         and title !~* 'blanket'
