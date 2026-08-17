@@ -10,6 +10,8 @@ Light novel listings on eBay are notoriously inconsistent: sellers mix official 
 
 This project is built to classify if a light novel listing is an official light novel listing or not, and predict the price of an official light novel listing, given the region and condition of the item.
 
+**Why exclude unofficial listings?** This project trains only on plausibly-official light novel listings — bootleg/reprint listings are filtered out via a text-based risk score before training. This isn't just a data-quality decision: unofficial listings don't reflect genuine market value (no licensing costs), and including them would bias price predictions downward while indirectly normalizing counterfeit goods. Official second-hand circulation, by contrast, is a legal, transparent market this project aims to support — see Section Q.2 [Full documentation — Notion](https://app.notion.com/p/eBay-Light-Novel-Price-Intelligence-Documentation-2-0-3bf16382ebe58040abeaeed49986dd13?source=copy_link#3bf16382ebe58006a752fd396bda6c9b) for the full ethical/legal reasoning.
+
 ## Current status
 
 | Component | Status |
@@ -82,7 +84,7 @@ Full rationale for every decision above, plus EDA, failed hypotheses (e.g. why p
 
 ## Full documentation
 
-📄 **[Full documentation — Notion](#)** 
+📄 **[Full documentation — Notion](https://app.notion.com/p/eBay-Light-Novel-Price-Intelligence-Documentation-2-0-3bf16382ebe58040abeaeed49986dd13?source=copy_link)** 
 
 Covers: complete dbt lineage rationale, EDA notebooks, feature engineering tier-by-tier logic, model ablation studies, cross-validation diagnostics, and the classification model design (once built).
 
