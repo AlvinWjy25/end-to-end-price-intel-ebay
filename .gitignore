@@ -3,6 +3,7 @@ __pycache__/
 .venv/
 .venv*/
 .antigravity/
+.vscode/
 
 # directory:
 
@@ -30,4 +31,5 @@ src/artifacts/preprocessed/regression/
 #parent dir
 .user.yml
 readme_note.md 
+agents.md
 #incomplete
