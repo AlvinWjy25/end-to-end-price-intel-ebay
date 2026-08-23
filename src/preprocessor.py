@@ -91,6 +91,10 @@ class preprocess_regression(load_dataframe):
         self.feature_cols = self.numeric_features + self.categorical_features + self.boolean_features
         target_col = 'price'
 
+        # Exclude volatile ambigous data row
+        bulk_lot_mask = (df_price_model['volume_count'] >= 5) & (df_price_model['price_per_volume'] < 4.4)
+        df_price_model = df_price_model[~bulk_lot_mask].copy()
+
         self.X = df_price_model[self.feature_cols]
         self.y = df_price_model[target_col]
 
