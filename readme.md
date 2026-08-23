@@ -18,7 +18,7 @@ This project is built to classify if a light novel listing is an official light 
 |---|---|
 | Ingestion (eBay Browse API → Postgres) | ✅ Done |
 | dbt transformation layer (staging → intermediate → marts) | ✅ Done |
-| Price regression model (XGBoost) | ✅ Baseline done — R² 0.619, MAE $19.34, SMAPE: 27.73% |
+| Price regression model (XGBoost) | ✅ Baseline done — R² 0.7388, MAE $11.8846, SMAPE: 26.9201% |
 | Confidence intervals (quantile regression) | 🚧 In progress |
 | Risk classification model (official vs. unofficial) | 📋 Planned |
 | API (FastAPI) | 📋 Planned |
