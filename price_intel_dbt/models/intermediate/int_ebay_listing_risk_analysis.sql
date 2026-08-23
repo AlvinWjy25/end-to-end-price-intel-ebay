@@ -257,6 +257,14 @@ select
         when (text_risk_score + price_risk_score) >= 50
             then 'High Risk'
         else 'Low Risk'
-    end as risk_category
+    end as risk_category,
+
+    -- Look for regression model documentation to find out why
+    case
+        when volume_count >= 20
+            and price_per_volume < 4.4
+        then true
+        else false
+    end as is_ambiguous_bulk_pricing
 
 from risk_scoring
