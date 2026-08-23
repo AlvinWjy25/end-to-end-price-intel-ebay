@@ -5,11 +5,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.94,
-        "Predicted":11.6467103958,
-        "Residual":1.2932896042,
-        "Abs_Error":1.2932896042,
-        "APE (%)":9.9945100787
+        "Actual":9.0,
+        "Predicted":17.0454235077,
+        "Residual":-8.0454235077,
+        "Abs_Error":8.0454235077,
+        "APE (%)":89.3935945299
     },
     {
         "item_id":"v1|116204521440|0",
@@ -17,11 +17,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.62,
-        "Predicted":17.2716159821,
-        "Residual":1.3483840179,
-        "Abs_Error":1.3483840179,
-        "APE (%)":7.2415897849
+        "Actual":22.53,
+        "Predicted":17.4973125458,
+        "Residual":5.0326874542,
+        "Abs_Error":5.0326874542,
+        "APE (%)":22.337716175
     },
     {
         "item_id":"v1|116268231670|0",
@@ -29,23 +29,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.06,
-        "Predicted":18.2630825043,
-        "Residual":-2.2030825043,
-        "Abs_Error":2.2030825043,
-        "APE (%)":13.7178238124
+        "Actual":15.98,
+        "Predicted":11.5399246216,
+        "Residual":4.4400753784,
+        "Abs_Error":4.4400753784,
+        "APE (%)":27.7852026184
     },
     {
         "item_id":"v1|116452482856|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 8 (light novel) (Volume 8) (The Ange",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":21.88,
-        "Predicted":22.9826812744,
-        "Residual":-1.1026812744,
-        "Abs_Error":1.1026812744,
-        "APE (%)":5.0396767569
+        "volume_count":9.0,
+        "Actual":127.98,
+        "Predicted":99.1132202148,
+        "Residual":28.8667797852,
+        "Abs_Error":28.8667797852,
+        "APE (%)":22.5556960347
     },
     {
         "item_id":"v1|117165076117|0",
@@ -53,11 +53,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":30.98,
-        "Predicted":47.7151298523,
-        "Residual":-16.7351298523,
-        "Abs_Error":16.7351298523,
-        "APE (%)":54.0191409048
+        "Actual":8.22,
+        "Predicted":11.5483293533,
+        "Residual":-3.3283293533,
+        "Abs_Error":3.3283293533,
+        "APE (%)":40.4906247364
     },
     {
         "item_id":"v1|117176878907|0",
@@ -65,23 +65,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":24.58,
-        "Predicted":19.0465698242,
-        "Residual":5.5334301758,
-        "Abs_Error":5.5334301758,
-        "APE (%)":22.5119209755
+        "Actual":19.14,
+        "Predicted":18.0101089478,
+        "Residual":1.1298910522,
+        "Abs_Error":1.1298910522,
+        "APE (%)":5.9032970337
     },
     {
         "item_id":"v1|117177109407|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5 (Mushoku Tensei (L...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":14.0,
-        "Predicted":13.6652584076,
-        "Residual":0.3347415924,
-        "Abs_Error":0.3347415924,
-        "APE (%)":2.3910113743
+        "volume_count":2.0,
+        "Actual":155.0,
+        "Predicted":139.4359130859,
+        "Residual":15.5640869141,
+        "Abs_Error":15.5640869141,
+        "APE (%)":10.0413463962
     },
     {
         "item_id":"v1|117235695074|0",
@@ -89,11 +89,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":25.48,
-        "Predicted":28.0137042999,
-        "Residual":-2.5337042999,
-        "Abs_Error":2.5337042999,
-        "APE (%)":9.9438944267
+        "Actual":77.13,
+        "Predicted":52.0754127502,
+        "Residual":25.0545872498,
+        "Abs_Error":25.0545872498,
+        "APE (%)":32.4835825875
     },
     {
         "item_id":"v1|117266623557|0",
@@ -101,11 +101,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.67,
-        "Predicted":12.0164985657,
-        "Residual":3.6535014343,
-        "Abs_Error":3.6535014343,
-        "APE (%)":23.3152612274
+        "Actual":18.52,
+        "Predicted":18.2221908569,
+        "Residual":0.2978091431,
+        "Abs_Error":0.2978091431,
+        "APE (%)":1.6080407293
     },
     {
         "item_id":"v1|117274283599|0",
@@ -113,23 +113,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":28.99,
-        "Predicted":30.2878379822,
-        "Residual":-1.2978379822,
-        "Abs_Error":1.2978379822,
-        "APE (%)":4.4768471272
+        "Actual":16.7,
+        "Predicted":16.7461986542,
+        "Residual":-0.0461986542,
+        "Abs_Error":0.0461986542,
+        "APE (%)":0.2766386478
     },
     {
         "item_id":"v1|117311372198|0",
         "title":"Overlord, Vol. 6 (light novel): The Men of the Kingdom Part II (Volume 6)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":14.95,
-        "Predicted":11.8480939865,
-        "Residual":3.1019060135,
-        "Abs_Error":3.1019060135,
-        "APE (%)":20.7485352073
+        "volume_count":8.0,
+        "Actual":115.0,
+        "Predicted":113.648223877,
+        "Residual":1.351776123,
+        "Abs_Error":1.351776123,
+        "APE (%)":1.1754574983
     },
     {
         "item_id":"v1|117311680813|0",
@@ -137,23 +137,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.62,
-        "Predicted":17.2716159821,
-        "Residual":1.3483840179,
-        "Abs_Error":1.3483840179,
-        "APE (%)":7.2415897849
+        "Actual":7.5,
+        "Predicted":14.3643255234,
+        "Residual":-6.8643255234,
+        "Abs_Error":6.8643255234,
+        "APE (%)":91.5243403117
     },
     {
         "item_id":"v1|117313328181|0",
         "title":"The Eminence in Shadow Light Novel Volumes 1-4 Hardcover Brand New English",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":8.5,
-        "Actual":91.73,
-        "Predicted":137.1882019043,
-        "Residual":-45.4582019043,
-        "Abs_Error":45.4582019043,
-        "APE (%)":49.556526659
+        "volume_count":1.0,
+        "Actual":13.69,
+        "Predicted":16.1410999298,
+        "Residual":-2.4510999298,
+        "Abs_Error":2.4510999298,
+        "APE (%)":17.9043092024
     },
     {
         "item_id":"v1|117321679989|0",
@@ -161,23 +161,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.36,
-        "Predicted":14.3988084793,
-        "Residual":-1.0388084793,
-        "Abs_Error":1.0388084793,
-        "APE (%)":7.7755125697
+        "Actual":17.74,
+        "Predicted":17.8048343658,
+        "Residual":-0.0648343658,
+        "Abs_Error":0.0648343658,
+        "APE (%)":0.3654699315
     },
     {
         "item_id":"v1|117339503270|0",
         "title":"Re:ZERO Starting Life in Another World Light Novel Vols 1-5 English Lot",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":138.0,
-        "Predicted":134.1840515137,
-        "Residual":3.8159484863,
-        "Abs_Error":3.8159484863,
-        "APE (%)":2.7651800626
+        "volume_count":1.0,
+        "Actual":194.39,
+        "Predicted":194.4227294922,
+        "Residual":-0.0327294922,
+        "Abs_Error":0.0327294922,
+        "APE (%)":0.0168370246
     },
     {
         "item_id":"v1|117340946035|0",
@@ -185,11 +185,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.37,
-        "Predicted":11.1990289688,
-        "Residual":1.1709710312,
-        "Abs_Error":1.1709710312,
-        "APE (%)":9.4662169053
+        "Actual":15.69,
+        "Predicted":18.2221908569,
+        "Residual":-2.5321908569,
+        "Abs_Error":2.5321908569,
+        "APE (%)":16.1388837281
     },
     {
         "item_id":"v1|117340952687|0",
@@ -197,23 +197,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.1,
-        "Predicted":10.1235904694,
-        "Residual":2.9764095306,
-        "Abs_Error":2.9764095306,
-        "APE (%)":22.72068344
+        "Actual":26.1,
+        "Predicted":78.945892334,
+        "Residual":-52.845892334,
+        "Abs_Error":52.845892334,
+        "APE (%)":202.474683272
     },
     {
         "item_id":"v1|117344097683|0",
         "title":"Mushoku Tensei: Jobless Reincarnation Vol 17 English Light Novel Volume",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":4.0,
-        "Actual":56.0,
-        "Predicted":53.7072372437,
-        "Residual":2.2927627563,
-        "Abs_Error":2.2927627563,
-        "APE (%)":4.0942192078
+        "volume_count":1.0,
+        "Actual":6.95,
+        "Predicted":12.0019521713,
+        "Residual":-5.0519521713,
+        "Abs_Error":5.0519521713,
+        "APE (%)":72.6899592997
     },
     {
         "item_id":"v1|117344098963|0",
@@ -221,35 +221,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":29.15,
-        "Predicted":28.5599956512,
-        "Residual":0.5900043488,
-        "Abs_Error":0.5900043488,
-        "APE (%)":2.0240286407
+        "Actual":9.99,
+        "Predicted":13.9551143646,
+        "Residual":-3.9651143646,
+        "Abs_Error":3.9651143646,
+        "APE (%)":39.6908344807
     },
     {
         "item_id":"v1|117355965327|0",
         "title":"Tomari Takemachi Spy Classroom, Vol. 3 (light novel) (Paperback) (UK IMPORT)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":12.0,
-        "Actual":37.51,
-        "Predicted":41.8249893188,
-        "Residual":-4.3149893188,
-        "Abs_Error":4.3149893188,
-        "APE (%)":11.5035705648
-    },
-    {
-        "item_id":"v1|125075935916|426141624255",
-        "title":"Re:Zero: Starting Life in Another World Vol.1-44 Japanese Novel Tappei Nagatsuki",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":7.0,
-        "Actual":15.5,
-        "Predicted":94.2461090088,
-        "Residual":-78.7461090088,
-        "Abs_Error":78.7461090088,
-        "APE (%)":508.0394129599
+        "volume_count":1.0,
+        "Actual":13.36,
+        "Predicted":13.8696107864,
+        "Residual":-0.5096107864,
+        "Abs_Error":0.5096107864,
+        "APE (%)":3.8144519943
     },
     {
         "item_id":"v1|125075935916|429071507693",
@@ -257,11 +245,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":5.0,
-        "Predicted":13.3624620438,
-        "Residual":-8.3624620438,
-        "Abs_Error":8.3624620438,
-        "APE (%)":167.2492408752
+        "Actual":25.54,
+        "Predicted":18.3544120789,
+        "Residual":7.1855879211,
+        "Abs_Error":7.1855879211,
+        "APE (%)":28.1346433874
     },
     {
         "item_id":"v1|125553699489|426596915202",
@@ -269,11 +257,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":20.48,
-        "Predicted":19.7217674255,
-        "Residual":0.7582325745,
-        "Abs_Error":0.7582325745,
-        "APE (%)":3.7023074925
+        "Actual":47.75,
+        "Predicted":18.6626358032,
+        "Residual":29.0873641968,
+        "Abs_Error":29.0873641968,
+        "APE (%)":60.9159459618
     },
     {
         "item_id":"v1|125758116784|0",
@@ -281,23 +269,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.19,
-        "Predicted":19.1302318573,
-        "Residual":-3.9402318573,
-        "Abs_Error":3.9402318573,
-        "APE (%)":25.9396435635
-    },
-    {
-        "item_id":"v1|125831580933|0",
-        "title":"Konosuba God's Blessing on This Wonderful World Vol. 1 - 17 Light Novel Full Set",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":10.0,
-        "Actual":199.95,
-        "Predicted":127.4980926514,
-        "Residual":72.4519073486,
-        "Abs_Error":72.4519073486,
-        "APE (%)":36.2350124274
+        "Actual":20.4,
+        "Predicted":21.1825370789,
+        "Residual":-0.7825370789,
+        "Abs_Error":0.7825370789,
+        "APE (%)":3.8359660728
     },
     {
         "item_id":"v1|126129663821|429009944552",
@@ -305,23 +281,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.99,
-        "Predicted":17.2716159821,
-        "Residual":-8.2816159821,
-        "Abs_Error":8.2816159821,
-        "APE (%)":92.1203112576
-    },
-    {
-        "item_id":"v1|126129663821|429009944553",
-        "title":"The Eminence in Shadow vol.1-7 Japanese Novel Light Book Comic Anime Set Kage",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":13.0,
-        "Actual":195.0,
-        "Predicted":132.0399932861,
-        "Residual":62.9600067139,
-        "Abs_Error":62.9600067139,
-        "APE (%)":32.2871829302
+        "Actual":10.2,
+        "Predicted":9.5150871277,
+        "Residual":0.6849128723,
+        "Abs_Error":0.6849128723,
+        "APE (%)":6.7148320815
     },
     {
         "item_id":"v1|126138971305|0",
@@ -329,23 +293,23 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":14.0,
-        "Predicted":12.61723423,
-        "Residual":1.38276577,
-        "Abs_Error":1.38276577,
-        "APE (%)":9.8768983568
+        "Actual":100.0,
+        "Predicted":15.2901058197,
+        "Residual":84.7098941803,
+        "Abs_Error":84.7098941803,
+        "APE (%)":84.7098941803
     },
     {
         "item_id":"v1|126190607710|0",
         "title":"86 Eighty-Six 1-12 Set Light Novel Book Shinei Nouzen Asato Asato 2017 KADOKAWA",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.33,
-        "Predicted":16.2180175781,
-        "Residual":0.1119824219,
-        "Abs_Error":0.1119824219,
-        "APE (%)":0.6857466128
+        "volume_count":17.0,
+        "Actual":179.99,
+        "Predicted":169.3210754395,
+        "Residual":10.6689245605,
+        "Abs_Error":10.6689245605,
+        "APE (%)":5.9275096175
     },
     {
         "item_id":"v1|126470107965|0",
@@ -353,23 +317,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":100.0,
-        "Predicted":17.940700531,
-        "Residual":82.059299469,
-        "Abs_Error":82.059299469,
-        "APE (%)":82.059299469
-    },
-    {
-        "item_id":"v1|126497229506|427535663608",
-        "title":"86 Eighty-Six Vol.1-13  After. 1-2  Japanese Light Novel Book Anime Set Comic",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":12.75,
-        "Predicted":11.1412792206,
-        "Residual":1.6087207794,
-        "Abs_Error":1.6087207794,
-        "APE (%)":12.6174178778
+        "Actual":16.71,
+        "Predicted":17.83086586,
+        "Residual":-1.12086586,
+        "Abs_Error":1.12086586,
+        "APE (%)":6.7077549969
     },
     {
         "item_id":"v1|126497229506|428118495924",
@@ -377,47 +329,47 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":25.99,
-        "Predicted":25.5838012695,
-        "Residual":0.4061987305,
-        "Abs_Error":0.4061987305,
-        "APE (%)":1.5629039264
+        "Actual":11.55,
+        "Predicted":15.4497756958,
+        "Residual":-3.8997756958,
+        "Abs_Error":3.8997756958,
+        "APE (%)":33.7642917385
     },
     {
         "item_id":"v1|126539862874|0",
         "title":"Mushoku Tensei Jobless Reincarnation Vol.1-26 Complete Full Set Light Novel JP",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":29.0,
-        "Actual":62.9,
-        "Predicted":95.1822738647,
-        "Residual":-32.2822738647,
-        "Abs_Error":32.2822738647,
-        "APE (%)":51.3231698963
+        "volume_count":1.0,
+        "Actual":55.8,
+        "Predicted":61.235206604,
+        "Residual":-5.435206604,
+        "Abs_Error":5.435206604,
+        "APE (%)":9.7405136272
     },
     {
         "item_id":"v1|126545113384|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 7 (light novel) (Volume 7) (The Ange",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":39.0,
-        "Actual":309.62,
-        "Predicted":284.5622253418,
-        "Residual":25.0577746582,
-        "Abs_Error":25.0577746582,
-        "APE (%)":8.0930736575
+        "volume_count":1.0,
+        "Actual":8.31,
+        "Predicted":9.7811965942,
+        "Residual":-1.4711965942,
+        "Abs_Error":1.4711965942,
+        "APE (%)":17.7039301352
     },
     {
         "item_id":"v1|126596901129|0",
         "title":"Konosuba: An Explosion on This Wonderful World Bonus Story 1-2 Light Novel New",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":11.41,
-        "Predicted":11.5441379547,
-        "Residual":-0.1341379547,
-        "Abs_Error":0.1341379547,
-        "APE (%)":1.1756174821
+        "volume_count":13.0,
+        "Actual":141.58,
+        "Predicted":143.0677947998,
+        "Residual":-1.4877947998,
+        "Abs_Error":1.4877947998,
+        "APE (%)":1.0508509675
     },
     {
         "item_id":"v1|126998857095|0",
@@ -425,11 +377,11 @@
         "is_boxset":true,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":7.59,
-        "Predicted":11.9996204376,
-        "Residual":-4.4096204376,
-        "Abs_Error":4.4096204376,
-        "APE (%)":58.0977659766
+        "Actual":15.31,
+        "Predicted":17.7753200531,
+        "Residual":-2.4653200531,
+        "Abs_Error":2.4653200531,
+        "APE (%)":16.1026783351
     },
     {
         "item_id":"v1|127154203816|0",
@@ -437,11 +389,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.31,
-        "Predicted":17.8584060669,
-        "Residual":1.4515939331,
-        "Abs_Error":1.4515939331,
-        "APE (%)":7.5173171057
+        "Actual":11.0,
+        "Predicted":22.1056098938,
+        "Residual":-11.1056098938,
+        "Abs_Error":11.1056098938,
+        "APE (%)":100.9600899436
     },
     {
         "item_id":"v1|127173455451|0",
@@ -449,35 +401,35 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":6.77,
-        "Predicted":10.6812801361,
-        "Residual":-3.9112801361,
-        "Abs_Error":3.9112801361,
-        "APE (%)":57.7737095437
+        "Actual":14.0,
+        "Predicted":11.5140304565,
+        "Residual":2.4859695435,
+        "Abs_Error":2.4859695435,
+        "APE (%)":17.7569253104
     },
     {
         "item_id":"v1|127178036116|0",
         "title":"Bofuri Vol.1-19 Latest Full Set Japanese Light Novel",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":435.0,
-        "Predicted":132.4870910645,
-        "Residual":302.5129089355,
-        "Abs_Error":302.5129089355,
-        "APE (%)":69.5431974564
+        "volume_count":1.0,
+        "Actual":12.95,
+        "Predicted":18.6626358032,
+        "Residual":-5.7126358032,
+        "Abs_Error":5.7126358032,
+        "APE (%)":44.1130177855
     },
     {
         "item_id":"v1|127178114650|0",
         "title":"Too Many Losing Heroines! Japanese Light Novel Set Vol.1-10 (1-8+sss+8.5)",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":289.9,
-        "Predicted":69.4085998535,
-        "Residual":220.4914001465,
-        "Abs_Error":220.4914001465,
-        "APE (%)":76.0577441002
+        "volume_count":1.0,
+        "Actual":13.59,
+        "Predicted":11.5029306412,
+        "Residual":2.0870693588,
+        "Abs_Error":2.0870693588,
+        "APE (%)":15.3573904255
     },
     {
         "item_id":"v1|127209079002|0",
@@ -485,23 +437,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":21.76,
-        "Predicted":20.1550865173,
-        "Residual":1.6049134827,
-        "Abs_Error":1.6049134827,
-        "APE (%)":7.3755215196
+        "Actual":10.94,
+        "Predicted":18.2221908569,
+        "Residual":-7.2821908569,
+        "Abs_Error":7.2821908569,
+        "APE (%)":66.5648158769
     },
     {
         "item_id":"v1|127251977464|0",
         "title":"The Eminence in Shadow, Vol. 5 (light novel) (Volume 4) (The Eminence in Shadow",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":5.0,
-        "Actual":71.3,
-        "Predicted":68.6068954468,
-        "Residual":2.6931045532,
-        "Abs_Error":2.6931045532,
-        "APE (%)":3.7771452359
+        "volume_count":1.0,
+        "Actual":11.65,
+        "Predicted":19.5487232208,
+        "Residual":-7.8987232208,
+        "Abs_Error":7.8987232208,
+        "APE (%)":67.8001993204
     },
     {
         "item_id":"v1|127660297677|0",
@@ -509,23 +461,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":17.46,
-        "Predicted":17.8062419891,
-        "Residual":-0.3462419891,
-        "Abs_Error":0.3462419891,
-        "APE (%)":1.983058357
-    },
-    {
-        "item_id":"v1|127722168206|428888417033",
-        "title":"Konosuba God's Blessing on This Wonderful World 1-26 Japanese Light Novel Japan",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":14.0,
-        "Actual":18.8,
-        "Predicted":141.5308532715,
-        "Residual":-122.7308532715,
-        "Abs_Error":122.7308532715,
-        "APE (%)":652.8236876143
+        "Actual":15.99,
+        "Predicted":15.8637599945,
+        "Residual":0.1262400055,
+        "Abs_Error":0.1262400055,
+        "APE (%)":0.7894934677
     },
     {
         "item_id":"v1|127722168206|428888417037",
@@ -533,59 +473,59 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":89.99,
-        "Predicted":11.1412792206,
-        "Residual":78.8487207794,
-        "Abs_Error":78.8487207794,
-        "APE (%)":87.6194252466
+        "Actual":12.77,
+        "Predicted":12.3124485016,
+        "Residual":0.4575514984,
+        "Abs_Error":0.4575514984,
+        "APE (%)":3.5830187816
     },
     {
         "item_id":"v1|127722168206|428888417043",
         "title":"Konosuba God's Blessing on This Wonderful World 1-26 Japanese Light Novel Japan",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":17.0,
-        "Actual":85.0,
-        "Predicted":103.7553405762,
-        "Residual":-18.7553405762,
-        "Abs_Error":18.7553405762,
-        "APE (%)":22.0651065602
+        "volume_count":1.0,
+        "Actual":54.99,
+        "Predicted":10.6652212143,
+        "Residual":44.3247787857,
+        "Abs_Error":44.3247787857,
+        "APE (%)":80.6051623672
     },
     {
         "item_id":"v1|127733516667|0",
         "title":"Rascal Does Not Dream of Bunny Girl Senpai (light novel) (Volume 1) (Rascal ...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.99,
-        "Predicted":11.6152887344,
-        "Residual":5.3747112656,
-        "Abs_Error":5.3747112656,
-        "APE (%)":31.634557184
+        "volume_count":16.0,
+        "Actual":138.0,
+        "Predicted":140.6875457764,
+        "Residual":-2.6875457764,
+        "Abs_Error":2.6875457764,
+        "APE (%)":1.9474969394
     },
     {
         "item_id":"v1|127756644126|0",
         "title":"Re:Zero Ex Japanese Ver Light Novel Set Vol.1-6",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":11.77,
-        "Predicted":12.5127239227,
-        "Residual":-0.7427239227,
-        "Abs_Error":0.7427239227,
-        "APE (%)":6.310313702
+        "volume_count":28.0,
+        "Actual":229.99,
+        "Predicted":233.4339294434,
+        "Residual":-3.4439294434,
+        "Abs_Error":3.4439294434,
+        "APE (%)":1.497425733
     },
     {
         "item_id":"v1|127780113473|0",
         "title":"Spy Classroom short stories Japanese Ver Light Novel Set Vol.1-5",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.95,
-        "Predicted":17.3386936188,
-        "Residual":-0.3886936188,
-        "Abs_Error":0.3886936188,
-        "APE (%)":2.2931776919
+        "volume_count":4.0,
+        "Actual":60.0,
+        "Predicted":40.6174163818,
+        "Residual":19.3825836182,
+        "Abs_Error":19.3825836182,
+        "APE (%)":32.3043060303
     },
     {
         "item_id":"v1|127817321998|0",
@@ -593,11 +533,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.34,
-        "Predicted":17.8575077057,
-        "Residual":-1.5175077057,
-        "Abs_Error":1.5175077057,
-        "APE (%)":9.2870728622
+        "Actual":18.52,
+        "Predicted":17.7753200531,
+        "Residual":0.7446799469,
+        "Abs_Error":0.7446799469,
+        "APE (%)":4.0209500373
     },
     {
         "item_id":"v1|127863988862|0",
@@ -605,11 +545,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.36,
-        "Predicted":13.3636198044,
-        "Residual":-0.0036198044,
-        "Abs_Error":0.0036198044,
-        "APE (%)":0.0270943442
+        "Actual":16.41,
+        "Predicted":19.9803886414,
+        "Residual":-3.5703886414,
+        "Abs_Error":3.5703886414,
+        "APE (%)":21.7573957426
     },
     {
         "item_id":"v1|127886915857|0",
@@ -617,11 +557,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":80.0,
-        "Predicted":11.1990289688,
-        "Residual":68.8009710312,
-        "Abs_Error":68.8009710312,
-        "APE (%)":86.001213789
+        "Actual":16.06,
+        "Predicted":18.7917804718,
+        "Residual":-2.7317804718,
+        "Abs_Error":2.7317804718,
+        "APE (%)":17.0098410448
     },
     {
         "item_id":"v1|127898400680|0",
@@ -629,11 +569,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.51,
-        "Predicted":17.6694316864,
-        "Residual":1.8405683136,
-        "Abs_Error":1.8405683136,
-        "APE (%)":9.4339739293
+        "Actual":12.95,
+        "Predicted":18.0101089478,
+        "Residual":-5.0601089478,
+        "Abs_Error":5.0601089478,
+        "APE (%)":39.0742003688
     },
     {
         "item_id":"v1|127904206722|0",
@@ -641,23 +581,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.33,
-        "Predicted":17.8584060669,
-        "Residual":-1.5284060669,
-        "Abs_Error":1.5284060669,
-        "APE (%)":9.3594982663
+        "Actual":59.99,
+        "Predicted":13.5717334747,
+        "Residual":46.4182665253,
+        "Abs_Error":46.4182665253,
+        "APE (%)":77.3766736544
     },
     {
         "item_id":"v1|127908949111|0",
         "title":"Yen Press Rascal Does Not Dream of Bunny Girl Senpai Light Novel Vol 1 English",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":14.0,
-        "Actual":225.0,
-        "Predicted":199.9604644775,
-        "Residual":25.0395355225,
-        "Abs_Error":25.0395355225,
-        "APE (%)":11.1286824544
+        "volume_count":1.0,
+        "Actual":10.22,
+        "Predicted":11.3609447479,
+        "Residual":-1.1409447479,
+        "Abs_Error":1.1409447479,
+        "APE (%)":11.1638429347
     },
     {
         "item_id":"v1|127923441558|0",
@@ -665,11 +605,11 @@
         "is_boxset":true,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":98.0,
-        "Predicted":86.3175964355,
-        "Residual":11.6824035645,
-        "Abs_Error":11.6824035645,
-        "APE (%)":11.9208199637
+        "Actual":9.92,
+        "Predicted":12.8637428284,
+        "Residual":-2.9437428284,
+        "Abs_Error":2.9437428284,
+        "APE (%)":29.6748268989
     },
     {
         "item_id":"v1|127924404783|0",
@@ -677,47 +617,47 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":15.0,
-        "Predicted":9.8335723877,
-        "Residual":5.1664276123,
-        "Abs_Error":5.1664276123,
-        "APE (%)":34.4428507487
+        "Actual":31.29,
+        "Predicted":60.1666526794,
+        "Residual":-28.8766526794,
+        "Abs_Error":28.8766526794,
+        "APE (%)":92.2871610081
     },
     {
         "item_id":"v1|127932115498|0",
         "title":"Ascendance of a Bookworm Part 1 Japanese Ver Light Novel Set Vol.1-3",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":4.0,
-        "Actual":45.0,
-        "Predicted":39.5458068848,
-        "Residual":5.4541931152,
-        "Abs_Error":5.4541931152,
-        "APE (%)":12.120429145
+        "volume_count":1.0,
+        "Actual":18.09,
+        "Predicted":20.0499343872,
+        "Residual":-1.9599343872,
+        "Abs_Error":1.9599343872,
+        "APE (%)":10.8343526103
     },
     {
         "item_id":"v1|127947303836|0",
         "title":"Re:Zero Short Story Collection Japanese Ver Light Novel Set Vol.1-13",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":8.09,
-        "Predicted":11.9996204376,
-        "Residual":-3.9096204376,
-        "Abs_Error":3.9096204376,
-        "APE (%)":48.3265814292
+        "volume_count":8.0,
+        "Actual":130.41,
+        "Predicted":104.4002380371,
+        "Residual":26.0097619629,
+        "Abs_Error":26.0097619629,
+        "APE (%)":19.9446069802
     },
     {
         "item_id":"v1|127947371613|0",
         "title":"Spy Classroom Japanese Ver Light Novel Set Vol.1-15 Tomari Takemachi",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":12.98,
-        "Predicted":13.1480884552,
-        "Residual":-0.1680884552,
-        "Abs_Error":0.1680884552,
-        "APE (%)":1.2949803945
+        "volume_count":12.0,
+        "Actual":107.52,
+        "Predicted":119.24269104,
+        "Residual":-11.72269104,
+        "Abs_Error":11.72269104,
+        "APE (%)":10.9028004465
     },
     {
         "item_id":"v1|127956187902|0",
@@ -725,11 +665,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.29,
-        "Predicted":22.0069160461,
-        "Residual":0.2830839539,
-        "Abs_Error":0.2830839539,
-        "APE (%)":1.2700042793
+        "Actual":16.7,
+        "Predicted":16.7461986542,
+        "Residual":-0.0461986542,
+        "Abs_Error":0.0461986542,
+        "APE (%)":0.2766386478
     },
     {
         "item_id":"v1|127962896172|0",
@@ -737,23 +677,23 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":98.0,
-        "Predicted":69.6390838623,
-        "Residual":28.3609161377,
-        "Abs_Error":28.3609161377,
-        "APE (%)":28.9397103446
+        "Actual":27.08,
+        "Predicted":27.1128673553,
+        "Residual":-0.0328673553,
+        "Abs_Error":0.0328673553,
+        "APE (%)":0.121371327
     },
     {
         "item_id":"v1|127963081280|0",
         "title":"Re:Zero Starting Life in Another World Vol.1-44 + Re\uff1azeropedia 1-2 JP Novel Set",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":12.0,
-        "Predicted":14.2698259354,
-        "Residual":-2.2698259354,
-        "Abs_Error":2.2698259354,
-        "APE (%)":18.915216128
+        "volume_count":6.0,
+        "Actual":68.07,
+        "Predicted":70.3041763306,
+        "Residual":-2.2341763306,
+        "Abs_Error":2.2341763306,
+        "APE (%)":3.282174718
     },
     {
         "item_id":"v1|127965043263|0",
@@ -761,11 +701,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.99,
-        "Predicted":12.5182561874,
-        "Residual":-2.5282561874,
-        "Abs_Error":2.5282561874,
-        "APE (%)":25.3078697441
+        "Actual":194.07,
+        "Predicted":193.3497772217,
+        "Residual":0.7202227783,
+        "Abs_Error":0.7202227783,
+        "APE (%)":0.3711149473
     },
     {
         "item_id":"v1|127974577033|0",
@@ -773,23 +713,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.69,
-        "Predicted":18.2618103027,
-        "Residual":-2.5718103027,
-        "Abs_Error":2.5718103027,
-        "APE (%)":16.391397723
+        "Actual":18.52,
+        "Predicted":18.6626358032,
+        "Residual":-0.1426358032,
+        "Abs_Error":0.1426358032,
+        "APE (%)":0.7701717237
     },
     {
         "item_id":"v1|127974577034|0",
         "title":"Konosuba: God's Blessing on This - Paperback, by Akatsuki Natsume - Very Good j",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":447.08,
-        "Predicted":204.3399658203,
-        "Residual":242.7400341797,
-        "Abs_Error":242.7400341797,
-        "APE (%)":54.2945410619
+        "volume_count":1.0,
+        "Actual":27.08,
+        "Predicted":29.0086288452,
+        "Residual":-1.9286288452,
+        "Abs_Error":1.9286288452,
+        "APE (%)":7.1219676707
     },
     {
         "item_id":"v1|127977353671|0",
@@ -797,35 +737,35 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.85,
-        "Predicted":13.4872512817,
-        "Residual":0.3627487183,
-        "Abs_Error":0.3627487183,
-        "APE (%)":2.6191243196
+        "Actual":11.77,
+        "Predicted":13.2307453156,
+        "Residual":-1.4607453156,
+        "Abs_Error":1.4607453156,
+        "APE (%)":12.4107503445
     },
     {
         "item_id":"v1|127993955128|0",
         "title":"Sword Art Online Light Novels (Volumes 1-22) Yen Press",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":18.0,
-        "Actual":149.9,
-        "Predicted":170.7210235596,
-        "Residual":-20.8210235596,
-        "Abs_Error":20.8210235596,
-        "APE (%)":13.8899423346
+        "volume_count":1.0,
+        "Actual":16.19,
+        "Predicted":20.0076942444,
+        "Residual":-3.8176942444,
+        "Abs_Error":3.8176942444,
+        "APE (%)":23.5805697615
     },
     {
         "item_id":"v1|127994053672|0",
         "title":"Re:ZERO -Starting Life in Another World- Ex, Vol. 4 (light novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":80.0,
-        "Predicted":86.3175964355,
-        "Residual":-6.3175964355,
-        "Abs_Error":6.3175964355,
-        "APE (%)":7.8969955444
+        "volume_count":7.0,
+        "Actual":138.58,
+        "Predicted":101.8660964966,
+        "Residual":36.7139035034,
+        "Abs_Error":36.7139035034,
+        "APE (%)":26.4929308006
     },
     {
         "item_id":"v1|127999703746|0",
@@ -833,11 +773,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":87.99,
-        "Predicted":70.5974197388,
-        "Residual":17.3925802612,
-        "Abs_Error":17.3925802612,
-        "APE (%)":19.7665419493
+        "Actual":9.87,
+        "Predicted":14.3335342407,
+        "Residual":-4.4635342407,
+        "Abs_Error":4.4635342407,
+        "APE (%)":45.2232445869
     },
     {
         "item_id":"v1|128012791757|0",
@@ -845,11 +785,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":175.0,
-        "Predicted":10.9520654678,
-        "Residual":164.0479345322,
-        "Abs_Error":164.0479345322,
-        "APE (%)":93.7416768755
+        "Actual":13.0,
+        "Predicted":11.8664836884,
+        "Residual":1.1335163116,
+        "Abs_Error":1.1335163116,
+        "APE (%)":8.7193562434
     },
     {
         "item_id":"v1|128013841572|0",
@@ -857,11 +797,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.2,
-        "Predicted":19.2860794067,
-        "Residual":-4.0860794067,
-        "Abs_Error":4.0860794067,
-        "APE (%)":26.8821013601
+        "Actual":7.5,
+        "Predicted":13.0340719223,
+        "Residual":-5.5340719223,
+        "Abs_Error":5.5340719223,
+        "APE (%)":73.7876256307
     },
     {
         "item_id":"v1|128020170947|0",
@@ -869,11 +809,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.24,
-        "Predicted":13.3535861969,
-        "Residual":-4.1135861969,
-        "Abs_Error":4.1135861969,
-        "APE (%)":44.5193311353
+        "Actual":100.0,
+        "Predicted":9.5150871277,
+        "Residual":90.4849128723,
+        "Abs_Error":90.4849128723,
+        "APE (%)":90.4849128723
     },
     {
         "item_id":"v1|134502611129|0",
@@ -881,11 +821,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":7.2,
-        "Predicted":9.362197876,
-        "Residual":-2.162197876,
-        "Abs_Error":2.162197876,
-        "APE (%)":30.0305260552
+        "Actual":22.91,
+        "Predicted":24.6199970245,
+        "Residual":-1.7099970245,
+        "Abs_Error":1.7099970245,
+        "APE (%)":7.4639765366
     },
     {
         "item_id":"v1|135989711521|0",
@@ -893,35 +833,35 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":18.2618103027,
-        "Residual":-5.3118103027,
-        "Abs_Error":5.3118103027,
-        "APE (%)":41.0178401756
+        "Actual":47.99,
+        "Predicted":13.7453355789,
+        "Residual":34.2446644211,
+        "Abs_Error":34.2446644211,
+        "APE (%)":71.35791711
     },
     {
         "item_id":"v1|136710040709|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 1 by Syougo Kinugasa (2019, Trade...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":7.0,
-        "Actual":191.4,
-        "Predicted":135.1427459717,
-        "Residual":56.2572540283,
-        "Abs_Error":56.2572540283,
-        "APE (%)":29.392504717
+        "volume_count":43.0,
+        "Actual":379.98,
+        "Predicted":317.7235717773,
+        "Residual":62.2564282227,
+        "Abs_Error":62.2564282227,
+        "APE (%)":16.3841329077
     },
     {
         "item_id":"v1|136836482893|0",
         "title":"Rascal Does Not Dream of Bunny Girl Senpai Vol.1-16 Light Novel Set Japanese Ver",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":13.35,
-        "Predicted":13.4872512817,
-        "Residual":-0.1372512817,
-        "Abs_Error":0.1372512817,
-        "APE (%)":1.0280994887
+        "volume_count":7.0,
+        "Actual":93.88,
+        "Predicted":112.7157821655,
+        "Residual":-18.8357821655,
+        "Abs_Error":18.8357821655,
+        "APE (%)":20.0636793412
     },
     {
         "item_id":"v1|136836503769|0",
@@ -929,47 +869,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.48,
-        "Predicted":12.165766716,
-        "Residual":1.314233284,
-        "Abs_Error":1.314233284,
-        "APE (%)":9.7495050742
-    },
-    {
-        "item_id":"v1|136936650642|435417153699",
-        "title":"Too Many Losing Heroines Light Novel Vol 1 - Vol 6 English Version Loose \/ Full",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":15.0,
-        "Actual":117.0,
-        "Predicted":135.4402618408,
-        "Residual":-18.4402618408,
-        "Abs_Error":18.4402618408,
-        "APE (%)":15.7609075563
-    },
-    {
-        "item_id":"v1|136936650642|435417153701",
-        "title":"Too Many Losing Heroines Light Novel Vol 1 - Vol 6 English Version Loose \/ Full",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":32.0,
-        "Predicted":24.3218288422,
-        "Residual":7.6781711578,
-        "Abs_Error":7.6781711578,
-        "APE (%)":23.9942848682
-    },
-    {
-        "item_id":"v1|136936650642|435417153704",
-        "title":"Too Many Losing Heroines Light Novel Vol 1 - Vol 6 English Version Loose \/ Full",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":99.0,
-        "Predicted":12.2980051041,
-        "Residual":86.7019948959,
-        "Abs_Error":86.7019948959,
-        "APE (%)":87.5777726222
+        "Actual":22.66,
+        "Predicted":22.4566268921,
+        "Residual":0.2033731079,
+        "Abs_Error":0.2033731079,
+        "APE (%)":0.8974982697
     },
     {
         "item_id":"v1|137145293772|0",
@@ -977,11 +881,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":67.99,
-        "Predicted":89.2067108154,
-        "Residual":-21.2167108154,
-        "Abs_Error":21.2167108154,
-        "APE (%)":31.2056343807
+        "Actual":7.63,
+        "Predicted":12.5548839569,
+        "Residual":-4.9248839569,
+        "Abs_Error":4.9248839569,
+        "APE (%)":64.5463166043
     },
     {
         "item_id":"v1|137184465133|0",
@@ -989,11 +893,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.74,
-        "Predicted":13.2191267014,
-        "Residual":-3.4791267014,
-        "Abs_Error":3.4791267014,
-        "APE (%)":35.7199866669
+        "Actual":13.36,
+        "Predicted":13.8696107864,
+        "Residual":-0.5096107864,
+        "Abs_Error":0.5096107864,
+        "APE (%)":3.8144519943
     },
     {
         "item_id":"v1|137184533470|0",
@@ -1001,11 +905,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":51.08,
-        "Predicted":11.7388181686,
-        "Residual":39.3411818314,
-        "Abs_Error":39.3411818314,
-        "APE (%)":77.0187584796
+        "Actual":12.03,
+        "Predicted":12.8604803085,
+        "Residual":-0.8304803085,
+        "Abs_Error":0.8304803085,
+        "APE (%)":6.903410711
     },
     {
         "item_id":"v1|137184574645|0",
@@ -1013,23 +917,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.53,
-        "Predicted":11.7388181686,
-        "Residual":3.7911818314,
-        "Abs_Error":3.7911818314,
-        "APE (%)":24.4119886115
+        "Actual":28.08,
+        "Predicted":19.8622684479,
+        "Residual":8.2177315521,
+        "Abs_Error":8.2177315521,
+        "APE (%)":29.2654257554
     },
     {
         "item_id":"v1|137292806879|0",
         "title":"Too Many Losing Heroines! (Light Novel) Vol. 6",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":14.99,
-        "Predicted":18.4040775299,
-        "Residual":-3.4140775299,
-        "Abs_Error":3.4140775299,
-        "APE (%)":22.7757006665
+        "volume_count":12.0,
+        "Actual":134.99,
+        "Predicted":219.3616027832,
+        "Residual":-84.3716027832,
+        "Abs_Error":84.3716027832,
+        "APE (%)":62.5021133293
     },
     {
         "item_id":"v1|137341674537|0",
@@ -1037,11 +941,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.9,
-        "Predicted":20.3636169434,
-        "Residual":-0.4636169434,
-        "Abs_Error":0.4636169434,
-        "APE (%)":2.3297333837
+        "Actual":18.5,
+        "Predicted":13.1782264709,
+        "Residual":5.3217735291,
+        "Abs_Error":5.3217735291,
+        "APE (%)":28.7663434003
     },
     {
         "item_id":"v1|137360797106|0",
@@ -1049,11 +953,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.66,
-        "Predicted":11.7765226364,
-        "Residual":0.8834773636,
-        "Abs_Error":0.8834773636,
-        "APE (%)":6.9784941831
+        "Actual":19.79,
+        "Predicted":47.9066123962,
+        "Residual":-28.1166123962,
+        "Abs_Error":28.1166123962,
+        "APE (%)":142.074847884
     },
     {
         "item_id":"v1|137449810916|0",
@@ -1061,59 +965,59 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":37.99,
-        "Predicted":21.4880638123,
-        "Residual":16.5019361877,
-        "Abs_Error":16.5019361877,
-        "APE (%)":43.4375788043
+        "Actual":18.0,
+        "Predicted":18.0101089478,
+        "Residual":-0.0101089478,
+        "Abs_Error":0.0101089478,
+        "APE (%)":0.0561608209
     },
     {
         "item_id":"v1|137449810963|0",
         "title":"86--Eighty-Six (Light Novel) Vol. 9: Valkyrie Has Landed",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":398.78,
-        "Predicted":328.6453857422,
-        "Residual":70.1346142578,
-        "Abs_Error":70.1346142578,
-        "APE (%)":17.5872948136
+        "volume_count":1.0,
+        "Actual":23.99,
+        "Predicted":20.7638435364,
+        "Residual":3.2261564636,
+        "Abs_Error":3.2261564636,
+        "APE (%)":13.4479218992
     },
     {
         "item_id":"v1|137449810965|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 10",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":15.68,
-        "Predicted":17.8584060669,
-        "Residual":-2.1784060669,
-        "Abs_Error":2.1784060669,
-        "APE (%)":13.8928958348
+        "volume_count":3.0,
+        "Actual":22.0,
+        "Predicted":19.3653659821,
+        "Residual":2.6346340179,
+        "Abs_Error":2.6346340179,
+        "APE (%)":11.9756091725
     },
     {
         "item_id":"v1|137449810971|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 3",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":43.0,
-        "Actual":379.98,
-        "Predicted":347.6109924316,
-        "Residual":32.3690075684,
-        "Abs_Error":32.3690075684,
-        "APE (%)":8.5186082342
+        "volume_count":1.0,
+        "Actual":15.75,
+        "Predicted":17.9150314331,
+        "Residual":-2.1650314331,
+        "Abs_Error":2.1650314331,
+        "APE (%)":13.7462313213
     },
     {
         "item_id":"v1|137449810972|0",
         "title":"86--Eighty-Six (Light Novel) Vol. 10: Fragmental Neoteny",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":5.0,
-        "Actual":35.0,
-        "Predicted":32.0126876831,
-        "Residual":2.9873123169,
-        "Abs_Error":2.9873123169,
-        "APE (%)":8.5351780483
+        "volume_count":6.0,
+        "Actual":103.42,
+        "Predicted":93.5286560059,
+        "Residual":9.8913439941,
+        "Abs_Error":9.8913439941,
+        "APE (%)":9.5642467551
     },
     {
         "item_id":"v1|137449810981|0",
@@ -1121,11 +1025,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.26,
-        "Predicted":12.0577077866,
-        "Residual":0.2022922134,
-        "Abs_Error":0.2022922134,
-        "APE (%)":1.6500180542
+        "Actual":23.46,
+        "Predicted":23.3093261719,
+        "Residual":0.1506738281,
+        "Abs_Error":0.1506738281,
+        "APE (%)":0.6422584319
     },
     {
         "item_id":"v1|137449810982|0",
@@ -1133,11 +1037,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":20.21,
-        "Predicted":21.8414745331,
-        "Residual":-1.6314745331,
-        "Abs_Error":1.6314745331,
-        "APE (%)":8.0726102577
+        "Actual":7.59,
+        "Predicted":12.276014328,
+        "Residual":-4.686014328,
+        "Abs_Error":4.686014328,
+        "APE (%)":61.7393192095
     },
     {
         "item_id":"v1|137449810995|0",
@@ -1145,11 +1049,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":17.7688446045,
-        "Residual":-4.8188446045,
-        "Abs_Error":4.8188446045,
-        "APE (%)":37.211155247
+        "Actual":39.99,
+        "Predicted":21.3473243713,
+        "Residual":18.6426756287,
+        "Abs_Error":18.6426756287,
+        "APE (%)":46.6183436576
     },
     {
         "item_id":"v1|137464891983|0",
@@ -1157,23 +1061,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.36,
-        "Predicted":13.3938493729,
-        "Residual":-0.0338493729,
-        "Abs_Error":0.0338493729,
-        "APE (%)":0.2533635693
+        "Actual":7.47,
+        "Predicted":11.6593866348,
+        "Residual":-4.1893866348,
+        "Abs_Error":4.1893866348,
+        "APE (%)":56.0828197433
     },
     {
         "item_id":"v1|137472436397|0",
         "title":"Daisuke Aizawa Nathaniel T The Eminence in Shadow, Vol. 5 (Hardback) (UK IMPORT)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":12.0,
-        "Actual":67.15,
-        "Predicted":119.9396820068,
-        "Residual":-52.7896820068,
-        "Abs_Error":52.7896820068,
-        "APE (%)":78.6145673966
+        "volume_count":1.0,
+        "Actual":16.06,
+        "Predicted":17.7753200531,
+        "Residual":-1.7153200531,
+        "Abs_Error":1.7153200531,
+        "APE (%)":10.6806977154
     },
     {
         "item_id":"v1|137473592758|0",
@@ -1181,11 +1085,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":24.98,
-        "Predicted":23.2635936737,
-        "Residual":1.7164063263,
-        "Abs_Error":1.7164063263,
-        "APE (%)":6.8711222029
+        "Actual":17.99,
+        "Predicted":12.0019521713,
+        "Residual":5.9880478287,
+        "Abs_Error":5.9880478287,
+        "APE (%)":33.2854242839
     },
     {
         "item_id":"v1|137476531310|0",
@@ -1193,11 +1097,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":419.99,
-        "Predicted":60.3631134033,
-        "Residual":359.6268865967,
-        "Abs_Error":359.6268865967,
-        "APE (%)":85.6274879394
+        "Actual":16.7,
+        "Predicted":17.83086586,
+        "Residual":-1.13086586,
+        "Abs_Error":1.13086586,
+        "APE (%)":6.7716518562
     },
     {
         "item_id":"v1|137476881981|0",
@@ -1205,11 +1109,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":27.53,
-        "Predicted":25.46641922,
-        "Residual":2.06358078,
-        "Abs_Error":2.06358078,
-        "APE (%)":7.4957529242
+        "Actual":8.58,
+        "Predicted":11.4233560562,
+        "Residual":-2.8433560562,
+        "Abs_Error":2.8433560562,
+        "APE (%)":33.1393479745
     },
     {
         "item_id":"v1|137477014642|0",
@@ -1217,35 +1121,35 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":11.23,
-        "Predicted":11.5491752625,
-        "Residual":-0.3191752625,
-        "Abs_Error":0.3191752625,
-        "APE (%)":2.8421661839
+        "Actual":9.29,
+        "Predicted":11.5029306412,
+        "Residual":-2.2129306412,
+        "Abs_Error":2.2129306412,
+        "APE (%)":23.8205666434
     },
     {
         "item_id":"v1|137489360821|0",
         "title":"The Eminence in Shadow, Vol. 6 (light novel) by Daisuke Aizawa (English) Hardcov",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":17.0,
-        "Actual":179.99,
-        "Predicted":153.7848510742,
-        "Residual":26.2051489258,
-        "Abs_Error":26.2051489258,
-        "APE (%)":14.5592249157
+        "volume_count":8.0,
+        "Actual":60.0,
+        "Predicted":92.2745056152,
+        "Residual":-32.2745056152,
+        "Abs_Error":32.2745056152,
+        "APE (%)":53.7908426921
     },
     {
         "item_id":"v1|137502758797|0",
         "title":"86--EIGHTY-SIX, Vol. 4 (light novel): Under Pressure by Asato Asato (English) Pa",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.2,
-        "Predicted":16.6978702545,
-        "Residual":-0.4978702545,
-        "Abs_Error":0.4978702545,
-        "APE (%)":3.073273176
+        "volume_count":6.0,
+        "Actual":130.0,
+        "Predicted":111.8806686401,
+        "Residual":18.1193313599,
+        "Abs_Error":18.1193313599,
+        "APE (%)":13.9379471999
     },
     {
         "item_id":"v1|137522487330|0",
@@ -1253,11 +1157,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":17.77,
-        "Predicted":19.0813426971,
-        "Residual":-1.3113426971,
-        "Abs_Error":1.3113426971,
-        "APE (%)":7.3795312163
+        "Actual":187.53,
+        "Predicted":194.4227294922,
+        "Residual":-6.8927294922,
+        "Abs_Error":6.8927294922,
+        "APE (%)":3.6755343103
     },
     {
         "item_id":"v1|137526716925|0",
@@ -1265,11 +1169,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":17.3386936188,
-        "Residual":-4.3886936188,
-        "Abs_Error":4.3886936188,
-        "APE (%)":33.8895260137
+        "Actual":7.99,
+        "Predicted":19.0650081635,
+        "Residual":-11.0750081635,
+        "Abs_Error":11.0750081635,
+        "APE (%)":138.6108656252
     },
     {
         "item_id":"v1|137599653119|0",
@@ -1277,11 +1181,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.88,
-        "Predicted":10.8988142014,
-        "Residual":1.9811857986,
-        "Abs_Error":1.9811857986,
-        "APE (%)":15.3818773187
+        "Actual":12.0,
+        "Predicted":11.5399246216,
+        "Residual":0.4600753784,
+        "Abs_Error":0.4600753784,
+        "APE (%)":3.8339614868
     },
     {
         "item_id":"v1|137602366635|0",
@@ -1289,11 +1193,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":10.94,
-        "Predicted":17.2716159821,
-        "Residual":-6.3316159821,
-        "Abs_Error":6.3316159821,
-        "APE (%)":57.8758316458
+        "Actual":18.02,
+        "Predicted":18.0200042725,
+        "Residual":-0.0000042725,
+        "Abs_Error":0.0000042725,
+        "APE (%)":0.0000237096
     },
     {
         "item_id":"v1|137605997831|0",
@@ -1301,23 +1205,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.7,
-        "Predicted":13.3938493729,
-        "Residual":3.3061506271,
-        "Abs_Error":3.3061506271,
-        "APE (%)":19.7973091445
+        "Actual":19.31,
+        "Predicted":17.9462909698,
+        "Residual":1.3637090302,
+        "Abs_Error":1.3637090302,
+        "APE (%)":7.062190731
     },
     {
         "item_id":"v1|137609308654|0",
         "title":"The Eminence in Shadow #2 (Yen Press 2021)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":19.99,
-        "Predicted":13.7424316406,
-        "Residual":6.2475683594,
-        "Abs_Error":6.2475683594,
-        "APE (%)":31.2534685311
+        "volume_count":12.0,
+        "Actual":132.3,
+        "Predicted":110.5354614258,
+        "Residual":21.7645385742,
+        "Abs_Error":21.7645385742,
+        "APE (%)":16.4508983932
     },
     {
         "item_id":"v1|137613575914|0",
@@ -1325,23 +1229,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.47,
-        "Predicted":16.6978702545,
-        "Residual":-0.2278702545,
-        "Abs_Error":0.2278702545,
-        "APE (%)":1.3835473863
+        "Actual":20.74,
+        "Predicted":14.5916395187,
+        "Residual":6.1483604813,
+        "Abs_Error":6.1483604813,
+        "APE (%)":29.6449396396
     },
     {
         "item_id":"v1|142030834245|0",
         "title":"New Kono Subarashii Sekai ni Shukufuku wo! Vol.1 Light Novel KonoSuba",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":194.39,
-        "Predicted":192.7528686523,
-        "Residual":1.6371313477,
-        "Abs_Error":1.6371313477,
-        "APE (%)":0.8421890775
+        "volume_count":17.0,
+        "Actual":99.0,
+        "Predicted":94.9922637939,
+        "Residual":4.0077362061,
+        "Abs_Error":4.0077362061,
+        "APE (%)":4.04821839
     },
     {
         "item_id":"v1|143399124034|0",
@@ -1349,35 +1253,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":26.75,
-        "Predicted":19.4107227325,
-        "Residual":7.3392772675,
-        "Abs_Error":7.3392772675,
-        "APE (%)":27.4365505325
+        "Actual":69.99,
+        "Predicted":60.5010528564,
+        "Residual":9.4889471436,
+        "Abs_Error":9.4889471436,
+        "APE (%)":13.557575573
     },
     {
         "item_id":"v1|143869431838|0",
         "title":"Used Kono Subarashii Sekai ni Shukufuku wo! Vol.1 Light Novel KonoSuba",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":7.0,
-        "Actual":169.0,
-        "Predicted":142.2543182373,
-        "Residual":26.7456817627,
-        "Abs_Error":26.7456817627,
-        "APE (%)":15.8258471969
+        "volume_count":1.0,
+        "Actual":7.36,
+        "Predicted":12.8604803085,
+        "Residual":-5.5004803085,
+        "Abs_Error":5.5004803085,
+        "APE (%)":74.7347868007
     },
     {
         "item_id":"v1|144007508103|0",
         "title":"Used Kono Subarashii Sekai ni Shukufuku wo! Vol.3 Light Novel KonoSuba",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":12.0,
-        "Actual":80.0,
-        "Predicted":124.8234710693,
-        "Residual":-44.8234710693,
-        "Abs_Error":44.8234710693,
-        "APE (%)":56.0293388367
+        "volume_count":1.0,
+        "Actual":16.19,
+        "Predicted":20.0076942444,
+        "Residual":-3.8176942444,
+        "Abs_Error":3.8176942444,
+        "APE (%)":23.5805697615
     },
     {
         "item_id":"v1|144007508112|0",
@@ -1385,11 +1289,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":21.19,
-        "Predicted":20.1767864227,
-        "Residual":1.0132135773,
-        "Abs_Error":1.0132135773,
-        "APE (%)":4.7815647818
+        "Actual":17.34,
+        "Predicted":18.6626358032,
+        "Residual":-1.3226358032,
+        "Abs_Error":1.3226358032,
+        "APE (%)":7.627657458
     },
     {
         "item_id":"v1|145427999903|0",
@@ -1397,11 +1301,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":18.2618103027,
-        "Residual":-5.3118103027,
-        "Abs_Error":5.3118103027,
-        "APE (%)":41.0178401756
+        "Actual":9.85,
+        "Predicted":11.85242939,
+        "Residual":-2.00242939,
+        "Abs_Error":2.00242939,
+        "APE (%)":20.3292323853
     },
     {
         "item_id":"v1|146214691642|0",
@@ -1409,11 +1313,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":25.27,
-        "Predicted":17.1062755585,
-        "Residual":8.1637244415,
-        "Abs_Error":8.1637244415,
-        "APE (%)":32.3059930413
+        "Actual":16.33,
+        "Predicted":18.0101089478,
+        "Residual":-1.6801089478,
+        "Abs_Error":1.6801089478,
+        "APE (%)":10.2884810028
     },
     {
         "item_id":"v1|146483639612|0",
@@ -1421,23 +1325,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":10.0,
-        "Predicted":11.3750457764,
-        "Residual":-1.3750457764,
-        "Abs_Error":1.3750457764,
-        "APE (%)":13.7504577637
+        "Actual":15.0,
+        "Predicted":14.3643255234,
+        "Residual":0.6356744766,
+        "Abs_Error":0.6356744766,
+        "APE (%)":4.2378298442
     },
     {
         "item_id":"v1|146646284644|0",
         "title":"Spy Classroom, Vols.1-4  (light Novel) by Takemachi",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":77.13,
-        "Predicted":42.4388694763,
-        "Residual":34.6911305237,
-        "Abs_Error":34.6911305237,
-        "APE (%)":44.9774802589
+        "volume_count":17.0,
+        "Actual":159.99,
+        "Predicted":128.6242370605,
+        "Residual":31.3657629395,
+        "Abs_Error":31.3657629395,
+        "APE (%)":19.6048271389
     },
     {
         "item_id":"v1|146651297992|0",
@@ -1445,11 +1349,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.31,
-        "Predicted":19.1302318573,
-        "Residual":0.1797681427,
-        "Abs_Error":0.1797681427,
-        "APE (%)":0.9309587918
+        "Actual":10.0,
+        "Predicted":14.2806024551,
+        "Residual":-4.2806024551,
+        "Abs_Error":4.2806024551,
+        "APE (%)":42.8060245514
     },
     {
         "item_id":"v1|146696507691|0",
@@ -1457,11 +1361,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":21.98,
-        "Predicted":19.1364765167,
-        "Residual":2.8435234833,
-        "Abs_Error":2.8435234833,
-        "APE (%)":12.9368675308
+        "Actual":16.7,
+        "Predicted":14.2630157471,
+        "Residual":2.4369842529,
+        "Abs_Error":2.4369842529,
+        "APE (%)":14.5927200774
     },
     {
         "item_id":"v1|146913830332|0",
@@ -1469,11 +1373,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":30.0,
-        "Predicted":12.5182561874,
-        "Residual":17.4817438126,
-        "Abs_Error":17.4817438126,
-        "APE (%)":58.2724793752
+        "Actual":9.38,
+        "Predicted":8.9481058121,
+        "Residual":0.4318941879,
+        "Abs_Error":0.4318941879,
+        "APE (%)":4.6044156495
     },
     {
         "item_id":"v1|147159580465|0",
@@ -1481,11 +1385,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.21,
-        "Predicted":17.2716159821,
-        "Residual":0.9383840179,
-        "Abs_Error":0.9383840179,
-        "APE (%)":5.1531247553
+        "Actual":46.1,
+        "Predicted":30.0464706421,
+        "Residual":16.0535293579,
+        "Abs_Error":16.0535293579,
+        "APE (%)":34.8232740952
     },
     {
         "item_id":"v1|147237499460|0",
@@ -1493,11 +1397,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.99,
-        "Predicted":17.2716159821,
-        "Residual":1.7183840179,
-        "Abs_Error":1.7183840179,
-        "APE (%)":9.0488889834
+        "Actual":12.61,
+        "Predicted":11.7267026901,
+        "Residual":0.8832973099,
+        "Abs_Error":0.8832973099,
+        "APE (%)":7.0047367952
     },
     {
         "item_id":"v1|147302444107|0",
@@ -1505,11 +1409,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":17.69,
-        "Predicted":17.2408332825,
-        "Residual":0.4491667175,
-        "Abs_Error":0.4491667175,
-        "APE (%)":2.5390995903
+        "Actual":13.41,
+        "Predicted":16.4349842072,
+        "Residual":-3.0249842072,
+        "Abs_Error":3.0249842072,
+        "APE (%)":22.5576749228
     },
     {
         "item_id":"v1|147322898546|0",
@@ -1517,47 +1421,47 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.2,
-        "Predicted":19.2860794067,
-        "Residual":-4.0860794067,
-        "Abs_Error":4.0860794067,
-        "APE (%)":26.8821013601
+        "Actual":18.09,
+        "Predicted":20.0499343872,
+        "Residual":-1.9599343872,
+        "Abs_Error":1.9599343872,
+        "APE (%)":10.8343526103
     },
     {
         "item_id":"v1|147328502493|0",
         "title":"Spy Classroom Short Story Collection, Vol. 4 (light novel) by Nathaniel Hiroshi",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":22.44,
-        "Predicted":22.0069160461,
-        "Residual":0.4330839539,
-        "Abs_Error":0.4330839539,
-        "APE (%)":1.9299641437
+        "volume_count":2.0,
+        "Actual":72.0,
+        "Predicted":19.6506729126,
+        "Residual":52.3493270874,
+        "Abs_Error":52.3493270874,
+        "APE (%)":72.7073987325
     },
     {
         "item_id":"v1|147328758392|0",
         "title":"Spy Classroom, Vol. 8 (light novel) by Nathaniel Hiroshi Thrasher (Spanish) Pape",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":26.26,
-        "Predicted":25.7183742523,
-        "Residual":0.5416257477,
-        "Abs_Error":0.5416257477,
-        "APE (%)":2.0625504481
+        "volume_count":13.0,
+        "Actual":150.0,
+        "Predicted":135.5117797852,
+        "Residual":14.4882202148,
+        "Abs_Error":14.4882202148,
+        "APE (%)":9.6588134766
     },
     {
         "item_id":"v1|147329941978|0",
         "title":"Spy Classroom, Vol. 3 (light novel) by Tomari Takemachi (English) Paperback Book",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":296.95,
-        "Predicted":84.0402603149,
-        "Residual":212.9097396851,
-        "Abs_Error":212.9097396851,
-        "APE (%)":71.6988515525
+        "volume_count":1.0,
+        "Actual":17.2,
+        "Predicted":17.1381320953,
+        "Residual":0.0618679047,
+        "Abs_Error":0.0618679047,
+        "APE (%)":0.3596971201
     },
     {
         "item_id":"v1|147330407401|0",
@@ -1565,23 +1469,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.62,
-        "Predicted":17.2716159821,
-        "Residual":1.3483840179,
-        "Abs_Error":1.3483840179,
-        "APE (%)":7.2415897849
+        "Actual":16.33,
+        "Predicted":16.6938533783,
+        "Residual":-0.3638533783,
+        "Abs_Error":0.3638533783,
+        "APE (%)":2.2281284648
     },
     {
         "item_id":"v1|147341223202|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 4 (light novel) by Hanekoto Hanekoto",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":17.0,
-        "Actual":89.0,
-        "Predicted":103.7553405762,
-        "Residual":-14.7553405762,
-        "Abs_Error":14.7553405762,
-        "APE (%)":16.5790343552
+        "volume_count":12.0,
+        "Actual":149.9,
+        "Predicted":159.3634185791,
+        "Residual":-9.4634185791,
+        "Abs_Error":9.4634185791,
+        "APE (%)":6.3131544891
     },
     {
         "item_id":"v1|147345382701|0",
@@ -1589,11 +1493,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":187.46,
-        "Predicted":179.7331237793,
-        "Residual":7.7268762207,
-        "Abs_Error":7.7268762207,
-        "APE (%)":4.1218799854
+        "Actual":28.99,
+        "Predicted":28.9900035858,
+        "Residual":-0.0000035858,
+        "Abs_Error":0.0000035858,
+        "APE (%)":0.0000123691
     },
     {
         "item_id":"v1|147351689480|0",
@@ -1601,11 +1505,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.41,
-        "Predicted":16.2180175781,
-        "Residual":-2.8080175781,
-        "Abs_Error":2.8080175781,
-        "APE (%)":20.9397283977
+        "Actual":5.72,
+        "Predicted":11.5483293533,
+        "Residual":-5.8283293533,
+        "Abs_Error":5.8283293533,
+        "APE (%)":101.8938698135
     },
     {
         "item_id":"v1|147354289245|0",
@@ -1613,11 +1517,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":7.38,
-        "Predicted":11.2497005463,
-        "Residual":-3.8697005463,
-        "Abs_Error":3.8697005463,
-        "APE (%)":52.4349667516
+        "Actual":23.45,
+        "Predicted":23.4329147339,
+        "Residual":0.0170852661,
+        "Abs_Error":0.0170852661,
+        "APE (%)":0.0728582777
     },
     {
         "item_id":"v1|147357853343|0",
@@ -1625,11 +1529,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":7.99,
-        "Predicted":19.10039711,
-        "Residual":-11.11039711,
-        "Abs_Error":11.11039711,
-        "APE (%)":139.0537811012
+        "Actual":16.33,
+        "Predicted":18.5811271667,
+        "Residual":-2.2511271667,
+        "Abs_Error":2.2511271667,
+        "APE (%)":13.7852245361
     },
     {
         "item_id":"v1|147366086824|0",
@@ -1637,11 +1541,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.72,
-        "Predicted":16.731672287,
-        "Residual":-0.011672287,
-        "Abs_Error":0.011672287,
-        "APE (%)":0.0698103289
+        "Actual":22.83,
+        "Predicted":18.2120113373,
+        "Residual":4.6179886627,
+        "Abs_Error":4.6179886627,
+        "APE (%)":20.2277208179
     },
     {
         "item_id":"v1|147392292953|0",
@@ -1650,22 +1554,22 @@
         "is_special_edition":false,
         "volume_count":1.0,
         "Actual":12.95,
-        "Predicted":17.8062419891,
-        "Residual":-4.8562419891,
-        "Abs_Error":4.8562419891,
-        "APE (%)":37.49993814
+        "Predicted":18.3544120789,
+        "Residual":-5.4044120789,
+        "Abs_Error":5.4044120789,
+        "APE (%)":41.7329118058
     },
     {
         "item_id":"v1|147395716864|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 5.5 (light novel) by Hanekoto Hanekot",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":45.9,
-        "Predicted":22.5197219849,
-        "Residual":23.3802780151,
-        "Abs_Error":23.3802780151,
-        "APE (%)":50.9374248696
+        "volume_count":13.0,
+        "Actual":97.0,
+        "Predicted":90.6268615723,
+        "Residual":6.3731384277,
+        "Abs_Error":6.3731384277,
+        "APE (%)":6.5702458018
     },
     {
         "item_id":"v1|147395716962|0",
@@ -1673,11 +1577,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.35,
-        "Predicted":13.3636198044,
-        "Residual":-0.0136198044,
-        "Abs_Error":0.0136198044,
-        "APE (%)":0.1020210066
+        "Actual":12.0,
+        "Predicted":12.4653511047,
+        "Residual":-0.4653511047,
+        "Abs_Error":0.4653511047,
+        "APE (%)":3.8779258728
     },
     {
         "item_id":"v1|147401861365|0",
@@ -1685,11 +1589,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.05,
-        "Predicted":18.9389629364,
-        "Residual":3.1110370636,
-        "Abs_Error":3.1110370636,
-        "APE (%)":14.1090116263
+        "Actual":41.88,
+        "Predicted":68.0946273804,
+        "Residual":-26.2146273804,
+        "Abs_Error":26.2146273804,
+        "APE (%)":62.5946212521
     },
     {
         "item_id":"v1|147405147492|0",
@@ -1697,11 +1601,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":52.46,
-        "Predicted":53.894493103,
-        "Residual":-1.434493103,
-        "Abs_Error":1.434493103,
-        "APE (%)":2.7344512067
+        "Actual":15.53,
+        "Predicted":11.6975498199,
+        "Residual":3.8324501801,
+        "Abs_Error":3.8324501801,
+        "APE (%)":24.6777217003
     },
     {
         "item_id":"v1|147410932119|0",
@@ -1709,11 +1613,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":7.73,
-        "Predicted":8.345032692,
-        "Residual":-0.615032692,
-        "Abs_Error":0.615032692,
-        "APE (%)":7.956438447
+        "Actual":9.08,
+        "Predicted":9.7811965942,
+        "Residual":-0.7011965942,
+        "Abs_Error":0.7011965942,
+        "APE (%)":7.722429452
     },
     {
         "item_id":"v1|147411806571|0",
@@ -1721,23 +1625,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":187.53,
-        "Predicted":199.3683776855,
-        "Residual":-11.8383776855,
-        "Abs_Error":11.8383776855,
-        "APE (%)":6.3127913857
+        "Actual":28.0,
+        "Predicted":23.284658432,
+        "Residual":4.715341568,
+        "Abs_Error":4.715341568,
+        "APE (%)":16.8405056
     },
     {
         "item_id":"v1|147412883746|0",
         "title":"Spy Classroom Short Story Collection, Vol. 3 (light novel): Volume 3 by Nathanie",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":13.35,
-        "Predicted":13.3636198044,
-        "Residual":-0.0136198044,
-        "Abs_Error":0.0136198044,
-        "APE (%)":0.1020210066
+        "volume_count":3.0,
+        "Actual":79.99,
+        "Predicted":91.6765213013,
+        "Residual":-11.6865213013,
+        "Abs_Error":11.6865213013,
+        "APE (%)":14.6099778738
     },
     {
         "item_id":"v1|147414484813|0",
@@ -1745,11 +1649,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":27.08,
-        "Predicted":26.6646957397,
-        "Residual":0.4153042603,
-        "Abs_Error":0.4153042603,
-        "APE (%)":1.533619868
+        "Actual":14.99,
+        "Predicted":10.7573547363,
+        "Residual":4.2326452637,
+        "Abs_Error":4.2326452637,
+        "APE (%)":28.2364593974
     },
     {
         "item_id":"v1|147429566885|0",
@@ -1757,11 +1661,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.07,
-        "Predicted":16.2180175781,
-        "Residual":-1.1480175781,
-        "Abs_Error":1.1480175781,
-        "APE (%)":7.6179003193
+        "Actual":19.31,
+        "Predicted":19.0650081635,
+        "Residual":0.2449918365,
+        "Abs_Error":0.2449918365,
+        "APE (%)":1.2687303809
     },
     {
         "item_id":"v1|147431291423|0",
@@ -1769,23 +1673,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.36,
-        "Predicted":13.4872512817,
-        "Residual":-0.1272512817,
-        "Abs_Error":0.1272512817,
-        "APE (%)":0.9524796537
+        "Actual":80.0,
+        "Predicted":65.723815918,
+        "Residual":14.276184082,
+        "Abs_Error":14.276184082,
+        "APE (%)":17.8452301025
     },
     {
         "item_id":"v1|147446606108|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 2 (light novel) by Hanekoto Hanekoto",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":10.0,
-        "Actual":100.0,
-        "Predicted":103.7463531494,
-        "Residual":-3.7463531494,
-        "Abs_Error":3.7463531494,
-        "APE (%)":3.7463531494
+        "volume_count":1.0,
+        "Actual":13.16,
+        "Predicted":12.8699150085,
+        "Residual":0.2900849915,
+        "Abs_Error":0.2900849915,
+        "APE (%)":2.2042932481
     },
     {
         "item_id":"v1|147446606185|0",
@@ -1793,11 +1697,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.38,
-        "Predicted":10.6812801361,
-        "Residual":-1.3012801361,
-        "Abs_Error":1.3012801361,
-        "APE (%)":13.8729225598
+        "Actual":16.34,
+        "Predicted":18.6626358032,
+        "Residual":-2.3226358032,
+        "Abs_Error":2.3226358032,
+        "APE (%)":14.2144174004
     },
     {
         "item_id":"v1|147452425702|0",
@@ -1805,23 +1709,23 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":42.49,
-        "Predicted":13.9367694855,
-        "Residual":28.5532305145,
-        "Abs_Error":28.5532305145,
-        "APE (%)":67.1998835362
+        "Actual":24.65,
+        "Predicted":22.9100074768,
+        "Residual":1.7399925232,
+        "Abs_Error":1.7399925232,
+        "APE (%)":7.0587931975
     },
     {
         "item_id":"v1|147455446784|0",
         "title":"The Eminence in Shadow, Vol. 5 (Light Novel) by Aizawa, Daisuke",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":134.0,
-        "Predicted":149.0850067139,
-        "Residual":-15.0850067139,
-        "Abs_Error":15.0850067139,
-        "APE (%)":11.2574676969
+        "volume_count":1.0,
+        "Actual":24.41,
+        "Predicted":18.6626358032,
+        "Residual":5.7473641968,
+        "Abs_Error":5.7473641968,
+        "APE (%)":23.5451216582
     },
     {
         "item_id":"v1|147455999875|0",
@@ -1829,11 +1733,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.49,
-        "Predicted":11.9971752167,
-        "Residual":0.4928247833,
-        "Abs_Error":0.4928247833,
-        "APE (%)":3.9457548705
+        "Actual":17.5,
+        "Predicted":15.8636264801,
+        "Residual":1.6363735199,
+        "Abs_Error":1.6363735199,
+        "APE (%)":9.350705828
     },
     {
         "item_id":"v1|147457811286|0",
@@ -1841,23 +1745,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":23.54,
-        "Predicted":17.2716159821,
-        "Residual":6.2683840179,
-        "Abs_Error":6.2683840179,
-        "APE (%)":26.6286491841
+        "Actual":19.35,
+        "Predicted":17.8048343658,
+        "Residual":1.5451656342,
+        "Abs_Error":1.5451656342,
+        "APE (%)":7.9853521145
     },
     {
         "item_id":"v1|147460983134|0",
         "title":"The Eminence in Shadow, Vol. 1 (light novel) by Daisuke Aizawa (English) Hardcov",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":14.0,
-        "Predicted":10.5686016083,
-        "Residual":3.4313983917,
-        "Abs_Error":3.4313983917,
-        "APE (%)":24.5099885123
+        "volume_count":16.0,
+        "Actual":147.97,
+        "Predicted":131.5782623291,
+        "Residual":16.3917376709,
+        "Abs_Error":16.3917376709,
+        "APE (%)":11.0777439149
     },
     {
         "item_id":"v1|147466475536|0",
@@ -1865,23 +1769,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.85,
-        "Predicted":13.4872512817,
-        "Residual":0.3627487183,
-        "Abs_Error":0.3627487183,
-        "APE (%)":2.6191243196
+        "Actual":10.0,
+        "Predicted":12.3152961731,
+        "Residual":-2.3152961731,
+        "Abs_Error":2.3152961731,
+        "APE (%)":23.152961731
     },
     {
         "item_id":"v1|147474447461|0",
         "title":"Ascendance of a Bookworm: Part 5 Volume 10 (Light Novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":5.0,
-        "Actual":99.99,
-        "Predicted":55.4618148804,
-        "Residual":44.5281851196,
-        "Abs_Error":44.5281851196,
-        "APE (%)":44.5326383835
+        "volume_count":1.0,
+        "Actual":17.49,
+        "Predicted":16.7461986542,
+        "Residual":0.7438013458,
+        "Abs_Error":0.7438013458,
+        "APE (%)":4.2527235324
     },
     {
         "item_id":"v1|147474510868|0",
@@ -1889,11 +1793,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.52,
-        "Predicted":17.6712379456,
-        "Residual":0.8487620544,
-        "Abs_Error":0.8487620544,
-        "APE (%)":4.5829484581
+        "Actual":24.65,
+        "Predicted":24.6199970245,
+        "Residual":0.0300029755,
+        "Abs_Error":0.0300029755,
+        "APE (%)":0.1217159248
     },
     {
         "item_id":"v1|147475066280|0",
@@ -1901,35 +1805,23 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.95,
-        "Predicted":16.6978702545,
-        "Residual":2.2521297455,
-        "Abs_Error":2.2521297455,
-        "APE (%)":11.8845896859
-    },
-    {
-        "item_id":"v1|147476976821|0",
-        "title":"Ascendance of a Bookworm: Part 2 Volume 1 (Light Novel): Volume 4",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":6.69,
-        "Predicted":9.0303592682,
-        "Residual":-2.3403592682,
-        "Abs_Error":2.3403592682,
-        "APE (%)":34.9829487024
+        "Actual":12.0,
+        "Predicted":13.1782264709,
+        "Residual":-1.1782264709,
+        "Abs_Error":1.1782264709,
+        "APE (%)":9.8185539246
     },
     {
         "item_id":"v1|147482875103|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 10 (light novel) by Nicole Wilder Pap",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":13.0,
-        "Actual":99.9,
-        "Predicted":136.7177276611,
-        "Residual":-36.8177276611,
-        "Abs_Error":36.8177276611,
-        "APE (%)":36.8545822434
+        "volume_count":1.0,
+        "Actual":12.98,
+        "Predicted":13.6173648834,
+        "Residual":-0.6373648834,
+        "Abs_Error":0.6373648834,
+        "APE (%)":4.9103611974
     },
     {
         "item_id":"v1|147486995255|0",
@@ -1937,59 +1829,59 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.28,
-        "Predicted":17.8575077057,
-        "Residual":4.4224922943,
-        "Abs_Error":4.4224922943,
-        "APE (%)":19.8496063479
+        "Actual":8.0,
+        "Predicted":12.8277645111,
+        "Residual":-4.8277645111,
+        "Abs_Error":4.8277645111,
+        "APE (%)":60.3470563889
     },
     {
         "item_id":"v1|147492487110|0",
         "title":"Yen Press, Sword Art Online Progressive 001 Light Novel Read Book, English, 2015",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.34,
-        "Predicted":18.2618103027,
-        "Residual":-1.9218103027,
-        "Abs_Error":1.9218103027,
-        "APE (%)":11.7613849617
+        "volume_count":17.0,
+        "Actual":76.4,
+        "Predicted":111.2347869873,
+        "Residual":-34.8347869873,
+        "Abs_Error":34.8347869873,
+        "APE (%)":45.5952709258
     },
     {
         "item_id":"v1|147494453786|0",
         "title":"Overlord, Vol. 6 (Light Novel): The Men of the Kingdom Part II",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":279.99,
-        "Predicted":294.2387084961,
-        "Residual":-14.2487084961,
-        "Abs_Error":14.2487084961,
-        "APE (%)":5.0890062131
+        "volume_count":1.0,
+        "Actual":18.52,
+        "Predicted":15.5059986115,
+        "Residual":3.0140013885,
+        "Abs_Error":3.0140013885,
+        "APE (%)":16.2743055537
     },
     {
         "item_id":"v1|154922504297|0",
         "title":"86 Eighty-Six Light Novel  Vol.1-13 Set  Latest issue Anime Japanese version",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":341.78,
-        "Predicted":364.2173461914,
-        "Residual":-22.4373461914,
-        "Abs_Error":22.4373461914,
-        "APE (%)":6.5648505446
+        "volume_count":1.0,
+        "Actual":16.33,
+        "Predicted":16.4349842072,
+        "Residual":-0.1049842072,
+        "Abs_Error":0.1049842072,
+        "APE (%)":0.6428916543
     },
     {
         "item_id":"v1|154976745230|0",
         "title":"Mushoku Tensei Volume 1- 26 complete Light Novel Set Japanese version",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":126.45,
-        "Predicted":269.9097290039,
-        "Residual":-143.4597290039,
-        "Abs_Error":143.4597290039,
-        "APE (%)":113.4517429845
+        "volume_count":11.0,
+        "Actual":219.45,
+        "Predicted":216.9161682129,
+        "Residual":2.5338317871,
+        "Abs_Error":2.5338317871,
+        "APE (%)":1.1546282921
     },
     {
         "item_id":"v1|154976810692|0",
@@ -1997,11 +1889,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.72,
-        "Predicted":14.5981464386,
-        "Residual":-5.8781464386,
-        "Abs_Error":5.8781464386,
-        "APE (%)":67.4099362225
+        "Actual":13.86,
+        "Predicted":11.7616453171,
+        "Residual":2.0983546829,
+        "Abs_Error":2.0983546829,
+        "APE (%)":15.1396441769
     },
     {
         "item_id":"v1|155296331507|0",
@@ -2009,59 +1901,47 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":18.8200035095,
-        "Residual":-5.8700035095,
-        "Abs_Error":5.8700035095,
-        "APE (%)":45.3282124287
+        "Actual":30.0,
+        "Predicted":12.6335391998,
+        "Residual":17.3664608002,
+        "Abs_Error":17.3664608002,
+        "APE (%)":57.8882026672
     },
     {
         "item_id":"v1|155710719136|0",
         "title":"Rascal Does Not Dream of Bunny Girl Senpai  Vol.1-13  Novel Set Japanese version",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":9.92,
-        "Predicted":10.5348329544,
-        "Residual":-0.6148329544,
-        "Abs_Error":0.6148329544,
-        "APE (%)":6.1979128468
-    },
-    {
-        "item_id":"v1|155760862926|0",
-        "title":"Konosuba God's Blessing on This Wonderful World Vol.1-17 Full set Light Novel",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":12.59,
-        "Predicted":16.2180175781,
-        "Residual":-3.6280175781,
-        "Abs_Error":3.6280175781,
-        "APE (%)":28.8166606682
+        "volume_count":7.0,
+        "Actual":79.99,
+        "Predicted":83.1382522583,
+        "Residual":-3.1482522583,
+        "Abs_Error":3.1482522583,
+        "APE (%)":3.9358072988
     },
     {
         "item_id":"v1|155760881482|0",
         "title":"Konosuba God's Blessing on This Wonderful World Vol.1-17 + 2  set Light Novel",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":22.0,
-        "Actual":225.0,
-        "Predicted":124.9450836182,
-        "Residual":100.0549163818,
-        "Abs_Error":100.0549163818,
-        "APE (%)":44.4688517253
+        "volume_count":1.0,
+        "Actual":16.05,
+        "Predicted":17.83086586,
+        "Residual":-1.78086586,
+        "Abs_Error":1.78086586,
+        "APE (%)":11.0957374454
     },
     {
         "item_id":"v1|155828637378|0",
         "title":"Overlord Vol.1-16 Novels Set Light Novel Over Lord Kugane Maruyama Japanese Ver",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":133.69,
-        "Predicted":142.2667541504,
-        "Residual":-8.5767541504,
-        "Abs_Error":8.5767541504,
-        "APE (%)":6.415404406
+        "volume_count":1.0,
+        "Actual":8.15,
+        "Predicted":12.4005041122,
+        "Residual":-4.2505041122,
+        "Abs_Error":4.2505041122,
+        "APE (%)":52.1534246901
     },
     {
         "item_id":"v1|155878610210|0",
@@ -2069,71 +1949,71 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.62,
-        "Predicted":22.5197219849,
-        "Residual":-2.8997219849,
-        "Abs_Error":2.8997219849,
-        "APE (%)":14.7794188831
+        "Actual":21.76,
+        "Predicted":22.6888961792,
+        "Residual":-0.9288961792,
+        "Abs_Error":0.9288961792,
+        "APE (%)":4.2688243529
     },
     {
         "item_id":"v1|156395695380|0",
         "title":"Bofuri Vol.1-18 Latest Full Set  Light Novel Japanese",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":17.99,
-        "Predicted":11.6152887344,
-        "Residual":6.3747112656,
-        "Abs_Error":6.3747112656,
-        "APE (%)":35.4347485579
+        "volume_count":6.0,
+        "Actual":80.86,
+        "Predicted":101.0586776733,
+        "Residual":-20.1986776733,
+        "Abs_Error":20.1986776733,
+        "APE (%)":24.9798140902
     },
     {
         "item_id":"v1|156776916409|0",
         "title":"Syougo Kinugasa Classroom of the Elite (Light Novel) Vol. 1 & 2 (Paperback)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":6.95,
-        "Predicted":12.1954574585,
-        "Residual":-5.2454574585,
-        "Abs_Error":5.2454574585,
-        "APE (%)":75.4742080359
+        "volume_count":26.0,
+        "Actual":349.59,
+        "Predicted":211.2883453369,
+        "Residual":138.3016546631,
+        "Abs_Error":138.3016546631,
+        "APE (%)":39.5611014798
     },
     {
         "item_id":"v1|157130599488|0",
         "title":"The Angel Next Door Spoils Me Rotten Vol.1-11 + 8.5 + 5.5 Set Light Novel  JAPAN",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":12.0,
-        "Actual":134.99,
-        "Predicted":192.2890777588,
-        "Residual":-57.2990777588,
-        "Abs_Error":57.2990777588,
-        "APE (%)":42.446905518
+        "volume_count":1.0,
+        "Actual":87.99,
+        "Predicted":66.1155395508,
+        "Residual":21.8744604492,
+        "Abs_Error":21.8744604492,
+        "APE (%)":24.8601664385
     },
     {
         "item_id":"v1|157146274005|0",
         "title":"Too Many Losing Heroines! Vol.8 Japanese Light Novel Book (Language: Japanese)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":13.0,
-        "Actual":140.24,
-        "Predicted":137.0655670166,
-        "Residual":3.1744329834,
-        "Abs_Error":3.1744329834,
-        "APE (%)":2.2635717223
+        "volume_count":1.0,
+        "Actual":18.95,
+        "Predicted":16.9032688141,
+        "Residual":2.0467311859,
+        "Abs_Error":2.0467311859,
+        "APE (%)":10.8006922739
     },
     {
         "item_id":"v1|157453800593|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 8.5 (light novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":39.59,
-        "Predicted":29.4890899658,
-        "Residual":10.1009100342,
-        "Abs_Error":10.1009100342,
-        "APE (%)":25.5137914478
+        "volume_count":15.0,
+        "Actual":156.0,
+        "Predicted":132.7828369141,
+        "Residual":23.2171630859,
+        "Abs_Error":23.2171630859,
+        "APE (%)":14.88279685
     },
     {
         "item_id":"v1|157453876868|0",
@@ -2141,11 +2021,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":7.0,
-        "Predicted":12.3259763718,
-        "Residual":-5.3259763718,
-        "Abs_Error":5.3259763718,
-        "APE (%)":76.0853767395
+        "Actual":249.99,
+        "Predicted":12.16410923,
+        "Residual":237.82589077,
+        "Abs_Error":237.82589077,
+        "APE (%)":95.1341616745
     },
     {
         "item_id":"v1|157497010288|0",
@@ -2153,11 +2033,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":29.99,
-        "Predicted":10.9201898575,
-        "Residual":19.0698101425,
-        "Abs_Error":19.0698101425,
-        "APE (%)":63.5872295516
+        "Actual":22.92,
+        "Predicted":18.0101089478,
+        "Residual":4.9098910522,
+        "Abs_Error":4.9098910522,
+        "APE (%)":21.4218632297
     },
     {
         "item_id":"v1|157497010819|0",
@@ -2165,23 +2045,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":23.8,
-        "Predicted":17.3386936188,
-        "Residual":6.4613063812,
-        "Abs_Error":6.4613063812,
-        "APE (%)":27.1483461396
+        "Actual":8.99,
+        "Predicted":36.8427619934,
+        "Residual":-27.8527619934,
+        "Abs_Error":27.8527619934,
+        "APE (%)":309.8193770123
     },
     {
         "item_id":"v1|157497012511|0",
         "title":"Rascal Does Not Dream of Bunny Girl Senpai (light novel) (Volume 1) (Rascal Does",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":7.0,
-        "Actual":79.99,
-        "Predicted":76.8991012573,
-        "Residual":3.0908987427,
-        "Abs_Error":3.0908987427,
-        "APE (%)":3.8641064416
+        "volume_count":1.0,
+        "Actual":18.52,
+        "Predicted":18.2221908569,
+        "Residual":0.2978091431,
+        "Abs_Error":0.2978091431,
+        "APE (%)":1.6080407293
     },
     {
         "item_id":"v1|157622866265|0",
@@ -2189,11 +2069,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":23.69,
-        "Predicted":17.8062419891,
-        "Residual":5.8837580109,
-        "Abs_Error":5.8837580109,
-        "APE (%)":24.8364626883
+        "Actual":16.34,
+        "Predicted":17.7586097717,
+        "Residual":-1.4186097717,
+        "Abs_Error":1.4186097717,
+        "APE (%)":8.6818223484
     },
     {
         "item_id":"v1|157634481051|0",
@@ -2201,23 +2081,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.83,
-        "Predicted":18.2377929688,
-        "Residual":4.5922070312,
-        "Abs_Error":4.5922070312,
-        "APE (%)":20.1147920773
+        "Actual":20.74,
+        "Predicted":19.5900058746,
+        "Residual":1.1499941254,
+        "Abs_Error":1.1499941254,
+        "APE (%)":5.544812562
     },
     {
         "item_id":"v1|157634481861|0",
         "title":"Konosuba: An Explosion on This Wonderful World!, Vol. 1 (light novel): Megumin\u2019s",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":325.0,
-        "Predicted":312.3686523438,
-        "Residual":12.6313476562,
-        "Abs_Error":12.6313476562,
-        "APE (%)":3.8865685096
+        "volume_count":1.0,
+        "Actual":18.49,
+        "Predicted":21.0447463989,
+        "Residual":-2.5547463989,
+        "Abs_Error":2.5547463989,
+        "APE (%)":13.8169085934
     },
     {
         "item_id":"v1|157634483573|0",
@@ -2225,23 +2105,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.35,
-        "Predicted":13.3636198044,
-        "Residual":-0.0136198044,
-        "Abs_Error":0.0136198044,
-        "APE (%)":0.1020210066
+        "Actual":20.94,
+        "Predicted":23.0985927582,
+        "Residual":-2.1585927582,
+        "Abs_Error":2.1585927582,
+        "APE (%)":10.3084658939
     },
     {
         "item_id":"v1|157634485509|0",
         "title":"Too Many Losing Heroines! (Light Novel) Vol. 5",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":29.0,
-        "Actual":24.0,
-        "Predicted":24.0304412842,
-        "Residual":-0.0304412842,
-        "Abs_Error":0.0304412842,
-        "APE (%)":0.1268386841
+        "volume_count":1.0,
+        "Actual":22.21,
+        "Predicted":17.83086586,
+        "Residual":4.37913414,
+        "Abs_Error":4.37913414,
+        "APE (%)":19.7169479514
     },
     {
         "item_id":"v1|157634485530|0",
@@ -2249,11 +2129,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.95,
-        "Predicted":21.8322467804,
-        "Residual":1.1177532196,
-        "Abs_Error":1.1177532196,
-        "APE (%)":4.8703843991
+        "Actual":12.53,
+        "Predicted":48.968006134,
+        "Residual":-36.438006134,
+        "Abs_Error":36.438006134,
+        "APE (%)":290.8061143977
     },
     {
         "item_id":"v1|157634485539|0",
@@ -2261,11 +2141,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.35,
-        "Predicted":13.3636198044,
-        "Residual":-0.0136198044,
-        "Abs_Error":0.0136198044,
-        "APE (%)":0.1020210066
+        "Actual":13.99,
+        "Predicted":14.098282814,
+        "Residual":-0.108282814,
+        "Abs_Error":0.108282814,
+        "APE (%)":0.7740015298
     },
     {
         "item_id":"v1|157634485540|0",
@@ -2273,11 +2153,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":20.48,
-        "Predicted":19.7217674255,
-        "Residual":0.7582325745,
-        "Abs_Error":0.7582325745,
-        "APE (%)":3.7023074925
+        "Actual":12.99,
+        "Predicted":13.4616203308,
+        "Residual":-0.4716203308,
+        "Abs_Error":0.4716203308,
+        "APE (%)":3.6306414997
     },
     {
         "item_id":"v1|157634486214|0",
@@ -2285,11 +2165,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":9.53,
-        "Predicted":11.6467103958,
-        "Residual":-2.1167103958,
-        "Abs_Error":2.1167103958,
-        "APE (%)":22.2110219917
+        "Actual":36.0,
+        "Predicted":29.1607551575,
+        "Residual":6.8392448425,
+        "Abs_Error":6.8392448425,
+        "APE (%)":18.9979023404
     },
     {
         "item_id":"v1|157634494838|0",
@@ -2297,11 +2177,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":25.11,
-        "Predicted":18.2377929688,
-        "Residual":6.8722070312,
-        "Abs_Error":6.8722070312,
-        "APE (%)":27.3684071336
+        "Actual":24.99,
+        "Predicted":11.2343244553,
+        "Residual":13.7556755447,
+        "Abs_Error":13.7556755447,
+        "APE (%)":55.044720067
     },
     {
         "item_id":"v1|157634497970|0",
@@ -2309,11 +2189,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.61,
-        "Predicted":17.3386936188,
-        "Residual":5.2713063812,
-        "Abs_Error":5.2713063812,
-        "APE (%)":23.314048568
+        "Actual":14.83,
+        "Predicted":14.6981620789,
+        "Residual":0.1318379211,
+        "Abs_Error":0.1318379211,
+        "APE (%)":0.8889947481
     },
     {
         "item_id":"v1|157662408234|0",
@@ -2321,11 +2201,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":20.76,
-        "Predicted":19.7217674255,
-        "Residual":1.0382325745,
-        "Abs_Error":1.0382325745,
-        "APE (%)":5.0011203009
+        "Actual":25.92,
+        "Predicted":27.1128673553,
+        "Residual":-1.1928673553,
+        "Abs_Error":1.1928673553,
+        "APE (%)":4.6021117104
     },
     {
         "item_id":"v1|157710376762|0",
@@ -2333,35 +2213,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.52,
-        "Predicted":17.8062419891,
-        "Residual":0.7137580109,
-        "Abs_Error":0.7137580109,
-        "APE (%)":3.8539849399
+        "Actual":23.06,
+        "Predicted":13.3797311783,
+        "Residual":9.6802688217,
+        "Abs_Error":9.6802688217,
+        "APE (%)":41.9786158791
     },
     {
         "item_id":"v1|157718983983|0",
         "title":"Konosuba Vol 2 Light Novel Yen On Natsume Akatsuki God\u2019s Blessing on This Wonder",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":13.05,
-        "Predicted":12.2980051041,
-        "Residual":0.7519948959,
-        "Abs_Error":0.7519948959,
-        "APE (%)":5.7624129957
+        "volume_count":3.0,
+        "Actual":39.95,
+        "Predicted":27.4833564758,
+        "Residual":12.4666435242,
+        "Abs_Error":12.4666435242,
+        "APE (%)":31.2056158302
     },
     {
         "item_id":"v1|157753471629|0",
         "title":"Konosuba: God's Blessing on This Wonderful World!, Vol. 4 (light novel): You...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":4.0,
-        "Actual":60.0,
-        "Predicted":45.9595489502,
-        "Residual":14.0404510498,
-        "Abs_Error":14.0404510498,
-        "APE (%)":23.4007517497
+        "volume_count":1.0,
+        "Actual":45.9,
+        "Predicted":20.938325882,
+        "Residual":24.961674118,
+        "Abs_Error":24.961674118,
+        "APE (%)":54.3827322833
     },
     {
         "item_id":"v1|157918067591|0",
@@ -2369,11 +2249,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":10.3,
-        "Predicted":9.9228553772,
-        "Residual":0.3771446228,
-        "Abs_Error":0.3771446228,
-        "APE (%)":3.6615982796
+        "Actual":16.7,
+        "Predicted":16.7461986542,
+        "Residual":-0.0461986542,
+        "Abs_Error":0.0461986542,
+        "APE (%)":0.2766386478
     },
     {
         "item_id":"v1|157918067592|0",
@@ -2381,11 +2261,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.24,
-        "Predicted":12.3810710907,
-        "Residual":2.8589289093,
-        "Abs_Error":2.8589289093,
-        "APE (%)":18.7593760453
+        "Actual":10.19,
+        "Predicted":13.5972280502,
+        "Residual":-3.4072280502,
+        "Abs_Error":3.4072280502,
+        "APE (%)":33.4369779218
     },
     {
         "item_id":"v1|157925978039|0",
@@ -2393,11 +2273,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.99,
-        "Predicted":13.1212434769,
-        "Residual":-0.1312434769,
-        "Abs_Error":0.1312434769,
-        "APE (%)":1.0103423931
+        "Actual":3.95,
+        "Predicted":13.1115808487,
+        "Residual":-9.1615808487,
+        "Abs_Error":9.1615808487,
+        "APE (%)":231.9387556631
     },
     {
         "item_id":"v1|157930315525|0",
@@ -2405,23 +2285,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":21.66,
-        "Predicted":17.3386936188,
-        "Residual":4.3213063812,
-        "Abs_Error":4.3213063812,
-        "APE (%)":19.9506296455
+        "Actual":6.11,
+        "Predicted":11.9797506332,
+        "Residual":-5.8697506332,
+        "Abs_Error":5.8697506332,
+        "APE (%)":96.0679318043
     },
     {
         "item_id":"v1|157930316005|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 9 (light novel) (Volume 9)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":16.06,
-        "Predicted":17.2013912201,
-        "Residual":-1.1413912201,
-        "Abs_Error":1.1413912201,
-        "APE (%)":7.1070437117
+        "volume_count":10.0,
+        "Actual":116.62,
+        "Predicted":101.0457305908,
+        "Residual":15.5742694092,
+        "Abs_Error":15.5742694092,
+        "APE (%)":13.3547156656
     },
     {
         "item_id":"v1|157937830046|0",
@@ -2429,11 +2309,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":17.8584060669,
-        "Residual":-4.9084060669,
-        "Abs_Error":4.9084060669,
-        "APE (%)":37.9027495513
+        "Actual":11.0,
+        "Predicted":22.1056098938,
+        "Residual":-11.1056098938,
+        "Abs_Error":11.1056098938,
+        "APE (%)":100.9600899436
     },
     {
         "item_id":"v1|157984838391|0",
@@ -2441,11 +2321,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.99,
-        "Predicted":19.0587863922,
-        "Residual":-10.0687863922,
-        "Abs_Error":10.0687863922,
-        "APE (%)":111.9998486342
+        "Actual":13.19,
+        "Predicted":13.3449573517,
+        "Residual":-0.1549573517,
+        "Abs_Error":0.1549573517,
+        "APE (%)":1.174809338
     },
     {
         "item_id":"v1|157990807578|0",
@@ -2453,23 +2333,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.58,
-        "Predicted":13.2454547882,
-        "Residual":-4.6654547882,
-        "Abs_Error":4.6654547882,
-        "APE (%)":54.3759299325
+        "Actual":185.23,
+        "Predicted":19.4406967163,
+        "Residual":165.7893032837,
+        "Abs_Error":165.7893032837,
+        "APE (%)":89.5045636688
     },
     {
         "item_id":"v1|157995918378|0",
         "title":"Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense., Vol. 12 (Light",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":17.0,
-        "Actual":149.23,
-        "Predicted":158.6651916504,
-        "Residual":-9.4351916504,
-        "Abs_Error":9.4351916504,
-        "APE (%)":6.3225836966
+        "volume_count":1.0,
+        "Actual":10.88,
+        "Predicted":9.8362102509,
+        "Residual":1.0437897491,
+        "Abs_Error":1.0437897491,
+        "APE (%)":9.5936557826
     },
     {
         "item_id":"v1|158003525288|0",
@@ -2477,23 +2357,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.69,
-        "Predicted":13.5138893127,
-        "Residual":0.1761106873,
-        "Abs_Error":0.1761106873,
-        "APE (%)":1.2864184606
+        "Actual":15.99,
+        "Predicted":14.8052759171,
+        "Residual":1.1847240829,
+        "Abs_Error":1.1847240829,
+        "APE (%)":7.4091562411
     },
     {
         "item_id":"v1|158004039417|0",
         "title":"86--EIGHTY-SIX, Vol. 5 (light novel): Death, Be Not Proud by Asato Asato (Englis",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":2.0,
-        "Actual":20.0,
-        "Predicted":16.2136211395,
-        "Residual":3.7863788605,
-        "Abs_Error":3.7863788605,
-        "APE (%)":18.9318943024
+        "volume_count":1.0,
+        "Actual":24.41,
+        "Predicted":18.6626358032,
+        "Residual":5.7473641968,
+        "Abs_Error":5.7473641968,
+        "APE (%)":23.5451216582
     },
     {
         "item_id":"v1|158004356956|0",
@@ -2501,35 +2381,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":28.99,
-        "Predicted":30.2878379822,
-        "Residual":-1.2978379822,
-        "Abs_Error":1.2978379822,
-        "APE (%)":4.4768471272
+        "Actual":6.38,
+        "Predicted":11.3609447479,
+        "Residual":-4.9809447479,
+        "Abs_Error":4.9809447479,
+        "APE (%)":78.0712342935
     },
     {
         "item_id":"v1|158009622651|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 1",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":163.99,
-        "Predicted":138.2513122559,
-        "Residual":25.7386877441,
-        "Abs_Error":25.7386877441,
-        "APE (%)":15.6952788244
+        "volume_count":1.0,
+        "Actual":16.34,
+        "Predicted":18.6626358032,
+        "Residual":-2.3226358032,
+        "Abs_Error":2.3226358032,
+        "APE (%)":14.2144174004
     },
     {
         "item_id":"v1|158010901836|0",
         "title":"The Eminence in Shadow, Vol. 5 (light novel) (EMINENCE IN SHADOW LIGHT NOVEL HC)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":25.28,
-        "Predicted":9.8028593063,
-        "Residual":15.4771406937,
-        "Abs_Error":15.4771406937,
-        "APE (%)":61.222866668
+        "volume_count":15.0,
+        "Actual":405.65,
+        "Predicted":122.6841812134,
+        "Residual":282.9658187866,
+        "Abs_Error":282.9658187866,
+        "APE (%)":69.7561490907
     },
     {
         "item_id":"v1|158053851402|0",
@@ -2537,11 +2417,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":11.52,
-        "Predicted":11.7209997177,
-        "Residual":-0.2009997177,
-        "Abs_Error":0.2009997177,
-        "APE (%)":1.7447892163
+        "Actual":20.81,
+        "Predicted":21.2191181183,
+        "Residual":-0.4091181183,
+        "Abs_Error":0.4091181183,
+        "APE (%)":1.9659688529
     },
     {
         "item_id":"v1|158060572524|0",
@@ -2549,35 +2429,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":31.12,
-        "Predicted":25.0619869232,
-        "Residual":6.0580130768,
-        "Abs_Error":6.0580130768,
-        "APE (%)":19.4666229974
+        "Actual":15.97,
+        "Predicted":11.8146867752,
+        "Residual":4.1553132248,
+        "Abs_Error":4.1553132248,
+        "APE (%)":26.0194942066
     },
     {
         "item_id":"v1|158065197855|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 8.5 (light novel) by Nicole Wilder Pa",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":27.08,
-        "Predicted":26.6646957397,
-        "Residual":0.4153042603,
-        "Abs_Error":0.4153042603,
-        "APE (%)":1.533619868
+        "volume_count":5.0,
+        "Actual":105.0,
+        "Predicted":74.6963729858,
+        "Residual":30.3036270142,
+        "Abs_Error":30.3036270142,
+        "APE (%)":28.8605971563
     },
     {
         "item_id":"v1|158065870366|0",
         "title":"Spy Classroom short stories Vol.1-6 Light Novel Set in Japanese",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":3.0,
-        "Actual":89.99,
-        "Predicted":82.2747116089,
-        "Residual":7.7152883911,
-        "Abs_Error":7.7152883911,
-        "APE (%)":8.5734952674
+        "volume_count":1.0,
+        "Actual":12.99,
+        "Predicted":15.8315124512,
+        "Residual":-2.8415124512,
+        "Abs_Error":2.8415124512,
+        "APE (%)":21.8746147126
     },
     {
         "item_id":"v1|158065870670|0",
@@ -2585,23 +2465,23 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":25.0,
-        "Predicted":11.1990289688,
-        "Residual":13.8009710312,
-        "Abs_Error":13.8009710312,
-        "APE (%)":55.2038841248
+        "Actual":13.35,
+        "Predicted":13.8547782898,
+        "Residual":-0.5047782898,
+        "Abs_Error":0.5047782898,
+        "APE (%)":3.781110785
     },
     {
         "item_id":"v1|158065873253|0",
         "title":"Konosuba: God\u2019s Blessing on This Wonderful World! Vol.1-17 Light Novel Set Japan",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":11.0,
-        "Actual":500.0,
-        "Predicted":104.1860046387,
-        "Residual":395.8139953613,
-        "Abs_Error":395.8139953613,
-        "APE (%)":79.1627990723
+        "volume_count":1.0,
+        "Actual":18.67,
+        "Predicted":13.2307453156,
+        "Residual":5.4392546844,
+        "Abs_Error":5.4392546844,
+        "APE (%)":29.1336619413
     },
     {
         "item_id":"v1|158065874620|0",
@@ -2609,11 +2489,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":41.88,
-        "Predicted":57.8585510254,
-        "Residual":-15.9785510254,
-        "Abs_Error":15.9785510254,
-        "APE (%)":38.1531781886
+        "Actual":18.72,
+        "Predicted":16.6938533783,
+        "Residual":2.0261466217,
+        "Abs_Error":2.0261466217,
+        "APE (%)":10.8234328082
     },
     {
         "item_id":"v1|158065875593|0",
@@ -2621,35 +2501,35 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.12,
-        "Predicted":18.9389629364,
-        "Residual":-3.8189629364,
-        "Abs_Error":3.8189629364,
-        "APE (%)":25.2576913783
+        "Actual":4.99,
+        "Predicted":14.1571989059,
+        "Residual":-9.1671989059,
+        "Abs_Error":9.1671989059,
+        "APE (%)":183.7114009207
     },
     {
         "item_id":"v1|158065875928|0",
         "title":"The Angel Next Door Spoils Me Rotten Vol.1-11 + 5.5 + 8.5 + 11.5 Light Novel Set",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":23.06,
-        "Predicted":12.165766716,
-        "Residual":10.894233284,
-        "Abs_Error":10.894233284,
-        "APE (%)":47.2429890893
+        "volume_count":5.0,
+        "Actual":60.0,
+        "Predicted":82.7602081299,
+        "Residual":-22.7602081299,
+        "Abs_Error":22.7602081299,
+        "APE (%)":37.9336802165
     },
     {
         "item_id":"v1|158065876948|0",
         "title":"Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense Vol.1-19 set Novel",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":17.0,
-        "Actual":99.99,
-        "Predicted":103.8161010742,
-        "Residual":-3.8261010742,
-        "Abs_Error":3.8261010742,
-        "APE (%)":3.8264837226
+        "volume_count":1.0,
+        "Actual":13.09,
+        "Predicted":11.5611429214,
+        "Residual":1.5288570786,
+        "Abs_Error":1.5288570786,
+        "APE (%)":11.679580432
     },
     {
         "item_id":"v1|158072895195|0",
@@ -2658,22 +2538,22 @@
         "is_special_edition":false,
         "volume_count":1.0,
         "Actual":13.35,
-        "Predicted":13.4872512817,
-        "Residual":-0.1372512817,
-        "Abs_Error":0.1372512817,
-        "APE (%)":1.0280994887
+        "Predicted":13.8696107864,
+        "Residual":-0.5196107864,
+        "Abs_Error":0.5196107864,
+        "APE (%)":3.8922156287
     },
     {
         "item_id":"v1|158100519083|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 4 (light novel) (Volume 4)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":2.0,
-        "Actual":40.0,
-        "Predicted":19.1005554199,
-        "Residual":20.8994445801,
-        "Abs_Error":20.8994445801,
-        "APE (%)":52.2486114502
+        "volume_count":1.0,
+        "Actual":13.17,
+        "Predicted":12.1469812393,
+        "Residual":1.0230187607,
+        "Abs_Error":1.0230187607,
+        "APE (%)":7.7677962087
     },
     {
         "item_id":"v1|158100519100|0",
@@ -2681,23 +2561,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.72,
-        "Predicted":16.6978702545,
-        "Residual":2.0221297455,
-        "Abs_Error":2.0221297455,
-        "APE (%)":10.8019751361
+        "Actual":10.0,
+        "Predicted":12.4005041122,
+        "Residual":-2.4005041122,
+        "Abs_Error":2.4005041122,
+        "APE (%)":24.0050411224
     },
     {
         "item_id":"v1|158100537600|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 16 Multicolor",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":24.28,
-        "Predicted":247.9160308838,
-        "Residual":-223.6360308838,
-        "Abs_Error":223.6360308838,
-        "APE (%)":921.0709673962
+        "volume_count":1.0,
+        "Actual":7.73,
+        "Predicted":8.9402198792,
+        "Residual":-1.2102198792,
+        "Abs_Error":1.2102198792,
+        "APE (%)":15.6561433267
     },
     {
         "item_id":"v1|158100537703|0",
@@ -2705,11 +2585,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":110.0,
-        "Predicted":90.8858413696,
-        "Residual":19.1141586304,
-        "Abs_Error":19.1141586304,
-        "APE (%)":17.3765078458
+        "Actual":15.68,
+        "Predicted":18.0101089478,
+        "Residual":-2.3301089478,
+        "Abs_Error":2.3301089478,
+        "APE (%)":14.8603886974
     },
     {
         "item_id":"v1|158100540089|0",
@@ -2717,11 +2597,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":10.86,
-        "Predicted":12.5790138245,
-        "Residual":-1.7190138245,
-        "Abs_Error":1.7190138245,
-        "APE (%)":15.8288565788
+        "Actual":22.05,
+        "Predicted":19.0008735657,
+        "Residual":3.0491264343,
+        "Abs_Error":3.0491264343,
+        "APE (%)":13.8282377974
     },
     {
         "item_id":"v1|158103705695|0",
@@ -2729,11 +2609,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.35,
-        "Predicted":13.9330949783,
-        "Residual":5.4169050217,
-        "Abs_Error":5.4169050217,
-        "APE (%)":27.9943411972
+        "Actual":5.0,
+        "Predicted":12.7979574203,
+        "Residual":-7.7979574203,
+        "Abs_Error":7.7979574203,
+        "APE (%)":155.959148407
     },
     {
         "item_id":"v1|158104871750|0",
@@ -2741,11 +2621,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.99,
-        "Predicted":13.8760576248,
-        "Residual":2.1139423752,
-        "Abs_Error":2.1139423752,
-        "APE (%)":13.2204025965
+        "Actual":18.05,
+        "Predicted":13.8237009048,
+        "Residual":4.2262990952,
+        "Abs_Error":4.2262990952,
+        "APE (%)":23.4143994191
     },
     {
         "item_id":"v1|158126268667|0",
@@ -2753,11 +2633,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":12.0789480209,
-        "Residual":0.8710519791,
-        "Abs_Error":0.8710519791,
-        "APE (%)":6.7262701086
+        "Actual":18.52,
+        "Predicted":17.7753200531,
+        "Residual":0.7446799469,
+        "Abs_Error":0.7446799469,
+        "APE (%)":4.0209500373
     },
     {
         "item_id":"v1|158129718776|0",
@@ -2765,11 +2645,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":10.0,
-        "Predicted":16.3308563232,
-        "Residual":-6.3308563232,
-        "Abs_Error":6.3308563232,
-        "APE (%)":63.3085632324
+        "Actual":8.03,
+        "Predicted":10.5044727325,
+        "Residual":-2.4744727325,
+        "Abs_Error":2.4744727325,
+        "APE (%)":30.8153515883
     },
     {
         "item_id":"v1|158136557617|0",
@@ -2777,11 +2657,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.47,
-        "Predicted":12.5238265991,
-        "Residual":0.9461734009,
-        "Abs_Error":0.9461734009,
-        "APE (%)":7.0243014171
+        "Actual":10.87,
+        "Predicted":13.5972280502,
+        "Residual":-2.7272280502,
+        "Abs_Error":2.7272280502,
+        "APE (%)":25.0894944824
     },
     {
         "item_id":"v1|158147557206|0",
@@ -2789,35 +2669,35 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":14.61,
-        "Predicted":13.1511278152,
-        "Residual":1.4588721848,
-        "Abs_Error":1.4588721848,
-        "APE (%)":9.9854358984
+        "Actual":16.19,
+        "Predicted":20.0076942444,
+        "Residual":-3.8176942444,
+        "Abs_Error":3.8176942444,
+        "APE (%)":23.5805697615
     },
     {
         "item_id":"v1|158148188466|0",
         "title":"Too Many Losing Heroines! (Light Novel) Vol. 3 White",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":133.68,
-        "Predicted":134.1541442871,
-        "Residual":-0.4741442871,
-        "Abs_Error":0.4741442871,
-        "APE (%)":0.3546860316
+        "volume_count":1.0,
+        "Actual":12.0,
+        "Predicted":16.3886890411,
+        "Residual":-4.3886890411,
+        "Abs_Error":4.3886890411,
+        "APE (%)":36.5724086761
     },
     {
         "item_id":"v1|158148188506|0",
         "title":"Too Many Losing Heroines! (Light Novel) Vol. 4 Multicolor",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":28.0,
-        "Actual":112.01,
-        "Predicted":200.7167053223,
-        "Residual":-88.7067053223,
-        "Abs_Error":88.7067053223,
-        "APE (%)":79.1953444534
+        "volume_count":1.0,
+        "Actual":16.99,
+        "Predicted":10.7573547363,
+        "Residual":6.2326452637,
+        "Abs_Error":6.2326452637,
+        "APE (%)":36.6841981382
     },
     {
         "item_id":"v1|158148188572|0",
@@ -2825,11 +2705,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":7.05,
-        "Predicted":11.2898569107,
-        "Residual":-4.2398569107,
-        "Abs_Error":4.2398569107,
-        "APE (%)":60.1398143362
+        "Actual":29.15,
+        "Predicted":29.0086288452,
+        "Residual":0.1413711548,
+        "Abs_Error":0.1413711548,
+        "APE (%)":0.4849782325
     },
     {
         "item_id":"v1|158148188679|0",
@@ -2837,35 +2717,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.99,
-        "Predicted":11.3772315979,
-        "Residual":5.6127684021,
-        "Abs_Error":5.6127684021,
-        "APE (%)":33.0357174932
+        "Actual":16.7,
+        "Predicted":13.6150789261,
+        "Residual":3.0849210739,
+        "Abs_Error":3.0849210739,
+        "APE (%)":18.4725812809
     },
     {
         "item_id":"v1|158148389831|0",
         "title":"Rascal Does Not Dream of Bunny Girl Senpai (light novel) (Volume 1) (Rascal...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":13.32,
-        "Predicted":13.2990512848,
-        "Residual":0.0209487152,
-        "Abs_Error":0.0209487152,
-        "APE (%)":0.1572726367
+        "volume_count":8.0,
+        "Actual":44.97,
+        "Predicted":115.4255752563,
+        "Residual":-70.4555752563,
+        "Abs_Error":70.4555752563,
+        "APE (%)":156.6723932763
     },
     {
         "item_id":"v1|158154971551|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 10",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":5.0,
-        "Predicted":21.0907936096,
-        "Residual":-16.0907936096,
-        "Abs_Error":16.0907936096,
-        "APE (%)":321.8158721924
+        "volume_count":26.0,
+        "Actual":119.29,
+        "Predicted":219.9709472656,
+        "Residual":-100.6809472656,
+        "Abs_Error":100.6809472656,
+        "APE (%)":84.4001569835
     },
     {
         "item_id":"v1|158154971707|0",
@@ -2873,11 +2753,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.99,
-        "Predicted":17.2716159821,
-        "Residual":-8.2816159821,
-        "Abs_Error":8.2816159821,
-        "APE (%)":92.1203112576
+        "Actual":15.2,
+        "Predicted":17.5797119141,
+        "Residual":-2.3797119141,
+        "Abs_Error":2.3797119141,
+        "APE (%)":15.6559994346
     },
     {
         "item_id":"v1|158161909602|0",
@@ -2885,11 +2765,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.73,
-        "Predicted":19.1302318573,
-        "Residual":-0.4002318573,
-        "Abs_Error":0.4002318573,
-        "APE (%)":2.1368492114
+        "Actual":19.89,
+        "Predicted":18.6626358032,
+        "Residual":1.2273641968,
+        "Abs_Error":1.2273641968,
+        "APE (%)":6.1707601648
     },
     {
         "item_id":"v1|158164786224|0",
@@ -2897,23 +2777,23 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":47.75,
-        "Predicted":18.2618103027,
-        "Residual":29.4881896973,
-        "Abs_Error":29.4881896973,
-        "APE (%)":61.7553710938
+        "Actual":9.99,
+        "Predicted":14.4216136932,
+        "Residual":-4.4316136932,
+        "Abs_Error":4.4316136932,
+        "APE (%)":44.3604974298
     },
     {
         "item_id":"v1|158168232594|0",
         "title":"Overlord, Vol. 1 - light novel, Maruyama, Kugane, Very Good Book",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":19.0,
-        "Actual":184.0,
-        "Predicted":206.4571228027,
-        "Residual":-22.4571228027,
-        "Abs_Error":22.4571228027,
-        "APE (%)":12.204958045
+        "volume_count":2.0,
+        "Actual":15.0,
+        "Predicted":23.1429672241,
+        "Residual":-8.1429672241,
+        "Abs_Error":8.1429672241,
+        "APE (%)":54.2864481608
     },
     {
         "item_id":"v1|158168346004|0",
@@ -2921,11 +2801,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.24,
-        "Predicted":10.5300350189,
-        "Residual":-1.2900350189,
-        "Abs_Error":1.2900350189,
-        "APE (%)":13.9614179537
+        "Actual":8.99,
+        "Predicted":18.2221908569,
+        "Residual":-9.2321908569,
+        "Abs_Error":9.2321908569,
+        "APE (%)":102.694002858
     },
     {
         "item_id":"v1|158173565685|0",
@@ -2933,47 +2813,47 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":194.39,
-        "Predicted":192.345489502,
-        "Residual":2.044510498,
-        "Abs_Error":2.044510498,
-        "APE (%)":1.0517570338
+        "Actual":13.32,
+        "Predicted":13.356221199,
+        "Residual":-0.036221199,
+        "Abs_Error":0.036221199,
+        "APE (%)":0.2719309237
     },
     {
         "item_id":"v1|158183329480|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 11 - Rifujin Na - Paper",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":13.0,
-        "Actual":239.99,
-        "Predicted":268.1773071289,
-        "Residual":-28.1873071289,
-        "Abs_Error":28.1873071289,
-        "APE (%)":11.7452006871
+        "volume_count":1.0,
+        "Actual":30.0,
+        "Predicted":12.418753624,
+        "Residual":17.581246376,
+        "Abs_Error":17.581246376,
+        "APE (%)":58.6041545868
     },
     {
         "item_id":"v1|158183329693|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 11.5 - Syougo Kinugasa - Paperback - B",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":28.0,
-        "Actual":279.99,
-        "Predicted":55.9534301758,
-        "Residual":224.0365698242,
-        "Abs_Error":224.0365698242,
-        "APE (%)":80.0159183629
+        "volume_count":15.0,
+        "Actual":139.99,
+        "Predicted":198.6055755615,
+        "Residual":-58.6155755615,
+        "Abs_Error":58.6155755615,
+        "APE (%)":41.8712590624
     },
     {
         "item_id":"v1|158183329869|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 10 - Rifujin Na - Paper",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":11.0,
-        "Actual":114.9,
-        "Predicted":150.0270385742,
-        "Residual":-35.1270385742,
-        "Abs_Error":35.1270385742,
-        "APE (%)":30.5718351386
+        "volume_count":1.0,
+        "Actual":27.52,
+        "Predicted":23.4329147339,
+        "Residual":4.0870852661,
+        "Abs_Error":4.0870852661,
+        "APE (%)":14.8513272751
     },
     {
         "item_id":"v1|158183329992|0",
@@ -2981,11 +2861,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":6.99,
-        "Predicted":8.7294063568,
-        "Residual":-1.7394063568,
-        "Abs_Error":1.7394063568,
-        "APE (%)":24.8842111132
+        "Actual":21.43,
+        "Predicted":18.7917804718,
+        "Residual":2.6382195282,
+        "Abs_Error":2.6382195282,
+        "APE (%)":12.3108704069
     },
     {
         "item_id":"v1|166977017979|0",
@@ -2993,47 +2873,47 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.99,
-        "Predicted":16.7073249817,
-        "Residual":-7.7173249817,
-        "Abs_Error":7.7173249817,
-        "APE (%)":85.8434369487
+        "Actual":13.44,
+        "Predicted":18.6626358032,
+        "Residual":-5.2226358032,
+        "Abs_Error":5.2226358032,
+        "APE (%)":38.8588973454
     },
     {
         "item_id":"v1|167059596624|0",
         "title":"Sword Art Online Light Novel Volume 1-15, 20-21 (English, Yen Press)",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":21.08,
-        "Predicted":19.1302318573,
-        "Residual":1.9497681427,
-        "Abs_Error":1.9497681427,
-        "APE (%)":9.249374491
+        "volume_count":11.0,
+        "Actual":199.99,
+        "Predicted":148.1877593994,
+        "Residual":51.8022406006,
+        "Abs_Error":51.8022406006,
+        "APE (%)":25.9024154211
     },
     {
         "item_id":"v1|167429865480|0",
         "title":"Mushoku Tensei: Redundant Reincarnation (Light Novel) Vol. 1 by  [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":8.31,
-        "Predicted":9.362197876,
-        "Residual":-1.052197876,
-        "Abs_Error":1.052197876,
-        "APE (%)":12.6618276291
+        "volume_count":19.0,
+        "Actual":162.45,
+        "Predicted":175.7050323486,
+        "Residual":-13.2550323486,
+        "Abs_Error":13.2550323486,
+        "APE (%)":8.1594535849
     },
     {
         "item_id":"v1|167429867927|0",
         "title":"RE: Zero -Starting Life in Another World-, Vol. 1 (Light Novel)  [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":6.0,
-        "Actual":25.0,
-        "Predicted":25.7899875641,
-        "Residual":-0.7899875641,
-        "Abs_Error":0.7899875641,
-        "APE (%)":3.1599502563
+        "volume_count":1.0,
+        "Actual":15.76,
+        "Predicted":13.1115808487,
+        "Residual":2.6484191513,
+        "Abs_Error":2.6484191513,
+        "APE (%)":16.8046900464
     },
     {
         "item_id":"v1|167429871284|0",
@@ -3041,47 +2921,47 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":16.72,
-        "Predicted":16.731672287,
-        "Residual":-0.011672287,
-        "Abs_Error":0.011672287,
-        "APE (%)":0.0698103289
+        "Actual":6.81,
+        "Predicted":7.5215597153,
+        "Residual":-0.7115597153,
+        "Abs_Error":0.7115597153,
+        "APE (%)":10.4487476545
     },
     {
         "item_id":"v1|167429872439|0",
         "title":"Too Many Losing Heroines! (Light Novel) Vol. 1 by Amamori, Takib [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":22.37,
-        "Predicted":17.8584060669,
-        "Residual":4.5115939331,
-        "Abs_Error":4.5115939331,
-        "APE (%)":20.1680551323
+        "volume_count":17.0,
+        "Actual":89.0,
+        "Predicted":105.2543640137,
+        "Residual":-16.2543640137,
+        "Abs_Error":16.2543640137,
+        "APE (%)":18.2633303524
     },
     {
         "item_id":"v1|167429872935|0",
         "title":"86--Eighty-Six, Vol. 3 (Light Novel): Run Through the Battlefron [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":16.0,
-        "Actual":103.0,
-        "Predicted":143.0932769775,
-        "Residual":-40.0932769775,
-        "Abs_Error":40.0932769775,
-        "APE (%)":38.9255116287
+        "volume_count":1.0,
+        "Actual":7.05,
+        "Predicted":11.5113096237,
+        "Residual":-4.4613096237,
+        "Abs_Error":4.4613096237,
+        "APE (%)":63.2809875705
     },
     {
         "item_id":"v1|167429877067|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 8 (Light Novel): Volu [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":12.61,
-        "Predicted":10.6967887878,
-        "Residual":1.9132112122,
-        "Abs_Error":1.9132112122,
-        "APE (%)":15.1721745611
+        "volume_count":7.0,
+        "Actual":147.0,
+        "Predicted":64.1375274658,
+        "Residual":82.8624725342,
+        "Abs_Error":82.8624725342,
+        "APE (%)":56.3690289348
     },
     {
         "item_id":"v1|167429879807|0",
@@ -3089,11 +2969,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":19.24,
-        "Predicted":25.6385231018,
-        "Residual":-6.3985231018,
-        "Abs_Error":6.3985231018,
-        "APE (%)":33.256357078
+        "Actual":23.19,
+        "Predicted":23.6935081482,
+        "Residual":-0.5035081482,
+        "Abs_Error":0.5035081482,
+        "APE (%)":2.171229617
     },
     {
         "item_id":"v1|167429881513|0",
@@ -3101,11 +2981,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":24.99,
-        "Predicted":12.0584144592,
-        "Residual":12.9315855408,
-        "Abs_Error":12.9315855408,
-        "APE (%)":51.7470409795
+        "Actual":20.52,
+        "Predicted":16.7461986542,
+        "Residual":3.7738013458,
+        "Abs_Error":3.7738013458,
+        "APE (%)":18.3908447652
     },
     {
         "item_id":"v1|167429884641|0",
@@ -3113,11 +2993,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":25.08,
-        "Predicted":23.6303691864,
-        "Residual":1.4496308136,
-        "Abs_Error":1.4496308136,
-        "APE (%)":5.7800271675
+        "Actual":12.66,
+        "Predicted":13.5972280502,
+        "Residual":-0.9372280502,
+        "Abs_Error":0.9372280502,
+        "APE (%)":7.4030651677
     },
     {
         "item_id":"v1|167429894501|0",
@@ -3125,11 +3005,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":10.19,
-        "Predicted":12.0164985657,
-        "Residual":-1.8264985657,
-        "Abs_Error":1.8264985657,
-        "APE (%)":17.9244216455
+        "Actual":7.99,
+        "Predicted":12.4653511047,
+        "Residual":-4.4753511047,
+        "Abs_Error":4.4753511047,
+        "APE (%)":56.0119036888
     },
     {
         "item_id":"v1|167429895345|0",
@@ -3137,47 +3017,47 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":18.05,
-        "Predicted":14.6344442368,
-        "Residual":3.4155557632,
-        "Abs_Error":3.4155557632,
-        "APE (%)":18.9227466108
+        "Actual":25.84,
+        "Predicted":18.3544120789,
+        "Residual":7.4855879211,
+        "Abs_Error":7.4855879211,
+        "APE (%)":28.9689935029
     },
     {
         "item_id":"v1|167429898274|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 5 (Light Novel): Volu [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":44.0,
-        "Actual":99.0,
-        "Predicted":172.7389068604,
-        "Residual":-73.7389068604,
-        "Abs_Error":73.7389068604,
-        "APE (%)":74.4837443034
+        "volume_count":1.0,
+        "Actual":9.23,
+        "Predicted":11.5399246216,
+        "Residual":-2.3099246216,
+        "Abs_Error":2.3099246216,
+        "APE (%)":25.0262689229
     },
     {
         "item_id":"v1|167429899203|0",
         "title":"The Eminence in Shadow, Vol. 2 (Light Novel): Volume 2 by Aizawa [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":15.75,
-        "Predicted":12.5182561874,
-        "Residual":3.2317438126,
-        "Abs_Error":3.2317438126,
-        "APE (%)":20.5190083337
+        "volume_count":10.0,
+        "Actual":128.52,
+        "Predicted":124.1389083862,
+        "Residual":4.3810916138,
+        "Abs_Error":4.3810916138,
+        "APE (%)":3.4088792513
     },
     {
         "item_id":"v1|167429900696|0",
         "title":"Overlord, Vol. 7 (Light Novel): The Invaders of the Great Tomb b [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":19.0,
-        "Actual":239.0,
-        "Predicted":243.9828643799,
-        "Residual":-4.9828643799,
-        "Abs_Error":4.9828643799,
-        "APE (%)":2.0848804937
+        "volume_count":13.0,
+        "Actual":79.99,
+        "Predicted":155.9044342041,
+        "Residual":-75.9144342041,
+        "Abs_Error":75.9144342041,
+        "APE (%)":94.9049058684
     },
     {
         "item_id":"v1|167429901630|0",
@@ -3185,35 +3065,35 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":25.48,
-        "Predicted":25.7183742523,
-        "Residual":-0.2383742523,
-        "Abs_Error":0.2383742523,
-        "APE (%)":0.9355347422
+        "Actual":12.95,
+        "Predicted":18.0101089478,
+        "Residual":-5.0601089478,
+        "Abs_Error":5.0601089478,
+        "APE (%)":39.0742003688
     },
     {
         "item_id":"v1|167429901867|0",
         "title":"The Eminence in Shadow, Vol. 4 (Light Novel): Volume 4 by Aizawa [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":14.0,
-        "Actual":164.95,
-        "Predicted":65.9669265747,
-        "Residual":98.9830734253,
-        "Abs_Error":98.9830734253,
-        "APE (%)":60.0079256898
+        "volume_count":1.0,
+        "Actual":28.99,
+        "Predicted":28.9900035858,
+        "Residual":-0.0000035858,
+        "Abs_Error":0.0000035858,
+        "APE (%)":0.0000123691
     },
     {
         "item_id":"v1|167429902128|0",
         "title":"The Eminence in Shadow, Vol. 3 (Light Novel) by Aizawa, Daisuke| [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":11.41,
-        "Predicted":11.1853084564,
-        "Residual":0.2246915436,
-        "Abs_Error":0.2246915436,
-        "APE (%)":1.9692510393
+        "volume_count":6.0,
+        "Actual":44.95,
+        "Predicted":70.8759613037,
+        "Residual":-25.9259613037,
+        "Abs_Error":25.9259613037,
+        "APE (%)":57.6773332674
     },
     {
         "item_id":"v1|167429902418|0",
@@ -3221,35 +3101,35 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":19.98,
-        "Predicted":19.1059761047,
-        "Residual":0.8740238953,
-        "Abs_Error":0.8740238953,
-        "APE (%)":4.3744939703
+        "Actual":19.1,
+        "Predicted":17.7586097717,
+        "Residual":1.3413902283,
+        "Abs_Error":1.3413902283,
+        "APE (%)":7.0229854883
     },
     {
         "item_id":"v1|167429904903|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 2 (Light Novel): Volu [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":26.0,
-        "Actual":381.24,
-        "Predicted":367.3086242676,
-        "Residual":13.9313757324,
-        "Abs_Error":13.9313757324,
-        "APE (%)":3.6542271882
+        "volume_count":1.0,
+        "Actual":8.35,
+        "Predicted":12.1469812393,
+        "Residual":-3.7969812393,
+        "Abs_Error":3.7969812393,
+        "APE (%)":45.4728292134
     },
     {
         "item_id":"v1|167429906149|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 6 (Light Novel): Volu [Royal Edition]",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":1.0,
-        "Actual":16.7,
-        "Predicted":13.4872512817,
-        "Residual":3.2127487183,
-        "Abs_Error":3.2127487183,
-        "APE (%)":19.238016277
+        "volume_count":18.0,
+        "Actual":149.9,
+        "Predicted":118.5779495239,
+        "Residual":31.3220504761,
+        "Abs_Error":31.3220504761,
+        "APE (%)":20.8952971822
     },
     {
         "item_id":"v1|167556769650|0",
@@ -3257,11 +3137,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.91,
-        "Predicted":24.6500053406,
-        "Residual":-1.7400053406,
-        "Abs_Error":1.7400053406,
-        "APE (%)":7.59496002
+        "Actual":16.33,
+        "Predicted":17.7586097717,
+        "Residual":-1.4286097717,
+        "Abs_Error":1.4286097717,
+        "APE (%)":8.748375822
     },
     {
         "item_id":"v1|168187331214|0",
@@ -3269,11 +3149,11 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.53,
-        "Predicted":12.3259763718,
-        "Residual":0.2040236282,
-        "Abs_Error":0.2040236282,
-        "APE (%)":1.6282811511
+        "Actual":12.83,
+        "Predicted":13.6428976059,
+        "Residual":-0.8128976059,
+        "Abs_Error":0.8128976059,
+        "APE (%)":6.3359127506
     },
     {
         "item_id":"v1|168189157062|0",
@@ -3281,47 +3161,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.51,
-        "Predicted":18.2618103027,
-        "Residual":1.2481896973,
-        "Abs_Error":1.2481896973,
-        "APE (%)":6.3976919388
-    },
-    {
-        "item_id":"v1|168200534720|0",
-        "title":"Konosuba: God's Blessing on This Wonderful World!, Vol. 3 (light novel): You...",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":39.99,
-        "Predicted":11.6815090179,
-        "Residual":28.3084909821,
-        "Abs_Error":28.3084909821,
-        "APE (%)":70.7889246863
+        "Actual":12.26,
+        "Predicted":12.2530384064,
+        "Residual":0.0069615936,
+        "Abs_Error":0.0069615936,
+        "APE (%)":0.0567829823
     },
     {
         "item_id":"v1|168317541725|0",
         "title":"Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense., Vol. 9 (light nov",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":26.26,
-        "Predicted":22.2344112396,
-        "Residual":4.0255887604,
-        "Abs_Error":4.0255887604,
-        "APE (%)":15.3297363304
+        "volume_count":13.0,
+        "Actual":195.0,
+        "Predicted":223.1386413574,
+        "Residual":-28.1386413574,
+        "Abs_Error":28.1386413574,
+        "APE (%)":14.430072491
     },
     {
         "item_id":"v1|168339397609|0",
         "title":"Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense., Vol. 8 (light...",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":24.28,
-        "Predicted":247.9160308838,
-        "Residual":-223.6360308838,
-        "Abs_Error":223.6360308838,
-        "APE (%)":921.0709673962
+        "volume_count":1.0,
+        "Actual":18.52,
+        "Predicted":20.5133838654,
+        "Residual":-1.9933838654,
+        "Abs_Error":1.9933838654,
+        "APE (%)":10.7634118
     },
     {
         "item_id":"v1|168381610595|0",
@@ -3329,11 +3197,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":21.19,
-        "Predicted":22.5197219849,
-        "Residual":-1.3297219849,
-        "Abs_Error":1.3297219849,
-        "APE (%)":6.2752335293
+        "Actual":12.31,
+        "Predicted":14.5781669617,
+        "Residual":-2.2681669617,
+        "Abs_Error":2.2681669617,
+        "APE (%)":18.4254018007
     },
     {
         "item_id":"v1|168388358313|0",
@@ -3341,11 +3209,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":5.37,
-        "Predicted":11.2497005463,
-        "Residual":-5.8797005463,
-        "Abs_Error":5.8797005463,
-        "APE (%)":109.4916302843
+        "Actual":14.6,
+        "Predicted":15.6525478363,
+        "Residual":-1.0525478363,
+        "Abs_Error":1.0525478363,
+        "APE (%)":7.2092317555
     },
     {
         "item_id":"v1|168392397061|0",
@@ -3353,11 +3221,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.62,
-        "Predicted":17.2716159821,
-        "Residual":1.3483840179,
-        "Abs_Error":1.3483840179,
-        "APE (%)":7.2415897849
+        "Actual":27.52,
+        "Predicted":23.4329147339,
+        "Residual":4.0870852661,
+        "Abs_Error":4.0870852661,
+        "APE (%)":14.8513272751
     },
     {
         "item_id":"v1|168506448251|0",
@@ -3365,11 +3233,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":19.95,
-        "Predicted":17.56665802,
-        "Residual":2.38334198,
-        "Abs_Error":2.38334198,
-        "APE (%)":11.9465763408
+        "Actual":12.75,
+        "Predicted":13.304145813,
+        "Residual":-0.554145813,
+        "Abs_Error":0.554145813,
+        "APE (%)":4.3462416705
     },
     {
         "item_id":"v1|168522569876|0",
@@ -3377,11 +3245,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":14.9,
-        "Predicted":14.1030025482,
-        "Residual":0.7969974518,
-        "Abs_Error":0.7969974518,
-        "APE (%)":5.3489761865
+        "Actual":19.31,
+        "Predicted":18.6626358032,
+        "Residual":0.6473641968,
+        "Abs_Error":0.6473641968,
+        "APE (%)":3.3524815991
     },
     {
         "item_id":"v1|168523853370|0",
@@ -3389,11 +3257,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":11.65,
-        "Predicted":20.0951461792,
-        "Residual":-8.4451461792,
-        "Abs_Error":8.4451461792,
-        "APE (%)":72.4905251433
+        "Actual":13.85,
+        "Predicted":13.8547782898,
+        "Residual":-0.0047782898,
+        "Abs_Error":0.0047782898,
+        "APE (%)":0.0345002873
     },
     {
         "item_id":"v1|168524079754|0",
@@ -3401,59 +3269,59 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.83,
-        "Predicted":13.4872512817,
-        "Residual":-0.6572512817,
-        "Abs_Error":0.6572512817,
-        "APE (%)":5.1227691484
+        "Actual":25.28,
+        "Predicted":10.5044727325,
+        "Residual":14.7755272675,
+        "Abs_Error":14.7755272675,
+        "APE (%)":58.4474971023
     },
     {
         "item_id":"v1|168546427861|0",
         "title":"Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense., Vol. 7 (light nov",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":11.0,
-        "Predicted":14.8311319351,
-        "Residual":-3.8311319351,
-        "Abs_Error":3.8311319351,
-        "APE (%)":34.8284721375
+        "volume_count":10.0,
+        "Actual":112.71,
+        "Predicted":113.0951080322,
+        "Residual":-0.3851080322,
+        "Abs_Error":0.3851080322,
+        "APE (%)":0.3416804474
     },
     {
         "item_id":"v1|168550143065|0",
         "title":"Overlord Light Novel Bundle - Vol. 1-13 Hardcover English",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":8.91,
-        "Predicted":12.3819704056,
-        "Residual":-3.4719704056,
-        "Abs_Error":3.4719704056,
-        "APE (%)":38.9671201524
+        "volume_count":17.0,
+        "Actual":157.99,
+        "Predicted":138.8481292725,
+        "Residual":19.1418707275,
+        "Abs_Error":19.1418707275,
+        "APE (%)":12.1158748829
     },
     {
         "item_id":"v1|168553054716|0",
         "title":"Sword Art Online 12 (light novel): Alicization Rising (Volume 12)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":26.99,
-        "Predicted":12.1257333755,
-        "Residual":14.8642666245,
-        "Abs_Error":14.8642666245,
-        "APE (%)":55.0732368449
+        "volume_count":10.0,
+        "Actual":175.0,
+        "Predicted":103.514503479,
+        "Residual":71.485496521,
+        "Abs_Error":71.485496521,
+        "APE (%)":40.8488551549
     },
     {
         "item_id":"v1|168561423851|0",
         "title":"Overlord, Vol. 8 (light novel): The Two Leaders (Volume 8)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":13.0,
-        "Actual":141.58,
-        "Predicted":137.4120178223,
-        "Residual":4.1679821777,
-        "Abs_Error":4.1679821777,
-        "APE (%)":2.9439060445
+        "volume_count":12.0,
+        "Actual":119.9,
+        "Predicted":114.4987258911,
+        "Residual":5.4012741089,
+        "Abs_Error":5.4012741089,
+        "APE (%)":4.5048157705
     },
     {
         "item_id":"v1|168563337932|0",
@@ -3461,23 +3329,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":13.6,
-        "Predicted":12.1845760345,
-        "Residual":1.4154239655,
-        "Abs_Error":1.4154239655,
-        "APE (%)":10.4075291578
+        "Actual":11.38,
+        "Predicted":11.5562801361,
+        "Residual":-0.1762801361,
+        "Abs_Error":0.1762801361,
+        "APE (%)":1.5490345879
     },
     {
         "item_id":"v1|168563337965|0",
         "title":"Sword Art Online 11 (light novel): Alicization Turning (Volume 11)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":17.77,
-        "Predicted":17.8584060669,
-        "Residual":-0.0884060669,
-        "Abs_Error":0.0884060669,
-        "APE (%)":0.4975017833
+        "volume_count":7.0,
+        "Actual":149.0,
+        "Predicted":145.9427032471,
+        "Residual":3.0572967529,
+        "Abs_Error":3.0572967529,
+        "APE (%)":2.0518770154
     },
     {
         "item_id":"v1|168570713831|0",
@@ -3485,11 +3353,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.95,
-        "Predicted":12.0164985657,
-        "Residual":0.9335014343,
-        "Abs_Error":0.9335014343,
-        "APE (%)":7.2085052844
+        "Actual":26.75,
+        "Predicted":18.3544120789,
+        "Residual":8.3955879211,
+        "Abs_Error":8.3955879211,
+        "APE (%)":31.3853754061
     },
     {
         "item_id":"v1|168573025602|0",
@@ -3497,11 +3365,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":20.4,
-        "Predicted":20.710603714,
-        "Residual":-0.310603714,
-        "Abs_Error":0.310603714,
-        "APE (%)":1.5225672254
+        "Actual":7.0,
+        "Predicted":12.1039085388,
+        "Residual":-5.1039085388,
+        "Abs_Error":5.1039085388,
+        "APE (%)":72.912979126
     },
     {
         "item_id":"v1|168574827254|0",
@@ -3509,11 +3377,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.99,
-        "Predicted":13.9367694855,
-        "Residual":-0.9467694855,
-        "Abs_Error":0.9467694855,
-        "APE (%)":7.2884486949
+        "Actual":22.58,
+        "Predicted":14.098282814,
+        "Residual":8.481717186,
+        "Abs_Error":8.481717186,
+        "APE (%)":37.5629636226
     },
     {
         "item_id":"v1|168575993161|0",
@@ -3521,23 +3389,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.66,
-        "Predicted":12.0164985657,
-        "Residual":0.6435014343,
-        "Abs_Error":0.6435014343,
-        "APE (%)":5.0829497182
+        "Actual":25.54,
+        "Predicted":18.3858718872,
+        "Residual":7.1541281128,
+        "Abs_Error":7.1541281128,
+        "APE (%)":28.0114648112
     },
     {
         "item_id":"v1|168575993173|0",
         "title":"Classroom of the Elite (Light Novel) Vol. 3",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":28.0,
-        "Actual":229.99,
-        "Predicted":55.9534301758,
-        "Residual":174.0365698242,
-        "Abs_Error":174.0365698242,
-        "APE (%)":75.6713638959
+        "volume_count":1.0,
+        "Actual":32.99,
+        "Predicted":24.5136642456,
+        "Residual":8.4763357544,
+        "Abs_Error":8.4763357544,
+        "APE (%)":25.6936518775
     },
     {
         "item_id":"v1|168581985866|0",
@@ -3545,11 +3413,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":26.67,
-        "Predicted":25.46641922,
-        "Residual":1.20358078,
-        "Abs_Error":1.20358078,
-        "APE (%)":4.5128638171
+        "Actual":19.99,
+        "Predicted":13.2236566544,
+        "Residual":6.7663433456,
+        "Abs_Error":6.7663433456,
+        "APE (%)":33.8486410487
     },
     {
         "item_id":"v1|168596188756|0",
@@ -3557,23 +3425,23 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":28.99,
-        "Predicted":25.2103481293,
-        "Residual":3.7796518707,
-        "Abs_Error":3.7796518707,
-        "APE (%)":13.0377780984
+        "Actual":14.39,
+        "Predicted":13.3268089294,
+        "Residual":1.0631910706,
+        "Abs_Error":1.0631910706,
+        "APE (%)":7.3884021581
     },
     {
         "item_id":"v1|168599137130|0",
         "title":"Classroom of the Elite Light Novel English Volume 1-11.5 Complete Set Series",
         "is_boxset":true,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":15.13,
-        "Predicted":13.2874450684,
-        "Residual":1.8425549316,
-        "Abs_Error":1.8425549316,
-        "APE (%)":12.1781555297
+        "volume_count":10.0,
+        "Actual":120.0,
+        "Predicted":110.633682251,
+        "Residual":9.366317749,
+        "Abs_Error":9.366317749,
+        "APE (%)":7.8052647909
     },
     {
         "item_id":"v1|168603717552|0",
@@ -3581,35 +3449,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.13,
-        "Predicted":24.766664505,
-        "Residual":-2.636664505,
-        "Abs_Error":2.636664505,
-        "APE (%)":11.9144351785
+        "Actual":19.99,
+        "Predicted":12.0421514511,
+        "Residual":7.9478485489,
+        "Abs_Error":7.9478485489,
+        "APE (%)":39.7591223056
     },
     {
         "item_id":"v1|168603718326|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 10, Magonote, Rifujin N",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":20.37,
-        "Predicted":17.8584060669,
-        "Residual":2.5115939331,
-        "Abs_Error":2.5115939331,
-        "APE (%)":12.3298671237
+        "volume_count":11.0,
+        "Actual":135.95,
+        "Predicted":123.3884811401,
+        "Residual":12.5615188599,
+        "Abs_Error":12.5615188599,
+        "APE (%)":9.2398079146
     },
     {
         "item_id":"v1|168606650966|0",
         "title":"Re:ZERO Starting Life in Another World Vol. 6 Novel Limited Edition w\/ Strap",
         "is_boxset":false,
         "is_special_edition":true,
-        "volume_count":19.0,
-        "Actual":167.0,
-        "Predicted":192.1882629395,
-        "Residual":-25.1882629395,
-        "Abs_Error":25.1882629395,
-        "APE (%)":15.0827921793
+        "volume_count":1.0,
+        "Actual":6.94,
+        "Predicted":12.4005041122,
+        "Residual":-5.4605041122,
+        "Abs_Error":5.4605041122,
+        "APE (%)":78.6816154502
     },
     {
         "item_id":"v1|168610385083|0",
@@ -3617,23 +3485,23 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":15.2,
-        "Predicted":19.1552200317,
-        "Residual":-3.9552200317,
-        "Abs_Error":3.9552200317,
-        "APE (%)":26.0211844193
+        "Actual":16.33,
+        "Predicted":16.6938533783,
+        "Residual":-0.3638533783,
+        "Abs_Error":0.3638533783,
+        "APE (%)":2.2281284648
     },
     {
         "item_id":"v1|168610385309|0",
         "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 21 - Rifujin Na - Paper",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":28.87,
-        "Predicted":34.108417511,
-        "Residual":-5.238417511,
-        "Abs_Error":5.238417511,
-        "APE (%)":18.1448476307
+        "volume_count":1.0,
+        "Actual":13.0,
+        "Predicted":17.7586097717,
+        "Residual":-4.7586097717,
+        "Abs_Error":4.7586097717,
+        "APE (%)":36.6046905518
     },
     {
         "item_id":"v1|175310467833|0",
@@ -3641,11 +3509,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":12.48,
-        "Predicted":11.8480939865,
-        "Residual":0.6319060135,
-        "Abs_Error":0.6319060135,
-        "APE (%)":5.0633494671
+        "Actual":13.35,
+        "Predicted":13.8547782898,
+        "Residual":-0.5047782898,
+        "Abs_Error":0.5047782898,
+        "APE (%)":3.781110785
     },
     {
         "item_id":"v1|175464254847|0",
@@ -3653,11 +3521,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":12.36,
-        "Predicted":10.4976072311,
-        "Residual":1.8623927689,
-        "Abs_Error":1.8623927689,
-        "APE (%)":15.0679026607
+        "Actual":15.68,
+        "Predicted":18.0101089478,
+        "Residual":-2.3301089478,
+        "Abs_Error":2.3301089478,
+        "APE (%)":14.8603886974
     },
     {
         "item_id":"v1|175588449796|0",
@@ -3665,11 +3533,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.03,
-        "Predicted":9.8028593063,
-        "Residual":-1.7728593063,
-        "Abs_Error":1.7728593063,
-        "APE (%)":22.0779490204
+        "Actual":21.96,
+        "Predicted":20.3959255219,
+        "Residual":1.5640744781,
+        "Abs_Error":1.5640744781,
+        "APE (%)":7.1223792265
     },
     {
         "item_id":"v1|175588449968|0",
@@ -3677,11 +3545,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":5.37,
-        "Predicted":11.3194923401,
-        "Residual":-5.9494923401,
-        "Abs_Error":5.9494923401,
-        "APE (%)":110.7912912493
+        "Actual":9.36,
+        "Predicted":10.894903183,
+        "Residual":-1.534903183,
+        "Abs_Error":1.534903183,
+        "APE (%)":16.3985382797
     },
     {
         "item_id":"v1|176243831263|0",
@@ -3689,11 +3557,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":24.65,
-        "Predicted":23.6303691864,
-        "Residual":1.0196308136,
-        "Abs_Error":1.0196308136,
-        "APE (%)":4.1364333209
+        "Actual":9.99,
+        "Predicted":36.8427619934,
+        "Residual":-26.8527619934,
+        "Abs_Error":26.8527619934,
+        "APE (%)":268.7964163504
     },
     {
         "item_id":"v1|176365536381|0",
@@ -3701,47 +3569,47 @@
         "is_boxset":true,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.15,
-        "Predicted":10.4881315231,
-        "Residual":-2.3381315231,
-        "Abs_Error":2.3381315231,
-        "APE (%)":28.6887303452
+        "Actual":51.08,
+        "Predicted":11.6975498199,
+        "Residual":39.3824501801,
+        "Abs_Error":39.3824501801,
+        "APE (%)":77.0995500784
     },
     {
         "item_id":"v1|176594166191|0",
         "title":"Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense Vol 13 light novel",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":40.0,
-        "Actual":301.34,
-        "Predicted":257.9554138184,
-        "Residual":43.3845861816,
-        "Abs_Error":43.3845861816,
-        "APE (%)":14.3972211395
+        "volume_count":1.0,
+        "Actual":10.87,
+        "Predicted":9.633644104,
+        "Residual":1.236355896,
+        "Abs_Error":1.236355896,
+        "APE (%)":11.3740192824
     },
     {
         "item_id":"v1|176847182792|0",
         "title":"Bofuri: I Don't Want to Get Hurt so I'll Max Out My Defense Vol 15 (light novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":16.0,
-        "Actual":147.97,
-        "Predicted":123.683555603,
-        "Residual":24.286444397,
-        "Abs_Error":24.286444397,
-        "APE (%)":16.4130867047
+        "volume_count":1.0,
+        "Actual":16.33,
+        "Predicted":16.4349842072,
+        "Residual":-0.1049842072,
+        "Abs_Error":0.1049842072,
+        "APE (%)":0.6428916543
     },
     {
         "item_id":"v1|177240487984|0",
         "title":"Sword Art Online Alternative Clover's Regret, Vol. 3 (light novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":23.12,
-        "Predicted":24.992559433,
-        "Residual":-1.872559433,
-        "Abs_Error":1.872559433,
-        "APE (%)":8.099305506
+        "volume_count":4.0,
+        "Actual":38.99,
+        "Predicted":45.8192825317,
+        "Residual":-6.8292825317,
+        "Abs_Error":6.8292825317,
+        "APE (%)":17.5154719973
     },
     {
         "item_id":"v1|177240488007|0",
@@ -3749,11 +3617,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":8.03,
-        "Predicted":10.3503742218,
-        "Residual":-2.3203742218,
-        "Abs_Error":2.3203742218,
-        "APE (%)":28.8963165853
+        "Actual":13.36,
+        "Predicted":13.8547782898,
+        "Residual":-0.4947782898,
+        "Abs_Error":0.4947782898,
+        "APE (%)":3.7034303128
     },
     {
         "item_id":"v1|177308009091|0",
@@ -3761,11 +3629,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":22.89,
-        "Predicted":20.1550865173,
-        "Residual":2.7349134827,
-        "Abs_Error":2.7349134827,
-        "APE (%)":11.9480711344
+        "Actual":42.36,
+        "Predicted":47.9066123962,
+        "Residual":-5.5466123962,
+        "Abs_Error":5.5466123962,
+        "APE (%)":13.0939858268
     },
     {
         "item_id":"v1|177308009093|0",
@@ -3773,11 +3641,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":17.3,
-        "Predicted":16.2180175781,
-        "Residual":1.0819824219,
-        "Abs_Error":1.0819824219,
-        "APE (%)":6.2542336525
+        "Actual":10.3,
+        "Predicted":8.914355278,
+        "Residual":1.385644722,
+        "Abs_Error":1.385644722,
+        "APE (%)":13.4528613785
     },
     {
         "item_id":"v1|177390920182|0",
@@ -3785,11 +3653,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":16.7,
-        "Predicted":13.3938493729,
-        "Residual":3.3061506271,
-        "Abs_Error":3.3061506271,
-        "APE (%)":19.7973091445
+        "Actual":27.52,
+        "Predicted":22.4566268921,
+        "Residual":5.0633731079,
+        "Abs_Error":5.0633731079,
+        "APE (%)":18.3988848398
     },
     {
         "item_id":"v1|177415537671|0",
@@ -3797,11 +3665,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":9.76,
-        "Predicted":13.0420007706,
-        "Residual":-3.2820007706,
-        "Abs_Error":3.2820007706,
-        "APE (%)":33.6270570755
+        "Actual":19.98,
+        "Predicted":19.1486034393,
+        "Residual":0.8313965607,
+        "Abs_Error":0.8313965607,
+        "APE (%)":4.1611439473
     },
     {
         "item_id":"v1|177422655793|0",
@@ -3809,35 +3677,35 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":64.99,
-        "Predicted":43.3816757202,
-        "Residual":21.6083242798,
-        "Abs_Error":21.6083242798,
-        "APE (%)":33.2486909983
+        "Actual":12.95,
+        "Predicted":17.7586097717,
+        "Residual":-4.8086097717,
+        "Abs_Error":4.8086097717,
+        "APE (%)":37.1321217894
     },
     {
         "item_id":"v1|177743762346|0",
         "title":"SPY CLASSROOM VOLUME 1 LIGHT NOVEL LILY OF THE GARDEN",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":26.0,
-        "Actual":309.9,
-        "Predicted":312.3686523438,
-        "Residual":-2.4686523438,
-        "Abs_Error":2.4686523438,
-        "APE (%)":0.7965964323
+        "volume_count":1.0,
+        "Actual":16.0,
+        "Predicted":17.7586097717,
+        "Residual":-1.7586097717,
+        "Abs_Error":1.7586097717,
+        "APE (%)":10.9913110733
     },
     {
         "item_id":"v1|177876122567|0",
         "title":"Overlord, Vol. 1 (light novel)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":195.56,
-        "Predicted":192.7528686523,
-        "Residual":2.8071313477,
-        "Abs_Error":2.8071313477,
-        "APE (%)":1.4354322702
+        "volume_count":16.0,
+        "Actual":153.0,
+        "Predicted":152.4071960449,
+        "Residual":0.5928039551,
+        "Abs_Error":0.5928039551,
+        "APE (%)":0.3874535654
     },
     {
         "item_id":"v1|177988537409|0",
@@ -3845,11 +3713,11 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":18.0,
-        "Predicted":18.4222106934,
-        "Residual":-0.4222106934,
-        "Abs_Error":0.4222106934,
-        "APE (%)":2.3456149631
+        "Actual":15.75,
+        "Predicted":12.789932251,
+        "Residual":2.960067749,
+        "Abs_Error":2.960067749,
+        "APE (%)":18.7940809462
     },
     {
         "item_id":"v1|177994234788|0",
@@ -3857,11 +3725,11 @@
         "is_boxset":false,
         "is_special_edition":true,
         "volume_count":1.0,
-        "Actual":28.99,
-        "Predicted":24.6919250488,
-        "Residual":4.2980749512,
-        "Abs_Error":4.2980749512,
-        "APE (%)":14.8260605422
+        "Actual":11.77,
+        "Predicted":12.2530384064,
+        "Residual":-0.4830384064,
+        "Abs_Error":0.4830384064,
+        "APE (%)":4.1039796633
     },
     {
         "item_id":"v1|177994303317|0",
@@ -3869,94 +3737,22 @@
         "is_boxset":false,
         "is_special_edition":false,
         "volume_count":1.0,
-        "Actual":28.99,
-        "Predicted":30.2878379822,
-        "Residual":-1.2978379822,
-        "Abs_Error":1.2978379822,
-        "APE (%)":4.4768471272
+        "Actual":55.24,
+        "Predicted":80.8803939819,
+        "Residual":-25.6403939819,
+        "Abs_Error":25.6403939819,
+        "APE (%)":46.4163540585
     },
     {
         "item_id":"v1|178011804972|0",
         "title":"The Angel Next Door Spoils Me Rotten, Vol. 2 (light novel) (Volume 2)",
         "is_boxset":false,
         "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":7.41,
-        "Predicted":11.9665031433,
-        "Residual":-4.5565031433,
-        "Abs_Error":4.5565031433,
-        "APE (%)":61.49127049
-    },
-    {
-        "item_id":"v1|178011805565|0",
-        "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 5",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":499.0,
-        "Predicted":196.8788299561,
-        "Residual":302.1211700439,
-        "Abs_Error":302.1211700439,
-        "APE (%)":60.5453246581
-    },
-    {
-        "item_id":"v1|178011805573|0",
-        "title":"Mushoku Tensei: Jobless Reincarnation (Light Novel) Vol. 8",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":7.71,
-        "Predicted":14.9114742279,
-        "Residual":-7.2014742279,
-        "Abs_Error":7.2014742279,
-        "APE (%)":93.4043349923
-    },
-    {
-        "item_id":"v1|178038566850|0",
-        "title":"Mushoku Tensei: Jobless Reincarnation Softcover Light Novel Vol 8-9 English Lot",
-        "is_boxset":true,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":24.25,
-        "Predicted":21.4878540039,
-        "Residual":2.7621459961,
-        "Abs_Error":2.7621459961,
-        "APE (%)":11.3902927674
-    },
-    {
-        "item_id":"v1|178050391204|0",
-        "title":"Spy Classroom, Vol. 1 (light novel): Lily of the Garden (Volume 1), Takemachi, N",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":11.55,
-        "Predicted":17.1863746643,
-        "Residual":-5.6363746643,
-        "Abs_Error":5.6363746643,
-        "APE (%)":48.7997806433
-    },
-    {
-        "item_id":"v1|178061640017|0",
-        "title":"Spy Classroom, Vol. 10 (light novel): The High Plain of Sara (Volume 10) (Spy Cl",
-        "is_boxset":false,
-        "is_special_edition":false,
-        "volume_count":1.0,
-        "Actual":22.91,
-        "Predicted":22.1800041199,
-        "Residual":0.7299958801,
-        "Abs_Error":0.7299958801,
-        "APE (%)":3.1863635099
-    },
-    {
-        "item_id":"v1|178105239342|0",
-        "title":"Spy Classroom, Vol. 1 (Light Novel): Lily of the Garden Volume 1 by Takemachi",
-        "is_boxset":false,
-        "is_special_edition":false,
         "volume_count":3.0,
         "Actual":73.0,
-        "Predicted":84.3175048828,
-        "Residual":-11.3175048828,
-        "Abs_Error":11.3175048828,
-        "APE (%)":15.5034313463
+        "Predicted":92.3851394653,
+        "Residual":-19.3851394653,
+        "Abs_Error":19.3851394653,
+        "APE (%)":26.5549855689
     }
 ]
