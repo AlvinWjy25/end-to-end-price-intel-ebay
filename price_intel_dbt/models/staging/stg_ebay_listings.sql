@@ -80,10 +80,30 @@ joined as (
     left join simple_title_analysis s using (item_id)
 ),
 
+normalized as (
+    select
+        *,
+        regexp_replace(trim(title), '\s+', ' ', 'g') as normalized_title
+    from joined
+),
+
+flagged as (
+    select
+        *,
+        count(*) over (partition by normalized_title, price) as group_size
+    from normalized
+),
+
+deduplicate_1 as (
+    select distinct on (normalized_title, price) *
+    from flagged
+    order by normalized_title, price, fetched_at desc
+),
+
 
 deduplicated as (
     select distinct on (item_id) *
-    from joined
+    from deduplicate_1
     order by item_id, fetched_at desc
 ),
 
