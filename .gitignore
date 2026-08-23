@@ -16,7 +16,7 @@ logs/dbt_logs
 logs/pipeline_logs
 
 #notebook
-.notebook/temps
+notebook/temps
 
 #price_intel_dbt
 price_intel_dbt/target/
