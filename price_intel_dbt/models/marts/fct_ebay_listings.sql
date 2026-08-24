@@ -14,6 +14,11 @@ select
     seller_location,
     is_boxset,
     is_special_edition,
+    is_first_print,
+    total_bonus_count,
+    has_signature,
+    has_merch,
+    has_paper_extra,
     boxset_side_story_edition_included,
     standalone_side_story_edition,
     price,
@@ -24,6 +29,7 @@ select
     text_risk_score,
     price_risk_score
     total_risk_score,
+    is_ambiguous_bulk_pricing,
     risk_category,
     volume_confidence
 from source
