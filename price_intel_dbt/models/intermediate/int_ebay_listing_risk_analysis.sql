@@ -99,12 +99,49 @@ volume_extraction as (
         end as standalone_side_story_edition,
 
         case 
-            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|signed|obi|first print|first edition|royal|1st Print|sign|signed)'
+            when title ~* '(exclusive|bonus|special|platinum|collector|booklet|limited|fanbook|obi|royal)'
             then true
             else false
-        end as is_special_edition
+        end as is_special_edition,
+
+        case
+            when (title ~* '(first print|first edition|1st print| 1st edition)')
+            then true
+            else false
+        end as is_first_print,
+
+        case
+            when (description ~* '(sign|signed|autograph|autographed|直筆サイン)') or
+                 (title ~* '(sign|signed|autograph|autographed|直筆サイン)')
+            then true
+            else false
+        end as has_signature,
+
+        case
+            when (description ~* '(tapestry|standee|acrylic|figure|bonus)') or
+                 (title ~* '(tapestry|standee|acrylic|figure|bonus)')
+            then true
+            else false
+        end as has_merch,
+
+        case 
+            when (description ~* '(obi|booklet|drama cd|clear file)') or
+                 (title ~* '(obi|booklet|drama cd|clear file)')
+            then true
+            else false
+        end as has_paper_extra
 
     from source_data
+),
+
+count_total_bonus as (
+    select
+        *,
+        (COALESCE(has_signature, false)::INT + 
+         COALESCE(has_merch, false)::INT + 
+         COALESCE(has_paper_extra, false)::INT + 
+         COALESCE(is_first_print, false)::INT) AS total_bonus_count
+    from volume_extraction
 ),
 
 volume_resolved as (
@@ -174,7 +211,7 @@ volume_resolved as (
             else false
         end as title_desc_mismatch
 
-    from volume_extraction
+    from count_total_bonus
 ),
 
 metrics_calculation as (
