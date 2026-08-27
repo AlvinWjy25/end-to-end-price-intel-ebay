@@ -17,12 +17,15 @@ DBT_LOG_DIR = ROOT_DIR / "logs" / "dbt_logs"
 DBT_LOG_DIR.mkdir(parents=True, exist_ok=True)
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 
-print(f'ROOT DIR: {ROOT_DIR}\n')
+# print(f'ROOT DIR: {ROOT_DIR}\n')
 ARTIFACT_DIR = Path(ROOT_DIR / 'src' / 'artifacts')
 ARTIFACT_DIR.mkdir(parents = True, exist_ok = True)
 
 PREPROCESSED_DIR = Path(ARTIFACT_DIR / 'preprocessed' / 'regression')
 PREPROCESSED_DIR.mkdir(parents = True, exist_ok = True)
+
+PREPROCESSED_CLASSIFICATION_DIR = Path(ARTIFACT_DIR / 'preprocessed' / 'classification')
+PREPROCESSED_CLASSIFICATION_DIR.mkdir(parents = True, exist_ok = True)
 
 X_TRAIN_PATH = PREPROCESSED_DIR / 'X_train.parquet'
 X_TEST_PATH = PREPROCESSED_DIR / 'X_test.parquet'
@@ -33,15 +36,22 @@ DF_META_PATH = PREPROCESSED_DIR / 'df_meta.parquet'
 
 EVALUATION_DIR = Path(ARTIFACT_DIR / 'evaluation')
 EVALUATION_DIR.mkdir(parents = True, exist_ok = True)
+(EVALUATION_DIR / 'regression').mkdir(parents = True, exist_ok = True)
+(EVALUATION_DIR / 'classification').mkdir(parents = True, exist_ok = True)
 
 EVAL_SUMMARY_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_report.json'
 EVAL_DATAFRAME_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_dataframe.json'
+EVAL_PER_SPLIT_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_per_split.json'
 
 EVAL_SUMMARY_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_report.json'
 EVAL_DATAFRAME_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_dataframe.json'
 
+ARTIFACT_MODEL_PATH = Path(ARTIFACT_DIR / 'models')
+ARTIFACT_MODEL_PATH.mkdir(parents=True, exist_ok=True)
+
 MODEL_REGRESSION_PATH = Path(ARTIFACT_DIR / 'models' / 'final_regression.joblib')
 MODEL_CLASSIFICATION_PATH = Path(ARTIFACT_DIR / 'models' / 'final_classification.joblib')
+
 
 def setup_logger(run_type: str) -> logging.Logger:
     """
@@ -75,6 +85,34 @@ def setup_logger(run_type: str) -> logging.Logger:
         
     return logger
 
+numeric_features = [
+    'title_length', 
+    'title_word_count', 
+    'volume_count',
+    'text_risk_score',
+    'volume_tier_encoded',
+    'condition_encoded',
+    'total_bonus_count'
+]
+        
+categorical_features = [
+    'currency', 
+    'seller_location_grouped'
+]
+        
+boolean_features = [
+    'is_boxset', 
+    'is_special_edition', 
+    'boxset_side_story_edition_included', 
+    'standalone_side_story_edition',
+    'is_first_print',
+    'has_signature',
+    'has_merch',
+    'has_paper_extra',
+]
+        
+feature_cols = numeric_features + categorical_features + boolean_features
+target_col = 'price'
 
 class load_dataframe:
     def __init__(self):
@@ -103,9 +141,14 @@ class load_dataframe:
         return self.df_classification
     
     def fit(self):
-        self.create_connection()
-        df_regression = self.load_regression_data()
-        df_classification = self.load_classification_data()
+        try:
+            self.create_connection()
+            df_regression = self.load_regression_data()
+            df_classification = self.load_classification_data()
+        except Exception as e:
+            print("Unable to connect to database, make sure it's Online on Docker!")
+            raise e
+            
         return df_regression, df_classification
 
 
