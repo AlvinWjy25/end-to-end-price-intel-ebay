@@ -8,16 +8,19 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.compose import ColumnTransformer
 
+
 #DB Postgres Connection
 root_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_dir))
 from config.config_script import load_dataframe, setup_logger, X_TRAIN_PATH, X_TEST_PATH, Y_TRAIN_PATH, Y_TEST_PATH, Y_PRED_PATH, DF_META_PATH
+from config.config_script import numeric_features, categorical_features, boolean_features, feature_cols, target_col
 
 class preprocess_regression(load_dataframe):
     def __init__(self, random_state=42):
         super().__init__()
         self.logger = setup_logger('preprocessor_run')
         self.random_state = random_state
+        self.logger.info(f"ROOT DIR: {root_dir}")
         self.logger.info("Initialized preprocessing class.")
     
     def ordinal_encoder(self, df):
@@ -45,7 +48,7 @@ class preprocess_regression(load_dataframe):
 
         condition_map = {
             'Acceptable': 1,
-            'Used': 2,
+            'Used': 3,
             'Good': 3,
             'Very Good': 4,
             'Like New': 5,
@@ -61,42 +64,28 @@ class preprocess_regression(load_dataframe):
         df['volume_tier'] = df['volume_count'].apply(get_volume_tier)
         df['volume_tier_encoded'] = df['volume_count'].apply(get_volume_tier_encoded)
 
+        location_counts = df['seller_location'].value_counts()
+        rare_locations = location_counts[location_counts < 30].index
+
+        df['seller_location_grouped'] = df['seller_location'].replace(
+            rare_locations, 'Other'
+        )
+
         df = df.drop(columns=['condition'])
         self.logger.info("Ordinal encoding completed.")
         return df
     
     def split_data(self, df_price_model):
         self.logger.info("Preparing model features and splitting data...")
-        self.numeric_features = [
-            'title_length', 
-            'title_word_count', 
-            'volume_count',
-            'text_risk_score',
-            'volume_tier_encoded',
-            'condition_encoded'
-        ]
 
-        self.categorical_features = [
-            'currency', 
-            'seller_location'
-        ]
-
-        self.boolean_features = [
-            'is_boxset', 
-            'is_special_edition', 
-            'boxset_side_story_edition_included', 
-            'standalone_side_story_edition'
-        ]
-
-        self.feature_cols = self.numeric_features + self.categorical_features + self.boolean_features
-        target_col = 'price'
-
-        # Exclude volatile ambigous data row
-        bulk_lot_mask = (df_price_model['volume_count'] >= 5) & (df_price_model['price_per_volume'] < 4.4)
-        df_price_model = df_price_model[~bulk_lot_mask].copy()
+        self.numeric_features = numeric_features
+        self.categorical_features = categorical_features
+        self.boolean_features = boolean_features
+        self.feature_cols = feature_cols
+        self.target_col = target_col
 
         self.X = df_price_model[self.feature_cols]
-        self.y = df_price_model[target_col]
+        self.y = df_price_model[self.target_col]
 
         self.df_meta = df_price_model[['item_id', 'title', 'is_special_edition', 'is_boxset']]
 
@@ -110,7 +99,27 @@ class preprocess_regression(load_dataframe):
         self.logger.info("Train-test split completed.")
 
         return self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features
-    
+
+    def final_filtering(self, df_price_model):
+
+        try:
+            self.logger.info("Stage 1 Filtering: Delete High Variance Item with Price >= 999...")
+            bulk_lot_mask = (df_price_model['price'] >= 999) 
+            self.logger.info(f"Total rows before exclusion: {len(df_price_model)}")
+            self.logger.info(f"Rows with volume > 1000: {bulk_lot_mask.sum()}")
+            df_price_model = df_price_model[~bulk_lot_mask].copy()
+
+            self.logger.info("Stage 2 Filtering: Delete ambigous price_per_volume price...")
+            self.logger.info(f"Rows after exclusion: {len(df_price_model)}")
+            bulk_lot_mask = (df_price_model['volume_count'] >= 5) & (df_price_model['price_per_volume'] < 4.4) #cut off
+            print(f"Total rows before exclusion: {len(df_price_model)}")
+            print(f"Rows matching bulk-lot ambiguous pattern (volume_count >= 20, price_per_volume < 5): {bulk_lot_mask.sum()}")
+            df_price_model = df_price_model[~bulk_lot_mask].copy()
+            print(f"Rows after exclusion: {len(df_price_model)}")
+        except Exception as e:
+            self.logger.error("Final Dataframe Filtering is unsuccesfull..")
+
+        return df_price_model
     @staticmethod
     def overview_dataframe(df):
         logger = setup_logger('preprocessor_run')
@@ -154,11 +163,12 @@ class preprocess_regression(load_dataframe):
         else:
             self.logger.error("[FAIL TEST] Verification tests failed. Halting execution.")
             raise ValueError(f"Preprocessing checks failed: Test1={test_1}, Test2={test_2}, Test3={test_3}")
-    
+
     def fit_transform(self, df_raw):
         self.logger.info("Starting comprehensive preprocessing pipeline.")
         self.df_price_model = df_raw[(df_raw['risk_category'] != 'High Risk') & (df_raw['volume_confidence'] != 'low')]
         self.df_price_model = self.ordinal_encoder(self.df_price_model)
+        self.df_price_model = self.final_filtering(self.df_price_model)
         self.X_train, self.X_test, self.y_train, self.y_test, self.indices_train, self.indices_test, self.df_meta, self.feature_cols, self.categorical_features, self.boolean_features, self.numeric_features = self.split_data(self.df_price_model)
         
         self.final_check()
