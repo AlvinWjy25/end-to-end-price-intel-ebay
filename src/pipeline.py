@@ -14,8 +14,9 @@ from src.train import Pipeline_train
 from src.evaluate import Pipeline_evaluate
 
 if __name__ == "__main__":
-    logger = setup_logger('preprocessor_run')
-    logger.info("Running preprocessor.py directly...")
+    logger = setup_logger('pipeline_run')
+    logger.info(f"[preprocessor.py]")
+    logger.info("=" * 100)
     try:
         df_regression, df_classification = preprocess_regression().fit()
         
@@ -30,6 +31,9 @@ if __name__ == "__main__":
         logger.info("Preprocessed data saved to artifacts/preprocessed directory.")
     except Exception as e:
         logger.exception(f"Unhandled exception during direct run: {e}")
+        raise e
 
+    logger.info("[train.py & evaluate.py]")
+    logger.info("=" * 100)
     pipeline_train = Pipeline_train()
     pipeline_train.fit_model_regression(verbose=0)
