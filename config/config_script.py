@@ -41,7 +41,7 @@ EVALUATION_DIR.mkdir(parents = True, exist_ok = True)
 
 EVAL_SUMMARY_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_report.json'
 EVAL_DATAFRAME_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_dataframe.json'
-EVAL_PER_SPLIT_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_per_split.json'
+EVAL_RANDOM_SEED_REGRESSION_PATH = EVALUATION_DIR / 'regression' / 'evaluation_random_seed.json'
 
 EVAL_SUMMARY_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_report.json'
 EVAL_DATAFRAME_CLASSIFICATION_PATH = EVALUATION_DIR / 'classification' / 'evaluation_dataframe.json'
