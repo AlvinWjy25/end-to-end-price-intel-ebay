@@ -1,0 +1,44 @@
+# ============================================================
+# profiles.yml.example
+# ============================================================
+# Ini TEMPLATE yang aman untuk di-commit ke Git -- tidak berisi
+# credential asli. Untuk pakai:
+#   1. Copy file ini jadi 'profiles.yml' (nama tanpa '.example')
+#   2. Isi environment variable DBT_USER/DBT_PASSWORD di shell kamu,
+#      atau ganti langsung value di bawah untuk dev lokal
+#   3. profiles.yml (tanpa .example) TIDAK akan ter-commit karena
+#      sudah ada di .gitignore
+#
+# Lokasi file profiles.yml yang AKTIF dipakai dbt: ~/.dbt/profiles.yml
+# (bukan di dalam folder project) -- copy ke sana, atau set
+# DBT_PROFILES_DIR env var untuk pointing ke lokasi lain.
+# ============================================================
+
+price_intel_dbt:
+  target: dev
+  outputs:
+
+    dev:
+      type: postgres
+      host: localhost
+      port: 5432
+      user: "{{ env_var('DBT_USER', 'postgres') }}"
+      password: "{{ env_var('DBT_PASSWORD') }}"
+      dbname: "{{ env_var('DBT_DBNAME', 'price_intel_dbt') }}"
+      schema: public
+      threads: 4
+
+    # Target 'ci' -- dipakai oleh GitHub Actions workflow, connect ke
+    # Postgres service container yang hidup sementara selama CI run.
+    # Kredensial di sini BUKAN rahasia sungguhan (database-nya dibuang
+    # begitu CI selesai), jadi aman didefinisikan langsung di workflow
+    # YAML sebagai env var biasa, tidak perlu GitHub Secrets.
+    ci:
+      type: postgres
+      host: "{{ env_var('DBT_HOST', 'localhost') }}"
+      port: "{{ env_var('DBT_PORT', 5432) | as_number }}"
+      user: "{{ env_var('DBT_USER', 'postgres') }}"
+      password: "{{ env_var('DBT_PASSWORD', 'ci_test_password') }}"
+      dbname: "{{ env_var('DBT_DBNAME', 'price_intel_ci') }}"
+      schema: public
+      threads: 4

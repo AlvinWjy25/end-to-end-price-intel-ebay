@@ -4,6 +4,10 @@ __pycache__/
 .venv*/
 .antigravity/
 .vscode/
+~/price_intel_dbt/profiles.yml
+dbt_packages/
+target/
+.env
 
 # directory:
 
