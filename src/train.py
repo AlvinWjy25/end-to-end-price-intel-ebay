@@ -143,7 +143,7 @@ class Pipeline_train(Pipeline_evaluate):
             self.logger.error(f"Error calling evaluation.py through super().__init__(): {e}")
             raise
 
-        self.logger.info("Starting evaluation pipeline.")
+        self.logger.info("Model training completed succesfully!")
 
         self.evaluate = Pipeline_evaluate()
         self.evaluate.evaluate_regression(verbose, cv_results=self.cv_results, best_index=self.best_index, pipeline=self.pipeline_regression, grid_search = self.grid_search)
