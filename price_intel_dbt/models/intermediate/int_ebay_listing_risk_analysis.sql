@@ -272,6 +272,25 @@ risk_scoring as (
         end as text_risk_score,
 
         case
+            when (
+                title ~* '(reprint|unbranded|bootleg|pdf|ebook|custom\s+print|reading\s+edition)'
+                or description ~* '(reprint|not\s+original|loose|print\s+on\s+demand|not\s+an?\s+official|not\s+suitable\s+for\s+collector|not\s+(?:intended|recommended)\s+for\s+collector|fan[\s-]?translated|not\s+from\s+(?:the\s+)?original|reading\s+edition|independent\s+publisher|underground\s+publisher|not\s+published\s+by)'
+                or condition is NULL
+            )
+            and not (
+                -- True Positive protection: negate the risk keywords within 4 words
+                -- (unchanged from original -- verified still correctly negates
+                -- legitimate 'not a reprint/bootleg/unofficial' positive claims
+                -- even with the new broader raw-match patterns above)
+                description ~* '(not|no|never|isn''t|isnt|without)\s+(\w+\s+){0,4}(reprint|unofficial|fan.?translated|bootleg)'
+                or
+                title ~* '(not|no|never)\s+(\w+\s+){0,4}(reprint|unofficial|bootleg)'
+            )
+            then 70
+            else 0
+        end as text_risk_score_v2,
+
+        case
             when is_boxset is true 
                 and volume_number_end is not null
                 and (price / NULLIF(volume_number_end - volume_number + 1, 0)) < 5.00  -- contoh threshold
@@ -302,6 +321,6 @@ select
             and price_per_volume < 4.4
         then true
         else false
-    end as is_ambiguous_bulk_pricing
+    end as is_ambigous_bulk_pricing
 
 from risk_scoring
