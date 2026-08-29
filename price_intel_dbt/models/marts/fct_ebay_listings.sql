@@ -14,6 +14,7 @@ select
     seller_location,
     is_boxset,
     is_special_edition,
+    -- is_bonus_added_by_third_party,
     is_first_print,
     total_bonus_count,
     has_signature,
@@ -27,9 +28,10 @@ select
     volume_number_end,
     volume_count,
     text_risk_score,
-    price_risk_score
+    text_risk_score_v2,
+    price_risk_score,
     total_risk_score,
-    is_ambiguous_bulk_pricing,
+    is_ambigous_bulk_pricing,
     risk_category,
     volume_confidence
 from source
