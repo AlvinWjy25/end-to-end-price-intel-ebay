@@ -11,7 +11,7 @@ from datetime import datetime
 root_dir = Path(__file__).resolve().parent.parent
 sys.path.append(str(root_dir))
 from sklearn.model_selection import train_test_split
-from config.config_script import load_dataframe, setup_logger, X_TRAIN_PATH, X_TEST_PATH, Y_TRAIN_PATH, Y_TEST_PATH, Y_PRED_PATH, DF_META_PATH, EVAL_SUMMARY_REGRESSION_PATH, EVAL_DATAFRAME_REGRESSION_PATH, MODEL_REGRESSION_PATH, EVAL_PER_SPLIT_REGRESSION_PATH
+from config.config_script import load_dataframe, setup_logger, X_TRAIN_PATH, X_TEST_PATH, Y_TRAIN_PATH, Y_TEST_PATH, Y_PRED_PATH, DF_META_PATH, EVAL_SUMMARY_REGRESSION_PATH, EVAL_DATAFRAME_REGRESSION_PATH, MODEL_REGRESSION_PATH, EVAL_RANDOM_SEED_REGRESSION_PATH
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, mean_absolute_percentage_error
 
 class Pipeline_evaluate():
@@ -39,7 +39,7 @@ class Pipeline_evaluate():
         denominator = np.where(denominator == 0, epsilon, denominator)
         return np.mean(np.abs(y_pred - y_true) / denominator) * 100
 
-    def evaluate_per_split(self, grid_search):
+    def evaluate_random_split(self, grid_search):
         self.logger.info("Starting Evaluation on different seeds ([1, 2, 3, 4, 5, 42, 100])...")
         self.X_full = pd.concat([self.X_train_regression, self.X_test_regression], axis=0)
         self.y_full = pd.concat([self.y_train_regression, self.y_test_regression]).squeeze()
@@ -109,10 +109,10 @@ class Pipeline_evaluate():
             self.logger.info(f"Evaluation metrics saved to {EVAL_SUMMARY_REGRESSION_PATH}")
 
             try:
-                self.summary_df.to_json(EVAL_PER_SPLIT_REGRESSION_PATH, orient = 'records', indent = 4)
-                self.logger.info(f"Evaluation metrics saved to {EVAL_PER_SPLIT_REGRESSION_PATH}")
+                self.summary_df.to_json(EVAL_RANDOM_SEED_REGRESSION_PATH, orient = 'records', indent = 4)
+                self.logger.info(f"Evaluation metrics saved to {EVAL_RANDOM_SEED_REGRESSION_PATH}")
             except Exception as e:
-                self.logger.info(f"[SKIP per_split evaluation]: To save evaluation_per_split.json, you must run pipeline.py or train.py directly!")
+                self.logger.info(f"[SKIP RANDOM SEED evaluation]: To save evaluation_random_seed.json, you must run pipeline.py or train.py directly!")
 
             self.logger.info(f"Printing evaluation report into JSON format...")
             self.results_regression.to_json(EVAL_DATAFRAME_REGRESSION_PATH, orient='records', indent=4)
@@ -184,7 +184,12 @@ class Pipeline_evaluate():
 
         if(grid_search != None):
             self.logger.info(f"Evaluating Tuned Pipeline Regression random seed split:")
-            self.summary_df = self.evaluate_per_split(grid_search)
+            try:
+                self.summary_df = self.evaluate_random_split(grid_search)
+            except Exception as e:
+                self.logger.info(f"Fail evaluating tuned pipeline with random seed split!")
+                self.logger.error(f"{e}")
+                raise e
         else:
             self.logger.info(f"Tuned Pipeline random split evaluation can only be triggered by running pipeline.py")
         
@@ -210,7 +215,7 @@ class Pipeline_evaluate():
 
         if(verbose == 1):
             self.logger.info(f"Displaying top 10 biggest error...")
-            print(self.results_regression.sort_values(by='Abs_Error', ascending=False).head(10))
+            self.logger.info(f"{self.results_regression.sort_values(by='Abs_Error', ascending=False).head(10)}")
         
         self.logger.info(f"[evaluate.py] Evaluation succesfully completed.")
         self.output_json_regression()
