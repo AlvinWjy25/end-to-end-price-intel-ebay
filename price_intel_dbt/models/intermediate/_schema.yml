@@ -111,8 +111,14 @@ models:
 
       # Risk Score Calculation
       - name: text_risk_score
-        description: "Accumulated risk score from text anomalies"
+        description: "Accumulated risk score from text anomalies (older version)"
+      - name: text_risk_score_v2
+        description: "Updated text_risk_score for better classification (02_EDA.ipynb & 02_EDA_unsupervised.ipynb)"
       - name: price_risk_score
         description: "Accumulated risk score from price anomalies"
       - name: total_risk_score
         description: "Accumulated risk score from text and price anomalies"
+      - name: is_ambigous_bulk_pricing
+        description: > 
+          "filtering suspicously low price_per_volume listings, with volume_count atleast 20 or more
+          and with price_per_volume below 4.4, decided based on 01_EDA.ipynb"
