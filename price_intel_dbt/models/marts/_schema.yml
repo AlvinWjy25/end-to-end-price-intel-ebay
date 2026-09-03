@@ -19,6 +19,16 @@ models:
         description: "Boolean value indicating if the listing is a boxset or not"
       - name: is_special_edition
         description: "Boolean value indicating if the listing is a special edition"
+      - name: is_first_print
+        description: "Boolean value indicating if the listing is a first print"
+      - name: has_signature
+        description: "Boolean value indicating if the listing has author's signature such as: sign, signed, autograph, autographed, 直筆サイン"
+      - name: has_merch
+        description: "Boolean value indicating if the listing has merch such as: tapestry, standee, acrylic, figure, bonus"
+      - name: has_paper_extra
+        description: "Boolean value indicating if the listing has extra paper such as: obi, booklet, drama cd, clear file"
+      - name: total_bonus_count
+        description: "integer value summing all of special edition bonus quantity and volume with signature"
       - name: boxset_side_story_edition_included
         description: "Boolean value indicating if the listing is a boxset with side story edition included"
       - name: standalone_side_story_edition
@@ -31,8 +41,10 @@ models:
         description: "Volume number"
       - name: volume_number_end
         description: "Last volume number in a box-set"
-      - name: total_risk_score
-        description: "Total accumulated risk score from text and price anomalies"
+      - name: text_risk_score
+        description: "Accumulated risk score from text anomalies (older version)"
+      - name: text_risk_score_v2
+        description: "Updated text_risk_score for better classification (02_EDA.ipynb & 02_EDA_unsupervised.ipynb)"
       - name: risk_category
         description: "Risk level category: High Risk, Medium Risk, or Low Risk"
         tests:

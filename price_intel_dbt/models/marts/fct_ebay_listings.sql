@@ -14,7 +14,6 @@ select
     seller_location,
     is_boxset,
     is_special_edition,
-    -- is_bonus_added_by_third_party,
     is_first_print,
     total_bonus_count,
     has_signature,
