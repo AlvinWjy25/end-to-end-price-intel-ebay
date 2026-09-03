@@ -18,10 +18,9 @@ This project is built to classify if a light novel listing is an official light 
 |---|---|
 | Ingestion (eBay Browse API → Postgres) | ✅ Done |
 | dbt transformation layer (staging → intermediate → marts) | ✅ Done |
-| Price regression model (LightGBM) | ✅ Finalized! — Fold metric: R² 0.700 ± 0.069, MAE $13.005, SMAPE: 26.234% |
-| Official/bootleg classification model (Multi-Layer Perceptron) | ✅ Finalized! — Test metric: Accuracy: 98.9%, F1: 97.7%, Val -> Test F1 gap : -0.012, Val->Test AUC gap: -0.011 |
+| Price regression model [LightGBM] | ✅ Finalized! — Fold metric: R² 0.700 ± 0.069, MAE $13.005, SMAPE: 26.234% |
 | Confidence intervals (quantile regression) | 📋 Planned  |
-| Risk classification model (official vs. unofficial) | 📋 Planned |
+| Risk classification model (official vs. unofficial) [MLP] | ✅ Finalized! — Test metric: Accuracy: 98.9%, F1: 97.7%, Val -> Test F1 gap : -0.012, Val -> Test AUC gap: -0.011 |
 | API (FastAPI) | 📋 Planned |
 | Frontend | 📋 Planned |
 | Containerization (Docker/K8s) | 🚧 Docker in progress |
