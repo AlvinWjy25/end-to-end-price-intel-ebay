@@ -2,22 +2,25 @@ __pycache__/
 *.pyc 
 .venv/
 .venv*/
-.antigravity/
-.vscode/
 ~/price_intel_dbt/profiles.yml
 dbt_packages/
 target/
 .env
 
-# directory:
+#IDE config
+.antigravity/
+.vscode/
 
+# directory:
 #config
 config/.env
 config/__pycache__
 
 #logs
 logs/dbt_logs
-logs/pipeline_logs
+logs/pipeline_run
+logs/mlruns
+logs/mlflow.db
 
 #notebook
 notebook/temps
@@ -30,8 +33,8 @@ price_intel_dbt/profiles.yml
 
 #src
 src/__pycache__
-src/artifacts/preprocessed/classification/
-src/artifacts/preprocessed/regression/
+src/artifacts/models
+src/artifacts/preprocessed
 
 #parent dir
 .user.yml
