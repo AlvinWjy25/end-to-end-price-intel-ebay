@@ -257,7 +257,7 @@ if __name__ == "__main__":
         logger.info(f"[SUCCESS] Classification model saved to: {model_path}")
 
     def finalizing():
-        logger = setup_logger('classification', 'evaluate_run')
+        logger = setup_logger('classification', 'evaluation_run')
         file_to_delete_1 = Path(root_dir / 'src' / 'classification' / 'mlruns')
         file_to_delete_2 = Path(root_dir / 'src' / 'classification' / '__pycache__')
         
